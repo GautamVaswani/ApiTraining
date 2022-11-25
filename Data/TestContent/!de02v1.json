@@ -1,0 +1,336 @@
+{
+  "assessmentName": "Data Entry 2: Inventory",
+  "playerType": "DataEntry",
+  "modeType": "vendor-inventory-invoice",
+  "subType": "inventory",
+  "timeLimit": 5,
+  "instructions": "<span role=heading aria-level=3 >You are about to start the \"Data Entry\" test.  For this test, you will need to use the data sheet presented on the screen.</span> <br/><br/>While you may correct errors within a record, you will not receive credit for Backspace, Delete, and Arrow keystrokes. Press ENTER or TAB after typing in each field (to advance to the next field or the next record). You can use Shift-TAB to go back to the previous field. You can also use the mouse to go to any field; however, doing so will slow you down. <br/><br/>Continue data entry for the full test duration. Your score will be based on the time allowed for the test. <br/><br/>Unless otherwise instructed, you will be allowed five minutes to complete this test. The timer will begin with your first keystroke. You will notice a countdown timer on the Header of the screen showing the time remaining.",
+  "questions": [
+    [
+      "16983",
+      "MONITOR",
+      "15SF",
+      "15 INCH VGA COLOR MONITOR",
+      "42976",
+      "295.95"
+    ],
+    [
+      "23417",
+      "ACCESSORY ",
+      "STAR64",
+      "ANTI-STATIC GLARE FILTER",
+      "81050",
+      "215.95"
+    ],
+    [
+      "34708",
+      "ACCESSORY",
+      "PC93MD",
+      "LOGITECH 2-BUTTON MOUSE",
+      "49128",
+      "10.05"
+    ],
+    [
+      "40216",
+      "HARDDRIVE ",
+      "D6987",
+      "1.0 SCSI 10MS HARD DRIVE",
+      "34069",
+      "99.75"
+    ],
+    [
+      "37842",
+      "ACCESSORY ",
+      "Q0245",
+      "CD CLEANING KIT",
+      "21974",
+      "99.95"
+    ],
+    [
+      "58172",
+      "CDDRIVE",
+      "CD7812",
+      "TEAC CD-ROM DRIVE - INTERNAL",
+      "98613",
+      "45.95"
+    ],
+    [
+      "48753",
+      "SOUNDCARD",
+      "SD32",
+      "SOUNDBLASTER COMPATIBLE CARD",
+      "69183",
+      "79.95"
+    ],
+    [
+      "13121",
+      "INPUT",
+      "KB25",
+      "104 KEYBOARD FOR PC ",
+      "69183",
+      "59.95"
+    ],
+    [
+      "58175",
+      "MULTIMEDIA",
+      "MU402",
+      "MULTIMEDIA UPGRADE KIT",
+      "76826",
+      "189.95"
+    ],
+    [
+      "82712",
+      "OPTICAL",
+      "XD230",
+      "230MB FAST OPTICAL DRIVE",
+      "40629",
+      "525.95"
+    ],
+    [
+      "65928",
+      "PAPER",
+      "LXD1055",
+      "CONTINUOUS PRINTER PAPER",
+      "79123",
+      "399.95"
+    ],
+    [
+      "24518",
+      "PRINTER",
+      "B210",
+      "COLOR INKJET PRINTER",
+      "28019",
+      "215.95"
+    ],
+    [
+      "20829",
+      "ACCESSORY ",
+      "AB310",
+      "TRACKBALL COMBINATION",
+      "24271",
+      "39.95"
+    ],
+    [
+      "49237",
+      "SCANNER",
+      "SC60",
+      "24-BIT COLOR PAGE SCANNER",
+      "65017",
+      "375.95"
+    ],
+    [
+      "45125",
+      "SCANNER",
+      "SG8",
+      "256-GRAYSCALE HANDHELD SCANNER",
+      "69028",
+      "49.75"
+    ],
+    [
+      "24726",
+      "ACCESSORY ",
+      "R200",
+      "DISK CASE, HOLDS 100 DISKS",
+      "90123",
+      "79.95"
+    ],
+    [
+      "42121",
+      "PROJECTOR ",
+      "XP620",
+      "DESKTOP OVERHEAD PROJECTOR",
+      "50247",
+      "109.95"
+    ],
+    [
+      "53432",
+      "TAPEBACKUP",
+      "TD800",
+      "800 MB INTERNAL TAPE DRIVE",
+      "87027",
+      "125.95"
+    ],
+    [
+      "92030",
+      "ACCESSORY",
+      "D21",
+      "POWER CABLE LINE",
+      "13210",
+      "9.05"
+    ],
+    [
+      "96310",
+      "FLOPPY",
+      "FD320",
+      "1.4MB FLOPPY DISK DRIVE",
+      "15239",
+      "19.95"
+    ],
+    [
+      "15179",
+      "DISK",
+      "2S2D20",
+      "FORMATTED FLOPPY DISK 10-PACK",
+      "68518",
+      "4.95"
+    ],
+    [
+      "85015",
+      "ACCESSORY ",
+      "CD100",
+      "CD DRAWER 100, RED",
+      "23847",
+      "19.05"
+    ],
+    [
+      "73513",
+      "ACCESSORY",
+      "5000",
+      "COLOR CODED DISK CASE, HOLDS 5",
+      "40528",
+      "19.99"
+    ],
+    [
+      "90315",
+      "NETWORK",
+      "M670B",
+      "ETHERNET ADAPTER, 16-BIT 10B",
+      "59016",
+      "26.75"
+    ],
+    [
+      "56198",
+      "ACCESSORY",
+      "PR510",
+      "SURGE PROTECTOR",
+      "15298",
+      "14.55"
+    ],
+    [
+      "72147",
+      "ACCESSORY",
+      "DB-25",
+      "PARALLEL PRINTER CABLE",
+      "84927",
+      "2.99"
+    ],
+    [
+      "27245",
+      "ACCESSORY",
+      "PC06",
+      "120 MB QIC-80 CARTRIDGE",
+      "39583",
+      "13.15"
+    ],
+    [
+      "27123",
+      "PRINTER",
+      "HP5",
+      "LASER TONER CARTRIDGE",
+      "69121",
+      "57.45"
+    ],
+    [
+      "27526",
+      "ACCESSORY",
+      "PD650",
+      "ADJUSTABLE PRINTER STAND",
+      "27513",
+      "8.15"
+    ],
+    [
+      "35314",
+      "VIDEOCARD ",
+      "PLF15",
+      "64 BIT SUPER VGA CARD PCI VRAM 2MB ",
+      "87315",
+      "35.95"
+    ],
+    [
+      "14754",
+      "UPS",
+      "UPS1000",
+      "7MG UNINTERRUPTIBLE POWER SYSTEM",
+      "13279",
+      "71.95"
+    ],
+    [
+      "14634",
+      "ACCESSORY ",
+      "CC160",
+      "NOTEBOOK  CARRYING CASE",
+      "35926",
+      "45.55"
+    ],
+    [
+      "32325",
+      "ACCESSORY ",
+      "AK2505",
+      "724 DUST COVER",
+      "98613",
+      "13.99"
+    ],
+    [
+      "98732",
+      "PAPER",
+      "LP1185",
+      "HIGH GRADE LASER PRINTER PAPER",
+      "79193",
+      "28.95"
+    ],
+    [
+      "67152",
+      "PRINTER",
+      "1195",
+      "600 DPI LASER PRINTER",
+      "92610",
+      "20.75"
+    ],
+    [
+      "59521",
+      "ACCESSORY",
+      "NX101",
+      "GEL-FILLED ADJUSTABLE WRIST REST",
+      "59529",
+      "29.25"
+    ],
+    [
+      "31426",
+      "ACCESSORY",
+      "NX32068",
+      "KEYBOARD SWEEPER VACUUM",
+      "70121",
+      "25.45"
+    ],
+    [
+      "93247",
+      "DISK",
+      "NX619",
+      "CD LENS CLEANING KIT",
+      "81456",
+      "12.95"
+    ],
+    [
+      "92825",
+      "ACCESSORY",
+      "NX505",
+      "COMPUTER SERVICE TOOL KIT",
+      "41583",
+      "39.95"
+    ],
+    [
+      "56327",
+      "ACCESSORY",
+      "PM240",
+      "PC TO MODEM CABLE",
+      "94297",
+      "1.99"
+    ]
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

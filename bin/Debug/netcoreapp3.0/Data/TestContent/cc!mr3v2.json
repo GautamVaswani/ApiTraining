@@ -1,0 +1,153 @@
+{
+  "assessmentName": "Memory Recall Numeric (Audio)",
+  "playerType": "DataRecollection",
+  "modeType": "memory-recall-audio",
+  "templateType": "memory-recall-2",
+  "instructions": "<span role=heading aria-level=3 >Memory Recall - Numeric (Audio)</span><br><br>This section is a test of your ability to remember information, such as telephone numbers.In this section, you will hear a series of seven-digit telephone numbers.<br><br>For example, you may hear, \"327-8765\".  After you hear the telephone number, you should use the keyboard to type in the telephone number exactly as you heard it, in the space provided. Do not enter the dash (\"- \") symbol in the telephone number, as it is already present in the entry field.<br><br> Because this is a test of your memory, you may not write down any information during this section of the test or take any notes. You must recall this information only from memory. Writing down anything during this portion of the test will result in immediate failure for the entire test.<br><br>After you enter your response, follow the on screen instructions to hear the next telephone number. ",
+  "questions": [
+    {
+      "id": "1",
+      "audioID": "MR321"
+    },
+    {
+      "id": "2",
+      "audioID": "MR322"
+    },
+    {
+      "id": "3",
+      "audioID": "MR323"
+    },
+    {
+      "id": "4",
+      "audioID": "MR324"
+    },
+    {
+      "id": "5",
+      "audioID": "MR325"
+    },
+    {
+      "id": "6",
+      "audioID": "MR326"
+    },
+    {
+      "id": "7",
+      "audioID": "MR327"
+    },
+    {
+      "id": "8",
+      "audioID": "MR328"
+    },
+    {
+      "id": "9",
+      "audioID": "MR329"
+    },
+    {
+      "id": "10",
+      "audioID": "MR3210"
+    },
+    {
+      "id": "11",
+      "audioID": "MR3211"
+    },
+    {
+      "id": "12",
+      "audioID": "MR3212"
+    },
+    {
+      "id": "13",
+      "audioID": "MR3213"
+    },
+    {
+      "id": "14",
+      "audioID": "MR3214"
+    },
+    {
+      "id": "15",
+      "audioID": "MR3215"
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": [
+        {
+          "id": "MR321",
+          "url": "/content/audio-library/memory-recall/MR321.mp3"
+        },
+        {
+          "id": "MR322",
+          "url": "/content/audio-library/memory-recall/MR322.mp3"
+        },
+        {
+          "id": "MR323",
+          "url": "/content/audio-library/memory-recall/MR323.mp3"
+        },
+        {
+          "id": "MR324",
+          "url": "/content/audio-library/memory-recall/MR324.mp3"
+        },
+        {
+          "id": "MR325",
+          "url": "/content/audio-library/memory-recall/MR325.mp3"
+        },
+        {
+          "id": "MR326",
+          "url": "/content/audio-library/memory-recall/MR326.mp3"
+        },
+        {
+          "id": "MR327",
+          "url": "/content/audio-library/memory-recall/MR327.mp3"
+        },
+        {
+          "id": "MR328",
+          "url": "/content/audio-library/memory-recall/MR328.mp3"
+        },
+        {
+          "id": "MR329",
+          "url": "/content/audio-library/memory-recall/MR329.mp3"
+        },
+        {
+          "id": "MR3210",
+          "url": "/content/audio-library/memory-recall/MR3210.mp3"
+        },
+        {
+          "id": "MR3211",
+          "url": "/content/audio-library/memory-recall/MR3211.mp3"
+        },
+        {
+          "id": "MR3212",
+          "url": "/content/audio-library/memory-recall/MR3212.mp3"
+        },
+        {
+          "id": "MR3213",
+          "url": "/content/audio-library/memory-recall/MR3213.mp3"
+        },
+        {
+          "id": "MR3214",
+          "url": "/content/audio-library/memory-recall/MR3214.mp3"
+        },
+        {
+          "id": "MR3215",
+          "url": "/content/audio-library/memory-recall/MR3215.mp3"
+        }
+      ]
+    }
+  },
+  "captions": {
+    "MR321":"WEBVTT\n\n1\n00:00:00.150 --> 00:00:03.300\n7 4 3 9 6 5 2.",
+    "MR322":"WEBVTT\n\n1\n00:00:00.090 --> 00:00:03.150\n3 0 5 3 6 7 3.",
+    "MR323":"WEBVTT\n\n1\n00:00:00.120 --> 00:00:03.420\n6 3 2 7 5 6 0.",
+    "MR324":"WEBVTT\n\n1\n00:00:00.150 --> 00:00:03.140\n2 7 4 1 5 8 0.",
+    "MR325":"WEBVTT\n\n1\n00:00:00.120 --> 00:00:03.240\n4 7 1 9 6 8 3.",
+    "MR326":"WEBVTT\n\n1\n00:00:00.150 --> 00:00:03.270\n7 8 3 5 4 7 6.",
+    "MR327":"WEBVTT\n\n1\n00:00:00.120 --> 00:00:02.960\n5 9 3 1 6 8 7.",
+    "MR328":"WEBVTT\n\n1\n00:00:00.150 --> 00:00:02.940\n3 9 5 2 7 3 9.",
+    "MR329":"WEBVTT\n\n1\n00:00:00.210 --> 00:00:03.000\n9 7 4 6 5 8 2.",
+    "MR3210":"WEBVTT\n\n1\n00:00:00.180 --> 00:00:03.090\n7 2 9 3 8 7 6.",
+    "MR3211":"WEBVTT\n\n1\n00:00:00.090 --> 00:00:03.090\n4 2 6 8 9 0 7.",
+    "MR3212":"WEBVTT\n\n1\n00:00:00.090 --> 00:00:02.940\n5 8 7 3 0 4 3.",
+    "MR3213":"WEBVTT\n\n1\n00:00:00.120 --> 00:00:02.900\n6 4 0 3 1 7 5.",
+    "MR3214":"WEBVTT\n\n1\n00:00:00.120 --> 00:00:03.030\n8 9 7 5 8 3 6.",
+    "MR3215":"WEBVTT\n\n1\n00:00:00.180 --> 00:00:03.180\n9 7 5 6 4 1 2."
+  }
+}

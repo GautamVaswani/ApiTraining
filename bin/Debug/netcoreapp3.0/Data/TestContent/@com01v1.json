@@ -1,0 +1,1069 @@
+{
+  "assessmentName": "Computer Skills",
+  "playerType": "MCQ",
+  "lastModified": "06/09/2017",
+  "instruction": "<P role=heading aria-level=3>Computer Skills</P><P>This section of the test contains multiple-choice questions, which you must answer by using your computer mouse to select the correct response. Upon answering a question, you can go to the next question by clicking the Next button on the Menu bar.</P><P>During this section of the test, if you choose you may skip an item and then later return to that item.</P><P>When you are finished, select Submit from the Menu bar. Your Test Administrator may have set a time limit for this test section. If there is a time limit, you will be told how much time you have. If a time limit has been set for this section of the test, you will notice a countdown timer on the Header of the screen, showing the amount of time remaining to complete this section of the test.</P>",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "<P>Which of the following forms of portable storage media is plugged into an USB port?</P>",
+      "options": [
+        {
+          "text": "Compact disc"
+        },
+        {
+          "text": "Flash drive"
+        },
+        {
+          "text": "Floppy disc"
+        },
+        {
+          "text": "DVD"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "<P>Which of the following computer equipment is required for a computer to boot?</P>",
+      "options": [
+        {
+          "text": "A mouse"
+        },
+        {
+          "text": "A CPU"
+        },
+        {
+          "text": "A computer speaker"
+        },
+        {
+          "text": "A disc drive"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "<P>Which of the following hardware components is an input device?</P>",
+      "options": [
+        {
+          "text": "Disc drive"
+        },
+        {
+          "text": "Speakers"
+        },
+        {
+          "text": "Network adapter"
+        },
+        {
+          "text": "Mouse"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionText": "<img src='/content/image-library/mcq/examin/computer1/Computer1-4.png' alt='Computer V1 Window 4'><P>Which of the following computer connection ports does the cable in the displayed graphic connect to? </P>",
+      "options": [
+        {
+          "text": "Ethernet port"
+        },
+        {
+          "text": "Usb port"
+        },
+        {
+          "text": "Parallel port"
+        },
+        {
+          "text": "PS2 port"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionText": "<P>Which of the following computer components allows a computer to wirelessly connect to the internet?</P>",
+      "options": [
+        {
+          "text": "Motherboard"
+        },
+        {
+          "text": "Wi-Fi adapter"
+        },
+        {
+          "text": "Modem"
+        },
+        {
+          "text": "Bluetooth adapter"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionText": "<P>Which of the following files is likely exceed the storage capabilities of a 516MB flash drive?</P>",
+      "options": [
+        {
+          "text": "1 gigabyte file"
+        },
+        {
+          "text": "216 megabyte file"
+        },
+        {
+          "text": "3,000 byte file"
+        },
+        {
+          "text": "15,000 kilobyte file"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionText": "<P>Which of the following is the largest volume of information?</P>",
+      "options": [
+        {
+          "text": "2 Megabytes"
+        },
+        {
+          "text": "2 Terabytes"
+        },
+        {
+          "text": "2 Kilobytes"
+        },
+        {
+          "text": "2 Gigabytes"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionText": "<P>Which of the following methods will ensure that the computer is properly shut down and minimized the likelihood of corrupting the hard drive?</P>",
+      "options": [
+        {
+          "text": "Turn off the computer by placing it into sleep/hibernation mode."
+        },
+        {
+          "text": "Turn off the computer using the shutdown feature within the operating system."
+        },
+        {
+          "text": "Turn off the computer by holding down the power button."
+        },
+        {
+          "text": "Turn off the computer by unplugging it from the power source."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionText": "<P>Which of the following media storage formats stores information by using a laser to optically burn information onto the storage media?</P>",
+      "options": [
+        {
+          "text": "A floppy diskette"
+        },
+        {
+          "text": "A CD-R"
+        },
+        {
+          "text": "A flash drive"
+        },
+        {
+          "text": "A hard drive"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionText": "<P>Which of the following storage mediums can contain the most data?</P>",
+      "options": [
+        {
+          "text": "Floppy Diskette"
+        },
+        {
+          "text": "CD-R"
+        },
+        {
+          "text": "DVD"
+        },
+        {
+          "text": "16 gigabyte flash drive"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "questionText": "<P>Which of the following media will lose information once the computer is turned off?</P>",
+      "options": [
+        {
+          "text": "ROM"
+        },
+        {
+          "text": "RAM"
+        },
+        {
+          "text": "Flash"
+        },
+        {
+          "text": "Hard Drive"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "questionText": "<P>Which of the following monitor sizes and resolutions will display the most information?</P>",
+      "options": [
+        {
+          "text": "19\", 1920 × 1080"
+        },
+        {
+          "text": "21\", 1280 × 1024"
+        },
+        {
+          "text": "24\", 1152 × 864"
+        },
+        {
+          "text": "30\", 800 × 600"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "questionText": "<P>In most cases, what will occur when a file is clicked once with the left mouse button?</P>",
+      "options": [
+        {
+          "text": "The file is selected."
+        },
+        {
+          "text": "The file is opened."
+        },
+        {
+          "text": "The file is deleted."
+        },
+        {
+          "text": "The file is moved."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "questionText": "<P>In most cases, what will occur when a file is clicked twice in rapid succession with the left mouse button?</P>",
+      "options": [
+        {
+          "text": "The file is deleted."
+        },
+        {
+          "text": "The file is copied."
+        },
+        {
+          "text": "The file is opened."
+        },
+        {
+          "text": "The file is pasted."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "questionText": "<P>In most cases, what will occur when a file is clicked once with the right mouse button?</P>",
+      "options": [
+        {
+          "text": "The file is opened."
+        },
+        {
+          "text": "The file is deleted."
+        },
+        {
+          "text": "A menu related to the file is opened."
+        },
+        {
+          "text": "The file is sorted."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "questionText": "<P>In general, what will occur when a folder is deleted?</P>",
+      "options": [
+        {
+          "text": "The folder is permanently removed and becomes unrecoverable."
+        },
+        {
+          "text": "The folder is restored in the root directory."
+        },
+        {
+          "text": "The folder is moved to another area so it can be restored if necessary."
+        },
+        {
+          "text": "The folder is copied to another area and becomes unrecoverable."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "questionText": "<P>What occurs when you select, drag, and drop a file over to the Recycle Bin?</P>",
+      "options": [
+        {
+          "text": "The selected file is moved into the Recycle Bin."
+        },
+        {
+          "text": "The selected file is permanently deleted."
+        },
+        {
+          "text": "The selected file is copied to the clipboard."
+        },
+        {
+          "text": "The selected file is converted to a compressed file."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "questionText": "<P>Which of the following options best describes what is meant by \"double clicking\" the mouse?</P>",
+      "options": [
+        {
+          "text": "Two clicks in rapid succession, usually meant to open a file or start a program."
+        },
+        {
+          "text": "Two clicks in rapid succession, usually meant to delete a file."
+        },
+        {
+          "text": "Two clicks in rapid succession, usually meant to cut a file."
+        },
+        {
+          "text": "Two clicks in rapid succession, usually meant to copy a file or program."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "questionText": "<P>Which of the following outcomes best describes what happens when a file is copied and pasted?</P>",
+      "options": [
+        {
+          "text": "The file is deleted, sent to the recycle bin, and moved to a new computer."
+        },
+        {
+          "text": "The file is deleted and then recreated in a new place using memory fragments."
+        },
+        {
+          "text": "A copy of the file is placed in memory, and then placed in a new location in the hard drive."
+        },
+        {
+          "text": "The file is overwritten at a new location and deleted from the old location."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "questionText": "<img src='/content/image-library/mcq/examin/computer1/Computer1-20.png' alt='Computer V1 Window 20'><P>In the above example of a file window, left clicking and holding on File1.doc, moving it over the folder 'Documents', and letting go of the left mouse button would result in what files and/or folders remaining in the window?</P>",
+      "options": [
+        {
+          "text": "Documents, File2.doc, File1.doc"
+        },
+        {
+          "text": "File3.doc, File2.doc, Reference, Documents"
+        },
+        {
+          "text": "Reference, Documents, File2.doc"
+        },
+        {
+          "text": "Documents, File2.doc"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "questionText": "<img src='/content/image-library/mcq/examin/computer1/Computer1-21.png' alt='Computer V1 Window 21'> <P>In the above example, what would happen to the files shown if the folder 'Mike's Team' was deleted?",
+      "options": [
+        {
+          "text": "They would be deleted along with the folder 'Mike's Team'."
+        },
+        {
+          "text": "They would be moved into 'K:/User' folder."
+        },
+        {
+          "text": "The folders would remain, but the two .doc files would be deleted."
+        },
+        {
+          "text": "The .doc files would remain, but the two folders would be deleted."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "questionText": "<P>If you were looking for the newest file in a folder, what would be the most efficient way to sort that folder?",
+      "options": [
+        {
+          "text": "Sort by name"
+        },
+        {
+          "text": "Sort by date modified."
+        },
+        {
+          "text": "Sort by file type."
+        },
+        {
+          "text": "Sort by size."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "questionText": "<img src='/content/image-library/mcq/examin/computer1/Computer1-23.png' alt='Computer V1 Window 23 '><P>Which of the following actions would occur if you were to click on the \"x\" in the upper right corner of the 'Untitled - Notepad' window? </P>",
+      "options": [
+        {
+          "text": "The window named 'Untitled - Notepad' will be minimized."
+        },
+        {
+          "text": "The window named 'Untitled - Notepad' will be closed."
+        },
+        {
+          "text": "The window named 'Untitled - Notepad' will be maximized."
+        },
+        {
+          "text": "The window named 'Untitled - Notepad' will be placed behind the 'Word' window."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "questionText": "<P>What does the Disk Defragmenter utility do?</P>",
+      "options": [
+        {
+          "text": "Formats the hard drive."
+        },
+        {
+          "text": "Runs an anti-virus scan."
+        },
+        {
+          "text": "Creates a restore point to backup your computer."
+        },
+        {
+          "text": "Re-arranges files to optimize performance."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "questionText": "<P>What effect does formatting a hard drive have?</P>",
+      "options": [
+        {
+          "text": "Restores the system firmware."
+        },
+        {
+          "text": "Defragments the hard drive."
+        },
+        {
+          "text": "Deletes all files on the hard drive."
+        },
+        {
+          "text": "Rolls back the hardware drivers."
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "questionText": "<P>What is the primary purpose of spreadsheet software?</P>",
+      "options": [
+        {
+          "text": "To create interactive websites."
+        },
+        {
+          "text": "To organize numerical data."
+        },
+        {
+          "text": "To present information to audiences."
+        },
+        {
+          "text": "To create text documents."
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "questionText": "<P>Refer to the following figure: </P> <img src='/content/image-library/mcq/examin/computer1/Computer1-27.png' alt='Computer V1 Window '> <P> Given the position of the cursor, if you hit the DELETE key, which of the following will result?</P>",
+      "options": [
+        {
+          "text": "The glass fellown."
+        },
+        {
+          "text": "The glass felldown."
+        },
+        {
+          "text": "The glass fell down"
+        },
+        {
+          "text": "The glass feldown."
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "questionText": "<P>Refer to the following figure: </P> <img src='/content/image-library/mcq/examin/computer1/Computer1-28.png' alt='Computer V1 Window 28 '> <P> Given the position of the cursor, if you hit the BACKSPACE key, which of the following will result?</P>",
+      "options": [
+        {
+          "text": "There is aot of candy."
+        },
+        {
+          "text": "There is alot of candy."
+        },
+        {
+          "text": "There is a lot of candy."
+        },
+        {
+          "text": "There is lot of candy."
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "questionText": "<P>Refer to the following figure:</P> <img src='/content/image-library/mcq/examin/computer1/Computer1-29.png' alt='Computer V1 Window 29'> <P> The word \"two\" was format in:</P>",
+      "options": [
+        {
+          "text": "Superscript"
+        },
+        {
+          "text": "Italic"
+        },
+        {
+          "text": "Bold"
+        },
+        {
+          "text": "Subscript"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "questionText": "<P>Refer to the following figure: </P><img src='/content/image-library/mcq/examin/computer1/Computer1-30.png' alt='Computer V1 Window 30'> <P>What was the formatting used for the word \"like\"?</P>",
+      "options": [
+        {
+          "text": "Italic and strikethrough."
+        },
+        {
+          "text": "Bold and underline."
+        },
+        {
+          "text": "Bold and strikethrough."
+        },
+        {
+          "text": "Italic and underline."
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "questionText": "<P>What does spreadsheet software use to define the location of a piece of data or a formula?</P>",
+      "options": [
+        {
+          "text": "A cell address consisting of a row and a column."
+        },
+        {
+          "text": "A numerical code visible only to programmers."
+        },
+        {
+          "text": "A long string of letters and numbers only viewable at certain times."
+        },
+        {
+          "text": "An encrypted file stored in a database."
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "questionText": "<P>If you have created a new document and have not yet saved it to your hard disk, what will likely happen if the computer loses power?</P>",
+      "options": [
+        {
+          "text": "Nothing, because the document will remain in memory."
+        },
+        {
+          "text": "Nothing, because all documents are saved to a temporary file."
+        },
+        {
+          "text": "The document might be lost or damaged."
+        },
+        {
+          "text": "The documented will be printed for later retrieval."
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "questionText": "<P>Refer to the following figure: </P> <img src='/content/image-library/mcq/examin/computer1/Computer1-33.png' alt='Computer V1 Window 33'> <P> Given the position of the cursor, if you hit the CTRL-DELETE key combination, which of the following will result?</P>",
+      "options": [
+        {
+          "text": "Where are the bo oks?"
+        },
+        {
+          "text": "Where are the boks?"
+        },
+        {
+          "text": "Where are the oks?"
+        },
+        {
+          "text": "Where are the bo?"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "questionText": "<P>Refer to the following figure: </P><img src='/content/image-library/mcq/examin/computer1/Computer1-34.png' alt='Computer V1 Window 34'> <P> What is the value in cell C3?</P>",
+      "options": [
+        {
+          "text": "0"
+        },
+        {
+          "text": "2"
+        },
+        {
+          "text": "6"
+        },
+        {
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "questionText": "<P>Refer to the following figure: </P> <img src='/content/image-library/mcq/examin/computer1/Computer1-35.png' alt='Computer V1 Window 35'> <P> Which objects are selected?</P>",
+      "options": [
+        {
+          "text": "Apple & Orange"
+        },
+        {
+          "text": "Apple & Pear"
+        },
+        {
+          "text": "Pear & Orange"
+        },
+        {
+          "text": "Apple, Pear, and Orange"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "questionText": "<img src='/content/image-library/mcq/examin/computer1/Computer1-36.png' alt='Computer V1 Window 36'><P>To widen the box, while keeping the same height, which do you adjust? </P>",
+      "options": [
+        {
+          "text": "A"
+        },
+        {
+          "text": "B"
+        },
+        {
+          "text": "C"
+        },
+        {
+          "text": "D"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "questionText": "<img src='/content/image-library/mcq/examin/computer1/Computer1-37.png' alt='Computer V1 Window 37'><P>To increase height of the box, while keeping the same width, which do you adjust? </P>",
+      "options": [
+        {
+          "text": "A"
+        },
+        {
+          "text": "B"
+        },
+        {
+          "text": "C"
+        },
+        {
+          "text": "D"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "questionText": "<P>Imagine that you have been told to insert an image into one of your reports, but when you increase the size of the picture, it becomes blurry. What is the most likely reason why this might happen?</P>",
+      "options": [
+        {
+          "text": "The word processing software you are writing the report in has corrupted the image."
+        },
+        {
+          "text": "The image has become corrupted in transport."
+        },
+        {
+          "text": "The image was compressed in a .zip file and then unzipped."
+        },
+        {
+          "text": "The image was created or saved at a low quality/resolution."
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "questionText": "<img src='/content/image-library/mcq/examin/computer1/Computer1-39.png' alt='Computer V1 Window 39'><P>Assuming you have a data set similar to the above, what sort of chart would you use to most clearly and effectively display the change in revenue and expenses over time? </P>",
+      "options": [
+        {
+          "text": "scatter plot"
+        },
+        {
+          "text": "radar chart"
+        },
+        {
+          "text": "pie chart"
+        },
+        {
+          "text": "multiple line graph"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "questionText": "<P>Refer to the following figure: </P> <img src='/content/image-library/mcq/examin/computer1/Computer1-40.png' alt='Computer V1 Window 40'> <P>Given the formula in A3, what is the cell value for A3?</P>",
+      "options": [
+        {
+          "text": "3"
+        },
+        {
+          "text": "6"
+        },
+        {
+          "text": "7"
+        },
+        {
+          "text": "10"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "questionText": "<P>Refer to the following figure: </P> <img src='/content/image-library/mcq/examin/computer1/Computer1-41.png' alt='Computer V1 Window 41'> <P> What is the value for the formula =A3-B1?</P>",
+      "options": [
+        {
+          "text": "-15"
+        },
+        {
+          "text": "15"
+        },
+        {
+          "text": "1"
+        },
+        {
+          "text": "-1"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "questionText": "<P>Which of the following is an example of a valid web URL?</P>",
+      "options": [
+        {
+          "text": "bradley@momomo.com"
+        },
+        {
+          "text": "www.abcxyz.com"
+        },
+        {
+          "text": "monster.mash"
+        },
+        {
+          "text": "192.168.1.1"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "questionText": "<P>Which of the following security features reduces the number of unwanted emails in your inbox?</P>",
+      "options": [
+        {
+          "text": "Anti-virus software"
+        },
+        {
+          "text": "SPAM filter"
+        },
+        {
+          "text": "Malware software"
+        },
+        {
+          "text": "Firewall"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "questionText": "<P>Which of the following strategies is the most effective in protecting you from an intruder hacking all of your accounts?</P>",
+      "options": [
+        {
+          "text": "Use your last name and age as your password."
+        },
+        {
+          "text": "Create a text document with a list of all your passwords."
+        },
+        {
+          "text": "Create different usernames and passwords for your accounts."
+        },
+        {
+          "text": "Use the same username and password for all accounts."
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "questionText": "<P>An email was sent to you and multiple other recipients. What is the most effective method to respond only to the sender of the email?</P>",
+      "options": [
+        {
+          "text": "Use the reply function."
+        },
+        {
+          "text": "Use the CC function."
+        },
+        {
+          "text": "Use the BCC function."
+        },
+        {
+          "text": "Use the forward function."
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "questionText": "<P>You have received an email attachment of a file that is on the network. What will happen to the file on the network if you edit the attached file and save it back onto the network?</P>",
+      "options": [
+        {
+          "text": "The file is overwritten on the network."
+        },
+        {
+          "text": "The file remains unchanged on the network."
+        },
+        {
+          "text": "The file is copied and renamed on the network."
+        },
+        {
+          "text": "The file is saved on the network and also saved locally."
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "questionText": "<P>If a file is stored on the network drive rather than the stored on a local hard drive, which of the following is true?</P>",
+      "options": [
+        {
+          "text": "Only the network administrator can access the file."
+        },
+        {
+          "text": "The file has more security measures applied to it."
+        },
+        {
+          "text": "The file can only be accessed on your computer."
+        },
+        {
+          "text": "Anyone on the network can access the file."
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "questionText": "<P>Which of the following functions that are typically found in e-mail applications allows the user to insert a block of text that contains information about the sender?</P>",
+      "options": [
+        {
+          "text": "Signature"
+        },
+        {
+          "text": "Address book"
+        },
+        {
+          "text": "Attachments"
+        },
+        {
+          "text": "Drafts"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "questionText": "<P>Which of the following actions occurs when you forward an e-mail you have just received?</P>",
+      "options": [
+        {
+          "text": "A notification is sent to the original sender of the e-mail."
+        },
+        {
+          "text": "A copy of the e-mail is sent to a designated recipient."
+        },
+        {
+          "text": "A copy of the e-mail is saved locally on your hard drive."
+        },
+        {
+          "text": "A file is attached to the email you have just received."
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "questionText": "<P>Which of the following functions found in most e-mail applications is used to included files such as pictures, documents, or spreadsheets within an e-mail?</P>",
+      "options": [
+        {
+          "text": "Send"
+        },
+        {
+          "text": "Attach"
+        },
+        {
+          "text": "Reply"
+        },
+        {
+          "text": "Save as"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "questionText": "<P>Which of the following functions is used to copy a file on a local computer onto a FTP server?</P>",
+      "options": [
+        {
+          "text": "Copy-paste"
+        },
+        {
+          "text": "Attach"
+        },
+        {
+          "text": "Download"
+        },
+        {
+          "text": "Upload"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "questionText": "<P>Which of the following functions is used to retrieve a file from the FTP server and transfer it onto a local computer?</P>",
+      "options": [
+        {
+          "text": "Copy-paste"
+        },
+        {
+          "text": "Attach"
+        },
+        {
+          "text": "Download"
+        },
+        {
+          "text": "Upload"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "questionText": "<P>Which of the following statements about the CC and BCC fields in an e-mail is true?</P>",
+      "options": [
+        {
+          "text": "Everyone in the CC field receives the email before those in the BCC field."
+        },
+        {
+          "text": "Everyone in the CC field can be identified by recipients."
+        },
+        {
+          "text": "Everyone in the BCC field can be identified by recipients."
+        },
+        {
+          "text": "Everyone in the CC and BCC fields cannot reply to the email."
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "questionText": "<P>In the context of Internet usage, what is a \"bandwidth limit?\"</P>",
+      "options": [
+        {
+          "text": "A restriction on the range of websites you are able to visit."
+        },
+        {
+          "text": "A filter to prevent malicious software from infecting your computer."
+        },
+        {
+          "text": "A restriction on the amount of data that you are able to transmit or receive over a particular Internet connection."
+        },
+        {
+          "text": "A term used to define the upper limit of traffic possible using a particular technology."
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "questionText": "<P>When transmitting sensitive information on the Internet, how does https compare with http in regards to security?</P>",
+      "options": [
+        {
+          "text": "https is less secure"
+        },
+        {
+          "text": "https is more secure"
+        },
+        {
+          "text": "https is less than or equally secure"
+        },
+        {
+          "text": "https is more than or equally secure"
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [
+        {
+          "id": "Computer1-4",
+          "url": "/content/image-library/mcq/examin/computer1/Computer1-4.png"
+        },
+        {
+          "id": "Computer1-20",
+          "url": "/content/image-library/mcq/examin/computer1/Computer1-20.png"
+        },
+        {
+          "id": "Computer1-21",
+          "url": "/content/image-library/mcq/examin/computer1/Computer1-21.png"
+        },
+        {
+          "id": "Computer1-23",
+          "url": "/content/image-library/mcq/examin/computer1/Computer1-23.png"
+        },
+        {
+          "id": "Computer1-27",
+          "url": "/content/image-library/mcq/examin/computer1/Computer1-27.png"
+        },
+        {
+          "id": "Computer1-28",
+          "url": "/content/image-library/mcq/examin/computer1/Computer1-28.png"
+        },
+        {
+          "id": "Computer1-29",
+          "url": "/content/image-library/mcq/examin/computer1/Computer1-29.png"
+        },
+        {
+          "id": "Computer1-30",
+          "url": "/content/image-library/mcq/examin/computer1/Computer1-30.png"
+        },
+        {
+          "id": "Computer1-33",
+          "url": "/content/image-library/mcq/examin/computer1/Computer1-33.png"
+        },
+        {
+          "id": "Computer1-34",
+          "url": "/content/image-library/mcq/examin/computer1/Computer1-34.png"
+        },
+        {
+          "id": "Computer1-35",
+          "url": "/content/image-library/mcq/examin/computer1/Computer1-35.png"
+        },
+        {
+          "id": "Computer1-36",
+          "url": "/content/image-library/mcq/examin/computer1/Computer1-36.png"
+        },
+        {
+          "id": "Computer1-37",
+          "url": "/content/image-library/mcq/examin/computer1/Computer1-37.png"
+        },
+        {
+          "id": "Computer1-39",
+          "url": "/content/image-library/mcq/examin/computer1/Computer1-39.png"
+        },
+        {
+          "id": "Computer1-40",
+          "url": "/content/image-library/mcq/examin/computer1/Computer1-40.png"
+        },
+        {
+          "id": "Computer1-41",
+          "url": "/content/image-library/mcq/examin/computer1/Computer1-41.png"
+        }
+      ],
+      "audio": []
+    }
+  }
+}

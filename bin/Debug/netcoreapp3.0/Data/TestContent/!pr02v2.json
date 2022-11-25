@@ -1,0 +1,15 @@
+{
+  "assessmentName": "Proofreading 2",
+  "playerType": "KEYBOARDING",
+  "modeType": "proofreading",
+  "instructions": "<span role=heading aria-level=3 >You are about to start the \"Proofreading\" test. This test measures ability to detect and correct spelling and grammatical errors. You will need to correct errors in:</span><br/><br/>1. Abbreviation<br/>2. Capitalization<br/>3. Grammar<br/>4. Number usage<br/>5. Possessives<br/>6. Punctuation<br/>7. Spelling<br/><br/>Use Standard English rules.<br/><br/>DO NOT add words of your own or remove any existing words. However, you may edit or change text in order to correct errors. DO NOT make any document format changes. Change only those items that are incorrect. DO NOT revise the document to improve the wording.<br/><br/>When you have finished, select Submit from the header section. Your Test Administrator may have set a time limit for the test. If there is a time limit, you will be told how much time you have. You will also notice a countdown timer on the header section showing the time remaining.",
+  "questionData": {
+    "incorrectText": "The quarterly meeting of the Internationel industrail comission were held on tues. May 14 2009 in the marietta scott conference room. The meeting was call to order by chairman Jules Baker at 10 15 AM.  In adition to the 9 comission members persent, the following personell from the accounting firm that performed our awdit attended Mark Simms Anna Wang and Carmen Rodriguez.  Angela Mayotte assumed the positon of secretary in Martin Ross absense.\n\nThe 1st. item of bussiness was to give the members of the comission an oportunity to ask questons about the auditors recomendation to increase the allowance for bad debts by ten %. Bad debts this year totalled $69245 a figure wich was signifcantly higher then last year.  After the benifits of this proposed change was explained chairman Baker called for a vote on the Motion to increase the allowance by ten %.  7 comisioner's voted in favor of the motion 2 voted against it.\n\nThe 2nd. item of bussiness was to review the activites report concerning the instalation of a new Computer Network The project is on scheduel according to Project mgr. Hayes and our consultant suggested that we issue the contract for maintainence.  We will send one enployee to be trained on the system as soon as an apropriate Training Program is availabel in the Northern part of the State. The group asked if this person wood be require to train the other empoyees?  The groups decison was to request more infromation before taking action.\n\nThe 3rd. item of bussiness was a request for the aproval of a proposal to purchase 6 zamma laptop computers for managment to use when they work away from the ofice. Zamma was selected over the bentley laptop and otther laptops becuase it weighs only 7 lbs.  The cost quoted was $912 pur computer for a total cost of $6384.\n\nNo farther bussiness was discussed.  The meeting was ajourned at 12 15 PM."
+  },
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

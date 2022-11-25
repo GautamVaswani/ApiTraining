@@ -1,0 +1,325 @@
+{
+    "assessmentName": "Numeric Filing",
+    "playerType": "DataEntry",
+    "modeType": "numeric-filing",
+    "instructions": "<span role=heading aria-level=3 >For this test, enter the correct response for each question in the appropriate field. Use the mouse and click to move to the next and previous fields. Use the scroll bar to scroll the form up and down if necessary.</span> <br><br> When you are done, select Submit from the main menu. Your Test Administrator may have set a time limit for the test. If there is a time limit, you will be told how much time you have. You will also notice a countdown timer on the status bar showing the time remaining.",
+    "questionData": {
+        "questionMeta": "The numeric filing test is composed of two sections. Follow the instructions for each section and see the examples below:",
+        "part1": {
+            "questionText": "PART I: In this situation, you work in an office that uses a consecutive numeric filing system.  Each record has a five-digit record number. <br> Column 1 contains a record number.  Column 2 contains a list of numeric ranges.  Choose the numeric range that would include the record number found in Column 1.  Select the corresponding letter in Column 2. ",
+            "columnHeaders": [
+                "Column 1",
+                "Column 2"
+            ],
+            "optionText": [
+                "a.",
+                "b.",
+                "c.",
+                "d.",
+                "e."
+            ],
+            "example": {
+                "text": "Example:",
+                "question": {
+                    "id": 1,
+                    "col1": 22571,
+                    "col2": [
+                        "22602 - 22935",
+                        "22547 - 22601",
+                        "22319 - 22546",
+                        "23349 - 23774",
+                        "22936 - 23348"
+                    ],
+                    "col3": "b"
+                }
+            },
+            "questions": [{
+                    "id": "1",
+                    "col1": "57943",
+                    "col2": [
+                        "53447 - 54289",
+                        "57996 - 58112",
+                        "57881 - 57995",
+                        "55219 - 55498",
+                        "57429 - 57863"
+                    ]
+                },
+                {
+                    "id": "2",
+                    "col1": "8.9662",
+                    "col2": [
+                        "8.8902 - 8.8998",
+                        "8.9344 - 8.9570",
+                        "8.8759 - 8.8901",
+                        "8.9006 - 8.9343",
+                        "8.9571 - 9.0243"
+                    ]
+                },
+                {
+                    "id": "3",
+                    "col1": "1159",
+                    "col2": [
+                        "01802 - 01996",
+                        "00835 - 01237",
+                        "01997 - 02142",
+                        "01238 - 01801",
+                        "00791 - 00834"
+                    ]
+                },
+                {
+                    "id": "4",
+                    "col1": "33127",
+                    "col2": [
+                        "33132 - 33482",
+                        "32811 - 33028",
+                        "33699 - 34000",
+                        "33029 - 33131",
+                        "33483 - 33698"
+                    ]
+                },
+                {
+                    "id": "5",
+                    "col1": "72.964",
+                    "col2": [
+                        "72.992 - 73.882",
+                        "72.220 - 72.958",
+                        "72.959 - 72.991",
+                        "73.883 - 74.275",
+                        "72.004 - 72.219"
+                    ]
+                },
+                {
+                    "id": "6",
+                    "col1": "45669",
+                    "col2": [
+                        "44921 - 45671",
+                        "44833 - 44920",
+                        "45838 - 46011",
+                        "45672 - 45837",
+                        "46012 - 46510"
+                    ]
+                },
+                {
+                    "id": "7",
+                    "col1": "10784",
+                    "col2": [
+                        "10793 - 10841",
+                        "10622 - 10778",
+                        "10514 - 10621",
+                        "10842 - 11901",
+                        "10779 - 10792"
+                    ]
+                },
+                {
+                    "id": "8",
+                    "col1": "296.47",
+                    "col2": [
+                        "296.52 - 297.79",
+                        "290.32 - 295.98",
+                        "298.00 - 299.03",
+                        "295.99 - 296.51",
+                        "286.47 - 295.98"
+                    ]
+                },
+                {
+                    "id": "9",
+                    "col1": "68223",
+                    "col2": [
+                        "68320 - 68331",
+                        "68332 - 68823",
+                        "68139 - 68319",
+                        "67777 - 67846",
+                        "67847 - 68138"
+                    ]
+                },
+                {
+                    "id": "10",
+                    "col1": "94189",
+                    "col2": [
+                        "94190 - 94423",
+                        "93862 - 94098",
+                        "94424 - 94510",
+                        "94099 - 94189",
+                        "93607 - 93861"
+                    ]
+                }
+            ]
+        },
+        "part2": {
+            "questionText": "PART II: In this situation, you must check the work of others. <br> Column 1 contains a list of six-digit numeric records. In Column 2, indicate whether or not the list is indexed correctly, in consecutive numeric order, by placing <Y> for Yes or <N> for No in the blank.",
+            "columnHeaders": [
+                "Column 1",
+                "Column 2"
+            ],
+            "optionText": [
+                "Y.",
+                "N."
+            ],
+            "example": {
+                "text": "Example:",
+                "question": {
+                    "id": 1,
+                    "col1": [
+                        "442789",
+                        "443861",
+                        "443869",
+                        "443770",
+                        "443925"
+                    ],
+                    "col2": [
+                        "Yes",
+                        "No"
+                    ],
+                    "col3": "N"
+                }
+            },
+            "questions": [{
+                    "id": 1,
+                    "col1": [
+                        "9.65542",
+                        "9.65549",
+                        "9.66891",
+                        "9.92834",
+                        "9.92690"
+                    ],
+                    "col2": [
+                        "Yes",
+                        "No"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "col1": [
+                        "542131",
+                        "551111",
+                        "555111",
+                        "555511",
+                        "560111"
+                    ],
+                    "col2": [
+                        "Yes",
+                        "No"
+                    ]
+                },
+                {
+                    "id": 3,
+                    "col1": [
+                        "742190",
+                        "742910",
+                        "744190",
+                        "744901",
+                        "744910"
+                    ],
+                    "col2": [
+                        "Yes",
+                        "No"
+                    ]
+                },
+                {
+                    "id": 4,
+                    "col1": [
+                        ".201367",
+                        ".210367",
+                        ".210637",
+                        ".210376",
+                        ".210763"
+                    ],
+                    "col2": [
+                        "Yes",
+                        "No"
+                    ]
+                },
+                {
+                    "id": 5,
+                    "col1": [
+                        "100534",
+                        "106374",
+                        "109744",
+                        "019754",
+                        "190575"
+                    ],
+                    "col2": [
+                        "Yes",
+                        "No"
+                    ]
+                },
+                {
+                    "id": 6,
+                    "col1": [
+                        "835358",
+                        "838538",
+                        "853838",
+                        "858338",
+                        "883538"
+                    ],
+                    "col2": [
+                        "Yes",
+                        "No"
+                    ]
+                },
+                {
+                    "id": 7,
+                    "col1": [
+                        "669966",
+                        "669996",
+                        "696699",
+                        "699666",
+                        "699969"
+                    ],
+                    "col2": [
+                        "Yes",
+                        "No"
+                    ]
+                },
+                {
+                    "id": 8,
+                    "col1": [
+                        "427724",
+                        "427742",
+                        "442774",
+                        "447274",
+                        "472742"
+                    ],
+                    "col2": [
+                        "Yes",
+                        "No"
+                    ]
+                },
+                {
+                    "id": 9,
+                    "col1": [
+                        "3338.33",
+                        "3383.33",
+                        "3388.33",
+                        "3388.83",
+                        "3388.38"
+                    ],
+                    "col2": [
+                        "Yes",
+                        "No"
+                    ]
+                },
+                {
+                    "id": 10,
+                    "col1": [
+                        "296996",
+                        "299669",
+                        "299696",
+                        "299969",
+                        "299699"
+                    ],
+                    "col2": [
+                        "Yes",
+                        "No"
+                    ]
+                }
+            ]
+        }
+    },
+    "resources": {
+        "media": {
+            "images": [],
+            "audio": []
+        }
+    }
+}

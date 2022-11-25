@@ -1,0 +1,15 @@
+{
+  "assessmentName": "Proofreading 1",
+  "playerType": "KEYBOARDING",
+  "modeType": "proofreading",
+  "instructions": "<span role=heading aria-level=3 >You are about to start the \"Proofreading\" test. This test measures ability to detect and correct spelling and grammatical errors. You will need to correct errors in:</span><br/><br/>1. Abbreviation<br/>2. Capitalization<br/>3. Grammar<br/>4. Number usage<br/>5. Possessives<br/>6. Punctuation<br/>7. Spelling<br/><br/>Use Standard English rules.<br/><br/>DO NOT add words of your own or remove any existing words. However, you may edit or change text in order to correct errors. DO NOT make any document format changes. Change only those items that are incorrect. DO NOT revise the document to improve the wording.<br/><br/>When you have finished, select Submit from the header section. Your Test Administrator may have set a time limit for the test. If there is a time limit, you will be told how much time you have. You will also notice a countdown timer on the header section showing the time remaining.",
+  "questionData": {
+    "incorrectText": "Your check for your july 30th, 2009,  premiem for life and accident insurence was return to us by the First National bank of the south.  Since this check was return by your bank your premiem has not been payed and your Policy has automatically entered a grace period.  The payment section of your insurence contract specify that a grace period of 2 weeks be provided during which time your coverage remain in force.\n\nWhen your grace period expires your Life Insurence Coverage will lapse and the nonforfeiture options in your policy will applies. Your accident insuranceof course expires as well You can continue you're insurence coverage by sending us a payment of $256.05 within fifeteen days from the date of these letter.  Evidence of insurability will have to be provide before we can approve reinstatement if we do not hear from you by 5:00 pm on the 31 of Aug.\n\nYour insurance protection is necessry for financail security.  We urge you to consider this importent dicision careful.  Because you are a valued customer we want to be able to continue to provide life and accident insurence protection for you. Will you please respond immedately to this letter.  Hour custemer service reps. in the mid atlantic region will be happy to answer any questions you may have about this letter your Coverage or the services we offer.\n\nThis, may also be a good time for you to considering consulting with our representitives' to see if their is any other insurence option that may also benifit you. There are two options in paticular that may apeal to you 1) our Payment Reminder Plan, and 2, our Spousel Inclusion Program.  Both options apply to many of our genral life insurence policy's.  Over sixety-five percent of our Clients have elected to utilize the Pymt. Reminder Plan.  If either of these 2 plans are of intrest to you, please be sure to discus them with one of our mid atlantic Representitives."
+  },
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

@@ -1,0 +1,914 @@
+{
+  "assessmentName": "Word Use and Vocabulary",
+  "playerType": "MCQ",
+  "lastModified": "06/09/2017",
+  "instruction": "<p role=heading aria-level=3>Word Use and Vocabulary</p><p>This section of the test contains multiple-choice questions, which you must answer by using your computer mouse to select the correct response. Upon answering a question, you can go to the next question by clicking the Next button on the Menu bar.</p><p>During this section of the test, if you choose you may skip an item and then later return to that item.</p><p>When you are finished, select Submit from the Menu bar. Your Test Administrator may have set a time limit for this test section. If there is a time limit, you will be told how much time you have. If a time limit has been set for this section of the test, you will notice a countdown timer on the Header of the screen, showing the amount of time remaining to complete this section of the test.</p>",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "<p>Choose the option that will fill in the blanks with the correctly spelled words.</p> <p>While many people are highly _____________ of their chairs, our _________ indicate that some are willing to share.</p>",
+      "options": [
+        {
+          "text": "possessive, statistics"
+        },
+        {
+          "text": "possessed, statistics"
+        },
+        {
+          "text": "possessive, statistical"
+        },
+        {
+          "text": "possessed, statistical"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "<p>Choose the option that will fill in the blanks with the correctly spelled words.</p> <p>The ________________ in the ___________ district is unseasonably high this year.</p>",
+      "options": [
+        {
+          "text": "temperate, twelfth"
+        },
+        {
+          "text": "temperature, twelve"
+        },
+        {
+          "text": "temperate, twelve"
+        },
+        {
+          "text": "temperature, twelfth"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "<p>Choose the option that will fill in the blanks with the correctly spelled words.</p> <p>There are __________ four options for us to meet this __________ year.</p>",
+      "options": [
+        {
+          "text": "basically, calendar"
+        },
+        {
+          "text": "basically, calendared"
+        },
+        {
+          "text": "basic, calendar"
+        },
+        {
+          "text": "basic, calendared"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionText": "<p>Choose the option that will fill in the blanks with the correctly spelled words.</p> <p>The scientist's claims that ______________ lights caused headaches were ______________.</p>",
+      "options": [
+        {
+          "text": "fluorescent, believing"
+        },
+        {
+          "text": "fluorescence, believable"
+        },
+        {
+          "text": "fluorescence, believing"
+        },
+        {
+          "text": "fluorescent, believable"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionText": "<p>Choose the option that will fill in the blanks with the most appropriate words.</p> <p>I _________ fell out of my chair when I heard the news; I had to get ______ a bandage for the cut I got from the fall.</p>",
+      "options": [
+        {
+          "text": "figuratively, myself"
+        },
+        {
+          "text": "literally, myself"
+        },
+        {
+          "text": "literally, me"
+        },
+        {
+          "text": "figuratively, me"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionText": "<p>Choose the option that will fill in the blanks with the most appropriate words.</p><p> The ___________ to the top of the hill was more arduous due to weather conditions; it took an hour ___________ than usual to reach the destination.</p>",
+      "options": [
+        {
+          "text": "ascent, less"
+        },
+        {
+          "text": "ascent, more"
+        },
+        {
+          "text": "descent, less"
+        },
+        {
+          "text": "descent, more"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionText": "<p>Choose the option that will fill in the blanks with the most appropriate words.</p><p> The building's structure was ___________ ; it stayed _________ for over 1000 years.</p>",
+      "options": [
+        {
+          "text": "sturdy, upright"
+        },
+        {
+          "text": "sturdy, collapsed"
+        },
+        {
+          "text": "unstable, vertical"
+        },
+        {
+          "text": "unstable, straight"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionText": "<p>Choose the option that will fill in the blanks with the most appropriate words.</p> <p>Do not ___________ the warning signs; they are in place to ___________ your safety and life.</p>",
+      "options": [
+        {
+          "text": "acknowledge, protect"
+        },
+        {
+          "text": "acknowledge, preserve"
+        },
+        {
+          "text": "ignore, safeguard"
+        },
+        {
+          "text": "ignore, endanger"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionText": "<p>Choose the option that will fill in the blanks with the most appropriate words.</p><p>Clean drinking water is a basic _____________ that no person can ______________ without.</p>﻿",
+      "options": [
+        {
+          "text": "luxury, life"
+        },
+        {
+          "text": "luxury, live"
+        },
+        {
+          "text": "necessity, live"
+        },
+        {
+          "text": "necessity, life"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionText": "<p>Choose the option that will fill in the blanks with the most appropriate words.</p> <p>That Steve is ___________ and well loved for his charity work is a _________ point in this case.</p>",
+      "options": [
+        {
+          "text": "infamous, mute"
+        },
+        {
+          "text": "famous, mute"
+        },
+        {
+          "text": "famous, moot"
+        },
+        {
+          "text": "infamous, moot"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "questionText": "<p>Choose the option that will fill in the blank with the most appropriate words.</p> <p>It takes years to ____________ to ____________ the piano and perform complicated songs.</p>",
+      "options": [
+        {
+          "text": "learn, use"
+        },
+        {
+          "text": "learn, play"
+        },
+        {
+          "text": "know, use"
+        },
+        {
+          "text": "know, play"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "questionText": "<p>Choose the option that will fill in the blank with the most appropriate words.</p> <p>The detective ____________ who the criminal was by ____________ all the unnecesary evidence.</p>",
+      "options": [
+        {
+          "text": "decoded, cancelling"
+        },
+        {
+          "text": "decoded, eliminating"
+        },
+        {
+          "text": "deduced, cancelling"
+        },
+        {
+          "text": "deduced, eliminating"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "questionText": "<p>Choose the option that will fill in the blank with the most appropriate words.</p><p> If you don't ___________ the truth to ____________ an injury, I will report you to the proper authorities.</p>",
+      "options": [
+        {
+          "text": "admit, hoarding"
+        },
+        {
+          "text": "admit, feigning"
+        },
+        {
+          "text": "accept, faking"
+        },
+        {
+          "text": "accept, fabricating"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "questionText": "<p>Choose the option that will fill in the blank with the most appropriate words.</p><p> Please ___________ the chef on a the meal that was cooked to ___________.</p>",
+      "options": [
+        {
+          "text": "compliment, specifications"
+        },
+        {
+          "text": "compliment, perfection"
+        },
+        {
+          "text": "flatter, excellence"
+        },
+        {
+          "text": "flatter, standards"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "questionText": "<p>Choose the option that will fill in the blank with the most appropriate words.</p><p> The ___________ of our study is a _____________ author which has won many awards.</p>",
+      "options": [
+        {
+          "text": "object, noticeable"
+        },
+        {
+          "text": "object, notable"
+        },
+        {
+          "text": "subject, noticeable"
+        },
+        {
+          "text": "subject, notable"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "questionText": "<p>Choose the option that will fill in the blank with the most appropriate words.</p> <p>I do not mean to ___________ my authority, but I am the leading ____________ for this project.</p>",
+      "options": [
+        {
+          "text": "impose, research"
+        },
+        {
+          "text": "impose, researcher"
+        },
+        {
+          "text": "intrude, research"
+        },
+        {
+          "text": "intrude, researcher"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "questionText": "<p>Choose the option that will fill in the blank with the most appropriate words.</p><p> Go see the lead ____________ for the latest copy of the ____________ for the movie.</p>",
+      "options": [
+        {
+          "text": "director, scripts"
+        },
+        {
+          "text": "director, script"
+        },
+        {
+          "text": "directors, scripts"
+        },
+        {
+          "text": "directors, script"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "questionText": "<p>Choose the option that will fill in the blank with the most appropriate words.</p><p> _____________ is a ____________ that many people lack.</p>",
+      "options": [
+        {
+          "text": "Patience, virtue"
+        },
+        {
+          "text": "Patience, virtues"
+        },
+        {
+          "text": "Patiences, virtue"
+        },
+        {
+          "text": "Patiences, virtues"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "questionText": "<p>Choose the option that will fill in the blank with the most appropriate words.</p> <p>One more ____________ and we will have a _____________ with each other.</p>",
+      "options": [
+        {
+          "text": "altercation, problem"
+        },
+        {
+          "text": "altercation, problems"
+        },
+        {
+          "text": "altercations, problem"
+        },
+        {
+          "text": "altercations, problems"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "questionText": "<p>Choose the option that will fill in the blank with the most appropriate words.</p> <p>The ____________ of the CEO at the last _____________ indicates that it was an important one.</p>",
+      "options": [
+        {
+          "text": "presence, meetings"
+        },
+        {
+          "text": "presence, meeting"
+        },
+        {
+          "text": "presences, meetings"
+        },
+        {
+          "text": "presences, meeting"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "questionText": "<p>Choose the option that will fill in the blanks with the correctly spelled words.</p><p> There are over 30 _____________ of _____________ that live in the United States.</p>",
+      "options": [
+        {
+          "text": "type, spider"
+        },
+        {
+          "text": "type, spiders"
+        },
+        {
+          "text": "types, spiders"
+        },
+        {
+          "text": "types, spider"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "questionText": "<p>Choose the option that will fill in the blanks with the most appropriate words.</p> <p>The ____________ of Management has many _____________ opportunities for growth.</p>",
+      "options": [
+        {
+          "text": "Bureaus, fascinating"
+        },
+        {
+          "text": "Bureaus, fascinate"
+        },
+        {
+          "text": "Bureau, fascinate"
+        },
+        {
+          "text": "Bureau, fascinating"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "questionText": "<p>Choose the option that will fill in the blanks with the most appropriate words.</p> <p>Failure to find greater ____________ in the program may result in the ___________ of your severance package.</p>",
+      "options": [
+        {
+          "text": "efficient, forfeiture"
+        },
+        {
+          "text": "efficiencies, forfeiture"
+        },
+        {
+          "text": "efficiencies, forfeited"
+        },
+        {
+          "text": "efficient, forfeited"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "questionText": "<p>Choose the option that will fill in the blanks with the most appropriate words.</p> <p>There are currently two _____________ in our backyard who are _____________ from our fish pond.</p>",
+      "options": [
+        {
+          "text": "ducks, eating"
+        },
+        {
+          "text": "ducks, eat"
+        },
+        {
+          "text": "duck, eating"
+        },
+        {
+          "text": "duck, eat"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "questionText": "<p>Choose the option that will fill in the blanks with the most appropriate words.</p> <p>Business _____________ should be kept _____________ and secure in a file cabinet.</p>",
+      "options": [
+        {
+          "text": "document, lock"
+        },
+        {
+          "text": "document, locked"
+        },
+        {
+          "text": "documents, lock"
+        },
+        {
+          "text": "documents, locked"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "questionText": "<p>Choose the option that will fill in the blanks with the most appropriate words.</p> <p>It is nice to do a fun _____________ such as playing _____________ or a sport.</p>",
+      "options": [
+        {
+          "text": "activity, videogame"
+        },
+        {
+          "text": "activity, videogames"
+        },
+        {
+          "text": "activities, videogame"
+        },
+        {
+          "text": "activities, videogames"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "questionText": "<p>Choose the option that will fill in the blanks with the correctly spelled words.</p> <p>We'd like to ____________ you Mr.</p> Meyers, but all of the rooms that are left have a __________ odor.</p>",
+      "options": [
+        {
+          "text": "accommodate, noticeably"
+        },
+        {
+          "text": "accommodated, noticeable"
+        },
+        {
+          "text": "accommodate, noticeable"
+        },
+        {
+          "text": "accommodated, noticeably"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "questionText": "<p>Choose the option that will fill in the blanks with the correctly spelled words.</p> <p>Allow me to __________ a car for you to rent; it would be a __________.</p>",
+      "options": [
+        {
+          "text": "recommend, privileged"
+        },
+        {
+          "text": "recommend, privilege"
+        },
+        {
+          "text": "recommending, privileged"
+        },
+        {
+          "text": "recommending, privilege"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "questionText": "<p>Choose the option that will fill in the blanks with the correctly spelled words.</p> <p>My supervisor has asked me to ____________ a new copier, but my ____________ regarding electronics is not very good.</p>",
+      "options": [
+        {
+          "text": "acquired, judgment"
+        },
+        {
+          "text": "acquired, judgments"
+        },
+        {
+          "text": "acquire, judgments"
+        },
+        {
+          "text": "acquire, judgment"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "questionText": "<p>Choose the option that will fill in the blanks with the correctly spelled words.</p> <p>It says here that I ___________ one ____________ for the purchase on the 19th of last month.</p>",
+      "options": [
+        {
+          "text": "received, receipts"
+        },
+        {
+          "text": "received, receipt"
+        },
+        {
+          "text": "receive, receipts"
+        },
+        {
+          "text": "receive, receipt"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "questionText": "<p>Choose the option that will fill in the blank with the correctly spelled words.</p> <p>When __________ falls, the ___________ becomes dangerous to swim in.</p>",
+      "options": [
+        {
+          "text": "knight, sea"
+        },
+        {
+          "text": "knight, see"
+        },
+        {
+          "text": "night, sea"
+        },
+        {
+          "text": "night, see"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "questionText": "<p>Choose the option that will fill in the blank with the correctly spelled words.</p> <p>Let the ___________ handle this task; ___________ are few people who can do it properly.</p>",
+      "options": [
+        {
+          "text": "pros, there"
+        },
+        {
+          "text": "pros, their"
+        },
+        {
+          "text": "prose, there"
+        },
+        {
+          "text": "prose, their"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "questionText": "<p>Choose the option that will fill in the blank with the correctly spelled words.</p> <p>The boxer was ___________ left and right trying to ____________ his opponent's punches.</p>",
+      "options": [
+        {
+          "text": "feinting, duct"
+        },
+        {
+          "text": "feinting, duck"
+        },
+        {
+          "text": "fainting, duct"
+        },
+        {
+          "text": "fainting, duck"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "questionText": "<p>Choose the option that will fill in the blank with the correctly spelled words.</p> <p>The father walked his __________ down to the ___________ on his wedding day.</p>",
+      "options": [
+        {
+          "text": "sun, altar"
+        },
+        {
+          "text": "sun, alter"
+        },
+        {
+          "text": "son, altar"
+        },
+        {
+          "text": "son, alter"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "questionText": "<p>Choose the option that will fill in the blank with the correctly spelled words.</p> <p>Solar ___________ that occur in space _____________ affect electronics on Earth.</p>",
+      "options": [
+        {
+          "text": "flairs, mite"
+        },
+        {
+          "text": "flairs, might"
+        },
+        {
+          "text": "flares, mite"
+        },
+        {
+          "text": "flares, might"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "questionText": "<p>Choose the option that will fill in the blank with the correctly spelled words.</p> <p>You must _____________ the taste of this bread made from organic ____________.</p>",
+      "options": [
+        {
+          "text": "saver, flower"
+        },
+        {
+          "text": "saver, flour"
+        },
+        {
+          "text": "savour, flower"
+        },
+        {
+          "text": "savour, flour"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "questionText": "<p>Choose the option that will fill in the blank with the correctly spelled words.</p> <p>The movie was so sentimental that we ___________ until there were no more _________ left to cry.</p>",
+      "options": [
+        {
+          "text": "bawled, tiers"
+        },
+        {
+          "text": "bawled, tears"
+        },
+        {
+          "text": "bald, tiers"
+        },
+        {
+          "text": "bald, tears"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "questionText": "<p>Choose the option that will fill in the blank with the correctly spelled words.</p> <p>Beyond this locked ___________ is where champion race dogs are ___________.</p>",
+      "options": [
+        {
+          "text": "gate, bread"
+        },
+        {
+          "text": "gate, bred"
+        },
+        {
+          "text": "gait, bread"
+        },
+        {
+          "text": "gait, bred"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "questionText": "<p>Choose the option that will fill in the blank with the correctly spelled words.</p> <p>The jeweler was trying to __________ a ___________ ring for the same price as a diamond ring.</p>",
+      "options": [
+        {
+          "text": "sell, quartz"
+        },
+        {
+          "text": "sell, quarts"
+        },
+        {
+          "text": "cell, quartz"
+        },
+        {
+          "text": "cell, quarts"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "questionText": "<p>Choose the option that will fill in the blank with the correctly spelled words.</p> <p>Let's __________ the gifts up, starting with the toy ___________.</p>",
+      "options": [
+        {
+          "text": "wrap, plane"
+        },
+        {
+          "text": "wrap, plain"
+        },
+        {
+          "text": "rap, plane"
+        },
+        {
+          "text": "rap, plain"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "questionText": "<p>Choose the option that will fill in the blanks with the correctly spelled words.</p> <p>Ben has to ______________ this shipment of ___________ to the pier.</p>",
+      "options": [
+        {
+          "text": "hall, steel"
+        },
+        {
+          "text": "haul, steel"
+        },
+        {
+          "text": "hall, steal"
+        },
+        {
+          "text": "haul, steal"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "questionText": "<p>Choose the option that will fill in the blanks with the correctly spelled words.</p> <p>The rules of the __________ require that truckers allow faster traffic to pass even if they ________ prefer otherwise.</p>",
+      "options": [
+        {
+          "text": "rowed, wood"
+        },
+        {
+          "text": "road, would"
+        },
+        {
+          "text": "rowed, would"
+        },
+        {
+          "text": "road, wood"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "questionText": "<p>Choose the option that will fill in the blanks with the correctly spelled words.</p> <p>A ___________ of students __________ to me yesterday to ask about the assignment.</p>",
+      "options": [
+        {
+          "text": "pair, rote"
+        },
+        {
+          "text": "pare, rote"
+        },
+        {
+          "text": "pair, wrote"
+        },
+        {
+          "text": "pare, wrote"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "questionText": "<p>Choose the option that will fill in the blanks with the correctly spelled words.</p> <p>Do you plan to _______ what you have ________ in the past?",
+      "options": [
+        {
+          "text": "ware, warn"
+        },
+        {
+          "text": "wear, warn"
+        },
+        {
+          "text": "wear, worn"
+        },
+        {
+          "text": "ware, worn"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "questionText": "<p>Choose the option that will fill in the blanks with the correctly spelled words.</p> <p>Our city is ____________ for some rain, but there are ________ it will be coming soon.</p>",
+      "options": [
+        {
+          "text": "overdue, signs"
+        },
+        {
+          "text": "overdo, signs"
+        },
+        {
+          "text": "overdue, sines"
+        },
+        {
+          "text": "overdo, sines"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "questionText": "<p>Choose the option that will fill in the blanks with the correctly spelled words.</p> <p>The committee ___________ the report on Thursday, but they believe your business can ___________ much more than the stated amount.</p>",
+      "options": [
+        {
+          "text": "discussed, urn"
+        },
+        {
+          "text": "disgust, earn"
+        },
+        {
+          "text": "discussed, earn"
+        },
+        {
+          "text": "disgust, urn"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "questionText": "<p>Choose the option that will fill in the blanks with the correctly spelled words.</p> <p>While speakers are __________ to make an ___________ to the text, it is not encouraged.</p>",
+      "options": [
+        {
+          "text": "aloud, allusion"
+        },
+        {
+          "text": "allowed, illusion"
+        },
+        {
+          "text": "aloud, illusion"
+        },
+        {
+          "text": "allowed, allusion"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "questionText": "<p>Choose the option that will fill in the blanks with the correctly spelled words. </p> <p>Everyone was impressed by his rapid __________ through the ranks, despite the workload he had to ______________.</p>",
+      "options": [
+        {
+          "text": "assent, bear"
+        },
+        {
+          "text": "ascent, bear"
+        },
+        {
+          "text": "assent, bare"
+        },
+        {
+          "text": "ascent, bare"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "questionText": "<p>Choose the option that will fill in the blanks with the correctly spelled words.</p><p> Our ___________ concern is that we discuss the ________ of several great rulers throughout history.</p>",
+      "options": [
+        {
+          "text": "principle, reins"
+        },
+        {
+          "text": "principal, reins"
+        },
+        {
+          "text": "principle, reigns"
+        },
+        {
+          "text": "principal, reigns"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "questionText": "<p>Choose the option that will fill in the blanks with the correctly spelled words.</p><p> Energy ________________ is a worthy goal, but is it ______________?</p>",
+      "options": [
+        {
+          "text": "independence, necessity"
+        },
+        {
+          "text": "independents, necessary"
+        },
+        {
+          "text": "independence, necessary"
+        },
+        {
+          "text": "independents, necessity"
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

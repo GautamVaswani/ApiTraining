@@ -1,0 +1,375 @@
+{
+    "assessmentName": "Applying Policies",
+    "playerType": "DataEntry",
+    "modeType": "applying-policies",
+    "instructions": "APPLYING POLICIES TEST <br/><br/> You are about to start the \"Applying Policies\" test.  For this test, you will need to listen to information that is provided to you through the headset you have been provided.  Make sure you have your headset on now and can hear these instructions. <br/><br/>During this test you will be shown a company’s policy and procedures regarding callers’ issues.  After reading the policy, you should click on the \"Listen to Caller\" button to hear the telephone call.  After the call is completed, you will be presented with a statement regarding the call.  You will then need to choose whether the statement is \"true\", \"false\", or you \"need more information from the caller to make this determination. <br/><br/>You will be able to read the policy before the call starts.  When you feel you are ready to hear the call please click the button \"Listen to Caller\".  Once you have played the call you may not repeat it. <br/><br/>After you have finished the question, click the \"Submit Answer\" button that will appear at the bottom of the page to listen to the next call. <br/><br/> You do not need to enter any customer information during this test.  You are only required to evaluate whether a company’s policy applies to each caller’s issue. <br/><br/>Good luck!",
+    "testID": "c4!poly01",
+    "testVersion": "1",
+    "practiceTestID": "c4!poly01",
+    "practiceTestVersion": "",
+    "questions": [{
+        "id": "1",
+        "policy": "Customers who switch to the electronic billing system may continue to receive billing statements in the mail for up to 60 days following receipt of the change of address. Customers should be directed to the Billing Department in the event that statements are received beyond this period.",
+        "audioId": "Item19",
+        "questionText": "This customer should be directed to the Billing Department.",
+        "options": [{
+            "text": "True (the necessary information has been provided by the caller)"
+        },
+        {
+            "text": "False (even with more information the statement will still be false)"
+        },
+        {
+            "text": "Need more information from the customer to determine whether true or false"
+        }],
+        "correctOption": "A"
+    },
+    {
+        "id": "2",
+        "policy": "Customers looking to verify, renew, or modify the status of their current license should be directed to the Sales Department where agents are trained to handle these issues. All other inquires should be directed to Tech Support.",
+        "audioId": "Item20",
+        "questionText": "This customer should be directed to the Sales Department.",
+        "options": [{
+            "text": "True (the necessary information has been provided by the caller)"
+        },
+        {
+            "text": "False (even with more information the statement will still be false)"
+        },
+        {
+            "text": "Need more information from the customer to determine whether true or false"
+        }],
+        "correctOption": "A"
+    },
+    {
+        "id": "3",
+        "policy": "Customer billing inquiries regarding late fees can be disputed with a customer service representative if addressed within 10 days of receipt. Disputes exceeding 10 days must be presented in writing including the customer's name, phone number, reference number, and reason for the dispute.",
+        "audioId": "Item21",
+        "questionText": "The customer should dispute this issue through written complaint.",
+        "options": [{
+            "text": "True (the necessary information has been provided by the caller)"
+        },
+        {
+            "text": "False (even with more information the statement will still be false)"
+        },
+        {
+            "text": "Need more information from the customer to determine whether true or false"
+        }],
+        "correctOption": "B"
+    },
+    {
+        "id": "4",
+        "policy": "Customer claims of fraudulent transactions should be directed immediately to the Investigations Department when the discrepancy is identified within 30 days of the billing statement date. Customers whose claims extend beyond 30 days of the billing statement date must provide their e-mail address and telephone number in order to be reached once their claim has been investigated.",
+        "audioId": "Item22",
+        "questionText": "The customer should be directed to the Investigations Department.",
+        "options": [{
+            "text": "True (the necessary information has been provided by the caller)"
+        },
+        {
+            "text": "False (even with more information the statement will still be false)"
+        },
+        {
+            "text": "Need more information from the customer to determine whether true or false"
+        }],
+        "correctOption": "B"
+    },
+    {
+        "id": "5",
+        "policy": "Customers wishing to register products have up to one year from the date of purchase before the product's warranty becomes void. Registration should always be completed through the company's website unless the customer does not possess internet access. In this instance, the customer should seek assistance from a company representative.",
+        "audioId": "Item23",
+        "questionText": "As a company representative, you should register this model for the customer.",
+        "options": [{
+            "text": "True (the necessary information has been provided by the caller)"
+        },
+        {
+            "text": "False (even with more information the statement will still be false)"
+        },
+        {
+            "text": "Need more information from the customer to determine whether true or false"
+        }],
+        "correctOption": "B"
+    },
+    {
+        "id": "6",
+        "policy": "All customer billing inquiries should be documented and provided to the Billing Department for review and recommendation. Claims involving financial inconsistencies require that customers are contacted directly by a customer service representative. All other claims related to the billing process should receive response by e-mail.",
+        "audioId": "Item24",
+        "questionText": "This customer should be contacted by a customer service representative.",
+        "options": [{
+            "text": "True (the necessary information has been provided by the caller)"
+        },
+        {
+            "text": "False (even with more information the statement will still be false)"
+        },
+        {
+            "text": "Need more information from the customer to determine whether true or false"
+        }],
+        "correctOption": "A"
+    },
+    {
+        "id": "7",
+        "policy": "Customers experiencing problems downloading files should first check the Frequently Asked Questions (FAQ) section of the company website at (www.ourcompany.com/faq) which contains numerous troubleshooting options for solving these problems.  Downloading issues which cannot be solved using the information from the company website should next be directed to tech support.  They can determine whether or not the issue is with the customer's computer.",
+        "audioId": "Item25",
+        "questionText": "This customer should be directed to Tech Support for assistance.",
+        "options": [{
+            "text": "True (the necessary information has been provided by the caller)"
+        },
+        {
+            "text": "False (even with more information the statement will still be false)"
+        },
+        {
+            "text": "Need more information from the customer to determine whether true or false"
+        }],
+        "correctOption": "B"
+    },
+    {
+        "id": "8",
+        "policy": "Customers calling to dispute late fees should only be directed to the Billing Department for account review if they are first time offenders. Customers claiming to have more than one payment infraction should be informed that the fee cannot be waived.",
+        "audioId": "Item26",
+        "questionText": "This customer should be directed to the Billing Department.",
+        "options": [{
+            "text": "True (the necessary information has been provided by the caller)"
+        },
+        {
+            "text": "False (even with more information the statement will still be false)"
+        },
+        {
+            "text": "Need more information from the customer to determine whether true or false"
+        }],
+        "correctOption": "C"
+    },
+    {
+        "id": "9",
+        "policy": "General questions regarding company information, systems, or policies should be answered by the call taker. Issues relating to late fees should be directed to the Billing Department, while all other questions involving additional fees should be directed to a financing agent.",
+        "audioId": "Item27",
+        "questionText": "This caller should be directed to the billing department.",
+        "options": [{
+            "text": "True (the necessary information has been provided by the caller)"
+        },
+        {
+            "text": "False (even with more information the statement will still be false)"
+        },
+        {
+            "text": "Need more information from the customer to determine whether true or false"
+        }],
+        "correctOption": "A"
+    },
+    {
+        "id": "10",
+        "policy": "Customer refunds can take up to 30 days depending on the type of purchase that was made. Customers returning products that remain unopened in their original packaging will be refunded no later than 10 days from the day the package was received. Customers failing to receive refunds by the indicated timeframes should be directed to the Returns Department.",
+        "audioId": "Item28",
+        "questionText": "This customer should be directed to the Returns Department.",
+        "options": [{
+            "text": "True (the necessary information has been provided by the caller)"
+        },
+        {
+            "text": "False (even with more information the statement will still be false)"
+        },
+        {
+            "text": "Need more information from the customer to determine whether true or false"
+        }],
+        "correctOption": "B"
+    },
+    {
+        "id": "11",
+        "policy": "Customers with accounts less than 12 months old can sign up for the Protection Plus program without paying a start-up fee.  All other customers must pay the mandatory \"start-up\" fee of $50.00 to enroll. To complete this process, customers must also provide their personal information consisting of Name and E-mail address.",
+        "audioId": "Item29",
+        "questionText": "This customer can be enrolled in the Protection Plus program without paying a start-up fee.",
+        "options": [{
+            "text": "True (the necessary information has been provided by the caller)"
+        },
+        {
+            "text": "False (even with more information the statement will still be false)"
+        },
+        {
+            "text": "Need more information from the customer to determine whether true or false"
+        }],
+        "correctOption": "C"
+    },
+    {
+        "id": "12",
+        "policy": "Customers must allow two days for on-line transactions to be posted to our system.  Late fees may be contested if records indicate that the customer made the required payment within the appropriate timeframe.  If a late fee was applied to the account in error, it may be removed immediately.",
+        "audioId": "Item30",
+        "questionText": "Assuming this customer is charged a late fee, you will be able to remove this fee.",
+        "options": [{
+            "text": "True (the necessary information has been provided by the caller)"
+        },
+        {
+            "text": "False (even with more information the statement will still be false)"
+        },
+        {
+            "text": "Need more information from the customer to determine whether true or false"
+        }],
+        "correctOption": "A"
+    },
+    {
+        "id": "13",
+        "policy": "Customers who are using the paper billing statement system automatically receive mailers from us for the first twelve months.  Customers who use the electronic billing statement system do not receive email advertisements from us.  When a customer wishes to sign up for the electronic billing system they should be directed to the billing department.",
+        "audioId": "Item31",
+        "questionText": "This customer should be receiving email advertisements from our company.",
+        "options": [{
+            "text": "True (the necessary information has been provided by the caller)"
+        },
+        {
+            "text": "False (even with more information the statement will still be false)"
+        },
+        {
+            "text": "Need more information from the customer to determine whether true or false"
+        }],
+        "correctOption": "B"
+    },
+    {
+        "id": "14",
+        "policy": "Customer feedback must be recorded in the customer feedback database for each type of complaint or compliment.  Customers who provide negative feedback may be offered discounts on future purchases of our products.  Long time customers should be told about future products and upcoming releases.",
+        "audioId": "Item32",
+        "questionText": "This customer should be told about future product releases.",
+        "options": [{
+            "text": "True (the necessary information has been provided by the caller)"
+        },
+        {
+            "text": "False (even with more information the statement will still be false)"
+        },
+        {
+            "text": "Need more information from the customer to determine whether true or false"
+        }],
+        "correctOption": "C"
+    },
+    {
+        "id": "15",
+        "policy": "The sale of any product requires that the customer provide their name, contact information (e.g. phone or e-mail), and mailing address. Products sold for commercial use also require the company name and company mailing address before a transaction is completed. This is due to licensing fees associated with the product.",
+        "audioId": "Item33",
+        "questionText": "This sale can be completed by the call taker.",
+        "options": [{
+            "text": "True (the necessary information has been provided by the caller)"
+        },
+        {
+            "text": "False (even with more information the statement will still be false)"
+        },
+        {
+            "text": "Need more information from the customer to determine whether true or false"
+        }],
+        "correctOption": "A"
+    },
+    {
+        "id": "16",
+        "policy": "Customers wishing to register products have up to one year from the date of purchase before the product's warranty becomes void. Registration should always be completed using the product registration form included with the product at the time of purchase. If customers misplace the form, they may be mailed a replacement form",
+        "audioId": "Item34",
+        "questionText": "As a company representative, you should register this model for the customer.",
+        "options": [{
+            "text": "True (the necessary information has been provided by the caller)"
+        },
+        {
+            "text": "False (even with more information the statement will still be false)"
+        },
+        {
+            "text": "Need more information from the customer to determine whether true or false"
+        }],
+        "correctOption": "B"
+    },
+    {
+        "id": "17",
+        "policy": "All customer billing inquiries should be documented and provided to the Billing Department for review and recommendation. Claims involving financial inconsistencies require that customers are contacted directly by a customer service representative. All other claims related to the billing process should receive response by e-mail.",
+        "audioId": "Item35",
+        "questionText": "This customer should be contacted by a customer service representative.",
+        "options": [{
+            "text": "True (the necessary information has been provided by the caller)"
+        },
+        {
+            "text": "False (even with more information the statement will still be false)"
+        },
+        {
+            "text": "Need more information from the customer to determine whether true or false"
+        }],
+        "correctOption": "A"
+    },
+    {
+        "id": "18",
+        "policy": "The sale of any product requires that the customer provide their name, contact information (e.g. phone or e-mail), and mailing address. Products sold for commercial use also require the inclusion of the company name and company mailing address before a transaction is completed. This is due to licensing fees associated with the product.",
+        "audioId": "Item17",
+        "questionText": "This sale can be completed by the call taker.",
+        "options": [{
+            "text": "True (the necessary information has been provided by the caller)"
+        },
+        {
+            "text": "False (even with more information the statement will still be false)"
+        },
+        {
+            "text": "Need more information from the customer to determine whether true or false"
+        }],
+        "correctOption": "B"
+    }],
+    "resources": {
+        "media": {
+            "images": [],
+            "audio": [{
+                "id": "Item19",
+                "url": "/content/audio-library/applying-policies/Item19.mp3"
+            },
+            {
+                "id": "Item20",
+                "url": "/content/audio-library/applying-policies/Item20.mp3"
+            },
+            {
+                "id": "Item21",
+                "url": "/content/audio-library/applying-policies/Item21.mp3"
+            },
+            {
+                "id": "Item22",
+                "url": "/content/audio-library/applying-policies/Item22.mp3"
+            },
+            {
+                "id": "Item23",
+                "url": "/content/audio-library/applying-policies/Item23.mp3"
+            },
+            {
+                "id": "Item24",
+                "url": "/content/audio-library/applying-policies/Item24.mp3"
+            },
+            {
+                "id": "Item25",
+                "url": "/content/audio-library/applying-policies/Item25.mp3"
+            },
+            {
+                "id": "Item26",
+                "url": "/content/audio-library/applying-policies/Item26.mp3"
+            },
+            {
+                "id": "Item27",
+                "url": "/content/audio-library/applying-policies/Item27.mp3"
+            },
+            {
+                "id": "Item28",
+                "url": "/content/audio-library/applying-policies/Item28.mp3"
+            },
+            {
+                "id": "Item29",
+                "url": "/content/audio-library/applying-policies/Item29.mp3"
+            },
+            {
+                "id": "Item30",
+                "url": "/content/audio-library/applying-policies/Item30.mp3"
+            },
+            {
+                "id": "Item31",
+                "url": "/content/audio-library/applying-policies/Item31.mp3"
+            },
+            {
+                "id": "Item32",
+                "url": "/content/audio-library/applying-policies/Item32.mp3"
+            },
+            {
+                "id": "Item33",
+                "url": "/content/audio-library/applying-policies/Item33.mp3"
+            },
+            {
+                "id": "Item34",
+                "url": "/content/audio-library/applying-policies/Item34.mp3"
+            },
+            {
+                "id": "Item35",
+                "url": "/content/audio-library/applying-policies/Item35.mp3"
+            },
+            {
+                "id": "Item17",
+                "url": "/content/audio-library/applying-policies/Item17.mp3"
+            }]
+        }
+    }
+}

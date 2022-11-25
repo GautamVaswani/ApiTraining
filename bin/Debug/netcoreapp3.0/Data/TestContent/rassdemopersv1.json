@@ -1,0 +1,590 @@
+{
+  "assessmentName": "BCG Conscientionsness",
+  "playerType": "MCQ",
+  "lastModified": "02/08/2019",
+  "instruction": "<p>This section of the test contains multiple-choice questions, which you must answer by using your computer mouse to select the correct response. Upon answering a question, you can go to the next question by clicking the Next button on the Menu bar.</p><p>During this section of the test, if you choose you may skip an item and then later return to that item.</p> <p>When you are finished, select Submit from the Menu bar. Your Test Administrator may have set a time limit for this test section. If there is a time limit, you will be told how much time you have. If a time limit has been set for this section of the test, you will notice a countdown timer on the Header of the screen, showing the amount of time remaining to complete this section of the test.</p>",
+  "questions": [
+{
+      "id": 1,
+      "questionText": "<p>When you start a job, you'd better finish it.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 2,
+      "questionText": "<p>I like to act quickly.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 3,
+      "questionText": "<p>I prefer to do things spontaneously rather than planning and structuring them.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 4,
+      "questionText": "<p>Rules are made to be followed.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 5,
+      "questionText": "<p>People in authority should not be trusted.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 6,
+      "questionText": "<p>If you feel like something is right, you should trust your instincts and do it.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 7,
+      "questionText": "<p>Even if something is impractical, I may do it anyway.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 8,
+      "questionText": "<p>I can work on something for hours without feeling distracted.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 9,
+      "questionText": "<p>Most meetings start late, so punctuality just wastes your own time.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 10,
+      "questionText": "<p>If a meeting starts at 8 a.m., I'm there at 8 a.m. or sooner.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 11,
+      "questionText": "<p>When I mess up on a project, sometimes others just don't understand.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 12,
+      "questionText": "<p>I set goals for myself and try hard to reach them.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 13,
+      "questionText": "<p>If you ask me to do something, you don't have to worry about whether it will gets done.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 14,
+      "questionText": "<p>Sometimes in the heat of a situation I just go into auto pilot.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 15,
+      "questionText": "<p>I may want something badly, but if it isn't practical I won't buy it.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 16,
+      "questionText": "<p>Organizing and planning a vacation takes the fun out of it.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 17,
+      "questionText": "<p>I like finishing the details of my work.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 18,
+      "questionText": "<p>It helps to get work done if you can make a game out of it.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 19,
+      "questionText": "<p>Sometimes it's just better to finish something half-way and go on to something new.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 20,
+      "questionText": "<p>Sometimes going with the flow is better for work and free time.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 21,
+      "questionText": "<p>Sometimes I just jump right into new projects and learn as I go along.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 22,
+      "questionText": "<p>I prefer to follow a schedule.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 23,
+      "questionText": "<p>Sometimes it's fun to do crazy things.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 24,
+      "questionText": "<p>Doing unexpected things is fun.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 25,
+      "questionText": "<p>It's best to do things by the book.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 26,
+      "questionText": "<p>Being practical and following rules sometimes does more harm than good.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 27,
+      "questionText": "<p>If I have the money and I want something, I buy it.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 28,
+      "questionText": "<p>When I say I'm going to do something, I do it.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 29,
+      "questionText": "<p>Sometimes going against the norm is the only way to make a positive change.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 30,
+      "questionText": "<p>Before starting any task, it is important to outline a plan.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 31,
+      "questionText": "<p>Rules are just guidelines, and don't apply to every situation.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    },
+{
+      "id": 32,
+      "questionText": "<p>Stopping to organize your things keeps you from moving forward.",
+      "options": [
+        {
+          "text": "Strongly Disagree"
+        },
+        {
+          "text": "Disagree"
+        },
+        {
+          "text": "Agree"
+        },
+        {
+          "text": "Strongly Agree"
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "audio": [],
+      "images": []
+    }
+  }
+}

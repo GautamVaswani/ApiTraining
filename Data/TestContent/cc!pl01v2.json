@@ -1,0 +1,601 @@
+﻿{
+  "assessmentName": "Position Locating Urban (Audio)",
+  "playerType": "POSLOC",
+  "instruction": " <span role=heading aria-level=3> Position Locating (Audio) </span><br><br>You are about to begin the \"Position Locating\" test.  At the beginning, you will see a map comprising the majority of the screen.  This map will be used to answer the simulated calls that will be read aloud to you.  If you wish to replay the simulated call, simply click the “Replay” button on the right side of the screen.  The simulated calls will describe certain items that appear on the map.  Using the information provided, you are to determine the most-likely location of the caller on the map.  <br><br>The map is divided into a grid by columns and rows.  Use the two drop down boxes to select the appropriate answer.  In the first drop down box, select a letter relating to a column on the map.  In the second drop down box you will select a number relating the a row on the map.  The intersection of the column and row is what you consider to be the most-likely location of the caller.<br><br>Once you have selected a column and a row from the drop down boxes, you can proceed to the next question using the \"Next\" button.  If you wish to review previous questions use the \"Back\" button.  You can also skip an unanswered question by clicking the \"Next\" button.  You may return to unanswered questions later in the test.<br>                                                                                                                                                                                           <br>If a time limit has been set for this test by the test administrator, you will see the timer counting down in the bottom right-hand corner of the screen.  This timer shows how much time you have remaining to complete the test.  If no time limit has been set, there will be no visible timer.<br><br>",
+  "url": "/content/image-library/position-locating/Urban Map.png",
+  "column": [
+    {
+      "text": "A",
+      "length": 119
+    },
+    {
+      "text": "B",
+      "length": 139
+    },
+    {
+      "text": "C",
+      "length": 192
+    },
+    {
+      "text": "D",
+      "length": 147
+    },
+    {
+      "text": "E",
+      "length": 131
+    },
+    {
+      "text": "F",
+      "length": 131
+    }
+  ],
+  "row": [
+    {
+      "text": "1",
+      "length": 134
+    },
+    {
+      "text": "2",
+      "length": 162
+    },
+    {
+      "text": "3",
+      "length": 174
+    },
+    {
+      "text": "4",
+      "length": 169
+    },
+    {
+      "text": "5",
+      "length": 169
+    },
+    {
+      "text": "6",
+      "length": 169
+    }
+  ],
+  "imageCoordinates": [
+    {
+      "id": "A1",
+      "areaCords": "24,20,140,78",
+      "cords": {
+        "0": "24",
+        "1": "20",
+        "2": "140",
+        "3": "78"
+      }
+    },
+    {
+      "id": "B1",
+      "areaCords": "138,20,278,78",
+      "cords": {
+        "0": "138",
+        "1": "20",
+        "2": "278",
+        "3": "78"
+      }
+    },
+    {
+      "id": "C1",
+      "areaCords": "275,20,420,78",
+      "cords": {
+        "0": "275",
+        "1": "20",
+        "2": "420",
+        "3": "78"
+      }
+    },
+    {
+      "id": "D1",
+      "areaCords": "418,20,574,78",
+      "cords": {
+        "0": "418",
+        "1": "20",
+        "2": "574",
+        "3": "78"
+      }
+    },
+    {
+      "id": "E1",
+      "areaCords": "572,20,736,78",
+      "cords": {
+        "0": "572",
+        "1": "20",
+        "2": "736",
+        "3": "78"
+      }
+    },
+    {
+      "id": "F1",
+      "areaCords": "735,20,875,78",
+      "cords": {
+        "0": "735",
+        "1": "20",
+        "2": "875",
+        "3": "78"
+      }
+    },
+    {
+      "id": "A2",
+      "areaCords": "24,75,140,196",
+      "cords": {
+        "0": "24",
+        "1": "75",
+        "2": "140",
+        "3": "196"
+      }
+    },
+    {
+      "id": "B2",
+      "areaCords": "138,75,278,196",
+      "cords": {
+        "0": "138",
+        "1": "75",
+        "2": "278",
+        "3": "196"
+      }
+    },
+    {
+      "id": "C2",
+      "areaCords": "275,75,420,196",
+      "cords": {
+        "0": "275",
+        "1": "75",
+        "2": "420",
+        "3": "196"
+      }
+    },
+    {
+      "id": "D2",
+      "areaCords": "418,75,574,196",
+      "cords": {
+        "0": "418",
+        "1": "75",
+        "2": "574",
+        "3": "196"
+      }
+    },
+    {
+      "id": "E2",
+      "areaCords": "572,75,736,196",
+      "cords": {
+        "0": "572",
+        "1": "75",
+        "2": "736",
+        "3": "196"
+      }
+    },
+    {
+      "id": "F2",
+      "areaCords": "735,75,875,196",
+      "cords": {
+        "0": "735",
+        "1": "75",
+        "2": "875",
+        "3": "196"
+      }
+    },
+    {
+      "id": "A3",
+      "areaCords": "23,194,140,317",
+      "cords": {
+        "0": "23",
+        "1": "194",
+        "2": "140",
+        "3": "317"
+      }
+    },
+    {
+      "id": "B3",
+      "areaCords": "138,194,278,317",
+      "cords": {
+        "0": "138",
+        "1": "194",
+        "2": "278",
+        "3": "317"
+      }
+    },
+    {
+      "id": "C3",
+      "areaCords": "277,194,419,317",
+      "cords": {
+        "0": "277",
+        "1": "194",
+        "2": "419",
+        "3": "317"
+      }
+    },
+    {
+      "id": "D3",
+      "areaCords": "418,194,573,317",
+      "cords": {
+        "0": "418",
+        "1": "194",
+        "2": "573",
+        "3": "317"
+      }
+    },
+    {
+      "id": "E3",
+      "areaCords": "572,194,735,317",
+      "cords": {
+        "0": "572",
+        "1": "194",
+        "2": "735",
+        "3": "317"
+      }
+    },
+    {
+      "id": "F3",
+      "areaCords": "735,194,874,317",
+      "cords": {
+        "0": "735",
+        "1": "194",
+        "2": "874",
+        "3": "317"
+      }
+    },
+    {
+      "id": "A4",
+      "areaCords": "23,315,140,431",
+      "cords": {
+        "0": "23",
+        "1": "315",
+        "2": "140",
+        "3": "431"
+      }
+    },
+    {
+      "id": "B4",
+      "areaCords": "138,315,278,431",
+      "cords": {
+        "0": "138",
+        "1": "315",
+        "2": "278",
+        "3": "431"
+      }
+    },
+    {
+      "id": "C4",
+      "areaCords": "277,315,419,431",
+      "cords": {
+        "0": "277",
+        "1": "315",
+        "2": "419",
+        "3": "431"
+      }
+    },
+    {
+      "id": "D4",
+      "areaCords": "418,315,573,431",
+      "cords": {
+        "0": "418",
+        "1": "315",
+        "2": "573",
+        "3": "431"
+      }
+    },
+    {
+      "id": "E4",
+      "areaCords": "572,315,735,431",
+      "cords": {
+        "0": "572",
+        "1": "315",
+        "2": "735",
+        "3": "431"
+      }
+    },
+    {
+      "id": "F4",
+      "areaCords": "735,315,874,431",
+      "cords": {
+        "0": "735",
+        "1": "315",
+        "2": "874",
+        "3": "431"
+      }
+    },
+    {
+      "id": "A5",
+      "areaCords": "24,428,139,528",
+      "cords": {
+        "0": "24",
+        "1": "428",
+        "2": "139",
+        "3": "528"
+      }
+    },
+    {
+      "id": "B5",
+      "areaCords": "139,428,277,528",
+      "cords": {
+        "0": "139",
+        "1": "428",
+        "2": "277",
+        "3": "528"
+      }
+    },
+    {
+      "id": "C5",
+      "areaCords": "279,428,418,528",
+      "cords": {
+        "0": "279",
+        "1": "428",
+        "2": "418",
+        "3": "528"
+      }
+    },
+    {
+      "id": "D5",
+      "areaCords": "420,428,572,528",
+      "cords": {
+        "0": "420",
+        "1": "428",
+        "2": "572",
+        "3": "528"
+      }
+    },
+    {
+      "id": "E5",
+      "areaCords": "573,428,734,528",
+      "cords": {
+        "0": "573",
+        "1": "428",
+        "2": "734",
+        "3": "528"
+      }
+    },
+    {
+      "id": "F5",
+      "areaCords": "738,428,873,528",
+      "cords": {
+        "0": "738",
+        "1": "428",
+        "2": "873",
+        "3": "528"
+      }
+    },
+    {
+      "id": "A6",
+      "areaCords": "24,526,140,654",
+      "cords": {
+        "0": "23",
+        "1": "526",
+        "2": "140",
+        "3": "656"
+      }
+    },
+    {
+      "id": "B6",
+      "areaCords": "140,529,274,656",
+      "cords": {
+        "0": "138",
+        "1": "526",
+        "2": "278",
+        "3": "656"
+      }
+    },
+    {
+      "id": "C6",
+      "areaCords": "276,529,420,656",
+      "cords": {
+        "0": "276",
+        "1": "526",
+        "2": "420",
+        "3": "656"
+      }
+    },
+    {
+      "id": "D6",
+      "areaCords": "417,525,574,656",
+      "cords": {
+        "0": "417",
+        "1": "525",
+        "2": "574",
+        "3": "656"
+      }
+    },
+    {
+      "id": "E6",
+      "areaCords": "571,526,737,656",
+      "cords": {
+        "0": "571",
+        "1": "526",
+        "2": "737",
+        "3": "656"
+      }
+    },
+    {
+      "id": "F6",
+      "areaCords": "734,526,878,656",
+      "cords": {
+        "0": "734",
+        "1": "526",
+        "2": "878",
+        "3": "656"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "questionText": "There is a suspicious looking person walking around this area. I am in the middle of the street and I can see the hospital directly in front of me. I can also see a 2-story building with a billboard on top of it behind me. ",
+      "audioID": "Urban V2 01",
+      "imageID": "Urban Map"
+    },
+    {
+      "id": "2",
+      "questionText": "I want to report a traffic accident that has just occurred. I am in the middle of the street in between a communication tower and a park. I can see a 5-story building past the park.  ",
+      "audioID": "Urban V2 02",
+      "imageID": "Urban Map"
+    },
+    {
+      "id": "3",
+      "questionText": "There is a child left in a car nearby. I just left a 4-story building and can see the fire station in front of me.  ",
+      "audioID": "Urban V2 03",
+      "imageID": "Urban Map"
+    },
+    {
+      "id": "4",
+      "questionText": "I want to report a fight breaking out nearby. I am in the middle of the street and I can see a communication tower next to 2, 10-story buildings. Looking between the 2 buildings I can also see the fire station.  ",
+      "audioID": "Urban V2 04",
+      "imageID": "Urban Map"
+    },
+    {
+      "id": "5",
+      "questionText": "I want to report a person yelling loudly in the streets. I just exited a 4-story building and in front of me is the University.  ",
+      "audioID": "Urban V2 05",
+      "imageID": "Urban Map"
+    },
+    {
+      "id": "6",
+      "questionText": "I’m completely lost and have no idea where I am. Behind me a river and directly in front of me is a 2-story building.  ",
+      "audioID": "Urban V2 06",
+      "imageID": "Urban Map"
+    },
+    {
+      "id": "7",
+      "questionText": "I want to report a mattress in the middle of the road but I’m not familiar with this area. I can see a communication tower in front of me, a park to the left, and a hospital to the right.  ",
+      "audioID": "Urban V2 07",
+      "imageID": "Urban Map"
+    },
+    {
+      "id": "8",
+      "questionText": "My car was broken into and I’m in a part of town I’m not familiar with. I am facing a 2-story building. There is a billboard behind me and a power line to the right.  ",
+      "audioID": "Urban V2 08",
+      "imageID": "Urban Map"
+    },
+    {
+      "id": "9",
+      "questionText": "I was with my mom but we got separated. I’m in a single story building. Looking out the window I can see a billboard on the same block. I can also see a river behind the billboard.  ",
+      "audioID": "Urban V2 09",
+      "imageID": "Urban Map"
+    },
+    {
+      "id": "10",
+      "questionText": "My mom hit her head and isn’t moving. We are on the top floor of a 7-story building and I can see the university outside the window.  ",
+      "audioID": "Urban V2 10",
+      "imageID": "Urban Map"
+    },
+    {
+      "id": "11",
+      "questionText": "My mom passed out and won’t wake up. We are on the top floor of a 6-story building next to a park and I can see a 10-story building out of the window.  ",
+      "audioID": "Urban V2 11",
+      "imageID": "Urban Map"
+    },
+    {
+      "id": "12",
+      "questionText": "I got separated from my parents and don’t know where they are. I am on the roof of the hospital and right in front of me is a billboard. I can see the river to my left.  ",
+      "audioID": "Urban V2 12",
+      "imageID": "Urban Map"
+    },
+    {
+      "id": "13",
+      "questionText": "I want to report a car driving the wrong way down a street. I am at the south end of a park. There is a communication tower to the east.  ",
+      "audioID": "Urban V2 13",
+      "imageID": "Urban Map"
+    },
+    {
+      "id": "14",
+      "questionText": "A black car was speeding and ran a red light. I am in the middle of the intersection of 2nd St. and E St.  ",
+      "audioID": "Urban V2 14",
+      "imageID": "Urban Map"
+    },
+    {
+      "id": "15",
+      "questionText": "I just saw the wind blow a trash can through a window. I am in facing the police station and directly to my left are some power lines.  ",
+      "audioID": "Urban V2 15",
+      "imageID": "Urban Map"
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [
+        {
+          "id": "Urban Map",
+          "url": "/content/image-library/position-locating/Urban Map.png"
+        }
+      ],
+      "audio": [
+        {
+          "id": "Urban V2 01",
+          "url": "/content/audio-library/position-locating/Urban V2 01 2016.mp3"
+        },
+        {
+          "id": "Urban V2 02",
+          "url": "/content/audio-library/position-locating/Urban V2 02 2016.mp3"
+        },
+        {
+          "id": "Urban V2 03",
+          "url": "/content/audio-library/position-locating/Urban V2 03 2016.mp3"
+        },
+        {
+          "id": "Urban V2 04",
+          "url": "/content/audio-library/position-locating/Urban V2 04 2016.mp3"
+        },
+        {
+          "id": "Urban V2 05",
+          "url": "/content/audio-library/position-locating/Urban V2 05 2016.mp3"
+        },
+        {
+          "id": "Urban V2 06",
+          "url": "/content/audio-library/position-locating/Urban V2 06 2016.mp3"
+        },
+        {
+          "id": "Urban V2 07",
+          "url": "/content/audio-library/position-locating/Urban V2 07 2016.mp3"
+        },
+        {
+          "id": "Urban V2 08",
+          "url": "/content/audio-library/position-locating/Urban V2 08 2016.mp3"
+        },
+        {
+          "id": "Urban V2 09",
+          "url": "/content/audio-library/position-locating/Urban V2 09 2016.mp3"
+        },
+        {
+          "id": "Urban V2 10",
+          "url": "/content/audio-library/position-locating/Urban V2 10 2016.mp3"
+        },
+        {
+          "id": "Urban V2 11",
+          "url": "/content/audio-library/position-locating/Urban V2 11 2016.mp3"
+        },
+        {
+          "id": "Urban V2 12",
+          "url": "/content/audio-library/position-locating/Urban V2 12 2016.mp3"
+        },
+        {
+          "id": "Urban V2 13",
+          "url": "/content/audio-library/position-locating/Urban V2 13 2016.mp3"
+        },
+        {
+          "id": "Urban V2 14",
+          "url": "/content/audio-library/position-locating/Urban V2 14 2016.mp3"
+        },
+        {
+          "id": "Urban V2 15",
+          "url": "/content/audio-library/position-locating/Urban V2 15 2016.mp3"
+        }
+      ]
+    }
+  },
+  "captions": {
+    "Urban V2 01" : "WEBVTT\r\n\r\n1\r\n00:00:00.690 --> 00:00:02.579\r\nThere is a suspicious looking person\r\nwalking\r\n\r\n2\r\n00:00:02.580 --> 00:00:03.710\r\naround this area.\r\n\r\n3\r\n00:00:04.080 --> 00:00:05.399\r\nI'm in the middle of the street\r\n\r\n4\r\n00:00:05.400 --> 00:00:07.640\r\nand I can see a hospital directly in\r\nfront of me.\r\n\r\n5\r\n00:00:08.039 --> 00:00:09.423\r\nI can also see a two story building\r\n\r\n6\r\n00:00:09.600 --> 00:00:11.550\r\nwith a billboard on top of it behind me.\r\n",
+    "Urban V2 02" : "WEBVTT\r\n\r\n1\r\n00:00:00.360 --> 00:00:02.279\r\nI want to report a traffic accident\r\nthat has just\r\n\r\n2\r\n00:00:02.280 --> 00:00:02.960\r\noccurred.\r\n\r\n3\r\n00:00:03.410 --> 00:00:05.279\r\nI'm in the middle of the street in\r\nbetween\r\n\r\n4\r\n00:00:05.280 --> 00:00:06.329\r\na communication tower\r\n\r\n5\r\n00:00:06.330 --> 00:00:07.190\r\nand a park.\r\n\r\n6\r\n00:00:07.470 --> 00:00:09.520\r\nI can see a five story building\r\npast the park.\r\n",
+    "Urban V2 03" : "WEBVTT\r\n\r\n1\r\n00:00:00.310 --> 00:00:02.570\r\nThere is a child left in a nearby\r\ncar.\r\n\r\n2\r\n00:00:02.790 --> 00:00:04.224\r\nI just left a four story building\r\n\r\n3\r\n00:00:04.470 --> 00:00:06.150\r\nand can see the fire station in\r\nfront of me.\r\n",
+    "Urban V2 04" : "WEBVTT\r\n\r\n1\r\n00:00:00.480 --> 00:00:02.660\r\nI want to report a fight breaking\r\nout nearby.\r\n\r\n2\r\n00:00:03.030 --> 00:00:04.259\r\nI'm in the middle of the street.\r\n\r\n3\r\n00:00:04.260 --> 00:00:06.080\r\nAnd I can see a communication tower\r\n\r\n4\r\n00:00:06.090 --> 00:00:07.856\r\nnext to two 10 story buildings\r\n\r\n5\r\n00:00:08.790 --> 00:00:10.139\r\nlooking between the two buildings.\r\n\r\n6\r\n00:00:10.140 --> 00:00:11.580\r\nI can also see the fire station.\r\n",
+    "Urban V2 05" : "WEBVTT\r\n\r\n1\r\n00:00:00.630 --> 00:00:02.489\r\nI want to report a person yelling\r\nloudly in\r\n\r\n2\r\n00:00:02.490 --> 00:00:03.380\r\nthe streets.\r\n\r\n3\r\n00:00:03.660 --> 00:00:05.203\r\nI just exited a four story building\r\n\r\n4\r\n00:00:05.480 --> 00:00:07.320\r\nand in front of me is the University.\r\n",
+    "Urban V2 06" : "WEBVTT\r\n\r\n1\r\n00:00:00.510 --> 00:00:01.589\r\nI'm completely lost\r\n\r\n2\r\n00:00:01.590 --> 00:00:03.170\r\nand have no idea where I am.\r\n\r\n3\r\n00:00:03.390 --> 00:00:04.619\r\nBehind me is a river\r\n\r\n4\r\n00:00:04.620 --> 00:00:06.572\r\nand directly in front of me is a two story building\r\n",
+    "Urban V2 07" : "WEBVTT\r\n\r\n1\r\n00:00:00.480 --> 00:00:02.519\r\nI want to report a mattress in the\r\nmiddle of the road\r\n\r\n2\r\n00:00:02.520 --> 00:00:03.299\r\nbut I'm not familiar\r\n\r\n3\r\n00:00:03.300 --> 00:00:04.220\r\nwith this area.\r\n\r\n4\r\n00:00:04.770 --> 00:00:06.889\r\nI can see a communication tower in\r\nfront of me\r\n\r\n5\r\n00:00:06.890 --> 00:00:08.118\r\na part of the left\r\n\r\n6\r\n00:00:08.119 --> 00:00:09.280\r\nand a hospital to the right.\r\n",
+    "Urban V2 08" : "WEBVTT\r\n\r\n1\r\n00:00:00.450 --> 00:00:01.679\r\nMy car was broken into\r\n\r\n2\r\n00:00:01.680 --> 00:00:03.299\r\nand I'm in a part of town I'm not\r\nfamiliar\r\n\r\n3\r\n00:00:03.300 --> 00:00:05.090\r\nwith facing a two\r\n\r\n4\r\n00:00:05.190 --> 00:00:05.492\r\nstory building.\r\n\r\n5\r\n00:00:06.210 --> 00:00:07.559\r\nThere is a billboard behind me\r\n\r\n6\r\n00:00:07.560 --> 00:00:08.850\r\nand a power line to the right.\r\n",
+    "Urban V2 09" : "WEBVTT\r\n\r\n1\r\n00:00:00.690 --> 00:00:01.589\r\nI was with my mom\r\n\r\n2\r\n00:00:01.590 --> 00:00:02.909\r\nbut we got separated.\r\n\r\n3\r\n00:00:02.960 --> 00:00:04.699\r\nI'm in a single story building\r\n\r\n4\r\n00:00:04.800 --> 00:00:06.029\r\nlooking out the window.\r\n\r\n5\r\n00:00:06.030 --> 00:00:08.390\r\nI can see a billboard on the same\r\nblock.\r\n\r\n6\r\n00:00:08.640 --> 00:00:10.559\r\nI can also see a river beyond\r\n\r\n7\r\n00:00:10.560 --> 00:00:11.190\r\nthe billboard.\r\n",
+    "Urban V2 10" : "WEBVTT\r\n\r\n1\r\n00:00:00.420 --> 00:00:01.499\r\nMy mom hit her head\r\n\r\n2\r\n00:00:01.500 --> 00:00:02.750\r\nand isn't moving.\r\n\r\n3\r\n00:00:02.970 --> 00:00:05.060\r\nWe are on the top floor of a seven\r\n\r\n4\r\n00:00:05.220 --> 00:00:07.469\r\nstory building and I can see the\r\nuniversity\r\n\r\n5\r\n00:00:07.470 --> 00:00:08.340\r\noutside the window.\r\n",
+    "Urban V2 11" : "WEBVTT\r\n\r\n1\r\n00:00:00.570 --> 00:00:01.559\r\nMy mom passed out\r\n\r\n2\r\n00:00:01.560 --> 00:00:02.600\r\nand won't wake up.\r\n\r\n3\r\n00:00:02.610 --> 00:00:04.400\r\nWe're on the top floor of a six\r\n\r\n4\r\n00:00:04.530 --> 00:00:06.209\r\nstory building next to a park.\r\n\r\n5\r\n00:00:06.210 --> 00:00:08.043\r\nAnd I can see a 10 story building\r\n\r\n6\r\n00:00:08.250 --> 00:00:09.060\r\nout of the window.\r\n",
+    "Urban V2 12" : "WEBVTT\r\n\r\n1\r\n00:00:00.560 --> 00:00:02.189\r\nI got separated from my parents\r\n\r\n2\r\n00:00:02.190 --> 00:00:03.620\r\nand I don't know where they are.\r\n\r\n3\r\n00:00:03.780 --> 00:00:05.639\r\nI'm on the roof of the hospital\r\n\r\n4\r\n00:00:05.640 --> 00:00:07.820\r\nand right in front of me is a\r\nbillboard.\r\n\r\n5\r\n00:00:07.920 --> 00:00:09.790\r\nI can see the river to my left.\r\n",
+    "Urban V2 13" : "WEBVTT\r\n\r\n1\r\n00:00:00.570 --> 00:00:02.399\r\nI want to report a car driving the\r\nwrong way\r\n\r\n2\r\n00:00:02.400 --> 00:00:03.290\r\ndown the street.\r\n\r\n3\r\n00:00:03.640 --> 00:00:05.240\r\nI'm at the south end of a park.\r\n\r\n4\r\n00:00:05.340 --> 00:00:07.160\r\nThere's a communication tower to the east.\r\n",
+    "Urban V2 14" : "WEBVTT\r\n\r\n1\r\n00:00:00.720 --> 00:00:01.769\r\nA black car was speeding\r\n\r\n2\r\n00:00:01.770 --> 00:00:02.810\r\nand ran a red light.\r\n\r\n3\r\n00:00:03.120 --> 00:00:04.949\r\nI am in the middle of the\r\nintersection of\r\n\r\n4\r\n00:00:04.950 --> 00:00:06.400\r\nsecond and E Street.\r\n",
+    "Urban V2 15" : "WEBVTT\r\n\r\n1\r\n00:00:00.840 --> 00:00:02.565\r\nI just saw the wind blow a trash can\r\nthrough a window.\r\n\r\n2\r\n00:00:02.566 --> 00:00:04.799\r\nI am Facing the police station\r\n\r\n3\r\n00:00:04.800 --> 00:00:05.969\r\nand directly to my left\r\n\r\n4\r\n00:00:05.970 --> 00:00:06.780\r\nor some powerlines.\r\n"
+  }
+}

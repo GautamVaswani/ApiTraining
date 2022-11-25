@@ -1,0 +1,211 @@
+{
+  "assessmentName": "Cross Referencing",
+  "playerType": "DataEntry",
+  "modeType": "cross-referencing",
+  "instructions": "<span role=heading aria-level=3 >Cross-Referencing </span> <br/><br/>The following is a test of your ability to use information from a list. Using the reference list of names, addresses, and telephone numbers on the right side of the screen, enter the correct information about a person as requested by the computer. Like a telephone book, names are listed in alphabetical order according to people's last names. For example, if the directory lists a person's name as \"Smith, Adam\" then their first name is \"Adam\" and their last name is \"Smith.\" You might have to use the scroll bar on the right side of the list to view the entire list. <br/><br/> You will be asked questions about the directory and you should enter the requested information into the box provided on the screen. <br/><br/>In the questions, names are always given with the first name first. For example, if you see the question, \"What is the telephone number of John Smith,\" then John is the first name and Smith is the last name. <br/><br/>Enter names by first, then last name. Data entered will be scored for accuracy. <br/><br/>You will also need to respond to any emergency messages that appear in the bottom right corner of the screen by left clicking your mouse over the agency to be dispatched. Failing to respond to a decision-making message within 15 seconds after the message first appears will result in a lower score.",
+  "questions": [
+    {
+      "id": "1",
+      "questionText": "What is Paul Derek's phone number?"
+    },
+    {
+      "id": "2",
+      "questionText": "What is the phone number of the person listed at 8494 El Camino?"
+    },
+    {
+      "id": "3",
+      "questionText": "What is the full address of the person whose phone number is 881-1142?"
+    },
+    {
+      "id": "4",
+      "questionText": "What is the first name of the person who lives at 4487 Lilis?"
+    },
+    {
+      "id": "5",
+      "questionText": "What is the phone number of the person who lives on Sassy?"
+    },
+    {
+      "id": "6",
+      "questionText": "What is the last name of the person who lives at the house with the number 2154?"
+    },
+    {
+      "id": "7",
+      "questionText": "What is Jack Maddex's telephone number?"
+    },
+    {
+      "id": "8",
+      "questionText": "What is the full address of Michele Corbin?"
+    },
+    {
+      "id": "9",
+      "questionText": "What is the phone number of Michale Kortan?"
+    },
+    {
+      "id": "10",
+      "questionText": "What is the last name of the person whose phone number is 817-4911?"
+    }
+  ],
+  "emergencyQuestions": [
+    {
+      "id": "1",
+      "quetext": "Boy accidently shot in hunting accident."
+    },
+    {
+      "id": "2",
+      "quetext": "Water seen flowing from broken pipe into school building."
+    }
+  ],
+  "referenceData": [
+    {
+      "name": "Apple, Hagan",
+      "address": "1142 Whiraker",
+      "phone": "894-1424"
+    },
+    {
+      "name": "Appel, H.",
+      "address": "1442 Whiteacre",
+      "phone": "984-2414"
+    },
+    {
+      "name": "Cats, Ash",
+      "address": "8944 Rassy ",
+      "phone": "564-8911"
+    },
+    {
+      "name": "Cutsy, Jay",
+      "address": "4489 Sassy",
+      "phone": "654-1891"
+    },
+    {
+      "name": "Corbin, Michael",
+      "address": "1154 Freemont",
+      "phone": "891-7411"
+    },
+    {
+      "name": "Corbin, Michele",
+      "address": "5411 Freemore",
+      "phone": "817-4911"
+    },
+    {
+      "name": "Cuinton, Michaela",
+      "address": "4487 Lillis",
+      "phone": "718-9144"
+    },
+    {
+      "name": "Derek, Paul",
+      "address": "8954 Bouman",
+      "phone": "412-8954"
+    },
+    {
+      "name": "Enwahl, Richard",
+      "address": "8471 Bixley",
+      "phone": "248-9412"
+    },
+    {
+      "name": "Eppil, Haven",
+      "address": "7418 Bixel",
+      "phone": "482-9421"
+    },
+    {
+      "name": "Flame, H.",
+      "address": "3211 Stanley",
+      "phone": "811-1124"
+    },
+    {
+      "name": "Fram, Lyn",
+      "address": "1233 Stainless",
+      "phone": "881-1142"
+    },
+    {
+      "name": "Inwald, Richart",
+      "address": "5849 Watermore",
+      "phone": "214-4512"
+    },
+    {
+      "name": "Iron, Jeffery",
+      "address": "4957 Morewater",
+      "phone": "412-5421"
+    },
+    {
+      "name": "Katz, Ashley",
+      "address": "8944 El Campo",
+      "phone": "555-5412"
+    },
+    {
+      "name": "Kootzi, J.",
+      "address": "4489 Sasson",
+      "phone": "554-1254"
+    },
+    {
+      "name": "Korban, Michael",
+      "address": "8449 El Canio",
+      "phone": "544-2145"
+    },
+    {
+      "name": "Kortan, M.",
+      "address": "8494 El Camio",
+      "phone": "545-1542"
+    },
+    {
+      "name": "Maddex, J.",
+      "address": "1245 Summerplace",
+      "phone": "321-5463"
+    },
+    {
+      "name": "Maddock, John",
+      "address": "2154 Summertime",
+      "phone": "213-4536"
+    },
+    {
+      "name": "Maddox, Jack",
+      "address": "5421 Summerday",
+      "phone": "231-5439"
+    },
+    {
+      "name": "Odell, P.",
+      "address": "4198 Lenox",
+      "phone": "221-5674"
+    },
+    {
+      "name": "Paul, Derek",
+      "address": "8491 Bowsnan",
+      "phone": "211-6547"
+    },
+    {
+      "name": "Phram, Lin",
+      "address": "1322 Stenlen",
+      "phone": "818-1421"
+    },
+    {
+      "name": "Quinson, Jeanenne",
+      "address": "7844 Lilly",
+      "phone": "742-5541"
+    },
+    {
+      "name": "Quinson, Jeanneen",
+      "address": "4487 Lilis",
+      "phone": "427-5415"
+    },
+    {
+      "name": "Richard, Inwell",
+      "address": "4412 Gunner",
+      "phone": "413-4571"
+    },
+    {
+      "name": "Sinclair, Winston",
+      "address": "8494 El Camino",
+      "phone": "895-1541"
+    },
+    {
+      "name": "Udell, P.",
+      "address": "4198 Linox",
+      "phone": "211-5674"
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

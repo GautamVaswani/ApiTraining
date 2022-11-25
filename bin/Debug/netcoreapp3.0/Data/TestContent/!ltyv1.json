@@ -1,0 +1,1364 @@
+{
+  "assessmentName": "Legal Terminology",
+  "playerType": "MCQ",
+  "lastModified": "06/09/2017",
+  "instruction": "<p role=heading aria-level=3>Legal Terminology</p><p>This section of the test contains multiple-choice questions, which you must answer by using your computer mouse to select the correct response. Upon answering a question, you can go to the next question by clicking the Next button on the Menu bar.</p><p>During this section of the test, if you choose you may skip an item and then later return to that item.</p> <p>When you are finished, select Submit from the Menu bar. Your Test Administrator may have set a time limit for this test section. If there is a time limit, you will be told how much time you have. If a time limit has been set for this section of the test, you will notice a countdown timer on the Header of the screen, showing the amount of time remaining to complete this section of the test.</p>",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "<p>A deponent is one who __________________________________.</p>",
+      "options": [
+        {
+          "text": "asks questions in a deposition"
+        },
+        {
+          "text": "testifies in a deposition"
+        },
+        {
+          "text": "records a deposition proceeding"
+        },
+        {
+          "text": "pays court costs"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "<p>Default means:</p>",
+      "options": [
+        {
+          "text": "liability"
+        },
+        {
+          "text": "challenge the integrity of a prior judgment"
+        },
+        {
+          "text": "failure to fulfill a duty"
+        },
+        {
+          "text": "misrepresentation of a fact"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "<p>What does a dismissal with prejudice mean?</p>",
+      "options": [
+        {
+          "text": "dismissal allowing right to bring future action on same claim or cause"
+        },
+        {
+          "text": "dismissal barring right to bring future action on same claim or cause"
+        },
+        {
+          "text": "dismissal based on legal technicality"
+        },
+        {
+          "text": "entitled to priority or preference"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionText": "<p>What does the acronym \"aka\" mean?</p>",
+      "options": [
+        {
+          "text": "also known as"
+        },
+        {
+          "text": "another known acquaintance"
+        },
+        {
+          "text": "other things"
+        },
+        {
+          "text": "moniker"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionText": "<p>An adverse party is___________________.</p>",
+      "options": [
+        {
+          "text": "an offeror"
+        },
+        {
+          "text": "a witness"
+        },
+        {
+          "text": "one opposing a claim"
+        },
+        {
+          "text": "a guilty person"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionText": "<p>Which word is used when an action is disposed of?</p>",
+      "options": [
+        {
+          "text": "accumulation"
+        },
+        {
+          "text": "dismissal"
+        },
+        {
+          "text": "postponed"
+        },
+        {
+          "text": "refused"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionText": "<p>Which word (or words) means a contest in a court for the purpose of enforcing a right or seeking a remedy?</p>",
+      "options": [
+        {
+          "text": "trial"
+        },
+        {
+          "text": "litigation"
+        },
+        {
+          "text": "res judicata"
+        },
+        {
+          "text": "per curiam"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionText": "<p>A record of proceedings in a court is called a________________________.</p>",
+      "options": [
+        {
+          "text": "program"
+        },
+        {
+          "text": "docket"
+        },
+        {
+          "text": "plank"
+        },
+        {
+          "text": "exhibition"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionText": "<p>Which one of the following tasks can Legal Assistants or Legal Secretaries NOT perform?</p>",
+      "options": [
+        {
+          "text": "handle witness execution of documents"
+        },
+        {
+          "text": "maintain estate/guardianship trust accounts"
+        },
+        {
+          "text": "prepare legal documents"
+        },
+        {
+          "text": "conduct depositions"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionText": "<p>Which one of the following is a written or oral application made to court for a rule or order?</p>",
+      "options": [
+        {
+          "text": "remand"
+        },
+        {
+          "text": "declaration"
+        },
+        {
+          "text": "motion"
+        },
+        {
+          "text": "habeas corpus"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "questionText": "<p>What does \"DOB\" mean?</p>",
+      "options": [
+        {
+          "text": "date of brief"
+        },
+        {
+          "text": "date of birth"
+        },
+        {
+          "text": "date of bill"
+        },
+        {
+          "text": "date of breach"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "questionText": "<p>The defendant is _________________________________.</p>",
+      "options": [
+        {
+          "text": "one who is sued in a lawsuit"
+        },
+        {
+          "text": "one who brings an action"
+        },
+        {
+          "text": "a witness or accuser"
+        },
+        {
+          "text": "one who owes a debt"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "questionText": "<p>What does this symbol § mean?</p>",
+      "options": [
+        {
+          "text": "sworn to"
+        },
+        {
+          "text": "secondary"
+        },
+        {
+          "text": "section"
+        },
+        {
+          "text": "semblance"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "questionText": "<p>What does the Latin term \"pro bono\" mean?</p>",
+      "options": [
+        {
+          "text": "for the good"
+        },
+        {
+          "text": "impeachment"
+        },
+        {
+          "text": "worst-case scenario"
+        },
+        {
+          "text": "by the court"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "questionText": "<p>Which of the following is a written document serving as the basis of an argument in a case, usually in appellate court?</p>",
+      "options": [
+        {
+          "text": "declaration"
+        },
+        {
+          "text": "affidavit"
+        },
+        {
+          "text": "motion"
+        },
+        {
+          "text": "brief"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "questionText": "<p>______________ occurs when professional duties are neglected and result in a loss.</p>",
+      "options": [
+        {
+          "text": "Malpractice"
+        },
+        {
+          "text": "Negligence"
+        },
+        {
+          "text": "Damage"
+        },
+        {
+          "text": "A law suit"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "questionText": "<p>To append means to___________________. </p>",
+      "options": [
+        {
+          "text": "add"
+        },
+        {
+          "text": "give away"
+        },
+        {
+          "text": "delete"
+        },
+        {
+          "text": "separate"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "questionText": "<p>What does the Latin term \"duces tecum\" mean? </p>",
+      "options": [
+        {
+          "text": "leave of absence"
+        },
+        {
+          "text": "sued twice"
+        },
+        {
+          "text": "due process"
+        },
+        {
+          "text": "bring with you"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "questionText": "<p>An insignificant point is considered_____________________. </p>",
+      "options": [
+        {
+          "text": "unimportant"
+        },
+        {
+          "text": "frivolous"
+        },
+        {
+          "text": "moot"
+        },
+        {
+          "text": "void"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "questionText": "<p>Which one of the following refers to money requested or awarded? </p>",
+      "options": [
+        {
+          "text": "Damage"
+        },
+        {
+          "text": "Solvency"
+        },
+        {
+          "text": "Debts"
+        },
+        {
+          "text": "Settlement"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "questionText": "<p>A written contract for tenement is called a/an ___________________. </p>",
+      "options": [
+        {
+          "text": "lease"
+        },
+        {
+          "text": "will"
+        },
+        {
+          "text": "bill of sale"
+        },
+        {
+          "text": "ownership of property"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "questionText": "<p>Counsel means to advise or it means _____________________________.</p>",
+      "options": [
+        {
+          "text": "to converse"
+        },
+        {
+          "text": "to consider"
+        },
+        {
+          "text": "attorney of record"
+        },
+        {
+          "text": "suggest"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "questionText": "<p>__________________ is an instrument authorizing another to act as one's agent.</p>",
+      "options": [
+        {
+          "text": "Plenipotentiary"
+        },
+        {
+          "text": "Universal agent"
+        },
+        {
+          "text": "Power of attorney"
+        },
+        {
+          "text": "Exclusive agency"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "questionText": "<p>The __________________ is one who starts an action, a suit, or proceeding in a court of law.</p>",
+      "options": [
+        {
+          "text": "attorney"
+        },
+        {
+          "text": "clerk"
+        },
+        {
+          "text": "defendant"
+        },
+        {
+          "text": "plaintiff"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "questionText": "<p>___________________ is false testimony given under oath.</p>",
+      "options": [
+        {
+          "text": "Fabrication"
+        },
+        {
+          "text": "Perjury"
+        },
+        {
+          "text": "Impeachment"
+        },
+        {
+          "text": "Averment"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "questionText": "<p>_________________ means to vacate.</p>",
+      "options": [
+        {
+          "text": "exonerate"
+        },
+        {
+          "text": "vilify"
+        },
+        {
+          "text": "exclude"
+        },
+        {
+          "text": "annul"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "questionText": "<p>What is a caption? </p>",
+      "options": [
+        {
+          "text": "signature page"
+        },
+        {
+          "text": "name of court, names of parties, case number, etc."
+        },
+        {
+          "text": "facts giving rise to a legal remedy"
+        },
+        {
+          "text": "limitation on amount of money that can be recovered"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "questionText": "<p>_____________ is a document compelling a witness to appear in court and give testimony.</p>",
+      "options": [
+        {
+          "text": "Summons"
+        },
+        {
+          "text": "Subpoena"
+        },
+        {
+          "text": "Warrant"
+        },
+        {
+          "text": "Deposition"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "questionText": "<p>_______________ means to cancel. </p>",
+      "options": [
+        {
+          "text": "Delete"
+        },
+        {
+          "text": "Confirm"
+        },
+        {
+          "text": "Postpone"
+        },
+        {
+          "text": "Rescind"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "questionText": "<p>What does the abbreviation \"Ltd.\" mean? </p>",
+      "options": [
+        {
+          "text": "litigated"
+        },
+        {
+          "text": "lettered"
+        },
+        {
+          "text": "latitude"
+        },
+        {
+          "text": "limited"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "questionText": "<p>Which word means a claim, encumbrance, or charge on property for payment of some debt or obligation?</p>",
+      "options": [
+        {
+          "text": "bill"
+        },
+        {
+          "text": "liable"
+        },
+        {
+          "text": "pecuniary"
+        },
+        {
+          "text": "lien"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "questionText": "<p>Which word describes a common response to a complaint? </p>",
+      "options": [
+        {
+          "text": "disclosure"
+        },
+        {
+          "text": "answer"
+        },
+        {
+          "text": "rebuttal"
+        },
+        {
+          "text": "redaction"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "questionText": "<p>What does the abbreviation SDT mean? </p>",
+      "options": [
+        {
+          "text": "summon defendant to trial"
+        },
+        {
+          "text": "summary of deposition transcript"
+        },
+        {
+          "text": "sans de tempore"
+        },
+        {
+          "text": "subpoena duces tecum"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "questionText": "<p>An allegation is a/an_______________________________. </p>",
+      "options": [
+        {
+          "text": "denial"
+        },
+        {
+          "text": "assertion"
+        },
+        {
+          "text": "waiver"
+        },
+        {
+          "text": "ruling"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "questionText": "<p>________________ involves a truth affirmation. </p>",
+      "options": [
+        {
+          "text": "Ad valorem"
+        },
+        {
+          "text": "Declaration"
+        },
+        {
+          "text": "Oath"
+        },
+        {
+          "text": "Affirmative defense"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "questionText": "<p>To where does the Latin term \"supra\" refer? </p>",
+      "options": [
+        {
+          "text": "above"
+        },
+        {
+          "text": "below"
+        },
+        {
+          "text": "within"
+        },
+        {
+          "text": "outside"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "questionText": "<p>What does the term verification mean? </p>",
+      "options": [
+        {
+          "text": "notification of a lawsuit"
+        },
+        {
+          "text": "state or condition of being void"
+        },
+        {
+          "text": "confirmation of correctness"
+        },
+        {
+          "text": "assertion of a right in or to a thing"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "questionText": "<p>What does the Latin term \"et al.\" mean? </p>",
+      "options": [
+        {
+          "text": "formerly known as"
+        },
+        {
+          "text": "also known as"
+        },
+        {
+          "text": "and others"
+        },
+        {
+          "text": "all people"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "questionText": "<p> A judgment is all of the following except ____________. </p>",
+      "options": [
+        {
+          "text": "decision"
+        },
+        {
+          "text": "decree"
+        },
+        {
+          "text": "final order"
+        },
+        {
+          "text": "dictum"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "questionText": "<p>Discovery is _________________________________. </p>",
+      "options": [
+        {
+          "text": "lawful authorization"
+        },
+        {
+          "text": "formal objection"
+        },
+        {
+          "text": "ascertainment of that which was previously unknown"
+        },
+        {
+          "text": "presentation of evidence"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "questionText": "<p>Interrogatories are _____________________________. </p>",
+      "options": [
+        {
+          "text": "written questions directed to a party in a case"
+        },
+        {
+          "text": "stipulations between parties"
+        },
+        {
+          "text": "oral testimony by witnesses"
+        },
+        {
+          "text": "breaks in uniformity"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "questionText": "<p>An appellee is the __________________________________. </p>",
+      "options": [
+        {
+          "text": "party who appeals"
+        },
+        {
+          "text": "defendant in lower court"
+        },
+        {
+          "text": "party who defends an appeal"
+        },
+        {
+          "text": "attorney"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "questionText": "<p>What does \"Esq.\" mean ? </p>",
+      "options": [
+        {
+          "text": "estate in escrow"
+        },
+        {
+          "text": "by means of law"
+        },
+        {
+          "text": "bequest"
+        },
+        {
+          "text": "title of attorney"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "questionText": "<p>A breach is a _____________________________. </p>",
+      "options": [
+        {
+          "text": "failure to carry out a duty"
+        },
+        {
+          "text": "reference to statement of law"
+        },
+        {
+          "text": "fulfillment of a contract"
+        },
+        {
+          "text": "contract between two parties"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "questionText": "<p>________________ means to voluntarily relinquish. </p>",
+      "options": [
+        {
+          "text": "Lease"
+        },
+        {
+          "text": "Legate"
+        },
+        {
+          "text": "Waive"
+        },
+        {
+          "text": "Omnibus"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "questionText": "<p>To concur means to __________________. </p>",
+      "options": [
+        {
+          "text": "rescind"
+        },
+        {
+          "text": "negate"
+        },
+        {
+          "text": "agree"
+        },
+        {
+          "text": "refute"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "questionText": "<p>Which one of the following tasks are Legal Secretaries not allowed to perform? </p>",
+      "options": [
+        {
+          "text": "give legal advice"
+        },
+        {
+          "text": "prepare legal documents"
+        },
+        {
+          "text": "maintain calendar of appointments"
+        },
+        {
+          "text": "conduct legal research"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "questionText": "<p>What does the Latin term ex parte mean? </p>",
+      "options": [
+        {
+          "text": "former party"
+        },
+        {
+          "text": "on one side only"
+        },
+        {
+          "text": "barred from court"
+        },
+        {
+          "text": "against"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "questionText": "<p>__________ is the geographical location where a case is tried. </p>",
+      "options": [
+        {
+          "text": "Municipality"
+        },
+        {
+          "text": "Locale"
+        },
+        {
+          "text": "Jurisdiction"
+        },
+        {
+          "text": "Venue"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "questionText": "<p>Which Latin term means \"by the day?\" </p>",
+      "options": [
+        {
+          "text": "sine die"
+        },
+        {
+          "text": "ex delicto"
+        },
+        {
+          "text": "perdida"
+        },
+        {
+          "text": "per diem"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "questionText": "<p>__________________ has to do with the amount of time within which certain actions can be filed.</p>",
+      "options": [
+        {
+          "text": "Statutory authorization"
+        },
+        {
+          "text": "Statute of limitations"
+        },
+        {
+          "text": "Exclusionary rule"
+        },
+        {
+          "text": "Limitation of privileges"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "questionText": "<p>What does the term void mean?</p>",
+      "options": [
+        {
+          "text": "null; having no legal force"
+        },
+        {
+          "text": "correct as written"
+        },
+        {
+          "text": "without reasonable cause or excuse"
+        },
+        {
+          "text": "right of future enjoyment"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "questionText": "<p>__________________ means relating to the part remaining. </p>",
+      "options": [
+        {
+          "text": "Residual"
+        },
+        {
+          "text": "Nearing"
+        },
+        {
+          "text": "Arriving"
+        },
+        {
+          "text": "Resend"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "questionText": "<p>An affidavit is a/an _______________________________. </p>",
+      "options": [
+        {
+          "text": "written statement made under oath before a notary public"
+        },
+        {
+          "text": "process to compel a witness to appear"
+        },
+        {
+          "text": "official publication of court decisions"
+        },
+        {
+          "text": "detailed statement from the court"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "questionText": "<p>What does the term adjudication mean? </p>",
+      "options": [
+        {
+          "text": "concurrence"
+        },
+        {
+          "text": "accused"
+        },
+        {
+          "text": "decision of a court"
+        },
+        {
+          "text": "body of rules"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "questionText": "<p>An intentionally false statement is considered_________________. </p>",
+      "options": [
+        {
+          "text": "felonious"
+        },
+        {
+          "text": "fictitious"
+        },
+        {
+          "text": "fraud"
+        },
+        {
+          "text": "fake"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "questionText": "<p>A legal stipulation is a/an ________________________. </p>",
+      "options": [
+        {
+          "text": "order"
+        },
+        {
+          "text": "agreement"
+        },
+        {
+          "text": "stay"
+        },
+        {
+          "text": "motion"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "questionText": "<p>___________________ means the inability to pay one's debts. </p>",
+      "options": [
+        {
+          "text": "Indigent"
+        },
+        {
+          "text": "Bankruptcy"
+        },
+        {
+          "text": "Libel"
+        },
+        {
+          "text": "Insolvency"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "questionText": "<p>Which word means to absolve or vindicate? </p>",
+      "options": [
+        {
+          "text": "adjust"
+        },
+        {
+          "text": "accuse"
+        },
+        {
+          "text": "justify"
+        },
+        {
+          "text": "inculpate"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "questionText": "<p>What does the term jurisdiction mean? </p>",
+      "options": [
+        {
+          "text": "written opinion of a judge"
+        },
+        {
+          "text": "power of court to decide a matter"
+        },
+        {
+          "text": "administration of an oath"
+        },
+        {
+          "text": "review by a higher court"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "questionText": "<p>Execute means to_______________________. </p>",
+      "options": [
+        {
+          "text": "close"
+        },
+        {
+          "text": "sign"
+        },
+        {
+          "text": "complete"
+        },
+        {
+          "text": "eliminate"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "questionText": "<p>In lieu of means _____________________________. </p>",
+      "options": [
+        {
+          "text": "in addition to"
+        },
+        {
+          "text": "instead of"
+        },
+        {
+          "text": "agreement"
+        },
+        {
+          "text": "encumbrance"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "questionText": "<p>What does the term arbitration mean? </p>",
+      "options": [
+        {
+          "text": "to act in an unreasonable manner"
+        },
+        {
+          "text": "to take; to seize"
+        },
+        {
+          "text": "a process of dispute resolution"
+        },
+        {
+          "text": "effort to establish belief by a course of reasoning"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "questionText": "<p>The name \"Does\" in legal proceedings refers to which of the following: </p>",
+      "options": [
+        {
+          "text": "fictitiously named defendants"
+        },
+        {
+          "text": "fictitiously named appellees"
+        },
+        {
+          "text": "fictitiously named witnesses"
+        },
+        {
+          "text": "unknown proprietors"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "questionText": "<p>To attest means to _____________________. </p>",
+      "options": [
+        {
+          "text": "challenge"
+        },
+        {
+          "text": "allege"
+        },
+        {
+          "text": "bear witness"
+        },
+        {
+          "text": "transfer"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "questionText": "<p>The jury's decision is the ________________. </p>",
+      "options": [
+        {
+          "text": "ruling"
+        },
+        {
+          "text": "judgment"
+        },
+        {
+          "text": "confirmation"
+        },
+        {
+          "text": "verdict"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "questionText": "<p>What does the term duly mean? </p>",
+      "options": [
+        {
+          "text": "in tandem"
+        },
+        {
+          "text": "notwithstanding"
+        },
+        {
+          "text": "astute"
+        },
+        {
+          "text": "in proper form"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "questionText": "<p>What does the Latin term \"versus\" mean? </p>",
+      "options": [
+        {
+          "text": "with"
+        },
+        {
+          "text": "against"
+        },
+        {
+          "text": "quotation"
+        },
+        {
+          "text": "reduction of damage"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "questionText": "<p>What does the Latin term \"vice-versa\" mean? </p>",
+      "options": [
+        {
+          "text": "the same as"
+        },
+        {
+          "text": "turpitude"
+        },
+        {
+          "text": "oral"
+        },
+        {
+          "text": "conversely"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "questionText": "<p>_________________ is the written allegation of what the plaintiff claims and what the defendant denies in a lawsuit.</p>",
+      "options": [
+        {
+          "text": "Pleading"
+        },
+        {
+          "text": "Petition"
+        },
+        {
+          "text": "Writ"
+        },
+        {
+          "text": "Motion"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "questionText": "<p>What does the abbreviation \"e.g.\" mean </p>",
+      "options": [
+        {
+          "text": "compare"
+        },
+        {
+          "text": "that is"
+        },
+        {
+          "text": "for example"
+        },
+        {
+          "text": "evidence gathered"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "questionText": "<p>An officer who administers oaths, certifies documents, and takes acknowledgments is called a ________________________. </p>",
+      "options": [
+        {
+          "text": "bailiff"
+        },
+        {
+          "text": "notary public"
+        },
+        {
+          "text": "Legal Assistant"
+        },
+        {
+          "text": "magistrate"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "questionText": "<p>Which word means conditional terms? </p>",
+      "options": [
+        {
+          "text": "certain"
+        },
+        {
+          "text": "inevitable"
+        },
+        {
+          "text": "obvious"
+        },
+        {
+          "text": "contingent"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "questionText": "<p>The phrase \"in the interim\" means_____________________. </p>",
+      "options": [
+        {
+          "text": "momentary"
+        },
+        {
+          "text": "in the meantime"
+        },
+        {
+          "text": "permanent"
+        },
+        {
+          "text": "substitute"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "questionText": "<p>What does the Latin term \"per annum\" mean?</p>",
+      "options": [
+        {
+          "text": "recurring"
+        },
+        {
+          "text": "for life"
+        },
+        {
+          "text": "by the year"
+        },
+        {
+          "text": "quarterly"
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "audio": [],
+      "images": []
+    }
+  }
+}

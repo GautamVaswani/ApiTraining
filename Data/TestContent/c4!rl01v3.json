@@ -1,0 +1,201 @@
+{
+  "assessmentName": "Record Locating",
+  "playerType": "DataEntry",
+  "modeType": "record-locating",
+  "instructions": "<span role=heading aria-level=3 >RECORD LOCATING TEST</span><br/><br/> You are about to start the \"Record Locating\" test. This is a test of your ability to use information from a list. Using the reference list of names, addresses, and telephone numbers shown on the right side of the screen, you should enter the correct information about the person as requested.  Like a telephone book, names are listed in alphabetical order according to the person's last name.  For example, if the directory lists a person's name as \"Smith, Adam\" then their first name is \"Adam\" and their last name is \"Smith\".  You might have to use the scroll bar on the right side of the list to view the entire list. <br/><br/>You will be asked questions about the directory and you should enter the requested information into the box provided on the screen. <br/><br/>In the questions, names are always given with the first name first.  For example, if you see a question, \"What is the telephone number of John Smith\", then John is the first name and Smith is the last name. <br/><br/>When responding to requests for names, you should enter names by first, then last name (such as John Smith). The data you enter will be scored for accuracy. <br/><br/>Good luck!",
+  "questions": [
+    {
+      "id": "1",
+      "questionText": "What is Andrew Jackson's phone number?"
+    },
+    {
+      "id": "2",
+      "questionText": "What is the phone number of the person who lives at 4191 Inice?"
+    },
+    {
+      "id": "3",
+      "questionText": "What is the full address of the person whose phone number is 512-9981?"
+    },
+    {
+      "id": "4",
+      "questionText": "What is the first name of the person who lives at 5839 Berns?"
+    },
+    {
+      "id": "5",
+      "questionText": "What is the phone number of the person who lives on Morris?"
+    },
+    {
+      "id": "6",
+      "questionText": "What is the last name of the person who lives at the house with the number 2141?"
+    },
+    {
+      "id": "7",
+      "questionText": "What is Rachael Filipe's telephone number?"
+    },
+    {
+      "id": "8",
+      "questionText": "What is the full address of Issac Richard?"
+    },
+    {
+      "id": "9",
+      "questionText": "What is the phone number of Richard Issac?"
+    },
+    {
+      "id": "10",
+      "questionText": "What is the last name of the person whose phone number is 541-8751?"
+    }
+  ],
+  "referenceData": [
+    {
+      "name": "Andrew, Jackson ",
+      "address": "8744 Biglow",
+      "phone": "897-4574"
+    },
+    {
+      "name": "Audeen, Cheryl",
+      "address": "4784 Bigslow",
+      "phone": "987-4787"
+    },
+    {
+      "name": "Bach, R.",
+      "address": "9841 Diggers",
+      "phone": "987-5414"
+    },
+    {
+      "name": "Bache, Robart",
+      "address": "4198 Digner",
+      "phone": "897-5412"
+    },
+    {
+      "name": "Carlson, Dean",
+      "address": "1142 Eaton",
+      "phone": "213-5413"
+    },
+    {
+      "name": "Carlton, Dan",
+      "address": "1421 Easton",
+      "phone": "214-9621"
+    },
+    {
+      "name": "Ciscall, Eugene",
+      "address": "4195 Morse",
+      "phone": "412-3541"
+    },
+    {
+      "name": "Courwright",
+      "address": "9925 Miller",
+      "phone": "998-2143"
+    },
+    {
+      "name": "Crandall, Kendall",
+      "address": "9295 Mills",
+      "phone": "784-9963"
+    },
+    {
+      "name": "Eudey, Paula",
+      "address": "4191 Eunice",
+      "phone": "221-9874"
+    },
+    {
+      "name": "Fillipe, Rachel",
+      "address": "4198 Hilsneck",
+      "phone": "321-9652"
+    },
+    {
+      "name": "Filipe, R.",
+      "address": "152 Quail Ridge",
+      "phone": "654-9874"
+    },
+    {
+      "name": "Isley, Richard",
+      "address": "8965 Borrow",
+      "phone": "321-8951"
+    },
+    {
+      "name": "Issac, Richard",
+      "address": "6849 Lungey",
+      "phone": "651-9841"
+    },
+    {
+      "name": "Jackson, A.",
+      "address": "5839 Hangs",
+      "phone": "987-3214"
+    },
+    {
+      "name": "Jones, Ralph",
+      "address": "5960 Fisk",
+      "phone": "651-9651"
+    },
+    {
+      "name": "Karlson, Dan",
+      "address": "2141 Neaston",
+      "phone": "213-9814"
+    },
+    {
+      "name": "Kendall, C.",
+      "address": "7859 Smithey",
+      "phone": "651-2013"
+    },
+    {
+      "name": "Knight, Art",
+      "address": "9385 Burns",
+      "phone": "981-2103"
+    },
+    {
+      "name": "Knoffler, Thomas",
+      "address": "281 Neats",
+      "phone": "213-5410"
+    },
+    {
+      "name": "Nyte, Arthur",
+      "address": "5839 Berns",
+      "phone": "512-9881"
+    },
+    {
+      "name": "Odeen, S.",
+      "address": "9114 Eubice",
+      "phone": "512-9981"
+    },
+    {
+      "name": "Philip, Rachele",
+      "address": "1489 Helsick",
+      "phone": "541-6584"
+    },
+    {
+      "name": "Rachael, Phillip",
+      "address": "9962 Bindel",
+      "phone": "451-5412"
+    },
+    {
+      "name": "Ralph, Joan",
+      "address": "6941 Swindell",
+      "phone": "541-3221"
+    },
+    {
+      "name": "Richard, Issac",
+      "address": "576 Laughlin",
+      "phone": "514-5412"
+    },
+    {
+      "name": "Syscill, Ethan",
+      "address": "9541 Morris",
+      "phone": "214-5410"
+    },
+    {
+      "name": "Thomas, Cosmo",
+      "address": "6786 Mason",
+      "phone": "541-8751"
+    },
+    {
+      "name": "Udie, Paul",
+      "address": "4191 Inice",
+      "phone": "231-8454"
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

@@ -1,0 +1,1115 @@
+{
+  "assessmentName": "Mechanical Comprehension",
+  "playerType": "MCQ",
+  "lastModified": "06/09/2017",
+  "instruction": "<p role=heading aria-level=3>Mechanical Comprehension</p><p>This section of the test contains multiple-choice questions, which you must answer by using your computer mouse to select the correct response. Upon answering a question, you can go to the next question by clicking the Next button on the Menu bar.</p><p>During this section of the test, if you choose you may skip an item and then later return to that item.</p><p>When you are finished, select Submit from the Menu bar. Your Test Administrator may have set a time limit for this test section. If there is a time limit, you will be told how much time you have. If a time limit has been set for this section of the test, you will notice a countdown timer on the Header of the screen, showing the amount of time remaining to complete this section of the test.</p>",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "<p>In the diagram below, a box slides down an inclined plane. Which of the following changes to the system would lead to the greatest increase in speed?</p> <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-1.png' alt='Mechanical Box Ramp V2 1'>",
+      "options": [
+        {
+          "text": "Decrease the height of the plane."
+        },
+        {
+          "text": "Increase the angle of the plane."
+        },
+        {
+          "text": "Increase the friction of the plane."
+        },
+        {
+          "text": "Decrease the length of the plane."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "<p>In this example, four cannons fire identical cannon balls and loaded with the same amount of gunpowder. Assuming there is no wind resistance, based on the angle of the cannon, which will propel its cannonball the farthest to the right before it hits the <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-2.png' alt='Mechanical Cannon V2 2'>",
+      "options": [
+        {
+          "text": "A"
+        },
+        {
+          "text": "B"
+        },
+        {
+          "text": "C"
+        },
+        {
+          "text": "D"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "<p>If a ball were rolled down each of these jump ramps, which ramp would allow the ball to fly the farthest into the air?</p> <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-3.png' alt='Mechanical Ramp V2 3'>",
+      "options": [
+        {
+          "text": "A"
+        },
+        {
+          "text": "B"
+        },
+        {
+          "text": "C"
+        },
+        {
+          "text": "D"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionText": "<p>In the figure below, what is the maximum height that the pendulum can attain after it is released?</p> <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-4.png' alt='Mechanical Wrecking Ball V2 4'>",
+      "options": [
+        {
+          "text": "A"
+        },
+        {
+          "text": "B"
+        },
+        {
+          "text": "C"
+        },
+        {
+          "text": "D"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionText": "<p>In the Figure, the lever has four holes that the line can hook onto to lift the weight. Which hole would you put the hook onto to lift the weight up to the highest point possible?</p> <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-5.png' alt='Mechanical Hook and Lever V2 5'>",
+      "options": [
+        {
+          "text": "A"
+        },
+        {
+          "text": "B"
+        },
+        {
+          "text": "C"
+        },
+        {
+          "text": "D"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionText": "<p>Assuming that the current is flowing, which of the following could cause the water wheel to stop turning?</p> <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-6.png' alt='Mechanical Water Wheel V2 6'>",
+      "options": [
+        {
+          "text": "The current begins to flow faster."
+        },
+        {
+          "text": "The current begins to flow in the opposite direction."
+        },
+        {
+          "text": "The water level rises to the axle."
+        },
+        {
+          "text": "The water level drops below the wheel."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionText": "<p>Ball X is being launched at a wall in the direction shown in the figure. Which ball in the diagram will Ball X come into contact with first once it bounces off the wall?</p> <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-7.png' alt='Mechanical Ricochet V2 7'>",
+      "options": [
+        {
+          "text": "A"
+        },
+        {
+          "text": "B"
+        },
+        {
+          "text": "C"
+        },
+        {
+          "text": "D"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionText": "<p>Ball X is being launched at a wall. Which ball in the diagram will Ball X come into contact with first once it bounces off the wall?</p> <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-8.png' alt='Mechanical Ricochet V2 8'>",
+      "options": [
+        {
+          "text": "A"
+        },
+        {
+          "text": "B"
+        },
+        {
+          "text": "C"
+        },
+        {
+          "text": "D"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionText": "<p>Based upon the figure below, which of the following outcomes will occur to the platform if points A and B are pulled together?</p> <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-9.png' alt=' Mechanical Jack V2 9'>",
+      "options": [
+        {
+          "text": "The platform will remain at the same level."
+        },
+        {
+          "text": "The platform will lower."
+        },
+        {
+          "text": "The platform will rise."
+        },
+        {
+          "text": "The platform will turn."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionText": "<p>In the figure below, what is the maximal height that the ball can attain if it is released? Assume no additional force or resistance is applied.</p> <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-10.png' alt='Mechanical Ball Ramp V2 10'>",
+      "options": [
+        {
+          "text": "A"
+        },
+        {
+          "text": "B"
+        },
+        {
+          "text": "C"
+        },
+        {
+          "text": "D"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "questionText": "<p>When does the ball have the least potential energy?</p><img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-11.png' alt='Mechanical Ball Ramp V2 11'>",
+      "options": [
+        {
+          "text": "While it is sitting on the top of the hill."
+        },
+        {
+          "text": "While rolling down the hill."
+        },
+        {
+          "text": "While rolling at the bottom of the hill."
+        },
+        {
+          "text": "While stopped at the bottom of the hill."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "questionText": "<img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-12.png' alt='Mechanical Ball Ramp V2 12'> <p>In the diagram above, a box is sliding down an inclined plane. Which of the following forces allows the box to continue sliding down the inclined plane? </p>",
+      "options": [
+        {
+          "text": "Momentum"
+        },
+        {
+          "text": "Friction"
+        },
+        {
+          "text": "Velocity"
+        },
+        {
+          "text": "Inertia"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "questionText": "<p>If Gear B were turned, which of the following would be true?</p> <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-13.png' alt='Mechanical 2 Gears V2 13'>",
+      "options": [
+        {
+          "text": "Gear A would have the same number of revolution per minute as Gear B."
+        },
+        {
+          "text": "Gear A would have fewer revolutions per minute than Gear B."
+        },
+        {
+          "text": "Gear B would have fewer revolutions per minute than Gear A."
+        },
+        {
+          "text": "Gear A would have no revolutions and remain in place."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "questionText": "<p>If Gear A were turned which of the following outcomes would occur if an axle was attached to either Gear A or Gear B?</p> <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-14.png' alt='Mechanical 2 Gears V2 14'>",
+      "options": [
+        {
+          "text": "An axle attached to the center of Gear B would turn faster than one inserted into Gear A."
+        },
+        {
+          "text": "Neither gear would be able to turn if an axle was attached to Gear B."
+        },
+        {
+          "text": "Neither gear would be able to turn if an axle was attached to Gear A."
+        },
+        {
+          "text": "An axle attached to the center of Gear A would turn faster than one inserted into Gear B."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "questionText": "<p>In the figure below, Gears 1, 2, 3, and 4 are identical. If Gear 2 is turning left, then what direction will Gear 3 turn?</p><img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-15.png' alt='Mechanical 4 Gears V2 15'>",
+      "options": [
+        {
+          "text": "Gear 3 will turn left only if Gear 1 is turning right."
+        },
+        {
+          "text": "Gear 3 will turn right only if Gear 1 is turning left."
+        },
+        {
+          "text": "Gear 3 will turn right only if Gear 4 is turning right."
+        },
+        {
+          "text": "Gear 3 will turn left only if Gear 4 is turning left."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "questionText": "<p>In the figure below, Gears 1, 2, and 3 are identical. If Gear 1 is turning left, which of the following statements regarding Gears 2 and 3 are true?</p> <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-16.png' alt='Mechanical 3 Gears V2 16'>",
+      "options": [
+        {
+          "text": "Gear 2 will turn right while Gear 3 will turn left."
+        },
+        {
+          "text": "Gear 2 will turn left while Gear 3 will turn right."
+        },
+        {
+          "text": "Both Gear 2 and 3 will turn right."
+        },
+        {
+          "text": "Both Gear 2 and 3 will turn left."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "questionText": "<p>What will happen if Gear A is rotated to the left?</p><img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-17.png' alt='Mechanical 9 Gears V2 17'>",
+      "options": [
+        {
+          "text": "Gear B will rotate to the left."
+        },
+        {
+          "text": "Gear D will rotate to the left."
+        },
+        {
+          "text": "Gear E will rotate to the left."
+        },
+        {
+          "text": "Gear F will rotate to the left."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "questionText": "<p>What would happen if Gear F were separated from Gear H?</p> <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-18.png' alt='Mechanical 9 Gears V2 18'>",
+      "options": [
+        {
+          "text": "If Gear F were rotated left, Gear H would turn right."
+        },
+        {
+          "text": "Gear H would no longer turn if Gear F were turned."
+        },
+        {
+          "text": "If Gear F were rotated left, Gear H would turn left."
+        },
+        {
+          "text": "Gear F would no longer turn if Gear H were turned."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "questionText": "<p>Assume Gear A is driving the other gears by turning to the right. What would happen if Gear E were removed?</p><img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-19.png' alt='Mechanical 9 Gears V2 19'>",
+      "options": [
+        {
+          "text": "Gear F would rotate to the right."
+        },
+        {
+          "text": "Gear J would rotate slower."
+        },
+        {
+          "text": "Gear H would no longer rotate."
+        },
+        {
+          "text": "Gear I would rotate faster."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "questionText": "<p>What will happen if Gear G is rotated to the left?</p> <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-20.png' alt='Mechanical 9 Gears V2 20'>",
+      "options": [
+        {
+          "text": "Gear F will turn more quickly than Gear G and to the right."
+        },
+        {
+          "text": "Gear C will turn more quickly than Gear G and to the left."
+        },
+        {
+          "text": "Gear A will not rotate in either direction."
+        },
+        {
+          "text": "Gear E will rotate at the same speed to the right."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "questionText": "<p>What would happen if the rack were pushed to the right?</p><img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-21.png' alt='Mechanical Rack and Pinion V2 21'>",
+      "options": [
+        {
+          "text": "The pinion would stop the rack from moving."
+        },
+        {
+          "text": "The gear in the pinion would rotate clockwise."
+        },
+        {
+          "text": "The gear in the pinion would rotate counterclockwise."
+        },
+        {
+          "text": "The rack would stop the pinion from moving."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "questionText": "<p>The axles for Gear A and Gear B are fixed. What would happen if Rack A were moved to the right?</p> <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-22.png' alt='Mechanical Rack and Gear V2 22'>",
+      "options": [
+        {
+          "text": "Rack B would not move."
+        },
+        {
+          "text": "Gear A would move clockwise"
+        },
+        {
+          "text": "Rack B would move to the left."
+        },
+        {
+          "text": "Gear A would turn counterclockwise."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "questionText": "<p>Only the axle for Gear A is fixed. If the outer ring cannot rotate, what will happen when Gear A is turned to the clockwise?</p> <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-23.png' alt='Mechanical Gear Wheel V2 23'>",
+      "options": [
+        {
+          "text": "Gears B, C, and D will rotate counterclockwise and will orbit around Gear A clockwise."
+        },
+        {
+          "text": "Gears B, C, and D will rotate clockwise and will orbit around Gear A counterclockwise."
+        },
+        {
+          "text": "Gears B, C, and D will not be able to rotate."
+        },
+        {
+          "text": "Gears B, C, and D will rotate clockwise in place."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "questionText": "<p>Which of the following outcomes will occur if Rope A is cut at the point indicated by the arrow?</p> <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-24.png' alt='Mechanical Pulley Platfrom V2 24'>",
+      "options": [
+        {
+          "text": "Platform A will remain in place."
+        },
+        {
+          "text": "Platform A will fall."
+        },
+        {
+          "text": "Pulley A will turn clockwise."
+        },
+        {
+          "text": "Platform A will move to the left."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "questionText": "<p>Platform A can support 50 pounds, but Pulley A can only support 20 pounds. Which of the following outcomes will occur if a 30 pound weight is added to Platform A? </p><img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-25.png' alt='Mechanical Pulley Platfrom V2 25'>",
+      "options": [
+        {
+          "text": "Platform A will break."
+        },
+        {
+          "text": "Rope A will break."
+        },
+        {
+          "text": "Pulley A will move to the left."
+        },
+        {
+          "text": "Platform A will fall down and to the right."
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "questionText": "<p>Based upon the figure below, which of the following outcome can occur?</p><img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-26.png' alt='Mechanical Pulley Weight V2 26'>",
+      "options": [
+        {
+          "text": "W1 will rise if W2 is lifted"
+        },
+        {
+          "text": "W2 will rise if W1 is lifted"
+        },
+        {
+          "text": "W1 will rise if W2 is lowered"
+        },
+        {
+          "text": "W2 will rise if W1 is lowered"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "questionText": "<p>Assume Weight A is 50 pounds. Which of the following outcomes will occur if Platform A is loaded with 65 pounds?</p><img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-27.png' alt='Mechanical Pulley Weight V2 27'>",
+      "options": [
+        {
+          "text": "Platform A will remain in place."
+        },
+        {
+          "text": "Platform A will rise."
+        },
+        {
+          "text": "Weight A rise."
+        },
+        {
+          "text": "Weight A will remain in place."
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "questionText": "<p>Pulley A can support 20 pounds and Pulley B can support 20 pounds. Which of the following outcomes will occur if Weight A is 15 pounds and Platform A is loaded with 15 pounds?</p> <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-28.png' alt='Mechanical Pulley Weight V2 28'>",
+      "options": [
+        {
+          "text": "Platform A will remain in place."
+        },
+        {
+          "text": "Pulley A will break."
+        },
+        {
+          "text": "Weight A will rise."
+        },
+        {
+          "text": "Weight B will rotate to the right."
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "questionText": "<p>Which of the following outcomes will occur if the rope is cut at the point indicated by the arrow? Assume there is no wind resistance and Weight A is the exact same weight as Platform B.</p> <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-29.png' alt='Mechanical Pulley Weight V2 29'>",
+      "options": [
+        {
+          "text": "Platform A will remain in place while Weight A will fall to the ground."
+        },
+        {
+          "text": "Platform A and Weight A will both fall to the ground at approximately the same moment."
+        },
+        {
+          "text": "Platform A and Weight A will fall but Weight A will hit the ground first."
+        },
+        {
+          "text": "Platform A and Weight A will fall but Platform A will hit the ground first."
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "questionText": "<p>Which of the following changes would double the force required to lift Weight A?</p> <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-30.png' alt='Mechanical Pulley Weight V2 30'>",
+      "options": [
+        {
+          "text": "Increase the distance between Pulley A and Pulley B."
+        },
+        {
+          "text": "Lower Pulley B to Pulley A's height."
+        },
+        {
+          "text": "Remove Pulley B and pull upwards on the rope coming from Pulley A."
+        },
+        {
+          "text": "The force required to lift Weight A is constant."
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "questionText": "<p>What is the primary advantage and the primary disadvantage of this system over simply lifting the weight?</p><img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-31.png' alt='Mechanical Pulley Weight V2 31'>",
+      "options": [
+        {
+          "text": "Only half as much rope is necessary, but twice the force is required to lift the weight."
+        },
+        {
+          "text": "Half the force is required to lift the weight, but twice as much rope is necessary."
+        },
+        {
+          "text": "The weight can be lifted with less friction, but must be lifted more slowly."
+        },
+        {
+          "text": "There are no advantages or disadvantages to either system."
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "questionText": "<p>Which of the following four fulcrum/lever combinations provides the least leverage?</p> <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-32.png' alt='Mechanical Lever V2 32'>",
+      "options": [
+        {
+          "text": "A"
+        },
+        {
+          "text": "B"
+        },
+        {
+          "text": "C"
+        },
+        {
+          "text": "D"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "questionText": "<p>Assume the weights on the beam are equal. What would happen if the fulcrum were moved to the right?</p> <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-33.png' alt='Mechanical Lever Balance V2 33'>",
+      "options": [
+        {
+          "text": "The left side of the beam would move higher."
+        },
+        {
+          "text": "The right side of the beam would move higher."
+        },
+        {
+          "text": "The beam would remain level."
+        },
+        {
+          "text": "The beam's weight would increase."
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "questionText": "<p>Assume that the fulcrum is exactly halfway between the center of the 10 pound weight and the center of the beam. If both ends of the beam are being prevented from moving, what would happen if they were released?</p> <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-34.png' alt='Mechanical Lever Balance V2 34'>",
+      "options": [
+        {
+          "text": "The left side of the beam would lower."
+        },
+        {
+          "text": "The fulcrum would move to the center."
+        },
+        {
+          "text": "The beam would remain balanced."
+        },
+        {
+          "text": "The right side of the beam would lower."
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "questionText": "<p>Which of the following changes to following fulcrum/lever combination would reduce the amount of leverage available.</p><img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-35.png' alt='Mechanical Lever V2 35'>",
+      "options": [
+        {
+          "text": "Decrease the size of the rock."
+        },
+        {
+          "text": "Decrease the length of the lever."
+        },
+        {
+          "text": "Move the fulcrum to the right."
+        },
+        {
+          "text": "Increase the size of the fulcrum."
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "questionText": "<p>The figure on the right was constructed using the part(s) on the left. How many of the parts on the left would be required to construct the figure on the right? </p><img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-36.png' alt='Mechanical Connector Logs V2 36'>",
+      "options": [
+        {
+          "text": "1"
+        },
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "questionText": "<p>The figure on the right was constructed using the part(s) on the left. How many of the parts on the left would be required to construct the figure on the right?</p> <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-37.png' alt='Mechanical Connector Logs V2 37'>",
+      "options": [
+        {
+          "text": "3 long, 5 short"
+        },
+        {
+          "text": "2 long, 6 short"
+        },
+        {
+          "text": "3 long, 6 short"
+        },
+        {
+          "text": "2 long, 5 short"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "questionText": "<p>In this diagram each circle represents a valve with water flowing from left to right, towards the tanks. Which of the following valves must be closed to ensure that water is not sent to Valve 5?</p><img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-39.png' alt=' Mechanical Pipe Pathway V2 39'>",
+      "options": [
+        {
+          "text": "1"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "questionText": "<p>In this diagram each circle represents a valve with water flowing from left to right, towards the tanks. Which of the following valves must be closed to ensure that water is not sent to Valve 5?</p><img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-39.png' alt=' Mechanical Pipe Pathway V2 39'>",
+      "options": [
+        {
+          "text": "Valve 4"
+        },
+        {
+          "text": "Valve 7"
+        },
+        {
+          "text": "Valve 6"
+        },
+        {
+          "text": "Valve 1"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "questionText": "<p>In this diagram each circle represents a valve with water flowing from left to right, towards the tanks. Which of the following valves must be closed to ensure that water is not sent to Valve 9?</p> <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-40.png' alt=' Mechanical Pipe Pathway V2 40'>",
+      "options": [
+        {
+          "text": "Valve 8"
+        },
+        {
+          "text": "Valve 1"
+        },
+        {
+          "text": "Valve 7"
+        },
+        {
+          "text": "Valve 6"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "questionText": "<p>Which platform would remain balanced if only one string were cut? Strings are illustrated in diagram as the thin lines.</p><img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-41.png' alt='Mechanical Hanging Platform V2 41'>",
+      "options": [
+        {
+          "text": "A"
+        },
+        {
+          "text": "B"
+        },
+        {
+          "text": "C"
+        },
+        {
+          "text": "D"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "questionText": "<p>In the diagram, the platform is held up by four (4) strings. Strings are illustrated in diagram as the thin lines. Which strings do you need to cut to unlevel the platform?</p> <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-42.png' alt='Mechanical Hanging Platform V2 42'>",
+      "options": [
+        {
+          "text": "A & C"
+        },
+        {
+          "text": "A & D"
+        },
+        {
+          "text": "C & D"
+        },
+        {
+          "text": "B & C"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "questionText": "<p>In the diagram, the platform is held up by four (4) strings. Strings are illustrated in diagram as the thin lines. What is the minimum number of strings you need to cut to unlevel the platform? </p><img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-43.png' alt='Mechanical Hanging Platform V2 43'>",
+      "options": [
+        {
+          "text": "1"
+        },
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "questionText": "<p>Which single string can you cut to unlevel the platform? Strings are illustrated in diagram as the thin lines.</p> <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-44.png' alt='Mechanical Hanging Platform V2 44'>",
+      "options": [
+        {
+          "text": "A"
+        },
+        {
+          "text": "B"
+        },
+        {
+          "text": "C"
+        },
+        {
+          "text": "No single cut can unlevel the bar."
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "questionText": "<p>In the figure below, the platform is held up by three (3) strings. Strings are illustrated in diagram as the thin lines. Which string is bearing the least weight?</p><img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-45.png' alt='Mechanical Hanging Platform V2 45'>",
+      "options": [
+        {
+          "text": "A"
+        },
+        {
+          "text": "B"
+        },
+        {
+          "text": "C"
+        },
+        {
+          "text": "A, B, and C are bearing equal weight."
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "questionText": "<p>In the figure below, the platform is held up by three (3) strings. Strings are illustrated in diagram as the thin lines. Which string is bearing the least weight? </p><img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-46.png' alt='Mechanical Hanging Platform V2 46'>",
+      "options": [
+        {
+          "text": "A"
+        },
+        {
+          "text": "B"
+        },
+        {
+          "text": "C"
+        },
+        {
+          "text": "A, B, and C are bearing equal weight."
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "questionText": "<p>Which string is bearing the most weight? Strings are illustrated in diagram as the thin lines.</p><img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-47.png' alt='Mechanical Hanging Platform V2 47'>",
+      "options": [
+        {
+          "text": "A"
+        },
+        {
+          "text": "B"
+        },
+        {
+          "text": "C"
+        },
+        {
+          "text": "A, B, and C are bearing equal weight."
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "questionText": "<p>In the figure below, the platform is held up by three (3) strings. Strings are illustrated in diagram as the thin lines. Which string is bearing the most weight? </p> <img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-48.png' alt='Mechanical Hanging Platform V2 48'>",
+      "options": [
+        {
+          "text": "A"
+        },
+        {
+          "text": "B"
+        },
+        {
+          "text": "C"
+        },
+        {
+          "text": "A, B, and C are bearing equal weight."
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "questionText": "<p>In the diagram, how will the wheel react to the weights placed on it? Assume the weights are equal.</p><img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-49.png' alt='Mechanical Hanging Weight Wheel V2 49'>",
+      "options": [
+        {
+          "text": "The wheel will remain in the same position."
+        },
+        {
+          "text": "The wheel will rotate to the right."
+        },
+        {
+          "text": "The wheel will rotate to the left."
+        },
+        {
+          "text": "The wheel will rotate left and then right."
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "questionText": "<p>In the diagram, how will the wheel react to the weights placed on it? Assume the weights are equal.</p><img src='/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-50.png' alt='Mechanical Hanging Weight Wheel V2 50'>",
+      "options": [
+        {
+          "text": "The wheel will remain in the same position."
+        },
+        {
+          "text": "The wheel will rotate to the right."
+        },
+        {
+          "text": "The wheel will rotate to the left."
+        },
+        {
+          "text": "The wheel will rotate left and then right."
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [
+        {
+          "id": "Mechanical2-1",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-1.png"
+        },
+        {
+          "id": "Mechanical2-2",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-2.png"
+        },
+        {
+          "id": "Mechanical2-3",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-3.png"
+        },
+        {
+          "id": "Mechanical2-4",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-4.png"
+        },
+        {
+          "id": "Mechanical2-5",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-5.png"
+        },
+        {
+          "id": "Mechanical2-6",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-6.png"
+        },
+        {
+          "id": "Mechanical2-7",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-7.png"
+        },
+        {
+          "id": "Mechanical2-8",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-8.png"
+        },
+        {
+          "id": "Mechanical2-9",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-9.png"
+        },
+        {
+          "id": "Mechanical2-10",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-10.png"
+        },
+        {
+          "id": "Mechanical2-11",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-11.png"
+        },
+        {
+          "id": "Mechanical2-12",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-12.png"
+        },
+        {
+          "id": "Mechanical2-13",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-13.png"
+        },
+        {
+          "id": "Mechanical2-14",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-14.png"
+        },
+        {
+          "id": "Mechanical2-15",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-15.png"
+        },
+        {
+          "id": "Mechanical2-16",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-16.png"
+        },
+        {
+          "id": "Mechanical2-17",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-17.png"
+        },
+        {
+          "id": "Mechanical2-18",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-18.png"
+        },
+        {
+          "id": "Mechanical2-19",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-19.png"
+        },
+        {
+          "id": "Mechanical2-20",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-20.png"
+        },
+        {
+          "id": "Mechanical2-21",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-21.png"
+        },
+        {
+          "id": "Mechanical2-22",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-22.png"
+        },
+        {
+          "id": "Mechanical2-23",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-23.png"
+        },
+        {
+          "id": "Mechanical2-24",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-24.png"
+        },
+        {
+          "id": "Mechanical2-25",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-25.png"
+        },
+        {
+          "id": "Mechanical2-26",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-26.png"
+        },
+        {
+          "id": "Mechanical2-27",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-27.png"
+        },
+        {
+          "id": "Mechanical2-28",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-28.png"
+        },
+        {
+          "id": "Mechanical2-29",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-29.png"
+        },
+        {
+          "id": "Mechanical2-30",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-30.png"
+        },
+        {
+          "id": "Mechanical2-31",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-31.png"
+        },
+        {
+          "id": "Mechanical2-32",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-32.png"
+        },
+        {
+          "id": "Mechanical2-33",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-33.png"
+        },
+        {
+          "id": "Mechanical2-34",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-34.png"
+        },
+        {
+          "id": "Mechanical2-35",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-35.png"
+        },
+        {
+          "id": "Mechanical2-36",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-36.png"
+        },
+        {
+          "id": "Mechanical2-37",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-37.png"
+        },
+        {
+          "id": "Mechanical2-38",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-38.png"
+        },
+        {
+          "id": "Mechanical2-39",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-39.png"
+        },
+        {
+          "id": "Mechanical2-40",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-40.png"
+        },
+        {
+          "id": "Mechanical2-41",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-41.png"
+        },
+        {
+          "id": "Mechanical2-42",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-42.png"
+        },
+        {
+          "id": "Mechanical2-43",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-43.png"
+        },
+        {
+          "id": "Mechanical2-44",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-44.png"
+        },
+        {
+          "id": "Mechanical2-45",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-45.png"
+        },
+        {
+          "id": "Mechanical2-46",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-46.png"
+        },
+        {
+          "id": "Mechanical2-47",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-47.png"
+        },
+        {
+          "id": "Mechanical2-48",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-48.png"
+        },
+        {
+          "id": "Mechanical2-49",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-49.png"
+        },
+        {
+          "id": "Mechanical2-50",
+          "url": "/content/image-library/mcq/examin/examin-mechanical2/Mechanical2-50.png"
+        }
+      ],
+      "audio": []
+    }
+  }
+}

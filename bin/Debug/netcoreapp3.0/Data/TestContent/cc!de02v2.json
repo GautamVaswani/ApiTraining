@@ -1,0 +1,155 @@
+{
+  "assessmentName": "Data Entry",
+  "playerType": "DataEntry",
+  "modeType": "data-entry-audio-mt",
+  "subType": "data-entry",
+  "instructions": "<span role='heading' aria-level='4'>Data Entry</span><br/><br/>    The following is a test of your ability to correctly enter data you see into the proper fields on the computer monitor.<br/><br/>    During this test, you will see names, addresses, telephone numbers, and other data on the right side of the screen. You should enter all the data exactly as it appears into the proper boxes on the left side of the screen. Once you have entered all of the data that appears in the box on the right, follow the on-screen instructions to see and enter the next set of data, and so on. Continue entering data until the time limit runs out.<br/><br/>    You may skip to the next set of data prior to your entering all of the data shown in the box on the right if you wish. However, you cannot return to the skipped data and failing to enter all of the data from the box on the right will result in a lower score.<br/><br/>    You will be graded on the speed and accuracy of the data you enter into the correct boxes. Do NOT use abbreviations in this section of the test.<br/><br/>    You will also need to respond to any emergency messages that appear in the bottom right corner of the screen by left-clicking your mouse over the agency to be dispatched. Failing to respond to a decision-making message within 15 seconds after the message first appears will result in a lower score.<br/>    ",
+  "timeLimit": 5,
+  "disableEmergency": false,
+  "MTquestions": [
+    {
+      "id": 1,
+      "queText": "Child climbed high up in tree and cannot get down.",
+      "startDelay": 5
+    },
+    {
+      "id": 2,
+      "queText": "Firefighter becomes ill after breathing in too much smoke.",
+      "startDelay": 55
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "inputs": [
+        "ANDREWS",
+        "RICK",
+        "309-269-1175",
+        "6389 CURRY",
+        "BELTON",
+        "96248",
+        "TMPN6249LJGJLB62",
+        "3NIVJKF",
+        "T3460297"
+      ]
+    },
+    {
+      "id": 2,
+      "inputs": [
+        "BLACK",
+        "RONALD",
+        "203-681-9211",
+        "1124 TYLER",
+        "HANSON",
+        "32465",
+        "1LMN26379GTPZEB7",
+        "3TAM905",
+        "D3692048"
+      ]
+    },
+    {
+      "id": 3,
+      "inputs": [
+        "COLLINS",
+        "GORDON",
+        "321-649-8024",
+        "2222 NORTHROP",
+        "GREAT FALLS",
+        "95670",
+        "2LTEP6491128DLP6",
+        "3TES462",
+        "G3698074"
+      ]
+    },
+    {
+      "id": 4,
+      "inputs": [
+        "DELPHI",
+        "PIPER",
+        "243-609-8150",
+        "8016 ARCAN",
+        "LAKE PLACER",
+        "62135",
+        "C0E362KB1633KLTP",
+        "MTV309",
+        "N263974"
+      ]
+    },
+    {
+      "id": 5,
+      "inputs": [
+        "HANSON",
+        "PRUELLEN",
+        "892-424-0571",
+        "5249 PERRY",
+        "OLD TOWN",
+        "95820",
+        "RMG317HD316289CT",
+        "1AP4019",
+        "D0213200"
+      ]
+    },
+    {
+      "id": 6,
+      "inputs": [
+        "SIMPSON",
+        "DIANA",
+        "670-956-2632",
+        "217 PERKINS",
+        "SALSA",
+        "82106",
+        "1FABPN362GR34652",
+        "54832H",
+        "G3629073"
+      ]
+    },
+    {
+      "id": 7,
+      "inputs": [
+        "VANCE",
+        "JANET",
+        "431-234-6215",
+        "2384 SIMSON",
+        "HESTER",
+        "63489",
+        "3HTCPT0573LMLPFP",
+        "R476390",
+        "C3694802"
+      ]
+    },
+    {
+      "id": 8,
+      "inputs": [
+        "WESTIN",
+        "CONNIE",
+        "331-996-6317",
+        "182 WICKER",
+        "JULIET",
+        "64622",
+        "JT2EA6831CLT3249",
+        "LMN324",
+        "P7735064"
+      ]
+    },
+    {
+      "id": 9,
+      "inputs": [
+        "TISCH",
+        "BURT",
+        "384-624-3982",
+        "4304 SURRY",
+        "CLAYTON",
+        "20619",
+        "ITEBPLKMKKA68934",
+        "3X24184",
+        "R6043189"
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

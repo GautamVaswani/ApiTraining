@@ -1,0 +1,104 @@
+{
+  "assessmentName": "Probability",
+  "playerType": "MCQ",
+  "lastModified": "06/09/2017",
+  "instruction": "",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "<p>Four calls came in reporting the sounds of gunfire coming from a house. The addresses the callers gave for where the gunshots came from were:</p> <p>Caller #1: 6597 Telegraph Street.</p><p>Caller #2: 5597 Telegraph Street.</p><p>Caller #3: 5997 Telegraph Street.</p><p>Caller #4: 5507 Telegraph Street.</p><p>Which of the following addresses is most likely correct?</p>",
+      "options": [
+        {
+          "text": "5597 Telegraph Street"
+        },
+        {
+          "text": "6597 Telegraph Street"
+        },
+        {
+          "text": "5997 Telegraph Street"
+        },
+        {
+          "text": "5507 Telegraph Street"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "<p>There was a traffic accident at a very busy intersection. Several witnesses describe the course of events as follows:</p><p>Witness #1: A vehicle was pulling left out of the parking lot and was struck by a drunk driver who didn't stop for the red light.</p><p>Witness #2: A vehicle pulled out of the parking lot too quickly and was struck from the side by a drunk driver.</p><p>Witness #3: A vehicle was just beginning to turn left when out of nowhere came the man in the blue Chevy.</p> <p>Witness #4: A drunken man was traveling very fast and ran the red light.</p><p>Which of the following scenarios is most likely correct?</p>",
+      "options": [
+        {
+          "text": "A drunken man was traveling very fast and ran the red light."
+        },
+        {
+          "text": "A vehicle pulled out of the parking lot too quickly and was struck from the side by a drunk driver."
+        },
+        {
+          "text": "A vehicle was pulling left out of the parking lot and was struck by a drunk driver who didn’t stop for the red light."
+        },
+        {
+          "text": "A vehicle was just beginning to turn left when out of nowhere came the man in the blue Chevy."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "<p>A group of women were seen tossing lit cigarettes into a trash container which caught fire. Several people saw the group of women and gave the following descriptions:</p><p>Witness #1: A group of black women that were wearing tank tops.</p><p>Witness #2: A group of white women that were wearing tank tops.</p><p>Witness #3: A group of white women that were cursing.</p><p>Witness #4: A group of Hispanic women that were wearing skimpy outfits. Which of the following descriptions is most likely correct?</p>",
+      "options": [
+        {
+          "text": "A group of black women that were wearing tank tops."
+        },
+        {
+          "text": "A group of black women that were cursing a great deal."
+        },
+        {
+          "text": "A group of white women that were wearing tank tops."
+        },
+        {
+          "text": "A group of Hispanic women that were wearing skimpy outfits."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionText": "<p>A car was seen weaving wildly down a road and it appeared the driver was intoxicated. Several witnesses provided police with the following license plate numbers and letters for the vehicle:</p><p>Witness #1: Q38TP.</p> <p>Witness #2: O37TF.</p><p>Witness #3: O387F.</p><p>Witness #4: O38TF.</p><p>Which one of these license plate numbers and letters is most likely correct?</p>",
+      "options": [
+        {
+          "text": "Q38TP"
+        },
+        {
+          "text": "O37TF"
+        },
+        {
+          "text": "O387F"
+        },
+        {
+          "text": "O38TF"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionText": "<p>George, a man with failing memory, is missing from the nursing home. Four people described what they recalled George was wearing earlier in the day:</p><p>Person #1: A dark bathrobe, a white T-shirt, gray pajama pants, and blue slippers.</p><p>Person #2: A dark sweatshirt, gray pants, and blue shoes.</p> <p>Person #3: White pajamas and grey slippers.</p> <p>Person #4: A navy blue bathrobe over a white pajama set.</p> <p>Which of the following descriptions is most likely correct?</p>",
+      "options": [
+        {
+          "text": "White pajamas, a white T-shirt, blue pants, and gray slippers."
+        },
+        {
+          "text": "A navy blue bathrobe, a white shirt, and white sneakers."
+        },
+        {
+          "text": "A navy blue bathrobe, white pajamas, and blue slippers."
+        },
+        {
+          "text": "A dark sweatshirt, gray shirt, blue pants, and white slippers."
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "audio": [],
+      "images": []
+    }
+  }
+}

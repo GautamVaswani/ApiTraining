@@ -1,0 +1,374 @@
+﻿{
+  "assessmentName": "Reading Comprehension",
+  "playerType": "MCQ",
+  "lastModified": "06/09/2017",
+  "instruction": "<p role=heading aria-level=3>Reading Comprehension</p><p>This section of the test contains multiple-choice questions, which you must answer by using your computer mouse to select the correct response. Upon answering a question, you can go to the next question by clicking the Next button on the Menu bar.</p><p>During this section of the test, if you choose you may skip an item and then later return to that item.</p><p>When you are finished, select Submit from the Menu bar. Your Test Administrator may have set a time limit for this test section. If there is a time limit, you will be told how much time you have. If a time limit has been set for this section of the test, you will notice a countdown timer on the Header of the screen, showing the amount of time remaining to complete this section of the test.</p>",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "<p>Sarah and Kim are the newly hired personnel division office assistants. They are replacing Tim and Jan. Due to poor treatment of potential clients, as well as other difficulties (e.g., poor typing and filing skills), Tim was let go. In contrast, Jan was given a promotion to the position of bookkeeper and will help the office manager supervise Sarah and Kim. The new hires both have plenty of administrative experience. For example, Kim is an excellent typist and Sarah has great people skills. The majority of Kim’s experience is in public sector and Sarah’s in the private sector. Please extend your welcome to our new administrative assistants. They should be welcome additions to the Company. According to the passage:</p>",
+      "options": [
+        {
+          "text": "Jan will be promoted to Tim’s position."
+        },
+        {
+          "text": "Tim was fired and Jan was promoted."
+        },
+        {
+          "text": "Sarah and Kim both have great people skills and experience in public agencies."
+        },
+        {
+          "text": "Kim is an excellent typist and will be a bookkeeper."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "<p>Please read the following email and answer the question accordingly.</p><p>Rick,</p><p>I need you to find (from our computer files) all the clients who currently hold accounts in AMC Mutual Funds. Your task is to create a client update report for only those clients who have invested money in foreign companies. Please draft summaries, which include the policy number, name of the foreign companies, and the date of the contract. I would also like you to list the dollar amount of the account’s worth on the date it was purchased and the dollar amount of the account’s current earnings (both in bolded font). Sincerely, Carol According to the email:</p>",
+      "options": [
+        {
+          "text": "Rick is responsible for creating an update report for all clients who have invested in domestic companies."
+        },
+        {
+          "text": "Carol would like a list of all the clients who hold accounts with AMC Mutual Funds that have high current earnings."
+        },
+        {
+          "text": "Rick’s task is to create an update report with client summaries including PIN number, company name, and contract termination date."
+        },
+        {
+          "text": "Rick is responsible for listing the account's worth upon purchase and current account earnings in bold."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "<p>Description of task: The employee files in the training room are in desperate need of some reorganization. Specifically the confidential cabinet is in need of updating. Please take out all records of employees who are no longer with the company (i.e., due to layoffs, resignation, etc.) and file those records in the archive cabinet (located in the reception closet). While reorganizing the confidential cabinet, please be aware of the private nature of the records. If you leave the training room to take a break or answer the phone, make sure that all files are in the cabinet and the cabinet is locked. According to the task:</p>",
+      "options": [
+        {
+          "text": "All the records of current employees must be taken out and filed in the archive cabinet."
+        },
+        {
+          "text": "While reorganizing the archive cabinet, the person performing the task should make sure the cabinet is locked when he/she leaves the training room."
+        },
+        {
+          "text": "The employee reorganizing the confidential cabinet should be aware of any suspicious personnel entering the training room."
+        },
+        {
+          "text": "Files of employees no longer with the company should be removed from the confidential cabinet."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionText": "<p>MEMO</p><p>Attention Staff: A lawyer from the neighboring office complex (12 North) was assaulted in the parking lot last week while walking to her car. Fortunately, she was able to scream for help and get away from the attacker, but the attacker was never apprehended. Due to this incident, all employees who leave the building after dark should ask a coworker to escort them to their car. If you are the last to leave the office, please call the building security (#5454) and they will be happy to walk you to your car. Please note that building security guards are on duty from 4:30 p.m. to midnight. In addition, there will be a mandatory building safety meeting next Thursday at 2:30 p.m. According to the memo:</p>",
+      "options": [
+        {
+          "text": "All staff members who leave the building after dark should receive an escort."
+        },
+        {
+          "text": "All staff members have the option of attending the building safety meeting on Thursday at 2:30 p.m."
+        },
+        {
+          "text": "The security guard was unable to catch the lawyer’s attacker."
+        },
+        {
+          "text": "The last person to leave the building will be contacted by a security guard and escorted to their car."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionText": "<p>Description of assignment: We recently received the new Federal Regulations packets and need to update the resource binders. Seventeen new packets arrived and each one contains different updated pages of the Regulations. Be sure to examine the page number and the section number when replacing the old regulations with the new. It is essential to place the old regulations in a separate pile as you go. This will help you to circumvent any confusion. If you get confused as to which are old and which are new, look at the date in the bottom right hand corner of every page. As soon as you have completed this assignment bring the binder to me so I can check your work. I would like to see the pile of old regulations in order to verify that you have replaced them properly. According to the passage, confusion may be avoided by:</p>",
+      "options": [
+        {
+          "text": "Separating the old regulations from the new regulations when making replacements."
+        },
+        {
+          "text": "Paying close attention to the page and section numbers of the new regulations."
+        },
+        {
+          "text": "Placing the old resource binders into separate piles."
+        },
+        {
+          "text": "Checking the date in the upper right hand corner of every regulations page."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionText": "<p>Office Supply Protocol: Office supplies are ordered every first Wednesday of the month. Employees who need supplies must submit the \"Supply Request Form\" to the office manager. This form can be completed on paper or electronically. Upon receiving paper requests, forms should be filed in the reception area cabinet under \"Office Supply Requests.\" If they are filled out and mailed electronically, file them in the network files under \"Office Supplies.\" Employees requesting supplies which cost over $30 will need to have the request form signed by their division manager. Requests must be submitted by the third Friday of each month. According to the passage:</p>",
+      "options": [
+        {
+          "text": "All office supply requests must be completed electronically and filed in the network files under \"Office Supply Requests\"."
+        },
+        {
+          "text": "All employees requesting office supplies must have the request signed by their division manager."
+        },
+        {
+          "text": "All office supply requests must be filed in the network files if electronic or in the reception area cabinet if paper."
+        },
+        {
+          "text": "All office supplies must be ordered on the third Wednesday and submitted by the first Friday of each month."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionText": "<p>Office Supply Protocol: On the last Monday of each month a spreadsheet (table) should be created with all requested office supplies. The far left-hand column will contain the name of each employee making the request and, in the column to the right, all supplies requested will be listed vertically item by item. The columns containing the requested office supply listing should be separated according to the employee’s division. Therefore, at the bottom of each division column, all supply costs can be totaled and sent to each division manager for the budget records. According to the Office Supply Protocol:</p>",
+      "options": [
+        {
+          "text": "All supply items should be listed horizontally, item by item, to the right of the employee’s name."
+        },
+        {
+          "text": "All supply costs should be totaled for each employee and sent to the division manager for budget records."
+        },
+        {
+          "text": "All supply costs for each division should be totaled and sent to the division manager for budget records."
+        },
+        {
+          "text": "Supply requests should be submitted by division managers once the final list is compiled."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionText": "<p>Office Supply Protocol: Office supplies should arrive in one to two weeks of the order Request (depending upon the size of the order). When the supplies arrive, separate them out by division and verify the supplies received to the spreadsheet list. Make a list of any supplies that did not arrive and phone the office store to request priority delivery. Also, check to make sure that all supplies which did arrive are listed in the original order. Load the supplies onto the dolly cart (located in the storage room), and deliver the orders to each division. Lastly, make sure that each division manager has signed the \"Supplies Received\" form, which is located on the dolly cart. According to the Office Supply Protocol:</p>",
+      "options": [
+        {
+          "text": "Supplies must be checked to ensure that separate divisions stayed within the budget."
+        },
+        {
+          "text": "Division managers are responsible for responding to supply orders that did not arrive."
+        },
+        {
+          "text": "Office supplies must be loaded on to a dolly cart and delivered to office supervisors."
+        },
+        {
+          "text": "Division managers must sign the “Supplies Received” form to complete a delivery."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionText": "<p>When an employee requests vacation, he/she must fill out a \"Vacation Request Form.\" Vacation requests must be submitted at least two weeks (10 business days) before the requested first day of the desired vacation. Requests which are submitted two weeks prior to the desired vacation dates will be considered based on amount of notice provided, the length of requested vacation, office work load (feasibly completed in employee’s absence), and the requesting employee’s available vacation hours. Requests that are not submitted two weeks prior to the desired vacation date will not be considered. The use of sick hours for vacation time is forbidden. Employees who appear to be using sick hours for vacation time (e.g., continuously \"sick\" on Mondays and Fridays) may be required to furnish management with notes from their doctors. According to this passage:</p>",
+      "options": [
+        {
+          "text": "Employee requests for sick leave can only be used if submitted 10 business days ahead of time and if the employee presents a note from his or her doctor."
+        },
+        {
+          "text": "Vacation will be considered for employees who allow two weeks for requests to process, submit the necessary forms, and have vacation time available."
+        },
+        {
+          "text": "Vacation requests that are submitted less than two weeks prior to the desired vacation time may still be considered depending on office workloads."
+        },
+        {
+          "text": "A doctor's note is unnecessary if an employee decides to use sick hours for vacation time."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionText": "<p>When an employee requests vacation, he/she must fill out a \"Vacation Request Form.\" Vacation requests must be submitted at least two weeks (10 business days) before the requested first day of the desired vacation. Requests which are submitted two weeks prior to the desired vacation dates will be considered based on amount of notice provided, the length of requested vacation, office work load (feasibly completed in employee’s absence), and the requesting employee’s available vacation hours. Requests that are not submitted two weeks prior to the desired vacation date will not be considered. The use of sick hours for vacation time is forbidden. Employees who appear to be using sick hours for vacation time (e.g., continuously \"sick\" on Mondays and Fridays) may be required to furnish management with notes from their doctors. This passage was intended to which of the following?</p>",
+      "options": [
+        {
+          "text": "To avoid the misuse of sick hours."
+        },
+        {
+          "text": "To provide directives for appropriate vacation requests."
+        },
+        {
+          "text": "To aid in the management of workloads and resources."
+        },
+        {
+          "text": "To decrease the risk of potential conflict between management and staff."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "questionText": "<p>When assembling marketing reports, the green binding machine (located in the storage cabinet), must be used. First, print out the number of reports needed along with front and back covers. Next, feed paper into hole puncher using no more than 10 pieces at a time. If more than 10 pieces are fed at a time it will jam the hole puncher. After holes have been punched in the entire document, place the 1 ½ inch binder rings on the binding machine prongs. The binding manual will offer a diagram demonstrating how to fasten the rings. Again, feed the paper about 10 pieces at a time and when finished, pull the binding lever up to lock. According to document binding directions:</p>",
+      "options": [
+        {
+          "text": "It is important to feed at least 10 pieces of paper at a time when hole punching to avoid jamming."
+        },
+        {
+          "text": "The hole puncher will jam if more than 10 pieces of paper are feed at one time."
+        },
+        {
+          "text": "The binding machine prongs need to line up with the front and back covers."
+        },
+        {
+          "text": "The green binding machine is located in the marketing cabinet."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "questionText": "<p>In general, it has been found that employees think performance appraisals are unfair when they are not allowed to participate. Employees also like to have supervisors provide them with enough information to explain the reason for their scores. Supervisors may think it is easier to evaluate an employee without going through such a time consuming process. Although, in the interest of employee relations it is really best to allow for participation and information sharing in the evaluation process. According to this passage which of the following is true?</p>",
+      "options": [
+        {
+          "text": "Supervisors should never try to provide employees with information concerning their scores."
+        },
+        {
+          "text": "Employees do not like to participate in performance evaluations and receive feedback justifying their scores."
+        },
+        {
+          "text": "It is typically a good idea to allow employees to participate in the evaluation process."
+        },
+        {
+          "text": "Supervisors believe it is easier to evaluate employees without having to justify their scores."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "questionText": "<p>Mary has worked for the State’s Fish and Game Department for 5 years as an office assistant. She has applied for the senior clerical coordinator in the State’s Department of Motor Vehicles. Mary’s cousin Rhonda applied for the same position. Rhonda has a total of 9 years experience as an office assistant at a private company. Despite the fact that Rhonda has more years of experience Mary will most likely get the job because she has already worked for the State. According to the above passage:</p>",
+      "options": [
+        {
+          "text": "Mary is unlikely to get the job because she worked for a private company."
+        },
+        {
+          "text": "Rhonda is unlikely to get the job because she has no State experience."
+        },
+        {
+          "text": "Rhonda has previous experience as a clerical coordinator at a private company."
+        },
+        {
+          "text": "Mary will likely get the job because she has more useful office skills."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "questionText": "<p>Mary has worked for the State’s Fish and Game Department for 5 years as an office assistant. She has applied for the senior clerical coordinator in the State’s Department of Motor Vehicles. Mary’s cousin Rhonda applied for the same position. Rhonda has a total of 9 years experience as an office assistant at a private company. Despite the fact that Rhonda has more years of experience Mary will most likely get the job because she has already worked for the State. From this passage, what may one conclude about public and private sector jobs?</p>",
+      "options": [
+        {
+          "text": "State jobs do not require as much skill as private sector jobs."
+        },
+        {
+          "text": "State jobs share greater similarities with each other than with private sector jobs."
+        },
+        {
+          "text": "The private sector jobs provide better training opportunities."
+        },
+        {
+          "text": "Public sector jobs have unfair selection processes."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "questionText": "<p>Simpson & James is in search of responsible persons to fill reception positions. A stable work history and record of dependability are crucial. The desired candidate should be comfortable with meeting the public and working in a multi-cultural professional setting. Prior experience with computers would be helpful. Start $30,000 per year, scaled for experience and skills. A raise will be granted after completion of a probationary period. Fax resume to W. James (555) 555-6789. Equal opportunity employer. According to the above passage, which qualification(s) is emphasized over all others?</p>",
+      "options": [
+        {
+          "text": "Comfortable with meeting the public"
+        },
+        {
+          "text": "Working in a multi-cultural and professional setting"
+        },
+        {
+          "text": "A stable work history and record of dependability"
+        },
+        {
+          "text": "Prior experience with computers"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "questionText": "<p>The official definition of a night worker is someone who works more than three hours between 11:00 pm and 6:00 am as part of the normal course of his or her job. Those who fall into this category should by law:</p><ul><li> not work more than an average of eight hours in each 24 hour time period for 17 consecutive weeks</li><li> get a medical check or health assessment provided for by the employer before beginning night work and at regular intervals</li><li> where possible, be allowed to switch to day work on medical advice</li><li> be 18 or over.</li></ul><p>Which of the following scenarios would be considered legal under these rules?</p>",
+      "options": [
+        {
+          "text": "A 24 year-old woman who works at a factory averaging 8.5 hrs a night for 17 consecutive weeks."
+        },
+        {
+          "text": "A 20 year-old man that pays out-of-pocket costs for periodic medical checks before beginning night work."
+        },
+        {
+          "text": "An 18 year-old with a minor medical condition who receives regular company sponsored health assessments."
+        },
+        {
+          "text": "A 17 year-old girl who works at a warehouse from 10:00 pm to 2:30 am a couple nights each week."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "questionText": "<p>According to company policy, employees who have traveled for company business must report all travel expenses. All employees should strive to stay within the allotted budget for meals, accommodations, gas, photocopying, and any miscellaneous work related expenses (not including entertainment). Costs for travel have already been established and are listed on the \"Standard Travel Expenses and Log Form.\" This form should be taken with employees while traveling as it allows them to examine standard costs and record expenses. The completed \"Standard Travel Expenses and Log Form\" and any accompanying receipts must be turned in within one week of their return date in order to ensure timely reimbursement. According to the passage:</p>",
+      "options": [
+        {
+          "text": "Employees may be reimbursed for meals, accommodations, gas, photocopying, and entertainment."
+        },
+        {
+          "text": "Employees should take the “Standard Travel Expense and Log Form” with them when they travel."
+        },
+        {
+          "text": "All reported travel expenses should be accompanied by receipts and reported within two weeks of the employee’s return date."
+        },
+        {
+          "text": "Only the travel expenses described should be turned in within one week of the return date to ensure timely reimbursement."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "questionText": "<p>MEMO To Finance Division Employees: Due to recent confusion concerning our division’s filing process, please take note of the following instructions. All client contracts must be alphabetically filed according to the type of organization (public or private), the size of the organization (number of work sites), and whether or not the materials need to be kept confidential. The Finance Division only files and processes confidential contracts and work plans for public and private organizations with two or more worksites. Private organization contracts must be filed in the reception room locked cabinet. Public organization contracts are kept in the training room locked cabinet. Keys to the locked cabinets may be obtained through the office manager, Jane Barns, on a sign-in/sign-out basis only. According to the memo:</p>",
+      "options": [
+        {
+          "text": "The financial division employees must file client contracts in the training room if the organization is public and has less than two sites."
+        },
+        {
+          "text": "The financial division employees must file client contracts in the reception room if the organization is public and has two or more sites."
+        },
+        {
+          "text": "Private and public work plans may be filed alphabetically in the same cabinet as long as it is locked."
+        },
+        {
+          "text": "The financial division employees only process contracts which are confidential and have two or more work sites."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "questionText": "<p>As an administrative assistant, it is important to remain pleasant and accommodating when talking to potential clients and business contacts whether on the phone or in person. All administrative assistants should receive plenty of training using a multiple lined phone prior to taking actual calls. This should help to avoid hang-ups and misdirected transfers. When entering the building, potential clients and business contacts should be warmly greeted. After promptly notifying the in-office personnel of the client’s arrival, it is a good idea for the administrative assistant to offer the client a beverage (e.g., coffee, tea, or water) while he or she waits. Which of the following sentences \"best\" summarizes this passage?</p>",
+      "options": [
+        {
+          "text": "An administrative assistant is essential to client relations."
+        },
+        {
+          "text": "Administrative assistants must receive proper training to perform their job well."
+        },
+        {
+          "text": "Administrative assistants should always be friendly around office personnel."
+        },
+        {
+          "text": "The taking and handling of calls is the primary duty of administrative assistants."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "questionText": "<p>MEMO: Last Wednesday a memo was circulated with regard to the rotten food left in the office refrigerator. It stated that all employees needed to label or clear out food temporarily if they did not want it to be thrown away on Friday. On Monday, I received several unhappy emails concerning missing food. All employees received adequate warning. Perhaps in the future every employee can take the time to remove old food. Due to the proximity of the administrative staff room to the refrigerator, we are constantly reminded of the problem by the daily stench. According to the passage:</p>",
+      "options": [
+        {
+          "text": "Employees received a two-day warning to label or temporarily clear out food."
+        },
+        {
+          "text": "The administrative staff took home all the food not claimed by employees."
+        },
+        {
+          "text": "The administrative staff sent several unhappy emails concerning missing food."
+        },
+        {
+          "text": "The refrigerator sits in close proximity to the break room."
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "audio": [],
+      "images": []
+    }
+  }
+}

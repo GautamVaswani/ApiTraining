@@ -1,0 +1,955 @@
+{
+  "assessmentName": "Accounting Public Principles",
+  "playerType": "MCQ",
+  "lastModified": "06/09/2017",
+  "instruction": "<P role=heading aria-level=3>Accounting Public Principles</P><P>This section of the test contains multiple-choice questions, which you must answer by using your computer mouse to select the correct response. Upon answering a question, you can go to the next question by clicking the Next button on the Menu bar.</P><P>During this section of the test, if you choose you may skip an item and then later return to that item.</P><P>When you are finished, select Submit from the Menu bar. Your Test Administrator may have set a time limit for this test section. If there is a time limit, you will be told how much time you have. If a time limit has been set for this section of the test, you will notice a countdown timer on the Header of the screen, showing the amount of time remaining to complete this section of the test.</P>",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "<P>Revenues should be budgeted and accounted for by fund and by source within the identified fund. Which of the following is an example of revenues budgeted and accounted for by fund?</P>",
+      "options": [
+        {
+          "text": "Net Assets"
+        },
+        {
+          "text": "Wages and Salaries Expense"
+        },
+        {
+          "text": "Special Revenue Expense"
+        },
+        {
+          "text": "Depreciation Expense"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "<P>Revenues should be budgeted and accounted for by fund and by source within the identified fund. Which of the following is an example of revenues budgeted and accounted for by source within the identified fund?</P>",
+      "options": [
+        {
+          "text": "Depreciation Fund"
+        },
+        {
+          "text": "Net Assets"
+        },
+        {
+          "text": "Other Financing Source"
+        },
+        {
+          "text": "Property Tax Revenue"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "<P>In order to demonstrate accountability, governments use up to five levels of subclassification in budgeting and accounting for expenditures. What are the five levels of expenditure subclassification?</P>",
+      "options": [
+        {
+          "text": "Fund, Function/Program, Governmental Entity, Activity, and Object."
+        },
+        {
+          "text": "Fund, Function/Program, Organizational Unit, Activity, and Object."
+        },
+        {
+          "text": "Fund, Function/Program, Organizational Unit, Locus of Control, and Object."
+        },
+        {
+          "text": "Fund, Function/Program, Governmental Entity, Locus of Control, and Object."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionText": "<P>Which of the following is an example of classifying expenditures by Function/Program for the General Fund of a city?</P>",
+      "options": [
+        {
+          "text": "Police Department"
+        },
+        {
+          "text": "Neighborhood Patrol"
+        },
+        {
+          "text": "Public Safety"
+        },
+        {
+          "text": "Personal Services"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionText": "<P>Which of the following is an example of classifying expenditures by Activity for the General Fund of a city?</P>",
+      "options": [
+        {
+          "text": "Police Department"
+        },
+        {
+          "text": "Neighborhood Patrol"
+        },
+        {
+          "text": "Public Safety"
+        },
+        {
+          "text": "Personal Services"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionText": "<P>Which of the following is an example of classifying expenditures by Object for the General Fund of a city?</P>",
+      "options": [
+        {
+          "text": "Fire Department"
+        },
+        {
+          "text": "First Response Aid"
+        },
+        {
+          "text": "Public Safety"
+        },
+        {
+          "text": "Supplies"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionText": "<P>Use of the economic resources measurement focus and accrual accounting for governmental and business activities in the government-wide financial statements, almost always requires adjustments for which one of the following?</P>",
+      "options": [
+        {
+          "text": "Accrual revenues recognized in internal service funds."
+        },
+        {
+          "text": "Property tax collections recognized in the general fund."
+        },
+        {
+          "text": "Capital Assets, including infrastructure assets, and their related depreciation."
+        },
+        {
+          "text": "Payments of debt principal in proprietary funds."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionText": "<P>Which measure of property tax collection efficiency is able to indicate whether or not year-to-year changes in tax rates may indicate that there are insufficient penalties for nonpayment of real properties?</P>",
+      "options": [
+        {
+          "text": "The Property Tax Collection Rate and the Property Tax Revenue Rate"
+        },
+        {
+          "text": "The Property Tax Collection Rate and the Property Tax Receivable Rate"
+        },
+        {
+          "text": "The Property Tax Assessment Rate and the Property Tax Receivable Rate"
+        },
+        {
+          "text": "The Property Tax Assessment Rate and the Property Tax Collection Rate"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionText": "<P>Many analysts of general purpose governments concentrate on the ‘quick ratio’ and the governmental fund financial statements to assess liquidity. Which of the following represents the calculation for the ‘quick ratio’?</P>",
+      "options": [
+        {
+          "text": "Current Assets / Current Liabilities"
+        },
+        {
+          "text": "(Cash + Cash Equivalents) / Current Liabilities"
+        },
+        {
+          "text": "(Cash + Cash Equivalents + Short Term Investments + Receivables) / Current Liabilities"
+        },
+        {
+          "text": "(Cash + Cash Equivalents + Receivables) / Current Liabilities"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionText": "<P>Which of the following statements is true regarding budget solvency?</P>",
+      "options": [
+        {
+          "text": "Entities with relatively stable revenue structures should maintain a larger cushion of unrestricted resources than those with relatively volatile revenue structures."
+        },
+        {
+          "text": "Analysts may rely on one period declines or increases in operating margins in order to determine the direction of operating results."
+        },
+        {
+          "text": "One indicator of expenditure instability is operating margin or the Net Change in Fund Balances over Total Revenues + Certain Transfers In."
+        },
+        {
+          "text": "A significant indicator of a general purpose government’s budgetary cushion is the ratio of unreserved fund balance to total revenues."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "questionText": "<P>What is the purpose of the Financial Condition assessment which uses financial statement analysis as a starting point?</P>",
+      "options": [
+        {
+          "text": "To draw inferences about the likely future ability of the entity to meet its financial obligations as they come due."
+        },
+        {
+          "text": "To provide services to its individual and corporate citizens."
+        },
+        {
+          "text": "To maintain services in the face of periodic economic contractions."
+        },
+        {
+          "text": "All of the above."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "questionText": "<P>Which of the following statements is true regarding budgetary accounting?</P>",
+      "options": [
+        {
+          "text": "The term expenditure refers to an estimate rather than an actual cost."
+        },
+        {
+          "text": "The term appropriation refers to the estimated future liability for goods or services resulting from placing a purchase order or signing a contract."
+        },
+        {
+          "text": "Reserve for Encumbrances is a budgetary account."
+        },
+        {
+          "text": "Estimated Revenues is debited when the budget is correctly journalized."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "questionText": "<img src='/content/image-library/mcq/examin/accounting-public2/AccountingPublic2-13.png' alt='Accounting Public V2 Table 13'><P>What is the journal entry to record the budget?</P>",
+      "options": [
+        {
+          "text": "Debit Appropriations 2,470,000; Credit Estimated Revenue 2,750,000; Debit Budgetary Fund Balance 280,000."
+        },
+        {
+          "text": "Debit Estimated Revenue 2,750,000; Credit Budgetary Fund Balance 280,000; Credit Appropriations 2,470,000."
+        },
+        {
+          "text": "Debit Expenditures 2,470,000; Credit Revenues 2,750,000; Debit Fund Balance 280,000."
+        },
+        {
+          "text": "Debit Revenue 2,750,000; Credit Expenditures 2,470,000; Credit Fund Balance 280,000."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "questionText": "<P>What does the \"available appropriations\" equal?</P>",
+      "options": [
+        {
+          "text": "Appropriations minus Encumbrances"
+        },
+        {
+          "text": "Estimated Revenues minus Appropriations"
+        },
+        {
+          "text": "Appropriations minus Encumbrances and Expenditures"
+        },
+        {
+          "text": "Encumbrances minus Expenditures"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "questionText": "<img src='/content/image-library/mcq/examin/accounting-public2/AccountingPublic2-15.png' alt='Accounting Public V2 Table 15'><P>Which of the following accounts in a closing entry would require debits? </P>",
+      "options": [
+        {
+          "text": "Appropriations, Revenues, and Encumbrances"
+        },
+        {
+          "text": "Appropriations, Budgetary Fund Balance, Revenues, and Budgetary Fund Balance -Reserve for Encumbrances"
+        },
+        {
+          "text": "Estimated Revenue, Revenue, and Budgetary Fund Balance -Reserve for Encumbrances."
+        },
+        {
+          "text": "Appropriations, Budgetary Fund Balance, and Expenditures."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "questionText": "<P>Which of the following statements is true regarding the reporting of Capital Assets by a state or local government?</P>",
+      "options": [
+        {
+          "text": "Proprietary Funds report capital assets in their statement of net assets."
+        },
+        {
+          "text": "Capital Assets are not reported by state or local governments."
+        },
+        {
+          "text": "The General Fund reports capital assets in a statement of net assets but the other governmental funds do not report capital assets."
+        },
+        {
+          "text": "Fiduciary Funds report capital assets in their balance sheets."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "questionText": "<img src='/content/image-library/mcq/examin/accounting-public2/AccountingPublic2-17.png' alt='Accounting Public V2 Table 17'><P>What would be the result of recording the receipt of the three vehicles in the General Fund? </P>",
+      "options": [
+        {
+          "text": "Debit to Expenditures for $217,000"
+        },
+        {
+          "text": "Debit to Expenditures for $225,000"
+        },
+        {
+          "text": "Debit to a vehicle asset account for $225,000"
+        },
+        {
+          "text": "Debit to a vehicle asset account for $217,000"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "questionText": "<P>Which of the following statements is false regarding interfund transactions?</P>",
+      "options": [
+        {
+          "text": "They result in the recognition of an ‘other financing use’ by the fund that transfers the amount to another fund."
+        },
+        {
+          "text": "They result in the recognition of an ‘other financing source’ by the fund that receives the amount from another fund."
+        },
+        {
+          "text": "Interfund transactions are not recognized under Generally Accepted Accounting Principles."
+        },
+        {
+          "text": "They result in the recognition of fund revenues, expenditures, or expenses if one of the parties is external to the government."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "questionText": "<img src='/content/image-library/mcq/examin/accounting-public2/AccountingPublic2-19.png' alt='Accounting Public V2 Table 19'><P>What amount would be recorded as assets in the respective funds? </P>",
+      "options": [
+        {
+          "text": "General Fund, $0; Enterprise Fund, $0."
+        },
+        {
+          "text": "General Fund, $33,000; Enterprise Fund, $71,000."
+        },
+        {
+          "text": "General Fund, $0; Enterprise Fund, $71,000."
+        },
+        {
+          "text": "General Fund, $104,000; Enterprise Fund, $0."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "questionText": "<P>The minimum requirement of ‘ten percent of the corresponding element(s)(e.g., assets, liabilities, revenues, or expenditures) of total governmental funds and five percent of the corresponding element(s) of total governmental and enterprise funds combined’ is the threshold for reporting which of the following?</P>",
+      "options": [
+        {
+          "text": "A governmental fund as a stand-alone government entity."
+        },
+        {
+          "text": "A governmental fund as a legislative unit."
+        },
+        {
+          "text": "A governmental fund as a major governmental fund."
+        },
+        {
+          "text": "A governmental fund as an internal service fund."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "questionText": "<P>What fund financial information does GAAP require to be reported in separate columns?</P>",
+      "options": [
+        {
+          "text": "Each major fund and each non-major fund."
+        },
+        {
+          "text": "Each major fund with aggregate information for non-major funds."
+        },
+        {
+          "text": "The governmental funds only."
+        },
+        {
+          "text": "It is not required for state and local governments."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "questionText": "<P>What does a fund financial statement for governmental funds include?</P>",
+      "options": [
+        {
+          "text": "Statement of Activities."
+        },
+        {
+          "text": "Statement of Net Assets."
+        },
+        {
+          "text": "Statement of Revenues, Expenses & Changes in Net Assets."
+        },
+        {
+          "text": "Statement of Revenues, Expenditures & Changes in Fund Balance."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "questionText": "<P>Which of the following items is not included in the General Fund operating statement?</P>",
+      "options": [
+        {
+          "text": "Expenditures"
+        },
+        {
+          "text": "Expenses"
+        },
+        {
+          "text": "Other financing sources and uses"
+        },
+        {
+          "text": "Revenues"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "questionText": "<P>What types of funds are used in governmental accounting?</P>",
+      "options": [
+        {
+          "text": "Governmental Funds, Proprietary Funds, and Fiduciary Funds"
+        },
+        {
+          "text": "Governmental Funds, Special Purpose Funds, and Trust Funds"
+        },
+        {
+          "text": "Cash Funds, Proprietary Funds, and Trust Funds"
+        },
+        {
+          "text": "Cash Funds, Special Purpose Funds, and Trust Funds"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "questionText": "<P>What is a fund?</P>",
+      "options": [
+        {
+          "text": "A segregated amount of cash and/or other financial resources managed by a trustee."
+        },
+        {
+          "text": "A self-balancing set of accounts that represents a separate accounting entity and a separate fiscal entity."
+        },
+        {
+          "text": "An accounting term used to represent each department or unit within the state or local government."
+        },
+        {
+          "text": "A self-balancing set of accounts that represents a separate accounting entity, but not a separate fiscal entity."
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "questionText": "<P>Which of the following statement is true about Proprietary Funds?</P>",
+      "options": [
+        {
+          "text": "They include Enterprise Funds, Special Revenue Funds, and the General Fund."
+        },
+        {
+          "text": "They must use accrual accounting."
+        },
+        {
+          "text": "Revenues are recorded only when the cash is received."
+        },
+        {
+          "text": "They account for activities that are unique to governmental agencies."
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "questionText": "<P>The General Fund accounts for the resources related to which type of activities?</P>",
+      "options": [
+        {
+          "text": "Resources legally designated for specific purposes that are separately reported."
+        },
+        {
+          "text": "Resources dedicated to pay principal and interest on general obligation debt."
+        },
+        {
+          "text": "Resources available for the general administrative operations."
+        },
+        {
+          "text": "Resources legally restricted to only earnings (and not principal) and may be used to support government funds."
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "questionText": "<P>Which of the following statements is false about the General Fund Interfund Transfers?",
+      "options": [
+        {
+          "text": "The General Fund records the receipt of an interfund transfer as an ‘other financing source’."
+        },
+        {
+          "text": "The General Fund records the receipt of an interfund transfer as a revenue."
+        },
+        {
+          "text": "The General Fund records an interfund transfer to another fund as an ‘other financing use’."
+        },
+        {
+          "text": "The General Fund reports an interfund transfer in the Statement of Revenues, Expenditures, & Changes in Fund Balance."
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "questionText": "<img src='/content/image-library/mcq/examin/accounting-public2/AccountingPublic2-29.png' alt='Accounting Public V2 Table 29'><P>When North City orders the police cars what journal entry, if any, should be prepared? </P>",
+      "options": [
+        {
+          "text": "No entry is needed"
+        },
+        {
+          "text": "Debit Expenditures 205,000, Credit Vouchers Payable 205,000"
+        },
+        {
+          "text": "Debit Police Cars 205,000, Credit Vouchers Payable 205,000"
+        },
+        {
+          "text": "Debit Encumbrances 205,000, Credit Fund Balance Reserved for Encumbrances 205,000"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "questionText": "<img src='/content/image-library/mcq/examin/accounting-public2/AccountingPublic2-30.png' alt='Accounting Public V2 Table 30'><P>When North City receives the police cars (payment not made yet) what journal entry(ies), if any, should be prepared? </P>",
+      "options": [
+        {
+          "text": "No entry is needed."
+        },
+        {
+          "text": "Debit Fund Balance Reserved for Encumbrances 205,000, Credit Encumbrances 205,000"
+        },
+        {
+          "text": "Debit Expenditures 205,000, Credit Vouchers Payable 205,000"
+        },
+        {
+          "text": "Both “B” and “C” are necessary journal entries"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "questionText": "<img src='/content/image-library/mcq/examin/accounting-public2/AccountingPublic2-31.png' alt='Accounting Public V2 Table 31'><P>What would recording the initial budget entry in the General Fund result in?",
+      "options": [
+        {
+          "text": "Debit to Budgetary Fund Balance for $600,000"
+        },
+        {
+          "text": "Credit to Budgetary Fund Balance for $600,000"
+        },
+        {
+          "text": "Debit to Budgetary Fund Balance for $700,000"
+        },
+        {
+          "text": "Credit to Budgetary Fund Balance for $700,000"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "questionText": "<P>Governmental Funds must use modified accrual accounting. What does modified accrual accounting mean?</P>",
+      "options": [
+        {
+          "text": "Revenues are recognized when measurable and available."
+        },
+        {
+          "text": "Revenues are recognized when earned, but expenditures are recognized with the cash flow."
+        },
+        {
+          "text": "Revenues are recognized when collected in cash."
+        },
+        {
+          "text": "Revenues are recognized when authorized by budget ordinance."
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "questionText": "<P>Which of the following fund types use the modified accrual basis of accounting?</P>",
+      "options": [
+        {
+          "text": "Internal Service Fund"
+        },
+        {
+          "text": "Pension Trust Fund"
+        },
+        {
+          "text": "Enterprise Fund"
+        },
+        {
+          "text": "Special Revenue Fund"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "questionText": "<P>Which of the following transactions is an example of an “other financing uses and/or source”?</P>",
+      "options": [
+        {
+          "text": "Regular periodic transfers of sources raised by one fund to another fund that will use the resource."
+        },
+        {
+          "text": "Cash collections of fines and forfeits during the current fiscal period."
+        },
+        {
+          "text": "The levy of property taxes."
+        },
+        {
+          "text": "Interest earned in Investments."
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "questionText": "<P>Which of the following statements is true regarding governmental financial statements?</P>",
+      "options": [
+        {
+          "text": "Government-wide financial statements include financial information presented for the General Fund and major governmental funds."
+        },
+        {
+          "text": "Government-wide financial statements report on the governmental and business-type activities of the government as a whole and not on the funds."
+        },
+        {
+          "text": "Governmental-type, proprietary-type, and fiduciary-type funds are not required to prepare fund’s financial statements."
+        },
+        {
+          "text": "There are two government-wide financial statements required: a balance sheet and an income statement."
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "questionText": "<P>The Government-wide financial statements report on the net assets and results of financial operations of the government as a whole. What other concept does the government-wide financial statements help accomplish?</P>",
+      "options": [
+        {
+          "text": "Operational Accountability"
+        },
+        {
+          "text": "Budgetary Compliance"
+        },
+        {
+          "text": "Fiscal Accountability"
+        },
+        {
+          "text": "Cost of Government Services"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "questionText": "<P>The Debt Service Fund accounts for the resources related to which type of activities?",
+      "options": [
+        {
+          "text": "Resources dedicated to acquiring or constructing major capital facilities."
+        },
+        {
+          "text": "Resources available for the general administrative operations."
+        },
+        {
+          "text": "Resources dedicated to pay principal and interest on general obligation debt."
+        },
+        {
+          "text": "Resources legally restricted to only earnings (and not principal) and may be used to support government funds."
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "questionText": "<P>What amount should be accounted for in a special revenue fund?",
+      "options": [
+        {
+          "text": "$1,700,000"
+        },
+        {
+          "text": "$2,372,000"
+        },
+        {
+          "text": "$4,000,000"
+        },
+        {
+          "text": "$4,072,000"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "questionText": "<P>The General Fund, Special Revenue Funds, Capital Projects Funds, Debt Service Funds, and Permanent Funds are all examples of which major category of Funds?",
+      "options": [
+        {
+          "text": "Governmental Funds"
+        },
+        {
+          "text": "Fiduciary Funds"
+        },
+        {
+          "text": "Proprietary Funds"
+        },
+        {
+          "text": "Enterprise Funds"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "questionText": "<P>The Pension Trust Fund is an example of which major category of Funds?",
+      "options": [
+        {
+          "text": "Permanent Funds"
+        },
+        {
+          "text": "Proprietary Funds"
+        },
+        {
+          "text": "Fiduciary Funds"
+        },
+        {
+          "text": "Governmental Funds"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "questionText": "<img src='/content/image-library/mcq/examin/accounting-public2/AccountingPublic2-41.png' alt='Accounting Public V2 Table 41'><P>Which fund type accounts for activities related to acquiring or constructing major capital facilities? </P>",
+      "options": [
+        {
+          "text": "Special Revenue Fund"
+        },
+        {
+          "text": "Permanent Fund"
+        },
+        {
+          "text": "General Fund"
+        },
+        {
+          "text": "Capital Projects Fund"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "questionText": "<P>Which of the following statements about the issuance of General Obligation Bonds is true?</P>",
+      "options": [
+        {
+          "text": "General Obligation Bonds Payable is reported as a liability of the General Fund."
+        },
+        {
+          "text": "The proceeds of the issuance would be recorded as a liability in the capital projects fund associated with the issuance."
+        },
+        {
+          "text": "The proceeds of the issuance would be recorded as an other financing source in the capital projects fund associated with the issuance."
+        },
+        {
+          "text": "The proceeds of the issuance would be recorded as a revenue in the capital projects fund associated with the issuance."
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "questionText": "<P>What body is authorized to establish accounting standards for all state and local governments, both general purpose and special purpose?</P>",
+      "options": [
+        {
+          "text": "GASB (Government Accounting Standards Board)"
+        },
+        {
+          "text": "FASB (Financial Accounting Standards Board)"
+        },
+        {
+          "text": "FASAB (Federal Accounting Standards Advising Board)"
+        },
+        {
+          "text": "SEC (Securities Exchange Commission)"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "questionText": "<P>Which of the following statements regarding the Federal Accounting Standards Advisory Board (FASAB) is true?</P>",
+      "options": [
+        {
+          "text": "It develops accounting standards and principles for the federal government."
+        },
+        {
+          "text": "Has its members appointed by the Financial Accounting Foundation (FAF)."
+        },
+        {
+          "text": "Coordinates its standard setting efforts with the Governmental Accounting Standards Board (GASB) before promulgating any standards."
+        },
+        {
+          "text": "Does not exist. The Governmental Accounting Standards Board is the standards setting body for all public sector entities."
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "questionText": "<P>Which of the following is not referred to in the Service Efforts and Accomplishments Reporting?</P>",
+      "options": [
+        {
+          "text": "Communication of selected measures of a government’s performance results."
+        },
+        {
+          "text": "A comparison of the government performance with private sector performance."
+        },
+        {
+          "text": "Public reporting of key service performance indicators in order to assess the actual accomplishment of a government’s goals and objectives."
+        },
+        {
+          "text": "Providing the public with information about how efficiently services were provided and how effective those services were."
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "questionText": "<P>What is the new, voluntary reporting GASB has instituted for all state and local governments as of July 14, 2010?</P>",
+      "options": [
+        {
+          "text": "Governmental Stability Reporting"
+        },
+        {
+          "text": "Budgetary Deficit Reporting"
+        },
+        {
+          "text": "Service Efforts and Accomplishments Reporting"
+        },
+        {
+          "text": "Fiscal and Operational Accountability Reporting"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "questionText": "<img src='/content/image-library/mcq/examin/accounting-public2/AccountingPublic2-47.png' alt='Accounting Public V2 Table 47'><P>Based on this information, what is the amount Large County would record as the total revenues in its General Fund? </P>",
+      "options": [
+        {
+          "text": "$427,500"
+        },
+        {
+          "text": "$501,000"
+        },
+        {
+          "text": "$427,500"
+        },
+        {
+          "text": "$399,000"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "questionText": "<img src='/content/image-library/mcq/examin/accounting-public2/AccountingPublic2-48.png' alt='Accounting Public V2 Table 48'><P>Based on this information, what would Large County record as the total receivables in its General Fund? </P>",
+      "options": [
+        {
+          "text": "$450,000"
+        },
+        {
+          "text": "$501,000"
+        },
+        {
+          "text": "$399,000"
+        },
+        {
+          "text": "$405,000"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "questionText": "<P>Which of the following statements regarding depreciation on capital assets is false ?</P>",
+      "options": [
+        {
+          "text": "It is recorded in proprietary funds and the business activities journal."
+        },
+        {
+          "text": "It is not recorded in the governmental funds."
+        },
+        {
+          "text": "It is a process used in proprietary funds to systematically and rationally allocate the cost of capital assets."
+        },
+        {
+          "text": "It is used to set aside funds for asset replacement."
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "questionText": "<P>The Internal Service Fund accounts for the resources related to which type of activities?</P>",
+      "options": [
+        {
+          "text": "Resources held in trust for employee retirement plans and other employee benefit plans."
+        },
+        {
+          "text": "Resources held in a custodial capacity that must be disbursed according to law or contractual agreement."
+        },
+        {
+          "text": "Resources used to supply goods and services for a fee to users external to the governmental unit."
+        },
+        {
+          "text": "Resources used to supply goods and services based on a continuing reimbursement within the governmental unit."
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [
+        {
+          "id": "AccountingPublic2-13",
+          "url": "/content/image-library/mcq/examin/accounting-public2/AccountingPublic2-13.png"
+        },
+        {
+          "id": "AccountingPublic2-15",
+          "url": "/content/image-library/mcq/examin/accounting-public2/AccountingPublic2-15.png"
+        },
+        {
+          "id": "AccountingPublic2-17",
+          "url": "/content/image-library/mcq/examin/accounting-public2/AccountingPublic2-17.png"
+        },
+        {
+          "id": "AccountingPublic2-19",
+          "url": "/content/image-library/mcq/examin/accounting-public2/AccountingPublic2-19.png"
+        },
+        {
+          "id": "AccountingPublic2-29",
+          "url": "/content/image-library/mcq/examin/accounting-public2/AccountingPublic2-29.png"
+        },
+        {
+          "id": "AccountingPublic2-30",
+          "url": "/content/image-library/mcq/examin/accounting-public2/AccountingPublic2-30.png"
+        },
+        {
+          "id": "AccountingPublic2-31",
+          "url": "/content/image-library/mcq/examin/accounting-public2/AccountingPublic2-31.png"
+        },
+        {
+          "id": "AccountingPublic2-41",
+          "url": "/content/image-library/mcq/examin/accounting-public2/AccountingPublic2-41.png"
+        },
+        {
+          "id": "AccountingPublic2-47",
+          "url": "/content/image-library/mcq/examin/accounting-public2/AccountingPublic2-47.png"
+        },
+        {
+          "id": "AccountingPublic2-48",
+          "url": "/content/image-library/mcq/examin/accounting-public2/AccountingPublic2-48.png"
+        }
+      ],
+      "audio": []
+    }
+  }
+}

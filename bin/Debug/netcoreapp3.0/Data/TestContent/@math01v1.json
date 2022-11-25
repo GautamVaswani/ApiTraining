@@ -1,0 +1,1094 @@
+{
+  "assessmentName": "Math Skills",
+  "playerType": "MCQ",
+  "lastModified": "06/09/2017",
+  "instruction": "<p role=heading aria-level=3>Math Skills</p><p>This section of the test contains multiple-choice questions, which you must answer by using your computer mouse to select the correct response. Upon answering a question, you can go to the next question by clicking the Next button on the Menu bar.</p><p>During this section of the test, if you choose you may skip an item and then later return to that item.</p><p>When you are finished, select Submit from the Menu bar. Your Test Administrator may have set a time limit for this test section. If there is a time limit, you will be told how much time you have. If a time limit has been set for this section of the test, you will notice a countdown timer on the Header of the screen, showing the amount of time remaining to complete this section of the test.</p>",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "<p>11 + 13 =</p>",
+      "options": [
+        {
+          "text": "24"
+        },
+        {
+          "text": "28"
+        },
+        {
+          "text": "14"
+        },
+        {
+          "text": "18"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "<p>18 + 27 =</p>",
+      "options": [
+        {
+          "text": "55"
+        },
+        {
+          "text": "45"
+        },
+        {
+          "text": "58"
+        },
+        {
+          "text": "48"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "<p>99 + 355 =</p>",
+      "options": [
+        {
+          "text": "434"
+        },
+        {
+          "text": "444"
+        },
+        {
+          "text": "454"
+        },
+        {
+          "text": "424"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionText": "<p>372 + 545 =</p>",
+      "options": [
+        {
+          "text": "877"
+        },
+        {
+          "text": "917"
+        },
+        {
+          "text": "927"
+        },
+        {
+          "text": "837"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionText": "<p>203 + 108 =</p>",
+      "options": [
+        {
+          "text": "332"
+        },
+        {
+          "text": "342"
+        },
+        {
+          "text": "321"
+        },
+        {
+          "text": "311"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionText": "<p>3122 + 4343 =</p>",
+      "options": [
+        {
+          "text": "7395"
+        },
+        {
+          "text": "7815"
+        },
+        {
+          "text": "7555"
+        },
+        {
+          "text": "7465"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionText": "<p>18 - 4 =</p>",
+      "options": [
+        {
+          "text": "16"
+        },
+        {
+          "text": "11"
+        },
+        {
+          "text": "14"
+        },
+        {
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionText": "<p>246 - 33 =</p>",
+      "options": [
+        {
+          "text": "219"
+        },
+        {
+          "text": "213"
+        },
+        {
+          "text": "199"
+        },
+        {
+          "text": "113"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionText": "<p>116 - 98 =</p>",
+      "options": [
+        {
+          "text": "18"
+        },
+        {
+          "text": "22"
+        },
+        {
+          "text": "12"
+        },
+        {
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionText": "<p>534 - 425 =</p>",
+      "options": [
+        {
+          "text": "89"
+        },
+        {
+          "text": "109"
+        },
+        {
+          "text": "121"
+        },
+        {
+          "text": "91"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "questionText": "<p>123 - 6231 =</p>",
+      "options": [
+        {
+          "text": "-6801"
+        },
+        {
+          "text": "-6810"
+        },
+        {
+          "text": "-6108"
+        },
+        {
+          "text": "-6618"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "questionText": "<p>9632 - 11252 =</p>",
+      "options": [
+        {
+          "text": "-1720"
+        },
+        {
+          "text": "-1640"
+        },
+        {
+          "text": "-1620"
+        },
+        {
+          "text": "-1610"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "questionText": "<p>7 X 11 =</p>",
+      "options": [
+        {
+          "text": "71"
+        },
+        {
+          "text": "77"
+        },
+        {
+          "text": "18"
+        },
+        {
+          "text": "711"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "questionText": "<p>8 X 16 =</p>",
+      "options": [
+        {
+          "text": "488"
+        },
+        {
+          "text": "128"
+        },
+        {
+          "text": "182"
+        },
+        {
+          "text": "88"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "questionText": "<p>22 X 99 =</p>",
+      "options": [
+        {
+          "text": "2178"
+        },
+        {
+          "text": "218"
+        },
+        {
+          "text": "121"
+        },
+        {
+          "text": "2187"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "questionText": "<p>24 X 56 =</p>",
+      "options": [
+        {
+          "text": "1244"
+        },
+        {
+          "text": "264"
+        },
+        {
+          "text": "1344"
+        },
+        {
+          "text": "800"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "questionText": "<p>213 X 673 =</p>",
+      "options": [
+        {
+          "text": "139443"
+        },
+        {
+          "text": "144349"
+        },
+        {
+          "text": "134349"
+        },
+        {
+          "text": "143349"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "questionText": "<p>789 X 654 =</p>",
+      "options": [
+        {
+          "text": "516006"
+        },
+        {
+          "text": "515217"
+        },
+        {
+          "text": "515352"
+        },
+        {
+          "text": "508116"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "questionText": "<p>3574 X 324 =</p>",
+      "options": [
+        {
+          "text": "1122236"
+        },
+        {
+          "text": "1157976"
+        },
+        {
+          "text": "1157967"
+        },
+        {
+          "text": "1154402"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "questionText": "<p>27 ÷ 3 =</p>",
+      "options": [
+        {
+          "text": "24"
+        },
+        {
+          "text": "7"
+        },
+        {
+          "text": "9"
+        },
+        {
+          "text": "30"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "questionText": "<p>48 / 8 =</p>",
+      "options": [
+        {
+          "text": "9"
+        },
+        {
+          "text": "7"
+        },
+        {
+          "text": "8"
+        },
+        {
+          "text": "6"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "questionText": "<p>490 / 7 =</p>",
+      "options": [
+        {
+          "text": "70"
+        },
+        {
+          "text": "50"
+        },
+        {
+          "text": "63"
+        },
+        {
+          "text": "73"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "questionText": "<p>783 / 9 =</p>",
+      "options": [
+        {
+          "text": "73"
+        },
+        {
+          "text": "77"
+        },
+        {
+          "text": "87"
+        },
+        {
+          "text": "33"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "questionText": "<p>532 / 7 =</p>",
+      "options": [
+        {
+          "text": "81"
+        },
+        {
+          "text": "76"
+        },
+        {
+          "text": "67"
+        },
+        {
+          "text": "66"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "questionText": "<p>3000 / 50 =</p>",
+      "options": [
+        {
+          "text": "6"
+        },
+        {
+          "text": "600"
+        },
+        {
+          "text": "60"
+        },
+        {
+          "text": "65"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "questionText": "<p>Solve for X in the following formula.</p> <p>X - 9 = 2</p>",
+      "options": [
+        {
+          "text": "7"
+        },
+        {
+          "text": "29"
+        },
+        {
+          "text": "11"
+        },
+        {
+          "text": "16"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "questionText": "<p>Solve for X in the following formula.</p><p> 6(X) = 48</p>",
+      "options": [
+        {
+          "text": "42"
+        },
+        {
+          "text": "8"
+        },
+        {
+          "text": "54"
+        },
+        {
+          "text": "6"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "questionText": "<p>Solve for X in the following formula. </p><p>X/9 = 4</p>",
+      "options": [
+        {
+          "text": "5"
+        },
+        {
+          "text": "13"
+        },
+        {
+          "text": "36"
+        },
+        {
+          "text": "45"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "questionText": "<p>Solve for X in the following formula. </p><p>18 + X = 32</p>",
+      "options": [
+        {
+          "text": "18"
+        },
+        {
+          "text": "24"
+        },
+        {
+          "text": "26"
+        },
+        {
+          "text": "14"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "questionText": "<p>Solve for X in the following formula.</p> <p>11 + X = 44</p>",
+      "options": [
+        {
+          "text": "33"
+        },
+        {
+          "text": "22"
+        },
+        {
+          "text": "55"
+        },
+        {
+          "text": "11"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "questionText": "<p>Solve for X in the following formula.</p> <p>14 - X = 4</p>",
+      "options": [
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "7"
+        },
+        {
+          "text": "10"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "questionText": "<p>Solve for X in the following formula.</p> <p>8(X) = 64</p>",
+      "options": [
+        {
+          "text": "8"
+        },
+        {
+          "text": "9"
+        },
+        {
+          "text": "11"
+        },
+        {
+          "text": "14"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "questionText": "<p>Solve for X in the following formula. </p><p>21 / X = 3</p>",
+      "options": [
+        {
+          "text": "3"
+        },
+        {
+          "text": "5"
+        },
+        {
+          "text": "7"
+        },
+        {
+          "text": "9"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "questionText": "<p>Solve for X in the following formula. </p><p>52 - (X / 7) = 15</p>",
+      "options": [
+        {
+          "text": "-37"
+        },
+        {
+          "text": "259"
+        },
+        {
+          "text": "295"
+        },
+        {
+          "text": "105"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "questionText": "<p>Solve for X in the following formula. </p><p>(35 + X) / 12 = 10</p>",
+      "options": [
+        {
+          "text": "12"
+        },
+        {
+          "text": "85"
+        },
+        {
+          "text": "58"
+        },
+        {
+          "text": "67"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "questionText": "<p>What is the average of the following numbers? Round to two decimal places in appropriate. </p><p>15, 65</p>",
+      "options": [
+        {
+          "text": "43"
+        },
+        {
+          "text": "50"
+        },
+        {
+          "text": "45"
+        },
+        {
+          "text": "40"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "questionText": "<p>What is the average of the following numbers? Round to two decimal places if appropriate. </p><p>77, 66</p>",
+      "options": [
+        {
+          "text": "79.50"
+        },
+        {
+          "text": "133"
+        },
+        {
+          "text": "11"
+        },
+        {
+          "text": "71.50"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "questionText": "<p>What is the average of the following numbers? Round to two decimal places if appropriate. </p><p>33, 10, 77</p>",
+      "options": [
+        {
+          "text": "40"
+        },
+        {
+          "text": "41.20"
+        },
+        {
+          "text": "120"
+        },
+        {
+          "text": "360"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "questionText": "<p>What is the average of the following numbers? Round to two decimal places if appropriate. </p><p>25, 26, 38</p>",
+      "options": [
+        {
+          "text": "28.46"
+        },
+        {
+          "text": "89.67"
+        },
+        {
+          "text": "29.67"
+        },
+        {
+          "text": "89"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "questionText": "<p>What is the average of the following numbers? Round to two decimal places if appropriate. </p><p>77, 94, 88, 66</p>",
+      "options": [
+        {
+          "text": "80.56"
+        },
+        {
+          "text": "81.25"
+        },
+        {
+          "text": "81.99"
+        },
+        {
+          "text": "80.25"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "questionText": "<p>What is the median of the following numbers? Round to two decimal places if appropriate.</p> <p>2, 8, 13</p>",
+      "options": [
+        {
+          "text": "5"
+        },
+        {
+          "text": "7.67"
+        },
+        {
+          "text": "23"
+        },
+        {
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "questionText": "<p>What is the median of the following numbers? Round to two decimal places if appropriate. </p><p>3, 14, 21, 24, 28, 51</p>",
+      "options": [
+        {
+          "text": "22.50"
+        },
+        {
+          "text": "23"
+        },
+        {
+          "text": "22"
+        },
+        {
+          "text": "23.50"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "questionText": "<p>What is the median of the following numbers? Round to two decimal places if appropriate. </p><p>4, 4, 4, 7, 9, 9, 12</p>",
+      "options": [
+        {
+          "text": "9"
+        },
+        {
+          "text": "7"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "5.33"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "questionText": "<p>What is the median of the following numbers? Round to two decimal places if appropriate.</p> <p>1, 2, 8, 13, 71, 115</p>",
+      "options": [
+        {
+          "text": "8"
+        },
+        {
+          "text": "35"
+        },
+        {
+          "text": "13"
+        },
+        {
+          "text": "10.50"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "questionText": "<p>What is the median of the following numbers? Round to two decimal places if appropriate. </p><p>42, 44, 62, 64, 71, 104, 165, 176</p>",
+      "options": [
+        {
+          "text": "67.50"
+        },
+        {
+          "text": "91"
+        },
+        {
+          "text": "104"
+        },
+        {
+          "text": "71"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "questionText": "<p>Today an account has 83 dollars. Yesterday it had 45 dollars. By what percentage did the the money in the account increase from yesterday? If necessary, round your answer to two decimal places.</p>",
+      "options": [
+        {
+          "text": "184.44%"
+        },
+        {
+          "text": "84.44%"
+        },
+        {
+          "text": "54.22%"
+        },
+        {
+          "text": "154.22%"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "questionText": "<p>Today an account has 79 dollars. Yesterday it had 211 dollars. By what percentage did the money in the account decrease from yesterday? If necessary, round your answer to two decimal places.</p>",
+      "options": [
+        {
+          "text": "62.56%"
+        },
+        {
+          "text": "267.09%"
+        },
+        {
+          "text": "167.09%"
+        },
+        {
+          "text": "37.44%"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "questionText": "<p>What number is 35% less than 62? If necessary, round your answer to two decimal places.</p>",
+      "options": [
+        {
+          "text": "35.30"
+        },
+        {
+          "text": "40.30"
+        },
+        {
+          "text": "10.53"
+        },
+        {
+          "text": "-50.15"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "questionText": "<p>What number is 41% more than 70? If necessary, round your answer to two decimal places.</p>",
+      "options": [
+        {
+          "text": "98.70"
+        },
+        {
+          "text": "9.87"
+        },
+        {
+          "text": "-50.15"
+        },
+        {
+          "text": "120.20"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "questionText": "<p>What number is 65% more than 3? If necessary, round your answer to two decimal places.</p>",
+      "options": [
+        {
+          "text": "5.25"
+        },
+        {
+          "text": "4.95"
+        },
+        {
+          "text": "3.95"
+        },
+        {
+          "text": "4.65"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "questionText": "<p>What is 2/3rds of 110? If necessary, round your answer to two decimal places.</p>",
+      "options": [
+        {
+          "text": "73.33"
+        },
+        {
+          "text": "230"
+        },
+        {
+          "text": "160"
+        },
+        {
+          "text": "75"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "questionText": "<p>What is 9/5ths of 7? If necessary, round your answer to two decimal places.</p>",
+      "options": [
+        {
+          "text": "15"
+        },
+        {
+          "text": "63"
+        },
+        {
+          "text": "3.89"
+        },
+        {
+          "text": "12.60"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "questionText": "<p>1/16 + 5/16 =</p>",
+      "options": [
+        {
+          "text": "6/16"
+        },
+        {
+          "text": "7/16"
+        },
+        {
+          "text": "13/32"
+        },
+        {
+          "text": "15/32"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "questionText": "<p>1 5 / 8 + 9 7 / 8 =</p>",
+      "options": [
+        {
+          "text": "11 3 / 4"
+        },
+        {
+          "text": "11 5 / 8"
+        },
+        {
+          "text": "12"
+        },
+        {
+          "text": "11 1 / 2"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "questionText": "<p>3/16 + 6/32 =</p>",
+      "options": [
+        {
+          "text": "9/32"
+        },
+        {
+          "text": "9/16"
+        },
+        {
+          "text": "16/32"
+        },
+        {
+          "text": "3/8"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "questionText": "<p>13.78 + 9.75 =</p>",
+      "options": [
+        {
+          "text": "23.63"
+        },
+        {
+          "text": "23.52"
+        },
+        {
+          "text": "24.53"
+        },
+        {
+          "text": "23.53"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "questionText": "<p>0.6 - 0.32 =</p>",
+      "options": [
+        {
+          "text": "0.28"
+        },
+        {
+          "text": "-0.26"
+        },
+        {
+          "text": "-0.28"
+        },
+        {
+          "text": "0.38"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "questionText": "<p>0.46 - 0.37 =</p>",
+      "options": [
+        {
+          "text": "0.12"
+        },
+        {
+          "text": "0.11"
+        },
+        {
+          "text": "0.09"
+        },
+        {
+          "text": "0.90"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "questionText": "<p>94 - 94.58 =</p>",
+      "options": [
+        {
+          "text": "-0.42"
+        },
+        {
+          "text": "0.42"
+        },
+        {
+          "text": "0.58"
+        },
+        {
+          "text": "-0.58"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "questionText": "<p>22.56 + 133.86 =</p>",
+      "options": [
+        {
+          "text": "156.42"
+        },
+        {
+          "text": "156.52"
+        },
+        {
+          "text": "155.42"
+        },
+        {
+          "text": "155.52"
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

@@ -1,0 +1,593 @@
+{
+  "assessmentName": "Customer Service Interaction",
+  "playerType": "DataEntry",
+  "modeType": "customer-service-interaction",
+  "instructions": "<b role=heading aria-level=3>CUSTOMER SERVICE INTERACTION TEST</b><br /><br />You are about to start the \"Customer Service Interaction\" test.  For this test, you will need to listen to information that is provided to you through the computer. We recommend using a headset or a set of quality speakers.<br /><br />During this test you will play the role of a customer service agent who is responding to telephone calls for service.  To do this you must first answer the call and enter the caller’s name and telephone number.  When the \"Incoming Call\" button begins flashing and you hear the telephone ringing, click on the button to answer the call.  After the customer provides you with their name and telephone number and you have entered that information in the appropriate fields, click the \"Run Search\" button.<br /><br />Once you have brought up the customer information and at various points throughout the test, you will be presented with three different ways you, as the customer service agent, might respond to the caller.  At those times, you will be asked to select the \"<b>Most effective</b>\" and \"<b>Least effective</b>\" response of the three choices.  Each choice will be presented in a written format and will also have an audio version for you to listen to.  You can listen to the response by clicking on the \"Play Audio\" button next to each response.<br /><br />The \"<b>Most effective</b>\" response is the one which, in general, is most likely to create a good impression of the customer service agent to the caller in terms of communication, politeness, interpersonal interaction, demonstrating sound judgment, and effectively addressing the caller’s issues.<br /><br />The \"<b>Least effective</b>\" response one which, in general, is most likely to create a poor impression of the customer service agent to the caller.<br /><br />If there appears to be more than one most effective or least effective response, then please do your best to choose between them to indicate the very most effective or very least effective response.<br /><br />Please choose one \"<b>Most effective</b>\" response and one \"<b>Least effective</b>\" response by clicking on the appropriate radio buttons.<br /><br />Finally, at any time during this test you may click on the \"Repeat caller’s last statement\" button if you wish to hear the caller’s last comment again.<br /><br />Good luck!",
+  "questions": [
+    {
+      "callType": "service-call",
+      "firstName": "Cindy",
+      "lastName": "Mayerson",
+      "phoneNo": "525-347-4346",
+      "notes": "Name: Mayerson, Cindy<br />Prefix: Mrs.<br />Address: 4627 Arlon Place<br />Telephone: 786-427-8911<br />History: Purchased Gold Service<br />Payment History: Credit card finance charge debited and then credited.<br />Credit card expiration date: 5/2009",
+      "mcqQuestions": [
+        {
+          "questionAudioId": "C2101",
+          "responces": [
+            {
+              "responceAudioId": "2101A",
+              "responceText": "Thank you. I'm just pulling up your account information now. There it is; now, what can I do for you?"
+            },
+            {
+              "responceAudioId": "2101B",
+              "responceText": "Give me a minute. Okay, now how can I help you?"
+            },
+            {
+              "responceAudioId": "2101C",
+              "responceText": "Okay, I've brought it up on my screen. Now, how may I assist you today?"
+            }
+          ]
+        },
+        {
+          "questionAudioId": "C2102",
+          "responces": [
+            {
+              "responceAudioId": "2102A",
+              "responceText": "Why do you want to cancel?"
+            },
+            {
+              "responceAudioId": "2102B",
+              "responceText": "I'm sorry to hear that. Would you mind giving us feedback as to why you want to cancel?"
+            },
+            {
+              "responceAudioId": "2102C",
+              "responceText": "I'm so sorry to hear that you are upset with our company. Is there any way we can improve our service?"
+            }
+          ]
+        },
+        {
+          "questionAudioId": "C2103",
+          "responces": [
+            {
+              "responceAudioId": "2103A",
+              "responceText": "Mrs. Mayerson, I understand why you're so upset. I would be upset, too, if I had monthly service problems; That's why I'm going to resolve this for you right away."
+            },
+            {
+              "responceAudioId": "2103B",
+              "responceText": "Mrs. Mayerson, please tell me specifically what the service problems are, I can begin to resolve them for you."
+            },
+            {
+              "responceAudioId": "2103C",
+              "responceText": "Mrs. Mayerson, you've got two choices: either you settle down now or call back when you have."
+            }
+          ]
+        },
+        {
+          "questionAudioId": "C2104",
+          "responces": [
+            {
+              "responceAudioId": "2104A",
+              "responceText": "Yes, you were rude, but I understand your frustration."
+            },
+            {
+              "responceAudioId": "2104B",
+              "responceText": "It's okay to be upset, but being upset doesn't solve anything."
+            },
+            {
+              "responceAudioId": "2104C",
+              "responceText": "I understand how you feel. That would be upsetting to me also."
+            }
+          ]
+        },
+        {
+          "questionAudioId": "C2105",
+          "responces": [
+            {
+              "responceAudioId": "2105A",
+              "responceText": "I see the credit. I guess we must have messed up."
+            },
+            {
+              "responceAudioId": "2105B",
+              "responceText": "Yes, according to our records a charge was deleted and a credit was issued."
+            },
+            {
+              "responceAudioId": "2105C",
+              "responceText": "Yes, I see a correction was made to your account."
+            }
+          ]
+        },
+        {
+          "questionAudioId": "C2106",
+          "responces": [
+            {
+              "responceAudioId": "2106A",
+              "responceText": "You are absolutely right; you shouldn't be accruing any finance charges for full payment. Let's verify your credit card information; please tell me the expiration date."
+            },
+            {
+              "responceAudioId": "2106B",
+              "responceText": "Of course not. We would never do that. Let's just check your credit card information. I'll just need your credit card expiration date."
+            },
+            {
+              "responceAudioId": "2106C",
+              "responceText": "We would never do that. Maybe the mistake is on your end. Please give me your credit card expiration date so I can check."
+            }
+          ]
+        },
+        {
+          "questionAudioId": "C2107",
+          "responces": [
+            {
+              "responceAudioId": "2107A",
+              "responceText": "I didn't understand a word you said. If you want me to help you, you will have to repeat it."
+            },
+            {
+              "responceAudioId": "2107B",
+              "responceText": "I'm sorry. Would you mind repeating that slowly for me?"
+            },
+            {
+              "responceAudioId": "2107C",
+              "responceText": "Would you mind repeating that?"
+            }
+          ]
+        },
+        {
+          "questionAudioId": "C2108",
+          "responces": [
+            {
+              "responceAudioId": "2108A",
+              "responceText": "I'm sorry. But the date you told me is not correct."
+            },
+            {
+              "responceAudioId": "2108B",
+              "responceText": "We have a different expiration date on record. Are you sure of that expiration date?"
+            },
+            {
+              "responceAudioId": "2108C",
+              "responceText": "Are you sure you gave me the correct expiration date?"
+            }
+          ]
+        },
+        {
+          "questionAudioId": "C2109",
+          "responces": [
+            {
+              "responceAudioId": "2109A",
+              "responceText": "I wish you had told me that earlier. That would have saved us both some time. Anything else on your mind today?"
+            },
+            {
+              "responceAudioId": "2109B",
+              "responceText": "It's okay, Ms. Mayerson. Have you got any other concerns I can help you with today?"
+            },
+            {
+              "responceAudioId": "2109C",
+              "responceText": "That seems to have been what caused the finance charges. Anything else I can do for you today?"
+            }
+          ]
+        },
+        {
+          "questionAudioId": "C2110",
+          "responces": [
+            {
+              "responceAudioId": "2110A",
+              "responceText": "Okay, have a good day. Goodbye."
+            },
+            {
+              "responceAudioId": "2110B",
+              "responceText": "Okay, if that's it, it's time for me to go. Call back if you have further questions. Have a good day."
+            },
+            {
+              "responceAudioId": "2110C",
+              "responceText": "I'm glad I could help you today. If you have any more questions, please feel free to call back. Good bye."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callType": "product-call",
+      "firstName": "Mary",
+      "lastName": "Madison",
+      "phoneNo": "723-375-7591",
+      "notes": "Name: Madison, Mary<br />Prefix: Miss<br />Address: 4657 Tilton Place<br />Telephone: 723-375-7591<br />History: Purchased Model Z3<br />Payment History: Paid by credit card<br />Credit card expiration date: 4/2010",
+      "mcqQuestions": [
+        {
+          "questionAudioId": "C2201",
+          "responces": [
+            {
+              "responceAudioId": "2201A",
+              "responceText": "How may I assist you, Ms. Madison?"
+            },
+            {
+              "responceAudioId": "2201B",
+              "responceText": "Tell me what's going on, Ms. Madison."
+            },
+            {
+              "responceAudioId": "2201C",
+              "responceText": "What do you want, Ms. Madison?"
+            }
+          ]
+        },
+        {
+          "questionAudioId": "C2202",
+          "responces": [
+            {
+              "responceAudioId": "2202A",
+              "responceText": "I am sorry to hear that. Let's get back to your concern."
+            },
+            {
+              "responceAudioId": "2202B",
+              "responceText": "That's not our problem. Let's find out what your problem is."
+            },
+            {
+              "responceAudioId": "2202C",
+              "responceText": "Let's get back to your concern."
+            }
+          ]
+        },
+        {
+          "questionAudioId": "C2203",
+          "responces": [
+            {
+              "responceAudioId": "2203A",
+              "responceText": "I didn't break your part, but I'll send you another one."
+            },
+            {
+              "responceAudioId": "2203B",
+              "responceText": "This afternoon, our shipping department will ship you a replacement part."
+            },
+            {
+              "responceAudioId": "2203C",
+              "responceText": "I guess we could ship you a new replacement part."
+            }
+          ]
+        },
+        {
+          "questionAudioId": "C2204",
+          "responces": [
+            {
+              "responceAudioId": "2204A",
+              "responceText": "You'll get the part when your post office finally delivers it."
+            },
+            {
+              "responceAudioId": "2204B",
+              "responceText": "You should be receiving it in five to seven business days, most likely."
+            },
+            {
+              "responceAudioId": "2204C",
+              "responceText": "Ma'am, it should be delivered to your doorstep soon."
+            }
+          ]
+        },
+        {
+          "questionAudioId": "C2205",
+          "responces": [
+            {
+              "responceAudioId": "2205A",
+              "responceText": "You're welcome; is there anything else I can assist you with?"
+            },
+            {
+              "responceAudioId": "2205B",
+              "responceText": "You're welcome; is there anything else you need?"
+            },
+            {
+              "responceAudioId": "2205C",
+              "responceText": "You're welcome; so that's it, right? Nothing else?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": [
+        {
+          "id": "C2101",
+          "url": "/content/audio-library/customer-service-interaction/tests/C2101.mp3"
+        },
+        {
+          "id": "2101A",
+          "url": "/content/audio-library/customer-service-interaction/tests/2101A.mp3"
+        },
+        {
+          "id": "2101B",
+          "url": "/content/audio-library/customer-service-interaction/tests/2101B.mp3"
+        },
+        {
+          "id": "2101C",
+          "url": "/content/audio-library/customer-service-interaction/tests/2101C.mp3"
+        },
+        {
+          "id": "C2102",
+          "url": "/content/audio-library/customer-service-interaction/tests/C2102.mp3"
+        },
+        {
+          "id": "2102A",
+          "url": "/content/audio-library/customer-service-interaction/tests/2102A.mp3"
+        },
+        {
+          "id": "2102B",
+          "url": "/content/audio-library/customer-service-interaction/tests/2102B.mp3"
+        },
+        {
+          "id": "2102C",
+          "url": "/content/audio-library/customer-service-interaction/tests/2102C.mp3"
+        },
+        {
+          "id": "C2103",
+          "url": "/content/audio-library/customer-service-interaction/tests/C2103.mp3"
+        },
+        {
+          "id": "2103A",
+          "url": "/content/audio-library/customer-service-interaction/tests/2103A.mp3"
+        },
+        {
+          "id": "2103B",
+          "url": "/content/audio-library/customer-service-interaction/tests/2103B.mp3"
+        },
+        {
+          "id": "2103C",
+          "url": "/content/audio-library/customer-service-interaction/tests/2103C.mp3"
+        },
+        {
+          "id": "C2104",
+          "url": "/content/audio-library/customer-service-interaction/tests/C2104.mp3"
+        },
+        {
+          "id": "2104A",
+          "url": "/content/audio-library/customer-service-interaction/tests/2104A.mp3"
+        },
+        {
+          "id": "2104B",
+          "url": "/content/audio-library/customer-service-interaction/tests/2104B.mp3"
+        },
+        {
+          "id": "2104C",
+          "url": "/content/audio-library/customer-service-interaction/tests/2104C.mp3"
+        },
+        {
+          "id": "C2105",
+          "url": "/content/audio-library/customer-service-interaction/tests/C2105.mp3"
+        },
+        {
+          "id": "2105A",
+          "url": "/content/audio-library/customer-service-interaction/tests/2105A.mp3"
+        },
+        {
+          "id": "2105B",
+          "url": "/content/audio-library/customer-service-interaction/tests/2105B.mp3"
+        },
+        {
+          "id": "2105C",
+          "url": "/content/audio-library/customer-service-interaction/tests/2105C.mp3"
+        },
+        {
+          "id": "C2106",
+          "url": "/content/audio-library/customer-service-interaction/tests/C2106.mp3"
+        },
+        {
+          "id": "2106A",
+          "url": "/content/audio-library/customer-service-interaction/tests/2106A.mp3"
+        },
+        {
+          "id": "2106B",
+          "url": "/content/audio-library/customer-service-interaction/tests/2106B.mp3"
+        },
+        {
+          "id": "2106C",
+          "url": "/content/audio-library/customer-service-interaction/tests/2106C.mp3"
+        },
+        {
+          "id": "C2107",
+          "url": "/content/audio-library/customer-service-interaction/tests/C2107.mp3"
+        },
+        {
+          "id": "2107A",
+          "url": "/content/audio-library/customer-service-interaction/tests/2107A.mp3"
+        },
+        {
+          "id": "2107B",
+          "url": "/content/audio-library/customer-service-interaction/tests/2107B.mp3"
+        },
+        {
+          "id": "2107C",
+          "url": "/content/audio-library/customer-service-interaction/tests/2107C.mp3"
+        },
+        {
+          "id": "C2108",
+          "url": "/content/audio-library/customer-service-interaction/tests/C2108.mp3"
+        },
+        {
+          "id": "2108A",
+          "url": "/content/audio-library/customer-service-interaction/tests/2108A.mp3"
+        },
+        {
+          "id": "2108B",
+          "url": "/content/audio-library/customer-service-interaction/tests/2108B.mp3"
+        },
+        {
+          "id": "2108C",
+          "url": "/content/audio-library/customer-service-interaction/tests/2108C.mp3"
+        },
+        {
+          "id": "C2109",
+          "url": "/content/audio-library/customer-service-interaction/tests/C2109.mp3"
+        },
+        {
+          "id": "2109A",
+          "url": "/content/audio-library/customer-service-interaction/tests/2109A.mp3"
+        },
+        {
+          "id": "2109B",
+          "url": "/content/audio-library/customer-service-interaction/tests/2109B.mp3"
+        },
+        {
+          "id": "2109C",
+          "url": "/content/audio-library/customer-service-interaction/tests/2109C.mp3"
+        },
+        {
+          "id": "C2110",
+          "url": "/content/audio-library/customer-service-interaction/tests/C2110.mp3"
+        },
+        {
+          "id": "2110A",
+          "url": "/content/audio-library/customer-service-interaction/tests/2110A.mp3"
+        },
+        {
+          "id": "2110B",
+          "url": "/content/audio-library/customer-service-interaction/tests/2110B.mp3"
+        },
+        {
+          "id": "2110C",
+          "url": "/content/audio-library/customer-service-interaction/tests/2110C.mp3"
+        },
+        {
+          "id": "C2201",
+          "url": "/content/audio-library/customer-service-interaction/tests/C2201.mp3"
+        },
+        {
+          "id": "2201A",
+          "url": "/content/audio-library/customer-service-interaction/tests/2201A.mp3"
+        },
+        {
+          "id": "2201B",
+          "url": "/content/audio-library/customer-service-interaction/tests/2201B.mp3"
+        },
+        {
+          "id": "2201C",
+          "url": "/content/audio-library/customer-service-interaction/tests/2201C.mp3"
+        },
+        {
+          "id": "C2202",
+          "url": "/content/audio-library/customer-service-interaction/tests/C2202.mp3"
+        },
+        {
+          "id": "2202A",
+          "url": "/content/audio-library/customer-service-interaction/tests/2202A.mp3"
+        },
+        {
+          "id": "2202B",
+          "url": "/content/audio-library/customer-service-interaction/tests/2202B.mp3"
+        },
+        {
+          "id": "2202C",
+          "url": "/content/audio-library/customer-service-interaction/tests/2202C.mp3"
+        },
+        {
+          "id": "C2203",
+          "url": "/content/audio-library/customer-service-interaction/tests/C2203.mp3"
+        },
+        {
+          "id": "2203A",
+          "url": "/content/audio-library/customer-service-interaction/tests/2203A.mp3"
+        },
+        {
+          "id": "2203B",
+          "url": "/content/audio-library/customer-service-interaction/tests/2203B.mp3"
+        },
+        {
+          "id": "2203C",
+          "url": "/content/audio-library/customer-service-interaction/tests/2203C.mp3"
+        },
+        {
+          "id": "C2204",
+          "url": "/content/audio-library/customer-service-interaction/tests/C2204.mp3"
+        },
+        {
+          "id": "2204A",
+          "url": "/content/audio-library/customer-service-interaction/tests/2204A.mp3"
+        },
+        {
+          "id": "2204B",
+          "url": "/content/audio-library/customer-service-interaction/tests/2204B.mp3"
+        },
+        {
+          "id": "2204C",
+          "url": "/content/audio-library/customer-service-interaction/tests/2204C.mp3"
+        },
+        {
+          "id": "C2205",
+          "url": "/content/audio-library/customer-service-interaction/tests/C2205.mp3"
+        },
+        {
+          "id": "2205A",
+          "url": "/content/audio-library/customer-service-interaction/tests/2205A.mp3"
+        },
+        {
+          "id": "2205B",
+          "url": "/content/audio-library/customer-service-interaction/tests/2205B.mp3"
+        },
+        {
+          "id": "2205C",
+          "url": "/content/audio-library/customer-service-interaction/tests/2205C.mp3"
+        }
+      ]
+    }
+  },
+  "captions" : {
+    "product-call":"WEBVTT\n\n1\n00:00:00.560 --> 00:00:02.849\nProduct center please state your\nname\n\n2\n00:00:02.850 --> 00:00:04.740\nand telephone number so that we may\nbetter\n\n3\n00:00:04.741 --> 00:00:05.740\nserve your needs.\n",
+    "service-call":"WEBVTT\n\n1\n00:00:00.510 --> 00:00:02.580\nService center in order to better\nserve\n\n2\n00:00:02.581 --> 00:00:03.540\nyou may we have your name\n\n3\n00:00:03.541 --> 00:00:04.379\nand telephone number.\n",
+    "2101A":"WEBVTT\n\n1\n00:00:00.420 --> 00:00:01.160\nThank you.\n\n2\n00:00:01.290 --> 00:00:03.470\nI'm just pulling up your account information now.\n\n3\n00:00:03.840 --> 00:00:04.640\nThere it is.\n\n4\n00:00:04.800 --> 00:00:05.952\nNow what can I do for you?\n",
+    "2101B":"WEBVTT\n\n1\n00:00:00.570 --> 00:00:01.490\nGive me a minute.\n\n2\n00:00:01.670 --> 00:00:03.036\nOK. Now how can I help you?\n",
+    "2101C":"WEBVTT\n\n1\n00:00:00.410 --> 00:00:02.570\nOK. I've brought it up on my screen.\n\n2\n00:00:02.690 --> 00:00:04.285\nNow, How may I assist you today?\n",
+    "2102A":"WEBVTT\n\n1\n00:00:00.210 --> 00:00:01.102\nWhy do you want to cancel?\n",
+    "2102B":"WEBVTT\n\n1\n00:00:00.180 --> 00:00:01.430\nI'm sorry to hear that.\n\n2\n00:00:01.590 --> 00:00:03.510\nWould you mind giving us feedback as\nto why you\n\n3\n00:00:03.511 --> 00:00:04.162\nwant to cancel?\n",
+    "2102C":"WEBVTT\n\n1\n00:00:00.330 --> 00:00:02.009\nI'm so sorry to hear that you were\nupset\n\n2\n00:00:02.010 --> 00:00:02.960\nwith our company.\n\n3\n00:00:03.180 --> 00:00:04.956\nIs there any way we can improve our service?\n",
+    "2103A":"WEBVTT\n\n1\n00:00:00.360 --> 00:00:02.280\nMrs. MARSON I understand why you're\n\n2\n00:00:02.281 --> 00:00:03.200\nso upset.\n\n3\n00:00:03.240 --> 00:00:05.310\nI would be upset too if I had\nmonthly service\n\n4\n00:00:05.311 --> 00:00:06.080\nproblems.\n\n5\n00:00:06.090 --> 00:00:08.340\nThat's why I'm going to resolve this\nfor you right away\n",
+    "2103B":"WEBVTT\n\n1\n00:00:00.570 --> 00:00:02.940\nMrs. Mason please tell me\nspecifically\n\n2\n00:00:02.941 --> 00:00:04.274\nwhat the service problems are?\n\n3\n00:00:04.500 --> 00:00:06.150\nI can begin to resolve them for you.\n",
+    "2103C":"WEBVTT\n\n1\n00:00:00.450 --> 00:00:02.280\nMrs. mayerson you've got two\n\n2\n00:00:02.281 --> 00:00:03.030\nchoices.\n\n3\n00:00:03.180 --> 00:00:04.649\nEither you settle down now\n\n4\n00:00:04.650 --> 00:00:05.850\nor call back when you have.\n",
+    "2104A":"WEBVTT\n\n1\n00:00:00.330 --> 00:00:01.970\nYes. You were rude.\n\n2\n00:00:02.009 --> 00:00:03.600\nBut I understand your frustration.\n",
+    "2104B":"WEBVTT\n\n1\n00:00:00.240 --> 00:00:01.319\nIt's OK to be upset.\n\n2\n00:00:01.320 --> 00:00:03.090\nBut, being upset doesn't solve anything.\n",
+    "2104C":"WEBVTT\n\n1\n00:00:00.480 --> 00:00:02.060\nI understand how you feel.\n\n2\n00:00:02.220 --> 00:00:03.230\nThat would be upsetting to me also.\n",
+    "2105A":"WEBVTT\n\n1\n00:00:00.330 --> 00:00:01.370\nI see the credit.\n\n2\n00:00:01.590 --> 00:00:02.880\nI guess we must have messed up.\n",
+    "2105C":"WEBVTT\n\n1\n00:00:00.420 --> 00:00:01.130\nYes,\n\n2\n00:00:01.230 --> 00:00:03.280\nI see a correction was made to your account.\n",
+    "2106C":"WEBVTT\n\n1\n00:00:00.720 --> 00:00:01.910\nWe would never do that.\n\n2\n00:00:02.160 --> 00:00:03.810\nMaybe the mistake is on your end.\n\n3\n00:00:03.960 --> 00:00:05.880\nPlease give me your credit card\nexpiration\n\n4\n00:00:05.881 --> 00:00:06.900\ndate so I can check.\n",
+    "2107A":"WEBVTT\n\n1\n00:00:00.570 --> 00:00:02.539\nI didn't understand a word you said.\n\n2\n00:00:02.760 --> 00:00:04.049\nIf you want me to help you,\n\n3\n00:00:04.050 --> 00:00:05.130\nyou will have to repeat it.\n",
+    "2105B":"WEBVTT\n\n1\n00:00:00.300 --> 00:00:02.150\nYes, according to our records\n\n2\n00:00:02.151 --> 00:00:03.329\na charge was deleted\n\n3\n00:00:03.330 --> 00:00:04.580\nand a credit was issued.\n",
+    "2106A":"WEBVTT\n\n1\n00:00:00.430 --> 00:00:01.799\nYou are absolutely right.\n\n2\n00:00:01.800 --> 00:00:03.930\nYou shouldn't be accruing any\nfinance charges\n\n3\n00:00:03.931 --> 00:00:05.000\nfor full payment.\n\n4\n00:00:05.340 --> 00:00:07.490\nLet's verify your credit card\ninformation.\n\n5\n00:00:07.620 --> 00:00:09.250\nPlease tell me the expiration date.\n",
+    "2106B":"WEBVTT\n\n1\n00:00:00.630 --> 00:00:01.520\nOf course not.\n\n2\n00:00:01.590 --> 00:00:02.690\nWe would never do that.\n\n3\n00:00:02.820 --> 00:00:05.000\nLet's just check your credit card\ninformation.\n\n4\n00:00:05.400 --> 00:00:07.540\nI'll just need your credit card\nexpiration date.\n",
+    "2108A":"WEBVTT\n\n1\n00:00:00.480 --> 00:00:01.319\nI'm sorry\n\n2\n00:00:01.320 --> 00:00:03.460\nbut the date you told me is not correct.\n",
+    "2107C":"WEBVTT\n\n1\n00:00:00.180 --> 00:00:01.380\nWould you mind repeating that.\n",
+    "2107B":"WEBVTT\n\n1\n00:00:00.480 --> 00:00:01.250\nI'm sorry.\n\n2\n00:00:01.260 --> 00:00:03.060\nWould you mind repeating that slowly\nfor me.\n",
+    "2108B":"WEBVTT\n\n1\n00:00:00.570 --> 00:00:02.810\nWe have a different expiration date\non record.\n\n2\n00:00:03.060 --> 00:00:04.560\nAre you sure of that expiration date?\n",
+    "2108C":"WEBVTT\n\n1\n00:00:00.450 --> 00:00:02.670\nAre you sure you gave me the correct\nexpiration\n",
+    "2109B":"WEBVTT\n\n1\n00:00:00.280 --> 00:00:01.770\nIt's OK Ms. Mayerson.\n\n2\n00:00:01.950 --> 00:00:03.810\nHave you got any other concerns I\ncan help\n\n3\n00:00:03.811 --> 00:00:04.276\nyou with today?\n",
+    "2109C":"WEBVTT\n\n1\n00:00:00.300 --> 00:00:02.280\nThat seems to have been what caused\nthe finance\n\n2\n00:00:02.281 --> 00:00:02.990\ncharges.\n\n3\n00:00:03.180 --> 00:00:04.585\nAnything else I can do for you today?\n",
+    "2110A":"WEBVTT\n\n1\n00:00:00.260 --> 00:00:02.590\nOK. Have a good day.\n",
+    "2109A":"WEBVTT\n\n1\n00:00:00.720 --> 00:00:02.540\nI wish you had told me that earlier.\n\n2\n00:00:02.650 --> 00:00:04.400\nThey would have saved us both some\ntime.\n\n3\n00:00:04.650 --> 00:00:05.854\nAnything else in your mind today?\n",
+    "2110B":"WEBVTT\n\n1\n00:00:00.180 --> 00:00:01.229\nOK if that's it.\n\n2\n00:00:01.230 --> 00:00:03.090\nIt's time for me to go. call back\n\n3\n00:00:03.091 --> 00:00:04.589\nif you have any further questions.\n\n4\n00:00:04.590 --> 00:00:05.270\nHave a good day.\n",
+    "2110C":"WEBVTT\n\n1\n00:00:00.240 --> 00:00:02.160\nI'm glad I could help you today if\n\n2\n00:00:02.161 --> 00:00:03.990\nyou have any more questions please\nfeel\n\n3\n00:00:03.991 --> 00:00:05.820\nfree to call back. Good bye.\n",
+    "2201C":"WEBVTT\n\n1\n00:00:00.360 --> 00:00:01.550\nWhat do you want Ms. Madison\n",
+    "2202A":"WEBVTT\n\n1\n00:00:00.480 --> 00:00:01.760\nI'm sorry to hear that.\n\n2\n00:00:01.830 --> 00:00:03.200\nLet's get back to your concern.\n",
+    "2201A":"WEBVTT\n\n1\n00:00:00.240 --> 00:00:01.813\nHow may I assist you Ms. Madison\n",
+    "2202B":"WEBVTT\n\n1\n00:00:00.390 --> 00:00:01.670\nThat's not our problem.\n\n2\n00:00:01.710 --> 00:00:03.240\nLet's find out what your problem is.\n",
+    "2202C":"WEBVTT\n\n1\n00:00:00.420 --> 00:00:01.860\nLet's get back to your concern.\n",
+    "2201B":"WEBVTT\n\n1\n00:00:00.360 --> 00:00:02.090\nTell me what's going on Ms. Madison.\n",
+    "2203A":"WEBVTT\n\n1\n00:00:00.480 --> 00:00:01.850\nI didn't break your part\n\n2\n00:00:01.890 --> 00:00:03.120\nbut I'll send you another one.\n",
+    "2203B":"WEBVTT\n\n1\n00:00:00.450 --> 00:00:02.639\nThis afternoon our shipping\ndepartment\n\n2\n00:00:02.640 --> 00:00:04.290\nwill ship you a replacement part.\n",
+    "2203C":"WEBVTT\n\n1\n00:00:00.390 --> 00:00:02.810\nI guess we could ship you a new\nreplacement\n",
+    "2204A":"WEBVTT\n\n1\n00:00:00.300 --> 00:00:02.369\nYou'll get the part when your Post\nOffice finally\n\n2\n00:00:02.370 --> 00:00:02.990\ndelivers it.\n",
+    "2204B":"WEBVTT\n\n1\n00:00:00.270 --> 00:00:02.460\nYou should be receiving it in five\nto seven business\n\n2\n00:00:02.461 --> 00:00:03.510\ndays, most likely.\n",
+    "2205A":"WEBVTT\n\n1\n00:00:00.180 --> 00:00:00.959\nYou're welcome.\n\n2\n00:00:00.960 --> 00:00:02.790\nIs there anything else I can assist\nyou with.\n",
+    "2205B":"WEBVTT\n\n1\n00:00:00.330 --> 00:00:01.100\nYou're welcome.\n\n2\n00:00:01.260 --> 00:00:02.330\nIs there anything else you need?\n",
+    "2205C":"WEBVTT\n\n1\n00:00:00.180 --> 00:00:01.100\nYou're welcome.\n\n2\n00:00:01.110 --> 00:00:02.197\nSo that's it right?\n\n3\n00:00:02.220 --> 00:00:02.880\nNothing else.\n",
+    "C2101":"WEBVTT\n\n1\n00:00:00.600 --> 00:00:02.435\nI'm Cindy that's C I N D Y.\n\n2\n00:00:02.436 --> 00:00:04.017\n Last name Mayerson\n\n3\n00:00:04.710 --> 00:00:05.633\nM A Y E R S O N.\n\n4\n00:00:07.380 --> 00:00:09.650\nMy telephone number is \n\n5\n00:00:09.651 --> 00:00:12.810\n5 2 5 3 4 7 4 3 4 6.\n",
+    "2204C":"WEBVTT\n\n1\n00:00:00.210 --> 00:00:02.070\nMa'am, it should be delivered to\nyour\n\n2\n00:00:02.071 --> 00:00:02.920\ndoorstep soon.\n",
+    "C2107":"WEBVTT\n\n1\n00:00:00.150 --> 00:00:01.520\nThe expiration date is\n\n2\n00:00:02.060 --> 00:00:04.420\nSteven could pull in the dog's\n",
+    "C2103":"WEBVTT\n\n1\n00:00:00.210 --> 00:00:02.429\nI am so tired of having to call in\n\n2\n00:00:02.430 --> 00:00:04.380\nevery single month because\n\n3\n00:00:04.381 --> 00:00:05.330\nthere's a problem.\n\n4\n00:00:05.520 --> 00:00:07.370\nThat's one thing I can sure count\non.\n\n5\n00:00:07.380 --> 00:00:09.240\nI know your company will make a mistake.\n",
+    "C2102":"WEBVTT\n\n1\n00:00:00.120 --> 00:00:01.530\nI am very upset\n\n2\n00:00:01.531 --> 00:00:02.399\nwith your company.\n\n3\n00:00:02.400 --> 00:00:04.840\nCancel my service right now\n",
+    "C2104":"WEBVTT\n\n1\n00:00:00.150 --> 00:00:02.039\nI really didn't mean to sound rude.\n\n2\n00:00:02.040 --> 00:00:03.809\nIt's just that I am very upset\n\n3\n00:00:03.810 --> 00:00:05.970\nwith the billing service your\ncompany provides.\n",
+    "C2106":"WEBVTT\n\n1\n00:00:00.360 --> 00:00:02.189\nWell, I was credited last month\n\n2\n00:00:02.190 --> 00:00:04.140\nbecause it was incorrectly charged\nin the first\n\n3\n00:00:04.141 --> 00:00:06.450\nplace. And then this month another\n\n4\n00:00:06.451 --> 00:00:07.620\nfinance charge.\n\n5\n00:00:07.740 --> 00:00:09.570\nI shouldn't be assessed finance\ncharges when\n\n6\n00:00:09.571 --> 00:00:11.330\nI pay my bill in full every month.\n\n7\n00:00:11.430 --> 00:00:13.650\nThe bill is automatically paid by my\ncredit card\n",
+    "C2105":"WEBVTT\n\n1\n00:00:00.420 --> 00:00:02.330\nThanks for understanding my being\nupset.\n\n2\n00:00:02.460 --> 00:00:04.500\nMy billing problems actually started\nlast\n\n3\n00:00:04.501 --> 00:00:06.360\nmonth when a finance charge showed\nup on\n\n4\n00:00:06.361 --> 00:00:07.130\nmy bill.\n\n5\n00:00:07.320 --> 00:00:09.230\nCan you see your computer where I\ncalled in\n\n6\n00:00:09.231 --> 00:00:11.400\nin that finance charge was\neventually credited\n\n7\n00:00:11.401 --> 00:00:11.957\nto my account?\n",
+    "C2110":"WEBVTT\n\n1\n00:00:00.150 --> 00:00:02.220\nNo. As long as I don't have any\nfuture\n\n2\n00:00:02.221 --> 00:00:04.330\nfinance charges I'll be fine.\n",
+    "C2109":"WEBVTT\n\n1\n00:00:00.120 --> 00:00:02.009\nWell, I did get a new credit card in\n\n2\n00:00:02.010 --> 00:00:03.680\nthe mail a couple of months ago.\n\n3\n00:00:03.750 --> 00:00:05.216\nThe account numbers are the same\nnum.\n\n4\n00:00:05.400 --> 00:00:07.230\nI didn't think the different\nexpiration date\n\n5\n00:00:07.231 --> 00:00:07.700\nwould matter.\n",
+    "C2108":"WEBVTT\n\n1\n00:00:00.090 --> 00:00:03.400\nI said expiration date of February\n",
+    "C2111":"WEBVTT\n\n1\n00:00:00.120 --> 00:00:02.100\nWell, thanks for clearing that up.\n",
+    "C2202":"WEBVTT\n\n1\n00:00:00.510 --> 00:00:01.379\nA few weeks ago,\n\n2\n00:00:01.380 --> 00:00:03.360\nI used your website to get a\nreplacement part\n\n3\n00:00:03.361 --> 00:00:05.700\nfrom my model Z3 when the\nreplacement\n\n4\n00:00:05.701 --> 00:00:07.620\npiece came in the mail it was broken\nin three\n\n5\n00:00:07.621 --> 00:00:08.410\n places.\n\n6\n00:00:08.460 --> 00:00:10.300\nI suspect the Post Office broke it.\n\n7\n00:00:10.360 --> 00:00:12.080\nThey're always doing something like\nthat.\n\n8\n00:00:12.240 --> 00:00:14.100\nYou know my post office was ranked\nas the\n\n9\n00:00:14.101 --> 00:00:15.490\n15th worst in the country.\n",
+    "C2204":"WEBVTT\n\n1\n00:00:00.150 --> 00:00:01.980\nGood. I need a replacement because\n\n2\n00:00:01.981 --> 00:00:03.840\nI really miss being able to use my Z3.\n",
+    "C2201":"WEBVTT\n\n1\n00:00:00.180 --> 00:00:02.023\nMy name is Mary Madison \n\n2\n00:00:02.024 --> 00:00:04.160\nM A D I S O N\n\n3\n00:00:04.230 --> 00:00:06.110\nand my telephone number is \n\n4\n00:00:06.111 --> 00:00:09.540\n7 2 3 3 7 5 7 5 9 1.\n",
+    "C2203":"WEBVTT\n\n1\n00:00:00.180 --> 00:00:02.069\nOK then, well it was broken when it\ngot here\n\n2\n00:00:02.070 --> 00:00:02.969\nand it won't work.\n\n3\n00:00:02.970 --> 00:00:04.673\nHow's your company going to take\ncare of my part?\n",
+    "C2205":"WEBVTT\n\n1\n00:00:00.090 --> 00:00:00.920\nThanks so much.\n"
+  }
+}

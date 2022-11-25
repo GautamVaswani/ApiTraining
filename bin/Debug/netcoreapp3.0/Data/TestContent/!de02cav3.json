@@ -1,0 +1,337 @@
+{
+    "assessmentName": "Data Entry 2: Inventory",
+    "playerType": "DataEntry",
+    "modeType": "vendor-inventory-invoice",
+    "subType": "inventory",
+    "venderLanguage": "ca",
+    "timeLimit": 5,
+    "instructions": "<span role=heading aria-level=3 >You are about to start the \"Data Entry\" test.  For this test, you will need to use the data sheet presented on the screen. </span><br/><br/>While you may correct errors within a record, you will not receive credit for Backspace, Delete, and Arrow keystrokes. Press ENTER or TAB after typing in each field (to advance to the next field or the next record). You can use Shift-TAB to go back to the previous field. You can also use the mouse to go to any field; however, doing so will slow you down. <br/><br/>Continue data entry for the full test duration. Your score will be based on the time allowed for the test. <br/><br/>Unless otherwise instructed, you will be allowed five minutes to complete this test. The timer will begin with your first keystroke. You will notice a countdown timer on the Header of the screen showing the time remaining.",
+    "questions": [
+      [
+        "42974",
+        "CALENDAR",
+        "NX8967",
+        "LOOSE-LEAF CALENDAR",
+        "83240",
+        "2.29"
+      ],
+      [
+        "50896",
+        "CALENDAR",
+        "NX3051",
+        "DATED ERASABLE PLANNER-12 MONTHS",
+        "73830",
+        "8.99"
+      ],
+      [
+        "58621",
+        "CALENDAR",
+        "NX1541",
+        "356D PERSONAL ORGANIZER",
+        "16325",
+        "10.75"
+      ],
+      [
+        "46132",
+        "BRIEFCASE",
+        "NX6438",
+        "LEATHER BRIEFCASE",
+        "10819",
+        "89.79"
+      ],
+      [
+        "92728",
+        "PENS",
+        "NX1315",
+        "RETRACTABLE 6C BALL POINTS",
+        "19832",
+        "1.99"
+      ],
+      [
+        "71528",
+        "MARKER",
+        "NX5653",
+        "METALLIC MARKERS-5",
+        "29719",
+        "2.15"
+      ],
+      [
+        "29430",
+        "ACCESSORY ",
+        "NX6753",
+        "20 ASSORTED HIGHLIGHTERS",
+        "93741",
+        "4.99"
+      ],
+      [
+        "91513",
+        "PENCIL",
+        "NX8932",
+        "ASSORTED COLORED PENCILS-12",
+        "40721",
+        "2.99"
+      ],
+      [
+        "43732",
+        "SHARPENER ",
+        "NX8643",
+        "PENCIL SHARPENER",
+        "56014",
+        "12.79"
+      ],
+      [
+        "63427",
+        "PENCIL    ",
+        "NX9420",
+        "1 SELF-LOADING MECHANICAL PENCIL",
+        "94249",
+        "1.59"
+      ],
+      [
+        "13595",
+        "TRAY",
+        "NX8015",
+        "FRONT LETTER TRAYS-5",
+        "26126",
+        "5.99"
+      ],
+      [
+        "35813",
+        "BOOKSHELF",
+        "NX4016",
+        "2 MAGNETIC BASE BOOKENDS",
+        "12717",
+        "2.79"
+      ],
+      [
+        "58368",
+        "ACCESSORY",
+        "NX8728",
+        "LITERATURE RACK",
+        "42713",
+        "12.59"
+      ],
+      [
+        "76285",
+        "REGISTER",
+        "NX5751",
+        "ELECTRONIC CASH REGISTER",
+        "86285",
+        "129.75"
+      ],
+      [
+        "90789",
+        "ACCESSORY",
+        "NX5904",
+        "62B CROSS PAPER SHREDDER",
+        "14930",
+        "49.59"
+      ],
+      [
+        "68243",
+        "CALCULATOR",
+        "NX1920",
+        "ADVANCED GRAPHIC CALCULATOR",
+        "93120",
+        "81.95"
+      ],
+      [
+        "39214",
+        "RECORDER",
+        "NX4214",
+        "VOICE-ACTIVATED RECORDER",
+        "93284",
+        "57.95"
+      ],
+      [
+        "26525",
+        "RECORDER",
+        "NX6210",
+        "MICROCASSETTE TRANSCRIBER",
+        "14924",
+        "169.75"
+      ],
+      [
+        "43217",
+        "PHONE",
+        "NX7902",
+        "CORDLESS TELEPHONE",
+        "83162",
+        "29.95"
+      ],
+      [
+        "45056",
+        "PHONE",
+        "NX7429",
+        "2-LINE SPEAKERPHONE",
+        "32527",
+        "49.99"
+      ],
+      [
+        "10254",
+        "CASSETTE",
+        "NX9102",
+        "SMALL ANSWERING MACHINE TAPE-3",
+        "87915",
+        "8.09"
+      ],
+      [
+        "51629",
+        "CASSETTE",
+        "NX3561",
+        "EXTRA BIAS AUDIO TAPES",
+        "90127",
+        "7.15"
+      ],
+      [
+        "56319",
+        "ACCESSORY ",
+        "NX3082",
+        "XEROX LIQUID PAPER 3-PACK",
+        "38734",
+        "2.49"
+      ],
+      [
+        "19843",
+        "RULER",
+        "NX7020",
+        "STURDY ACRYLIC RULER-27",
+        "14519",
+        "1.29"
+      ],
+      [
+        "62418",
+        "HUTCH",
+        "NX2019",
+        "1 STUDENT DESK WITH HUTCH",
+        "16242",
+        "129.99"
+      ],
+      [
+        "96132",
+        "ACCESSORY ",
+        "NX4731",
+        "EXECUTIVE 3D WORKSTATION",
+        "32173",
+        "79.95"
+      ],
+      [
+        "96150",
+        "ACCESSORY ",
+        "NX1521",
+        "WHITE VINYL FOLDING CHAIR",
+        "68728",
+        "13.75"
+      ],
+      [
+        "59513",
+        "CHAIR",
+        "NX5327",
+        "STACK 7F CHAIR WITH ARMS",
+        "65126",
+        "21.95"
+      ],
+      [
+        "89320",
+        "CABINET",
+        "NX6597",
+        "COUNTER HEIGHT CABINETS",
+        "65010",
+        "109.52"
+      ],
+      [
+        "48426",
+        "TABLE",
+        "NX3913",
+        "9S WIDE DRAFTING TABLE",
+        "12415",
+        "69.99"
+      ],
+      [
+        "16925",
+        "CLOCK",
+        "NX1292",
+        "1 QUARTZ ALARM CLOCK-BLUE",
+        "63513",
+        "7.85"
+      ],
+      [
+        "16180",
+        "ACCESSORY ",
+        "NX8361",
+        "SWING MAGNIFIER DESK LAMP",
+        "72514",
+        "15.95"
+      ],
+      [
+        "84713",
+        "FAX",
+        "NX9371",
+        "QUALITY PAPER FAX MACHINE",
+        "31524",
+        "78.99"
+      ],
+      [
+        "62191",
+        "CAMERA",
+        "NX2962",
+        "ZOOM CAMERA WITH 2MB RAM",
+        "85252",
+        "99.99"
+      ],
+      [
+        "49274",
+        "FILM",
+        "NX3916",
+        "200 FILM BONUS 4-PACK",
+        "73269",
+        "12.95"
+      ],
+      [
+        "78724",
+        "ACCESSORY",
+        "NX6925",
+        "DUAL-PURPOSE HAND TRUCK",
+        "21251",
+        "35.55"
+      ],
+      [
+        "57341",
+        "COPIER",
+        "NX8725",
+        "6M COMPACT PERSONAL COPIER",
+        "64931",
+        "89.55"
+      ],
+      [
+        "17248",
+        "FAN",
+        "NX1029",
+        "SMALL OSCILLATING TABLE FAN-2",
+        "75419",
+        "8.95"
+      ],
+      [
+        "71912",
+        "ACCESSORY",
+        "NX1614",
+        "4 ENVIRONMENTAL RECYCLING BINS",
+        "21318",
+        "2.99"
+      ],
+      [
+        "67435",
+        "BATTERY",
+        "NX8754",
+        "AA RECHARGEABLE BATTERIES",
+        "67435",
+        "1.99"
+      ]
+    ],
+    "resources": {
+      "media": {
+        "images": [],
+        "audio": []
+      }
+    }
+  }

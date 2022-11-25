@@ -1,0 +1,1221 @@
+{
+    "assessmentName": "Industrial Measurement Standard",
+    "playerType": "MCQ",
+    "lastModified": "06/09/2017",
+    "instruction": "<P role=heading aria-level=3>Industrial Measurement</P><P>This section of the test contains multiple-choice questions, which you must answer by using your computer mouse to select the correct response. Upon answering a question, you can go to the next question by clicking the Next button on the Menu bar.</P><P>During this section of the test, if you choose you may skip an item and then later return to that item.</P><P>When you are finished, select Submit from the Menu bar. Your Test Administrator may have set a time limit for this test section. If there is a time limit, you will be told how much time you have. If a time limit has been set for this section of the test, you will notice a countdown timer on the Header of the screen, showing the amount of time remaining to complete this section of the test.</P>",
+    "questions": [{
+            "id": 1,
+            "questionText": "<P>What increment on the ruler is indicated by the line below? </P><img src='/content/image-library/mcq/examin/industrial1/Industrial1-1.png' alt='Industrial Horizontal Ruler V1 1 '>",
+            "options": [{
+                    "text": "1/2 inch"
+                },
+                {
+                    "text": "3/4 inch"
+                },
+                {
+                    "text": "1/4 inch"
+                },
+                {
+                    "text": "5/8 inch"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "questionText": "<P>What increment on the ruler is indicated by the line below? </P> <img src='/content/image-library/mcq/examin/industrial1/Industrial1-2.png' alt='Industrial Horizontal Ruler V1 2'>",
+            "options": [{
+                    "text": "4 1 / 4"
+                },
+                {
+                    "text": "4 1 / 2"
+                },
+                {
+                    "text": "5 1 / 4"
+                },
+                {
+                    "text": "6 1 / 2"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "questionText": "<P>What increment on the gauge is indicated by the line below? </P><img src='/content/image-library/mcq/examin/industrial1/Industrial1-3.png' alt='Industrial Horizontal Ruler V1 3'>",
+            "options": [{
+                    "text": "1.6"
+                },
+                {
+                    "text": "1.7"
+                },
+                {
+                    "text": "1.8"
+                },
+                {
+                    "text": "1.9"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "questionText": "<P>What increment on the gauge is indicated by the line below? </P><img src='/content/image-library/mcq/examin/industrial1/Industrial1-4.png' alt='Industrial Horizontal Ruler V1 4'>",
+            "options": [{
+                    "text": "0.8"
+                },
+                {
+                    "text": "1.2"
+                },
+                {
+                    "text": "0.6"
+                },
+                {
+                    "text": "1.8"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "questionText": "<P>What is the weight that is indicated by the line below? </P><img src='/content/image-library/mcq/examin/industrial1/Industrial1-5.png' alt='Industrial Vertical Ruler V1 5'>",
+            "options": [{
+                    "text": "2.0 ounces"
+                },
+                {
+                    "text": "2.1 ounces"
+                },
+                {
+                    "text": "2.2 ounces"
+                },
+                {
+                    "text": "2.3 ounces"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "questionText": "<P>What is the weight that is indicated by the line below? </P><img src='/content/image-library/mcq/examin/industrial1/Industrial1-6.png' alt='Industrial Vertical Ruler V1 6'>",
+            "options": [{
+                    "text": "0.1 ounces"
+                },
+                {
+                    "text": "0.3 ounces"
+                },
+                {
+                    "text": "0.5 ounces"
+                },
+                {
+                    "text": "0.9 ounces"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "questionText": "<P>What is the volume that is represented in the container below? </P><img src='/content/image-library/mcq/examin/industrial1/Industrial1-7.png' alt='Industrial Vertical Ruler V1 7'>",
+            "options": [{
+                    "text": "20"
+                },
+                {
+                    "text": "21"
+                },
+                {
+                    "text": "22"
+                },
+                {
+                    "text": "23"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "questionText": "<P>What is the volume that is represented in the container below?</P> <img src='/content/image-library/mcq/examin/industrial1/Industrial1-8.png' alt='Industrial Vertical Ruler V1 8'>",
+            "options": [{
+                    "text": "16"
+                },
+                {
+                    "text": "17"
+                },
+                {
+                    "text": "18"
+                },
+                {
+                    "text": "19"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "questionText": "<P>What increment on the dial is indicated by the line below? </P> <img src='/content/image-library/mcq/examin/industrial1/Industrial1-9.png' alt='Industrial Single Dial V1 9'>",
+            "options": [{
+                    "text": "3.3"
+                },
+                {
+                    "text": "3.4"
+                },
+                {
+                    "text": "3.5"
+                },
+                {
+                    "text": "3.6"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "questionText": "<P>What increment on the dial is indicated by the line below?</P> <img src='/content/image-library/mcq/examin/industrial1/Industrial1-10.png' alt='Industrial Single Dial V1 10'>",
+            "options": [{
+                    "text": "2.0"
+                },
+                {
+                    "text": "2.1"
+                },
+                {
+                    "text": "2.2"
+                },
+                {
+                    "text": "2.3"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "questionText": "<P>What increment on the dial is indicated by the line below?</P> <img src='/content/image-library/mcq/examin/industrial1/Industrial1-11.png' alt='Industrial Single Dial V1 11'>",
+            "options": [{
+                    "text": "110"
+                },
+                {
+                    "text": "111"
+                },
+                {
+                    "text": "210"
+                },
+                {
+                    "text": "211"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "questionText": "<P>What increment on the dial is indicated by the line below? </P><img src='/content/image-library/mcq/examin/industrial1/Industrial1-12.png' alt='Industrial Single Dial V1 12'>",
+            "options": [{
+                    "text": "4"
+                },
+                {
+                    "text": "9"
+                },
+                {
+                    "text": "14"
+                },
+                {
+                    "text": "15"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "questionText": "<P>One of a machine technician's daily duties is to maintain pressure levels within the following three specifications: 1. All pressure gauges must meet at least 400 psi (pounds per square inch) 2. Each pressure gauge should not exceed 1000 psi 3. The total of all pressure gauges should not exceed 3000 psi. Using the readings below, how many of the specifications are being violated?</P> <img src='/content/image-library/mcq/examin/industrial1/Industrial1-13.png' alt='Industrial Triple Dial V1 13'>",
+            "options": [{
+                    "text": "0"
+                },
+                {
+                    "text": "1"
+                },
+                {
+                    "text": "2"
+                },
+                {
+                    "text": "3"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "questionText": "<P>One of a machine technician's daily duties is to maintain pressure levels within the following three specifications: 1. All pressure gauges must meet at least 400 psi (pounds per square inch) 2. Each pressure gauge should not exceed 1000 psi 3. The total of all pressure gauges should not exceed 3000 psi. Using the readings below, how many of the specifications are being violated? </P><img src='/content/image-library/mcq/examin/industrial1/Industrial1-14.png' alt='Industrial Triple Dial V1 14'>",
+            "options": [{
+                    "text": "0"
+                },
+                {
+                    "text": "1"
+                },
+                {
+                    "text": "2"
+                },
+                {
+                    "text": "3"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "questionText": "<P>One of a machine technician's daily duties is to maintain pressure levels within the following three specifications: 1. All pressure gauges must meet at least 400 psi (pounds per square inch) 2. Each pressure gauge should not exceed 1000 psi 3. The total of all pressure gauges should not exceed 3000 psi. Using the readings below, how many of the specifications are being violated? </P><img src='/content/image-library/mcq/examin/industrial1/Industrial1-15.png' alt='Industrial Triple Dial V1 15'>",
+            "options": [{
+                    "text": "0"
+                },
+                {
+                    "text": "1"
+                },
+                {
+                    "text": "2"
+                },
+                {
+                    "text": "3"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "questionText": "<P>One of a machine technician's daily duties is to maintain pressure levels within the following three specifications: 1. All pressure gauges must meet at least 400 psi (pounds per square inch) 2. Each pressure gauge should not exceed 1000 psi 3. The total of all pressure gauges should not exceed 3000 psi. Using the readings below, how many of the specifications are being violated? </P><img src='/content/image-library/mcq/examin/industrial1/Industrial1-16.png' alt='Industrial Triple Dial V1 16'>",
+            "options": [{
+                    "text": "0"
+                },
+                {
+                    "text": "1"
+                },
+                {
+                    "text": "2"
+                },
+                {
+                    "text": "3"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "questionText": "<P>One of a machine technician's daily duties is to maintain pressure levels within the following three specifications: 1. All pressure gauges must meet at least 400 psi (pounds per square inch) 2. Each pressure gauge should not exceed 1000 psi 3. The total of all pressure gauges should not exceed 3000 psi. Using the readings below, how many of the specifications are being violated? </P><img src='/content/image-library/mcq/examin/industrial1/Industrial1-17.png' alt='Industrial Triple Dial V1 17'>",
+            "options": [{
+                    "text": "0"
+                },
+                {
+                    "text": "1"
+                },
+                {
+                    "text": "2"
+                },
+                {
+                    "text": "3"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "questionText": "<img src='/content/image-library/mcq/examin/industrial1/Industrial1-18.png' alt='Industrial Table V1 18'><P>The table displayed is used to convert fluid ounces of water to a standard reading. What is the corresponding standard reading for an output of 3.77 fluid ounces?</P>",
+            "options": [{
+                    "text": "-2"
+                },
+                {
+                    "text": "-1"
+                },
+                {
+                    "text": "0"
+                },
+                {
+                    "text": "1"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "questionText": "<img src='/content/image-library/mcq/examin/industrial1/Industrial1-19.png' alt='Industrial Table V1 19'><P>The table displayed is used to convert fluid ounces of water to a standard reading. What is the corresponding standard reading for an output of 6.25 fluid ounces?</P>",
+            "options": [{
+                    "text": "-2"
+                },
+                {
+                    "text": "-1"
+                },
+                {
+                    "text": "0"
+                },
+                {
+                    "text": "1"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "questionText": "<P>The following indicates a range of values for identifying various levels of salt found in a saltwater fish tank. Using the information below indicate whether the amount of salt is Critical Low, Low, Normal Range, High, or Critical High. These are fictional values, preexisting knowledge of this topic will not help you score higher. If the current amount of salt is 7.8, what is the corresponding level?</P> <img src='/content/image-library/mcq/examin/industrial1/Industrial1-20.png' alt='Industrial Table V1 20'>",
+            "options": [{
+                    "text": "Critical Low"
+                },
+                {
+                    "text": "Low"
+                },
+                {
+                    "text": "Normal Range"
+                },
+                {
+                    "text": "High"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "questionText": "<P>The following table indicates a range of values for identifying various levels of carbon dioxide found in the air. Using the information below, indicate whether the amount of carbon dioxide is Critical Low, Low, Normal Range, High, or Critical High. These are fictional values, preexisting knowledge of this topic will not help you score higher. If the current amount of carbon dioxide is 0.1, what is the corresponding level? </P><img src='/content/image-library/mcq/examin/industrial1/Industrial1-21.png' alt='Industrial Table V1 21'>",
+            "options": [{
+                    "text": "Critical Low"
+                },
+                {
+                    "text": "Low"
+                },
+                {
+                    "text": "Normal Range"
+                },
+                {
+                    "text": "High"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "questionText": "<P>Use the following temperature scale: 0 - 1.9: Very Cold 2.0 - 3.7: Cold 3.8 - 5.2: Warm 5.3 - 7.0: Very Warm What is the temperature reading as indicated by this scale?</P> <img src='/content/image-library/mcq/examin/industrial1/Industrial1-22.png' alt='Industrial Triple Dial V1 22'>",
+            "options": [{
+                    "text": "Very Cold"
+                },
+                {
+                    "text": "Cold"
+                },
+                {
+                    "text": "Warm"
+                },
+                {
+                    "text": "Very Warm"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "questionText": "<P>Use the following temperature scale: 0 - 1.9: Very Cold 2.0 - 3.7: Cold 3.8 - 5.2: Warm 5.3 - 7.0: Very Warm What is the temperature reading as indicated by this scale? </P><img src='/content/image-library/mcq/examin/industrial1/Industrial1-23.png' alt='Industrial Triple Dial V1 23'>",
+            "options": [{
+                    "text": "Very Cold"
+                },
+                {
+                    "text": "Cold"
+                },
+                {
+                    "text": "Warm"
+                },
+                {
+                    "text": "Very Warm"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "questionText": "<P>Use the following temperature scale: 0 - 1.9: Very Cold 2.0 - 3.7: Cold 3.8 - 5.2: Warm 5.3 - 7.0: Very Warm What is the temperature reading as indicated by this scale? </P><img src='/content/image-library/mcq/examin/industrial1/Industrial1-24.png' alt='Industrial Triple Dial V1 24'>",
+            "options": [{
+                    "text": "Very Cold"
+                },
+                {
+                    "text": "Cold"
+                },
+                {
+                    "text": "Warm"
+                },
+                {
+                    "text": "Very Warm"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "questionText": "<P>Use the following temperature scale: 0 - 1.9: Very Cold 2.0 - 3.7: Cold 3.8 - 5.2: Warm 5.3 - 7.0: Very Warm What is the temperature reading as indicated by this scale? </P><img src='/content/image-library/mcq/examin/industrial1/Industrial1-25.png' alt='Industrial Triple Dial V1 25'>",
+            "options": [{
+                    "text": "Very Cold"
+                },
+                {
+                    "text": "Cold"
+                },
+                {
+                    "text": "Warm"
+                },
+                {
+                    "text": "Very Warm"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "questionText": "<P>Use the following temperature scale: 0 - 1.9: Very Cold 2.0 - 3.7: Cold 3.8 - 5.2: Warm 5.3 - 7.0: Very Warm What is the temperature reading as indicated by this scale?</P> <img src='/content/image-library/mcq/examin/industrial1/Industrial1-26.png' alt='Industrial Triple Dial V1 26'>",
+            "options": [{
+                    "text": "Very Cold"
+                },
+                {
+                    "text": "Cold"
+                },
+                {
+                    "text": "Warm"
+                },
+                {
+                    "text": "Very Warm"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "questionText": "<P>Use the following temperature scale: 0 - 1.9: Very Cold 2.0 - 3.7: Cold 3.8 - 5.2: Warm 5.3 - 7.0: Very Warm What is the temperature reading as indicated by this scale?</P> <img src='/content/image-library/mcq/examin/industrial1/Industrial1-27.png' alt='Industrial Triple Dial V1 27'>",
+            "options": [{
+                    "text": "Very Cold"
+                },
+                {
+                    "text": "Cold"
+                },
+                {
+                    "text": "Warm"
+                },
+                {
+                    "text": "Very Warm"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "questionText": "<P>If the Meter Reading is 20, what is the range for the minimum Length? </P><img src='/content/image-library/mcq/examin/industrial1/Industrial1-28.png' alt='Industrial Line Graph V1 28'>",
+            "options": [{
+                    "text": "0-10"
+                },
+                {
+                    "text": "10-20"
+                },
+                {
+                    "text": "20-30"
+                },
+                {
+                    "text": "30-40"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "questionText": "<P>If the Meter Reading is 40, what is the range for the minimum Length?</P> <img src='/content/image-library/mcq/examin/industrial1/Industrial1-29.png' alt='Industrial Line Graph V1 29'>",
+            "options": [{
+                    "text": "0-10"
+                },
+                {
+                    "text": "10-20"
+                },
+                {
+                    "text": "20-30"
+                },
+                {
+                    "text": "30-40"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "questionText": "<P>If the Meter Reading is 30, what is the range for the minimum Length? </P><img src='/content/image-library/mcq/examin/industrial1/Industrial1-30.png' alt='Industrial Line Graph V1 30'>",
+            "options": [{
+                    "text": "0-10"
+                },
+                {
+                    "text": "10-20"
+                },
+                {
+                    "text": "20-30"
+                },
+                {
+                    "text": "30-40"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "questionText": "<P>If the Length is 20 ft, what is the Meter Reading range? </P><img src='/content/image-library/mcq/examin/industrial1/Industrial1-31.png' alt='Industrial Line Graph V1 31'>",
+            "options": [{
+                    "text": "20-40"
+                },
+                {
+                    "text": "40-60"
+                },
+                {
+                    "text": "60-80"
+                },
+                {
+                    "text": "80-100"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "questionText": "<P>If the Length is 60 ft, what is the Meter Reading range? </P><img src='/content/image-library/mcq/examin/industrial1/Industrial1-32.png' alt='Industrial Line Graph V1 32'>",
+            "options": [{
+                    "text": "20-40"
+                },
+                {
+                    "text": "40-60"
+                },
+                {
+                    "text": "60-80"
+                },
+                {
+                    "text": "80-100"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "questionText": "<P>What is the mixture's rating if your probe reads Compound A=2 and Compound B=3? </P><img src='/content/image-library/mcq/examin/industrial1/Industrial1-33.png' alt='Industrial Table V1 33'>",
+            "options": [{
+                    "text": "Low"
+                },
+                {
+                    "text": "Safe"
+                },
+                {
+                    "text": "High"
+                },
+                {
+                    "text": "Toxic"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "questionText": "<P>What is the mixture's rating if your probe reads Compound A=8 and Compound B=2? </P> <img src='/content/image-library/mcq/examin/industrial1/Industrial1-34.png' alt='Industrial Table V1 34'>",
+            "options": [{
+                    "text": "Low"
+                },
+                {
+                    "text": "Safe"
+                },
+                {
+                    "text": "High"
+                },
+                {
+                    "text": "Toxic"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "questionText": "<P>To have a Safe mixture, what must Compound A equal if Compound B equals 2?</p><img src='/content/image-library/mcq/examin/industrial1/Industrial1-35.png' alt='Industrial Table V1 35'>",
+            "options": [{
+                    "text": "0"
+                },
+                {
+                    "text": "4"
+                },
+                {
+                    "text": "8"
+                },
+                {
+                    "text": "10"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "questionText": "<P>To have a Toxic mixture, what must Compound A equal if Compound B equals 3? </P> <img src='/content/image-library/mcq/examin/industrial1/Industrial1-36.png' alt='Industrial Table V1 36'>",
+            "options": [{
+                    "text": "0"
+                },
+                {
+                    "text": "4"
+                },
+                {
+                    "text": "8"
+                },
+                {
+                    "text": "10"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "questionText": "<P>A recycled frame store uses scrap wood pieces to create frames. The store sells the frames in four sizes: small, medium, large, and extra large. When the scrap wood arrives at the recycled frame store, a worker uses the following chart to sort through the wood pieces. No additional cuts are made once the frame store receives the wood. Using the information from the chart, what size frame can be made with 2 pieces of wood that are 7 3/8\" each, and 2 pieces of wood that are 4 4/5\" each? </P><img src='/content/image-library/mcq/examin/industrial1/Industrial1-37.png' alt='Industrial Table V1 37'>",
+            "options": [{
+                    "text": "Small"
+                },
+                {
+                    "text": "Medium"
+                },
+                {
+                    "text": "Large"
+                },
+                {
+                    "text": "Extra Large"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "questionText": "<P>A recycled frame store uses scrap wood pieces to create frames. The store sells the frames in four sizes: small, medium, large, and extra large. When the scrap wood arrives at the recycled frame store, a worker uses the following chart to sort through the wood pieces. No additional cuts are made once the frame store receives the wood. Using the information from the chart, what size frame can be made with 2 pieces of wood that are 15\" each, and 2 pieces of wood that are 11 1/4\" each? </P><img src='/content/image-library/mcq/examin/industrial1/Industrial1-38.png' alt='Industrial Table V1 38'>",
+            "options": [{
+                    "text": "Small"
+                },
+                {
+                    "text": "Medium"
+                },
+                {
+                    "text": "Large"
+                },
+                {
+                    "text": "Extra Large"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "questionText": "<P>A recycled frame store uses scrap wood pieces to create frames. The store sells the frames in four sizes: small, medium, large, and extra large. When the scrap wood arrives at the recycled frame store, a worker uses the following chart to sort through the wood pieces. No additional cuts are made once the frame store receives the wood. Using the information from the chart, what size frame can be made with 2 pieces of wood that are 15 5/8\" each, and 2 pieces of wood that are 22 1/2\" each? </P><img src='/content/image-library/mcq/examin/industrial1/Industrial1-39.png' alt='Industrial Table V1 39'>",
+            "options": [{
+                    "text": "Small"
+                },
+                {
+                    "text": "Medium"
+                },
+                {
+                    "text": "Large"
+                },
+                {
+                    "text": "Extra Large"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "questionText": "<P>A recycled frame store uses scrap wood pieces to create frames. The store sells the frames in four sizes: small, medium, large, and extra large. When the scrap wood arrives at the recycled frame store, a worker uses the following chart to sort through the wood pieces. No additional cuts are made once the frame store receives the wood. Using the information from the chart, what size frame can be made with 2 pieces of wood that are 11 5/8\" each, and 2 pieces of wood that are 16\" each?</P> <img src='/content/image-library/mcq/examin/industrial1/Industrial1-40.png' alt='Industrial Table V1 40'>",
+            "options": [{
+                    "text": "Small"
+                },
+                {
+                    "text": "Medium"
+                },
+                {
+                    "text": "Large"
+                },
+                {
+                    "text": "Extra Large"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "questionText": "<P>A metal recycling company uses recycled metals to build door frames. The store sells the frames in four sizes: small, medium, large, and extra large. When scrap metal arrives at the store, a worker uses the following chart to sort through the metal pieces. No additional cuts are made once the store receives the metal. Using the information from the chart, what size frame can be made with 2 pieces of metal that are 10 1 / 3 \" each, and 2 pieces that are 15 8 / 9 \" each? </P><img src='/content/image-library/mcq/examin/industrial1/Industrial1-41.png' alt='Industrial Table V1 41'>",
+            "options": [{
+                    "text": "Small"
+                },
+                {
+                    "text": "Medium"
+                },
+                {
+                    "text": "Large"
+                },
+                {
+                    "text": "Extra Large"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "questionText": "<P>If the Temperature is 20F and the Humidity is 5%, then what is the required Pressure? </P> <img src='/content/image-library/mcq/examin/industrial1/Industrial1-42.png' alt='Industrial Triple Line Graph V1 42'>",
+            "options": [{
+                    "text": "5 psi"
+                },
+                {
+                    "text": "10 psi"
+                },
+                {
+                    "text": "15 psi"
+                },
+                {
+                    "text": "20 psi"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "questionText": "<P>If the Temperature is 30F and the Humidity is 20%, then what is the required Pressure? <img src='/content/image-library/mcq/examin/industrial1/Industrial1-43.png' alt='Industrial Triple Line Graph V1 43'>",
+            "options": [{
+                    "text": "5 psi"
+                },
+                {
+                    "text": "15 psi"
+                },
+                {
+                    "text": "25 psi"
+                },
+                {
+                    "text": "35 psi"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "questionText": "<P>If the Temperature is 40F and the Humidity is 20%, then what is the required Pressure? </P> <img src='/content/image-library/mcq/examin/industrial1/Industrial1-44.png' alt='Industrial Triple Line Graph V1 44'>",
+            "options": [{
+                    "text": "20 psi"
+                },
+                {
+                    "text": "30 psi"
+                },
+                {
+                    "text": "40 psi"
+                },
+                {
+                    "text": "50 psi"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "questionText": "<P>To ensure 50PSI when it is 35% H, at what temperature must you maintain the system? </P> <img src='/content/image-library/mcq/examin/industrial1/Industrial1-45.png' alt='Industrial Triple Line Graph V1 45'>",
+            "options": [{
+                    "text": "20"
+                },
+                {
+                    "text": "30"
+                },
+                {
+                    "text": "40"
+                },
+                {
+                    "text": "50"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "questionText": "<P>At 8am the Temperature was 30F and the Pressure was 25 psi. At 10am, the temp rises to 40F while the Humidity remains constant. What is the new operating PSI? </P><img src='/content/image-library/mcq/examin/industrial1/Industrial1-46.png' alt='Industrial Triple Line Graph V1 46'>",
+            "options": [{
+                    "text": "20"
+                },
+                {
+                    "text": "30"
+                },
+                {
+                    "text": "40"
+                },
+                {
+                    "text": "50"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "questionText": "<P>At 8am the Temperature was 30F and the Pressure was 10 psi. At 10am, the temp rises to 40F while the Humidity remains constant. What is the new operating PSI?</P> <img src='/content/image-library/mcq/examin/industrial1/Industrial1-47.png' alt='Industrial Triple Line Graph V1 47'>",
+            "options": [{
+                    "text": "5"
+                },
+                {
+                    "text": "10"
+                },
+                {
+                    "text": "15"
+                },
+                {
+                    "text": "20"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "questionText": "<P>Which of the following is 3.75 inches expressed as a fraction?</P>",
+            "options": [{
+                    "text": "7/5 inches"
+                },
+                {
+                    "text": "3 1 / 4 inches"
+                },
+                {
+                    "text": "3 2 / 4 inches"
+                },
+                {
+                    "text": "3 3 / 4 inches"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "questionText": "<P>Which of the following is 45.70 gallons expressed as a fraction?</P>",
+            "options": [{
+                    "text": "45 7 / 8 gallons"
+                },
+                {
+                    "text": "45 7 / 9 gallons"
+                },
+                {
+                    "text": "45 7 / 10 gallons"
+                },
+                {
+                    "text": "45 7 / 11 gallons"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "questionText": "<P>Which of the following is 12.20 ounces expressed as a fraction?</P>",
+            "options": [{
+                    "text": "12 1 / 5 ounces"
+                },
+                {
+                    "text": "12 2 / 5 ounces"
+                },
+                {
+                    "text": "12 1 / 4 ounces"
+                },
+                {
+                    "text": "12 2 / 4 ounces"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "questionText": "<P>Which of the following is 18 1 / 4 tons expressed as a decimal? If necessary, round the answer to the nearest hundredth.</P>",
+            "options": [{
+                    "text": "18.14 tons"
+                },
+                {
+                    "text": "18.25 tons"
+                },
+                {
+                    "text": "18.40 tons"
+                },
+                {
+                    "text": "18.75 tons"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "questionText": "<P>Which of the following is 3 1 / 2 tons expressed as a decimal? If necessary, round the answer to the nearest hundredth.</P>",
+            "options": [{
+                    "text": "3.12 tons"
+                },
+                {
+                    "text": "3.20 tons"
+                },
+                {
+                    "text": "3.25 tons"
+                },
+                {
+                    "text": "3.50 tons"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "questionText": "<P>Which of the following is 7.80 gallons expressed as a fraction?</P>",
+            "options": [{
+                    "text": "7 1 / 4 gallons"
+                },
+                {
+                    "text": "7 2 / 5 gallons"
+                },
+                {
+                    "text": "7 4 / 5 gallons"
+                },
+                {
+                    "text": "7 7 / 8 gallons"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "questionText": "<P>Which of the following is 8 7 / 8 inches expressed as a decimal? If necessary, round the answer to the nearest thousandth.</P>",
+            "options": [{
+                    "text": "8.780 inches"
+                },
+                {
+                    "text": "8.785 inches"
+                },
+                {
+                    "text": "8.875 inches"
+                },
+                {
+                    "text": "8.925 inches"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "questionText": "<P>1 quart = 32 fluid ounces, 1 gallon = 4 quarts. How many quarts are in 7.6 gallons?</P>",
+            "options": [{
+                    "text": "11.6"
+                },
+                {
+                    "text": "30.4"
+                },
+                {
+                    "text": "36.1"
+                },
+                {
+                    "text": "40.3"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "questionText": "<P>1 quart = 32 fluid ounces, 1 gallon = 4 quarts. How many gallons are in 4500 quarts ?</P>",
+            "options": [{
+                    "text": "1000"
+                },
+                {
+                    "text": "4500"
+                },
+                {
+                    "text": "1125"
+                },
+                {
+                    "text": "18000"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "questionText": "<P>1 quart = 32 fluid ounces, 1 gallon = 4 quarts. Which of the following is the largest volume?</P>",
+            "options": [{
+                    "text": "4000 fluid ounces"
+                },
+                {
+                    "text": "25 gallons"
+                },
+                {
+                    "text": "95 quarts"
+                },
+                {
+                    "text": "320 fluid ounces"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "questionText": "<P>1 quart = 32 fluid ounces, 1 gallon = 4 quarts. Use the ingredients list for making 1 gallon of vanilla ice cream to answer this question. Cream = 2 quarts Skim milk = 35 ounces Sugar = 45 ounces Liquid vanilla extract = 10 ounces. How much cream is needed to make 15 gallons of vanilla ice cream?</P>",
+            "options": [{
+                    "text": "15 quarts"
+                },
+                {
+                    "text": "21 quarts"
+                },
+                {
+                    "text": "30 quarts"
+                },
+                {
+                    "text": "31 quarts"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "questionText": "<P>1 quart = 32 fluid ounces, 1 gallon = 4 quarts. Use the ingredients list for making 1 gallon of vanilla ice cream to answer this question. Cream = 2 quarts Skim milk = 35 ounces Sugar = 45 ounces Liquid vanilla extract = 10 ounces. How much sugar is needed to make 0.5 gallons of vanilla ice cream?</P>",
+            "options": [{
+                    "text": "22.5 ounces"
+                },
+                {
+                    "text": "35.2 ounces"
+                },
+                {
+                    "text": "40.5 ounces"
+                },
+                {
+                    "text": "45.0 ounces"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "questionText": "<P>1 quart = 32 fluid ounces, 1 gallon = 4 quarts. Use the ingredients list for making 1 gallon of vanilla ice cream to answer this question. Cream = 2 quarts Skim milk = 35 ounces Sugar = 45 ounces Liquid vanilla extract = 10 ounces. How much total liquid goes into making 1 gallon of vanilla ice cream? (round to the nearest tenth)</P>",
+            "options": [{
+                    "text": "2.8 quarts"
+                },
+                {
+                    "text": "3.4 quarts"
+                },
+                {
+                    "text": "4.5 quarts"
+                },
+                {
+                    "text": "5.2 quarts"
+                }
+            ]
+        }
+    ],
+    "resources": {
+        "media": {
+            "images": [{
+                    "id": "Industrial1-1",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-1.png"
+                },
+                {
+                    "id": "Industrial1-2",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-2.png"
+                },
+                {
+                    "id": "Industrial1-3",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-3.png"
+                },
+                {
+                    "id": "Industrial1-4",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-4.png"
+                },
+                {
+                    "id": "Industrial1-5",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-5.png"
+                },
+                {
+                    "id": "Industrial1-6",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-6.png"
+                },
+                {
+                    "id": "Industrial1-7",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-7.png"
+                },
+                {
+                    "id": "Industrial1-8",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-8.png"
+                },
+                {
+                    "id": "Industrial1-9",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-9.png"
+                },
+                {
+                    "id": "Industrial1-10",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-10.png"
+                },
+                {
+                    "id": "Industrial1-11",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-11.png"
+                },
+                {
+                    "id": "Industrial1-12",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-12.png"
+                },
+                {
+                    "id": "Industrial1-13",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-13.png"
+                },
+                {
+                    "id": "Industrial1-14",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-14.png"
+                },
+                {
+                    "id": "Industrial1-15",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-15.png"
+                },
+                {
+                    "id": "Industrial1-16",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-16.png"
+                },
+                {
+                    "id": "Industrial1-17",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-17.png"
+                },
+                {
+                    "id": "Industrial1-18",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-18.png"
+                },
+                {
+                    "id": "Industrial1-19",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-19.png"
+                },
+                {
+                    "id": "Industrial1-20",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-20.png"
+                },
+                {
+                    "id": "Industrial1-21",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-21.png"
+                },
+                {
+                    "id": "Industrial1-22",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-22.png"
+                },
+                {
+                    "id": "Industrial1-23",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-23.png"
+                },
+                {
+                    "id": "Industrial1-24",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-24.png"
+                },
+                {
+                    "id": "Industrial1-25",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-25.png"
+                },
+                {
+                    "id": "Industrial1-26",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-26.png"
+                },
+                {
+                    "id": "Industrial1-27",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-27.png"
+                },
+                {
+                    "id": "Industrial1-28",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-28.png"
+                },
+                {
+                    "id": "Industrial1-29",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-29.png"
+                },
+                {
+                    "id": "Industrial1-30",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-30.png"
+                },
+                {
+                    "id": "Industrial1-31",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-31.png"
+                },
+                {
+                    "id": "Industrial1-32",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-32.png"
+                },
+                {
+                    "id": "Industrial1-33",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-33.png"
+                },
+                {
+                    "id": "Industrial1-34",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-34.png"
+                },
+                {
+                    "id": "Industrial1-35",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-35.png"
+                },
+                {
+                    "id": "Industrial1-36",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-36.png"
+                },
+                {
+                    "id": "Industrial1-37",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-37.png"
+                },
+                {
+                    "id": "Industrial1-38",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-38.png"
+                },
+                {
+                    "id": "Industrial1-39",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-39.png"
+                },
+                {
+                    "id": "Industrial1-40",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-40.png"
+                },
+                {
+                    "id": "Industrial1-41",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-41.png"
+                },
+                {
+                    "id": "Industrial1-42",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-42.png"
+                },
+                {
+                    "id": "Industrial1-43",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-43.png"
+                },
+                {
+                    "id": "Industrial1-44",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-44.png"
+                },
+                {
+                    "id": "Industrial1-45",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-45.png"
+                },
+                {
+                    "id": "Industrial1-46",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-46.png"
+                },
+                {
+                    "id": "Industrial1-47",
+                    "url": "/content/image-library/mcq/examin/industrial1/Industrial1-47.png"
+                }
+            ],
+            "audio": []
+        }
+    }
+}

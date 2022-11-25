@@ -1,0 +1,104 @@
+{
+  "assessmentName": "Probability",
+  "playerType": "MCQ",
+  "lastModified": "06/09/2017",
+  "instruction": "",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "<p>Four people called in reporting the sounds of an apparent burglary. The addresses they gave for the burglary were:</p><p> Caller #1: 6249 Jefferson Drive.</p><p> Caller #2: 5349 Jefferson Drive.</p><p> Caller #3: 6339 Jefferson Drive.</p><p> Caller #4: 6349 Jefferson Drive.</p><p>Which of the following addresses is most likely correct?</p>",
+      "options": [
+        {
+          "text": "6249 Jefferson Drive"
+        },
+        {
+          "text": "6339 Jefferson Drive"
+        },
+        {
+          "text": "5349 Jefferson Drive"
+        },
+        {
+          "text": "6349 Jefferson Drive"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "<p>There was a traffic accident at a very busy intersection. Several witnesses describe the course of events as follows:</p><p> Witness #1: The vehicle that was struck was turning left when it was hit by a drunk driver who did not stop at the stop sign.</p><p> Witness #2: The vehicle that was struck started too quickly and was hit from the side by a drunk driver.</p> <p>Witness #3: The vehicle that was struck was beginning its left turn when the man in the blue Chevy came out of nowhere.</p><p> Witness #4: A drunken man was coming very fast and ran the stop sign.</p><p> Which of the following scenarios is most likely correct?</p>",
+      "options": [
+        {
+          "text": "A drunken man was coming very fast and ran the stop sign."
+        },
+        {
+          "text": "The vehicle that was struck started too quickly and was hit from the side by a drunk driver."
+        },
+        {
+          "text": "The vehicle that was struck was beginning its left turn when the man in the blue Chevy came out of nowhere."
+        },
+        {
+          "text": "The vehicle that was struck was making a left turn and a drunk driver did not stop at the stop sign."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "<p>A group of teenagers were seen playing with cigarette lighters near a field of dry grass. The dry grass caught on fire and was burned. Several people saw the group of teenagers and gave the following descriptions:</p><p> Clerk #1: Black teenagers wearing baggy clothing.</p> <p>Clerk #2: White teenagers that were cursing a great deal.</p><p>Clerk #3: Hispanic teenagers wearing baggy clothing.</p><p> Clerk #4: Hispanic teenagers that had on very large clothing.</p><p>Which of the following descriptions of the couple is most likely correct?</p>",
+      "options": [
+        {
+          "text": "Hispanic teenagers that had on very large clothing"
+        },
+        {
+          "text": "Black teenagers that were cursing a great deal"
+        },
+        {
+          "text": "Hispanic teenagers wearing baggy clothing"
+        },
+        {
+          "text": "White teenagers wearing baggy clothing"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionText": "<p>Several children provided the license plate number and letters of the vehicle they said had offered them a ride home from school. The license plate numbers and letters the children provided were:</p><p> Child #1: 876FT.</p><p> Child #2: 876PT.</p><p> Child #3: S76PT.</p><p> Child #4: 876P7.</p><p> Which of the following license plate numbers and letters is most likely correct?</p>",
+      "options": [
+        {
+          "text": "876FT"
+        },
+        {
+          "text": "876PT"
+        },
+        {
+          "text": "S76PT"
+        },
+        {
+          "text": "876P7"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionText": "<p>A young teenage girl has not come home from a friend’s party that she went to right after school and her parents are very concerned. Four people described what they recalled she was wearing earlier in the day.</p><p> Person #1: A skirt, a white T-shirt, a blue denim jacket, and white canvas sneakers.</p><p> Person #2: A blue skirt, a white tank top, and white sneakers.</p><p> Person #3: A dark skirt and a white button down blouse with short sleeves.</p><p> Person #4: A blue skirt, a white tank top, and a sweatshirt tied around her waist.</p><p> Which of the following descriptions is most likely correct?</p>",
+      "options": [
+        {
+          "text": "Blue skirt, a white T-shirt, a blue denim jacket, and white canvas sneakers"
+        },
+        {
+          "text": "Blue skirt and a white button down blouse."
+        },
+        {
+          "text": "Blue skirt, a white tank top, and a sweatshirt tied around her waist."
+        },
+        {
+          "text": "Blue skirt, a white tank top, and white sneakers."
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "audio": [],
+      "images": []
+    }
+  }
+}

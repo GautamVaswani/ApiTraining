@@ -1,0 +1,194 @@
+{
+  "assessmentName": "Character Comparison",
+  "playerType": "MCQ",
+  "lastModified": "06/09/2017",
+  "instruction": "",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly the same as:</p><p>8397 HUCKLEBERRY</p>",
+      "options": [
+        {
+          "text": "8879 HECKLEBERRY"
+        },
+        {
+          "text": "8397 HUCKLEBERRY"
+        },
+        {
+          "text": "3879 HUCENBURRY"
+        },
+        {
+          "text": "3819 HACKENBERRY"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly that same as:</p><p>3P874831</p>",
+      "options": [
+        {
+          "text": "3B347831"
+        },
+        {
+          "text": "3P434831"
+        },
+        {
+          "text": "3F784318"
+        },
+        {
+          "text": "3P874831"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly the same as:</p><p>1FTABC72439B65MR</p>",
+      "options": [
+        {
+          "text": "1FTABC72439B65RM"
+        },
+        {
+          "text": "1FTABC74239B65MR"
+        },
+        {
+          "text": "1FTABC72439B65MR"
+        },
+        {
+          "text": "1FBATC72439B65MR"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly the same as:</p><p>8620 PRESIDIO</p>",
+      "options": [
+        {
+          "text": "8620 PREDISIO"
+        },
+        {
+          "text": "8630 PRESIDIO"
+        },
+        {
+          "text": "8620 PRESIDIO"
+        },
+        {
+          "text": "8620 PERISIO"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly the same as:</p><p>LI24FASP391826149</p>",
+      "options": [
+        {
+          "text": "LI24FASP391826149"
+        },
+        {
+          "text": "1LS4FA4B381826149"
+        },
+        {
+          "text": "IL2ABASB3981261A9"
+        },
+        {
+          "text": "LI42B4SP3918261AS"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly the same as:</p><p>84352 STANDSONE</p>",
+      "options": [
+        {
+          "text": "48352 SANDSTONE"
+        },
+        {
+          "text": "84352 STANDSONE"
+        },
+        {
+          "text": "84532 SANDBONE"
+        },
+        {
+          "text": "85342 BONDSTONE"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly the same as:</p><p>5U47982</p>",
+      "options": [
+        {
+          "text": "5U47982"
+        },
+        {
+          "text": "5U47928"
+        },
+        {
+          "text": "SUA7982"
+        },
+        {
+          "text": "5V47982"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly the same as:</p><p>4UEVU547862EUW</p>",
+      "options": [
+        {
+          "text": "AOBVUSAT682EUW"
+        },
+        {
+          "text": "4BUVU547862WEU"
+        },
+        {
+          "text": "4UEVU574862EUW"
+        },
+        {
+          "text": "4UEVU547862EUW"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly the same as:</p><p>1224 KENSERT</p>",
+      "options": [
+        {
+          "text": "212A BENHERT"
+        },
+        {
+          "text": "1224 KENSERT"
+        },
+        {
+          "text": "4221 GLENHURT"
+        },
+        {
+          "text": "1224 DENBERT"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly the same as:</p><p>7WDI585</p>",
+      "options": [
+        {
+          "text": "7MO1585"
+        },
+        {
+          "text": "7WDI5BS"
+        },
+        {
+          "text": "7WDI585"
+        },
+        {
+          "text": "7W01585"
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

@@ -1,0 +1,395 @@
+﻿{
+  "assessmentName": "Position Locating Rural (Written)",
+  "playerType": "POSLOC",
+  "instruction": "<span role=heading aria-level=3> Position Locating (Written)</span><br><br>You are about to begin the \"Position Locating\" test.  At the beginning, you will see a map comprising the majority of the screen.  This map will be used to answer the simulated calls that are displayed on the right-hand side of the screen.  The simulated calls will describe certain items that appear on the map.  Using the information provided, you are to determine the most-likely location of the caller on the map.  <br><br>The map is divided into a grid by columns and rows.  Use the two drop down boxes to select the appropriate answer.  In the first drop down box, select a letter relating to a column on the map.  In the second drop down box you will select a number relating the a row on the map.  The intersection of the column and row is what you consider to be the most-likely location of the caller.<br><br>Once you have selected a column and a row from the drop down boxes, you can proceed to the next question using the \"Next\" button.  If you wish to review previous questions use the \"Back\" button.  You can also skip an unanswered question by clicking the \"Next\" button.  You may return to unanswered questions later in the test.\n                                                                                                                                                                                           \nIf a time limit has been set for this test by the test administrator, you will see the timer counting down in the bottom right-hand corner of the screen.  This timer shows how much time you have remaining to complete the test.  If no time limit has been set, there will be no visible timer.<br><br>Across the top of the screen you will see a toolbar.  This toolbar lists the total number of questions and the number of unanswered questions remaining.  It also contains a drop down list of all unanswered questions.  You can use this list to quickly navigate to any unanswered question.  This toolbar also contains the \"Done\" button.<br><br>When you have finished the test, you can click the \"Done\" button in the top toolbar or you can simply click the \"Next\" button below the drop down boxes one final time.  <br><br>",
+  "url": "/content/image-library/position-locating/Rural Map.png",
+  "column": [
+    {
+      "text": "A",
+      "length": 119
+    },
+    {
+      "text": "B",
+      "length": 139
+    },
+    {
+      "text": "C",
+      "length": 192
+    },
+    {
+      "text": "D",
+      "length": 147
+    },
+    {
+      "text": "E",
+      "length": 131
+    },
+    {
+      "text": "F",
+      "length": 131
+    }
+  ],
+  "row": [
+    {
+      "text": "1",
+      "length": 134
+    },
+    {
+      "text": "2",
+      "length": 162
+    },
+    {
+      "text": "3",
+      "length": 174
+    },
+    {
+      "text": "4",
+      "length": 169
+    }
+  ],
+  "imageCoordinates": [
+    {
+      "id": "A1",
+      "areaCords": "24,20,140,154",
+      "cords": {
+        "0": "24",
+        "1": "20",
+        "2": "140",
+        "3": "154"
+      }
+    },
+    {
+      "id": "B1",
+      "areaCords": "139,20,280,154",
+      "cords": {
+        "0": "139",
+        "1": "20",
+        "2": "280",
+        "3": "154"
+      }
+    },
+    {
+      "id": "C1",
+      "areaCords": "278,20,470,154",
+      "cords": {
+        "0": "278",
+        "1": "20",
+        "2": "470",
+        "3": "154"
+      }
+    },
+    {
+      "id": "D1",
+      "areaCords": "467,21,616,154",
+      "cords": {
+        "0": "467",
+        "1": "21",
+        "2": "616",
+        "3": "154"
+      }
+    },
+    {
+      "id": "E1",
+      "areaCords": "614,21,745,154",
+      "cords": {
+        "0": "614",
+        "1": "21",
+        "2": "745",
+        "3": "154"
+      }
+    },
+    {
+      "id": "F1",
+      "areaCords": "743,19,875,154",
+      "cords": {
+        "0": "743",
+        "1": "19",
+        "2": "875",
+        "3": "154"
+      }
+    },
+    {
+      "id": "A2",
+      "areaCords": "24,152,140,315",
+      "cords": {
+        "0": "25",
+        "1": "152",
+        "2": "140",
+        "3": "315"
+      }
+    },
+    {
+      "id": "B2",
+      "areaCords": "138,152,279,315",
+      "cords": {
+        "0": "138",
+        "1": "152",
+        "2": "279",
+        "3": "315"
+      }
+    },
+    {
+      "id": "C2",
+      "areaCords": "277,152,469,315",
+      "cords": {
+        "0": "277",
+        "1": "152",
+        "2": "469",
+        "3": "315"
+      }
+    },
+    {
+      "id": "D2",
+      "areaCords": "467,152,616,315",
+      "cords": {
+        "0": "467",
+        "1": "152",
+        "2": "616",
+        "3": "315"
+      }
+    },
+    {
+      "id": "E2",
+      "areaCords": "615,152,745,315",
+      "cords": {
+        "0": "615",
+        "1": "152",
+        "2": "745",
+        "3": "315"
+      }
+    },
+    {
+      "id": "F2",
+      "areaCords": "743,152,874,315",
+      "cords": {
+        "0": "743",
+        "1": "152",
+        "2": "874",
+        "3": "315"
+      }
+    },
+    {
+      "id": "A3",
+      "areaCords": "24,313,141,486",
+      "cords": {
+        "0": "24",
+        "1": "313",
+        "2": "141",
+        "3": "486"
+      }
+    },
+    {
+      "id": "B3",
+      "areaCords": "140,313,280,486",
+      "cords": {
+        "0": "140",
+        "1": "313",
+        "2": "280",
+        "3": "486"
+      }
+    },
+    {
+      "id": "C3",
+      "areaCords": "278,313,469,486",
+      "cords": {
+        "0": "278",
+        "1": "313",
+        "2": "469",
+        "3": "486"
+      }
+    },
+    {
+      "id": "D3",
+      "areaCords": "467,313,616,486",
+      "cords": {
+        "0": "467",
+        "1": "313",
+        "2": "616",
+        "3": "486"
+      }
+    },
+    {
+      "id": "E3",
+      "areaCords": "615,313,745,486",
+      "cords": {
+        "0": "615",
+        "1": "313",
+        "2": "745",
+        "3": "486"
+      }
+    },
+    {
+      "id": "F3",
+      "areaCords": "743,313,874,486",
+      "cords": {
+        "0": "743",
+        "1": "313",
+        "2": "874",
+        "3": "486"
+      }
+    },
+    {
+      "id": "A4",
+      "areaCords": "24,484,141,655",
+      "cords": {
+        "0": "24",
+        "1": "484",
+        "2": "141",
+        "3": "655"
+      }
+    },
+    {
+      "id": "B4",
+      "areaCords": "140,484,280,655",
+      "cords": {
+        "0": "140",
+        "1": "484",
+        "2": "280",
+        "3": "655"
+      }
+    },
+    {
+      "id": "C4",
+      "areaCords": "276,484,469,655",
+      "cords": {
+        "0": "276",
+        "1": "484",
+        "2": "469",
+        "3": "655"
+      }
+    },
+    {
+      "id": "D4",
+      "areaCords": "468,484,616,655",
+      "cords": {
+        "0": "468",
+        "1": "484",
+        "2": "616",
+        "3": "655"
+      }
+    },
+    {
+      "id": "E4",
+      "areaCords": "616,484,745,655",
+      "cords": {
+        "0": "616",
+        "1": "484",
+        "2": "745",
+        "3": "655"
+      }
+    },
+    {
+      "id": "F4",
+      "areaCords": "742,484,874,655",
+      "cords": {
+        "0": "742",
+        "1": "484",
+        "2": "874",
+        "3": "655"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "questionText": "There is a person lying on the ground unconscious. I’m in the middle of the street and directly in front of me I can see some construction work. Also I can see a radio tower beyond the construction work. ",
+      "audioID": "",
+      "imageID": "Rural Map"
+    },
+    {
+      "id": "2",
+      "questionText": "I want to report a robbery that has just occurred. I can see a water tower in front of me, as well as a train station past the water tower.  ",
+      "audioID": "",
+      "imageID": "Rural Map"
+    },
+    {
+      "id": "3",
+      "questionText": "I want to report a fight breaking out nearby. I can see a radio tower directly in front of me and a park past the radio tower.  ",
+      "audioID": "",
+      "imageID": "Rural Map"
+    },
+    {
+      "id": "4",
+      "questionText": "A fire has started nearby but I’m not familiar with this area. Directly in front of me is a school, and behind me is a park.  ",
+      "audioID": "",
+      "imageID": "Rural Map"
+    },
+    {
+      "id": "5",
+      "questionText": "I want to report a mattress in the middle of the road. I am in the middle of the street and I can see park in front of me, a hospital to the right, and a construction site to the left.  ",
+      "audioID": "",
+      "imageID": "Rural Map"
+    },
+    {
+      "id": "6",
+      "questionText": "I see a child wandering the streets alone. I am in the middle of the street and to my left and right are construction sites. ",
+      "audioID": "",
+      "imageID": "Rural Map"
+    },
+    {
+      "id": "7",
+      "questionText": "I want to report a street light power outage. I am next to a police station and can see the fire station across from some railroad tracks.  ",
+      "audioID": "",
+      "imageID": "Rural Map"
+    },
+    {
+      "id": "8",
+      "questionText": "My bicycle was stolen and I am not familiar with this area. I’m facing a water tower that is the middle of a roundabout.  ",
+      "audioID": "",
+      "imageID": "Rural Map"
+    },
+    {
+      "id": "9",
+      "questionText": "I was with my mom but we got separated. I’m in a single story building. Looking out the window I can see some train tracks and train station past the tracks.  ",
+      "audioID": "",
+      "imageID": "Rural Map"
+    },
+    {
+      "id": "10",
+      "questionText": "I was looking out of a window and I saw a car hit a tree. I’m on the top floor of a 3-story building. I can see a construction site on the same block as this building.  ",
+      "audioID": "",
+      "imageID": "Rural Map"
+    },
+    {
+      "id": "11",
+      "questionText": "My mom passed out and won’t wake up. We are on the top floor of a 3-story building and I can see some railroad tracks and a single story building past the tracks.  ",
+      "audioID": "",
+      "imageID": "Rural Map"
+    },
+    {
+      "id": "12",
+      "questionText": "My mom slipped and fell on the floor hard. We are on the roof of a 3-story building. I can see a construction site to the west.  ",
+      "audioID": "",
+      "imageID": "Rural Map"
+    },
+    {
+      "id": "13",
+      "questionText": "I’m at the park with my dad and he fell in the pond and can’t get out. The pond is to the west and there is a construction site directly behind me.  ",
+      "audioID": "",
+      "imageID": "Rural Map"
+    },
+    {
+      "id": "14",
+      "questionText": "I saw a black car hit a light post. I am in the middle of the intersection between 3rd St. and Hospital Drive.  ",
+      "audioID": "",
+      "imageID": "Rural Map"
+    },
+    {
+      "id": "15",
+      "questionText": "I was just hit by a passing motorcycle. I am at a park which is to the east of the train station.  ",
+      "audioID": "",
+      "imageID": "Rural Map"
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [
+        {
+          "id": "Rural Map",
+          "url": "/content/image-library/position-locating/Rural Map.png"
+        }
+      ],
+      "audio": []
+    }
+  }
+}

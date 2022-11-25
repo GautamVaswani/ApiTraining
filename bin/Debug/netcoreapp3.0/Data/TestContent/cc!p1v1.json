@@ -1,0 +1,194 @@
+{
+  "assessmentName": "Prioritization",
+  "playerType": "MCQ",
+  "lastModified": "06/09/2017",
+  "instruction": "",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "<p>Report of kids throwing rocks from overpass over a busy freeway. Choose the priority of this situation.</p>",
+      "options": [
+        {
+          "text": "Priority 1 - An immediate threat to life or health"
+        },
+        {
+          "text": "Priority 2 - An immediate threat to property"
+        },
+        {
+          "text": "Priority 3 - A routine report or incident"
+        },
+        {
+          "text": "Priority 4 - A public service or public education"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "<p>An employer believes that an absent employee has been stealing funds from the company. Choose the priority of this situation.</p>",
+      "options": [
+        {
+          "text": "Priority 1 - An immediate threat to life or health"
+        },
+        {
+          "text": "Priority 2 - An immediate threat to property"
+        },
+        {
+          "text": "Priority 3 - A routine report or incident"
+        },
+        {
+          "text": "Priority 4 - A public service or public education"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "<p>A man has found his stolen vehicle and there are no people around. Choose the priority of this situation.</p>",
+      "options": [
+        {
+          "text": "Priority 1 - An immediate threat to life or health"
+        },
+        {
+          "text": "Priority 2 - An immediate threat to property"
+        },
+        {
+          "text": "Priority 3 - A routine report or incident"
+        },
+        {
+          "text": "Priority 4 - A public service or public education"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionText": "<p>A late night caller says that someone is breaking into his car parked in the driveway of his home. Choose the priority of this situation.</p>",
+      "options": [
+        {
+          "text": "Priority 1 - An immediate threat to life or health"
+        },
+        {
+          "text": "Priority 2 - An immediate threat to property"
+        },
+        {
+          "text": "Priority 3 - A routine report or incident"
+        },
+        {
+          "text": "Priority 4 - A public service or public education"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionText": "<p>A young man reports that he found a purse on his way to work. Choose the priority of this situation. </p>",
+      "options": [
+        {
+          "text": "Priority 1 - An immediate threat to life or health"
+        },
+        {
+          "text": "Priority 2 - An immediate threat to property"
+        },
+        {
+          "text": "Priority 3 - A routine report or incident"
+        },
+        {
+          "text": "Priority 4 - A public service or public education"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionText": "<p>A bank teller calls, whispering that there is a man with a gun at another one of the teller windows. Choose the priority of this situation.</p>",
+      "options": [
+        {
+          "text": "Priority 1 - An immediate threat to life or health"
+        },
+        {
+          "text": "Priority 2 - An immediate threat to property"
+        },
+        {
+          "text": "Priority 3 - A routine report or incident"
+        },
+        {
+          "text": "Priority 4 - A public service or public education"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionText": "<p>A telephone caller is interested in the requirements for hire as a police officer. Choose the priority of this situation.</p>",
+      "options": [
+        {
+          "text": "Priority 1 - An immediate threat to life or health"
+        },
+        {
+          "text": "Priority 2 - An immediate threat to property"
+        },
+        {
+          "text": "Priority 3 - A routine report or incident"
+        },
+        {
+          "text": "Priority 4 - A public service or public education"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionText": "<p>In the middle of the night an anonymous caller reports teenagers are spray painting playground equipment in the park. Choose the priority of this situation.</p>",
+      "options": [
+        {
+          "text": "Priority 1 - An immediate threat to life or health"
+        },
+        {
+          "text": "Priority 2 - An immediate threat to property"
+        },
+        {
+          "text": "Priority 3 - A routine report or incident"
+        },
+        {
+          "text": "Priority 4 - A public service or public education"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionText": "<p>A female caller reports that her husband is beating her. Choose the priority of this situation.</p>",
+      "options": [
+        {
+          "text": "Priority 1 - An immediate threat to life or health"
+        },
+        {
+          "text": "Priority 2 - An immediate threat to property"
+        },
+        {
+          "text": "Priority 3 - A routine report or incident"
+        },
+        {
+          "text": "Priority 4 - A public service or public education"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionText": "<p>A resident got home from vacation to find that his home has been burglarized. Choose the priority of this situation.</p>",
+      "options": [
+        {
+          "text": "Priority 1 - An immediate threat to life or health"
+        },
+        {
+          "text": "Priority 2 - An immediate threat to property"
+        },
+        {
+          "text": "Priority 3 - A routine report or incident"
+        },
+        {
+          "text": "Priority 4 - A public service or public education"
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "audio": [],
+      "images": []
+    }
+  }
+}

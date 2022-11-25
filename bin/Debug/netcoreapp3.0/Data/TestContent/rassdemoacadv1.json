@@ -1,0 +1,268 @@
+{
+	"assessmentName": "RASS Cognitive Test",
+	"playerType": "MCQ",
+	"lastModified": "02/08/2019",
+	"instruction": "<p role=heading aria-level=3>General Comprehension demo</p><p>This section of the test contains multiple-choice questions, which you must answer by using your computer mouse to select the correct response. Upon answering a question, you can go to the next question by clicking the Next button on the Menu bar.</p><p>During this section of the test, if you choose you may skip an item and then later return to that item.</p> <p>When you are finished, select Submit from the Menu bar. Your Test Administrator may have set a time limit for this test section. If there is a time limit, you will be told how much time you have. If a time limit has been set for this section of the test, you will notice a countdown timer on the Header of the screen, showing the amount of time remaining to complete this section of the test.</p>",
+	"questions": [{
+			"id": 1,
+			"questionText": "<p>Which digit of the order number is the 8th digit from the right?\r 235094759238452</p>",
+			"options": [{
+					"text": "4"
+				},
+				{
+					"text": "5"
+				},
+				{
+					"text": "7"
+				},
+				{
+					"text": "9"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"questionText": "<p>How many M’s are there in the product code?\r MHM3NMHH5MN6MH2MH11MN</p>",
+			"options": [{
+					"text": "3"
+				},
+				{
+					"text": "5"
+				},
+				{
+					"text": "6"
+				},
+				{
+					"text": "7"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"questionText": "<p>How many digits are shared between these serial numbers?\r1836840517293\r1836840517293</p>",
+			"options": [{
+					"text": "12"
+				},
+				{
+					"text": "13"
+				},
+				{
+					"text": "14"
+				},
+				{
+					"text": "15"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"questionText": "<p>Your supervisor tells you, “a customer dropped a bottle of juice on isle 8 and I need you to get a wet floor sign.” \r What does you supervisor want you to do?</p>",
+			"options": [{
+					"text": "Go pick up the bottle of juice on isle 8 then go get a wet floor sign"
+				},
+				{
+					"text": "Go get a wet floor sign and place it by the spill in isle 8"
+				},
+				{
+					"text": "Go get a wet floor sign and bring it to the supervisor, then go clean up the spill on isle 8"
+				},
+				{
+					"text": "Go get the bottle of juice on isle 8 and a wet floor sign and bring them to the supervisor"
+				}
+			]
+		},
+		{
+			"id": 5,
+			"questionText": "<p>Your supervisor tells you, “move the oldest items to the front of the shelf on aisles 4-7, starting from top to bottom, do aisle 4 first then 5, 6 and 7.” \r What does your supervisor want you to do?</p>",
+			"options": [{
+					"text": "Start on aisle 4 and move the oldest items to aisles 5, 6, and 7."
+				},
+				{
+					"text": "Start on the top row of each aisle first, then do the next highest row on each aisle."
+				},
+				{
+					"text": "Start with aisle 7 beginning on the top row, then do aisles 6, 5, 4."
+				},
+				{
+					"text": "Start with aisle 4 beginning on the top row, then do aisles 5, 6, 7."
+				}
+			]
+		},
+		{
+			"id": 6,
+			"questionText": "<p>How much are two $15 ceramic vases after a taking 20% off, then applying a $4 discount to the total?</p>",
+			"options": [{
+					"text": "$6.00"
+				},
+				{
+					"text": "$19.20"
+				},
+				{
+					"text": "$20.00"
+				},
+				{
+					"text": "$24.00"
+				}
+			]
+		},
+		{
+			"id": 7,
+			"questionText": "<p>A customer purchases a $50 helmet that is 20% off and a $30 thermos that is 50% off. \r What is the total cost before tax?</p>",
+			"options": [{
+					"text": "$80.00"
+				},
+				{
+					"text": "$70.00"
+				},
+				{
+					"text": "$55.00"
+				},
+				{
+					"text": "$40.00"
+				}
+			]
+		},
+		{
+			"id": 8,
+			"questionText": "<p>A customer purchased a blender and skillet but wants to return the skillet. If the blender cost $70, the sales tax was 10%, and the total including tax was $110, what is the refund amount?</p>",
+			"options": [{
+					"text": "$30.00"
+				},
+				{
+					"text": "$33.00"
+				},
+				{
+					"text": "$40.00"
+				},
+				{
+					"text": "$110.00"
+				}
+			]
+		},
+		{
+			"id": 9,
+			"questionText": "<p>A customer has a valid 20% discount coupon and purchases diapers for $6, two $5 boxes of formula, and a $9 blanket. How much did the customer save with the coupon?</p>",
+			"options": [{
+					"text": "$4.00"
+				},
+				{
+					"text": "$5.00"
+				},
+				{
+					"text": "$16.00"
+				},
+				{
+					"text": "$20.00"
+				}
+			]
+		},
+		{
+			"id": 10,
+			"questionText": "<p>Employees must clock in no later than the start of their shift, but no earlier than 15 minutes before. If Joey arrives at 8:01 for a shift that starts at 8am,</p>",
+			"options": [{
+					"text": "Joey has a 15-minute grace period to clock in."
+				},
+				{
+					"text": "Joey must clock out 15 minutes late."
+				},
+				{
+					"text": "Joey will clock in on time."
+				},
+				{
+					"text": "Joey will clock in late."
+				}
+			]
+		},
+		{
+			"id": 11,
+			"questionText": "<p>Frozen goods thaw in 30 minutes. At 1:00PM, a customer hands you a pizza that is still frozen which they do not want to purchase. What should be done with the pizza?</p>",
+			"options": [{
+					"text": "It should be back in the freezer as quickly as possible."
+				},
+				{
+					"text": "The pizza must be back in the freezer before 1:30 PM."
+				},
+				{
+					"text": "The pizza must be back in the freezer before 1:20 PM."
+				},
+				{
+					"text": "It should be thrown away instead of returned to the freezer."
+				}
+			]
+		},
+		{
+			"id": 12,
+			"questionText": "<p>You are currently in aisle 1. What is the most efficient order to reshelf the following products if cleaning supplies are on aisle 5, pets supplies are on aisle 3, and lighting is on aisle 7?</p>",
+			"options": [{
+					"text": "Dish Soap / Cat Litter / Lightbulb"
+				},
+				{
+					"text": "Cat Litter / Dish Soap / Lightbulb"
+				},
+				{
+					"text": "Lightbulb / Dish Soap / Cat Litter"
+				},
+				{
+					"text": "Cat Litter / Lightbulb / Dish soap"
+				}
+			]
+		},
+		{
+			"id": 13,
+			"questionText": "<p>Relative to the store entrance, tools are closer than makeup, and makeup is further away than appliances but closer than apparel. Which department is farthest from the store entrance?</p>",
+			"options": [{
+					"text": "Appliances"
+				},
+				{
+					"text": "Apparel"
+				},
+				{
+					"text": "Tools"
+				},
+				{
+					"text": "Makeup"
+				}
+			]
+		},
+		{
+			"id": 14,
+			"questionText": "<p>Frozen food product must be thrown away if left out of the freezer more than 45 minutes. At 1:30 pm a customer decided not to purchase a frozen food item. When must the item be returned to the freezer before it must be discarded?</p>",
+			"options": [{
+					"text": "2:00 PM"
+				},
+				{
+					"text": "2:05 PM"
+				},
+				{
+					"text": "2:10 PM"
+				},
+				{
+					"text": "2:15 PM"
+				}
+			]
+		},
+		{
+			"id": 15,
+			"questionText": "<p>A customer takes the last two bottles of cleaning product on the shelf. You inform him that there are more bottles in the supply room if needed. The customer wants to buy a dozen bottles. How many bottles do you need to get from the supply room to complet</p>",
+			"options": [{
+					"text": "2"
+				},
+				{
+					"text": "10"
+				},
+				{
+					"text": "8"
+				},
+				{
+					"text": "6"
+				}
+			]
+		}
+	],
+	"resources": {
+		"media": {
+			"audio": [],
+			"images": []
+		}
+	}
+}

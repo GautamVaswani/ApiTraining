@@ -1,0 +1,194 @@
+{
+  "assessmentName": "Data Entry MT",
+  "playerType": "DataEntry",
+  "modeType": "data-entry-audio-mt",
+  "subType": "data-entry-mt",
+  "instructions": "<span role=heading aria-level=3 >Data Entry  MT</span><br/><br/>    The following is a test of your ability to correctly enter data you see into the proper fields on the computer monitor.<br/><br/>    During this test, you will see names, addresses, telephone numbers, and other data on the right side of the screen. You should enter all the data exactly as it appears into the proper boxes on the left side of the screen. Once you have entered all of the data that appears in the box on the right, follow the on-screen instructions to see and enter the next set of data, and so on. Continue entering data until the time limit runs out.<br/><br/>    You may skip to the next set of data prior to your entering all of the data shown in the box on the right if you wish. However, you cannot return to the skipped data and failing to enter all of the data from the box on the right will result in a lower score.<br/><br/>    You will be graded on the speed and accuracy of the data you enter into the correct boxes. Do NOT use abbreviations in this section of the test.<br/><br/>    You will also need to respond to any emergency messages that appear in the bottom right corner of the screen by left-clicking your mouse over the agency to be dispatched. Failing to respond to a decision-making message within 15 seconds after the message first appears will result in a lower score.<br/>    ",
+  "timeLimit": 5,
+  "MTquestions": [
+    {
+      "id": 1,
+      "queText": "Homeless family reports that the grocery store is burning down.",
+      "startDelay": 15
+    },
+    {
+      "id": 2,
+      "queText": "Broken water line reported at 2236 Folsom Lane.",
+      "startDelay": 45
+    },
+    {
+      "id": 3,
+      "queText": "Child tells his grandmother that he drank paint thinner.",
+      "startDelay": 75
+    },
+    {
+      "id": 4,
+      "queText": "Boy who is upset threatens to shoot his mother.",
+      "startDelay": 105
+    },
+    {
+      "id": 5,
+      "queText": "Ambulance driver reports that all of the traffic lights in town are not working.",
+      "startDelay": 135
+    },
+    {
+      "id": 6,
+      "queText": "Teenagers are cutting their initials into the front door of the high school.",
+      "startDelay": 165
+    },
+    {
+      "id": 7,
+      "queText": "Smoke is seen coming from the window of the middle school.",
+      "startDelay": 195
+    },
+    {
+      "id": 8,
+      "queText": "Crew digging a trench accidentally break an underground gas line.",
+      "startDelay": 225
+    },
+    {
+      "id": 9,
+      "queText": "Children are trapped inside of the a vacant building.",
+      "startDelay": 255
+    },
+    {
+      "id": 10,
+      "queText": "Middle school teacher has chest pains while jogging in the city park.",
+      "startDelay": 285
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "inputs": [
+        "LEWIS",
+        "KARA",
+        "656-528-7319",
+        "5656 KRANKLIN",
+        "MINTON",
+        "63315",
+        "S25X6341H5482M3",
+        "4HG7HN",
+        "V9543811"
+      ]
+    },
+    {
+      "id": 2,
+      "inputs": [
+        "TOON",
+        "JORDAN",
+        "421-685-7344",
+        "7146 ROCKWOOD",
+        "TERRACE",
+        "94625",
+        "65J42G5G8R214HGF",
+        "8YJ4NB",
+        "P9405961"
+      ]
+    },
+    {
+      "id": 3,
+      "inputs": [
+        "HENLY",
+        "TED",
+        "618-552-4764",
+        "2761 DOOLEY",
+        "ORANGETON",
+        "87439",
+        "F52JKI8456239745",
+        "8DJKM34",
+        "H5529136"
+      ]
+    },
+    {
+      "id": 4,
+      "inputs": [
+        "SIMPSON",
+        "RUMELL",
+        "805-364-1597",
+        "3647 PILLOWSTICK ",
+        "CULVER",
+        "62341",
+        "W52UJ5486G328F51",
+        "2KF7G8",
+        "D8913544"
+      ]
+    },
+    {
+      "id": 5,
+      "inputs": [
+        "THOMPSON",
+        "KANITA",
+        "323-594-7948",
+        "9573 DANOMA",
+        "TELSAH",
+        "34971",
+        "H58GB2574M68Y54G",
+        "9GKE06",
+        "P1257137"
+      ]
+    },
+    {
+      "id": 6,
+      "inputs": [
+        "DOUGLAS",
+        "MARY",
+        "561-294-7964",
+        "6361 TIARA",
+        "DAWNY",
+        "28174",
+        "67215HTYG3F8K24LR8",
+        "95JU82",
+        "M3748518"
+      ]
+    },
+    {
+      "id": 7,
+      "inputs": [
+        "STILLWATER",
+        "DORIS",
+        "942-843-7649",
+        "1864 STORY",
+        "CANARY",
+        "52117",
+        "32M5H4G7865C1F7D",
+        "DB3742",
+        "W8138946"
+      ]
+    },
+    {
+      "id": 8,
+      "inputs": [
+        "WAGNER",
+        "JACKSON",
+        "714-382-4141",
+        "4723 BEAKSIDE",
+        "ALTON",
+        "64823",
+        "RF586J1K47F25964",
+        "MOGL39",
+        "I5348219"
+      ]
+    },
+    {
+      "id": 9,
+      "inputs": [
+        "LEREK",
+        "JAY",
+        "283-916-4896",
+        "8437 SOULRIDGE",
+        "TALEM",
+        "25931",
+        "2147K5J1H2G6954JH",
+        "4LQ942",
+        "U2549378"
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

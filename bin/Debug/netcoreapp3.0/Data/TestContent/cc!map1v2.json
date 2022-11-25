@@ -1,0 +1,289 @@
+{
+  "assessmentName": "Map Reading",
+  "playerType": "MCQ",
+  "lastModified": "06/09/2017",
+  "instruction": "<p role=heading aria-level=3>Map Reading</p><p>This section of the test contains multiple-choice questions, which you must answer by using your computer mouse to select the correct response. Upon answering a question, you can go to the next question by clicking the Next button on the Menu bar.</p><p>During this section of the test, if you choose you may skip an item and then later return to that item.</p> <p>When you are finished, select Submit from the Menu bar. Your Test Administrator may have set a time limit for this test section. If there is a time limit, you will be told how much time you have. If a time limit has been set for this section of the test, you will notice a countdown timer on the Header of the screen, showing the amount of time remaining to complete this section of the test.</p><p>We recommend that you go to the practice version of this section of the test to learn more about how you should respond to items during this section of the test.</p>",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v2 - All items.png' alt='Urban map v2'><p>An ambulance must get from the corner of Rimrock and Shady to the entrance in the middle of the block on the east side of the Convention Center. The most direct route to the middle of the block on the east side of the Convention Center while obeying all traffic signs is:",
+      "options": [
+        {
+          "text": "Travel two blocks north on Rimrock, then one block east on Cypress, then one block north on Newport."
+        },
+        {
+          "text": "Travel one block west on Shady, then two and one-half blocks north on Newport."
+        },
+        {
+          "text": "Travel one block west on Shady, then three blocks north on Newport, then one block west on Dexter, then one-half block south on Tyler."
+        },
+        {
+          "text": "Travel three blocks west on Shady, then three blocks north on Cobble, then one block east on Dexter, then one-half block south on Tyler."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v2 - All items.png' alt='Urban map v2'><p>A fire engine must travel from the Newport Street entrance of the Day Care to the intersection of Dexter and Cobble. The most direct route the fire truck should take while obeying all traffic signs is:",
+      "options": [
+        {
+          "text": "Travel north on Newport toward Cypress. Turn left onto Cypress. Travel two blocks west on Cypress to Cobble. Turn right onto Cobble. Travel north on Cobble one block."
+        },
+        {
+          "text": "Travel north on Newport toward Cypress. Turn right onto Cypress. Travel two blocks west on Cypress to Cobble. Turn right onto Cobble. Travel north on Cobble one block."
+        },
+        {
+          "text": "Travel north on Newport toward Cypress. Turn left onto Cypress. Travel two blocks west on Cypress to Cobble. Turn left onto Cobble. Travel north on Cobble one block."
+        },
+        {
+          "text": "Travel north on Newport toward Cypress. Turn left onto Cypress. Travel two blocks east on Cypress to Cobble. Turn right onto Cobble. Travel north on Cobble one block to the Jewelry Store."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v2 - All items.png' alt='Urban map v2'><p>While obeying all traffic signs, the most direct route for a fire truck to travel from the north side entrance of the Convention Center to the north side entrance of the Jewelry Store is:",
+      "options": [
+        {
+          "text": "Travel west on Dexter to the Jewelry Store."
+        },
+        {
+          "text": "Travel east on Dexter to Newport. Turn right onto Newport. Travel south on Newport to Cypress. Turn right onto Cypress. Travel east on Cypress to Cobble. Turn right onto Cobble. Travel north on Cobble to the Jewelry Store."
+        },
+        {
+          "text": "Travel east on Dexter to Newport. Turn left onto Newport. Travel south on Newport to Cypress. Turn right onto Cypress. Travel east on Cypress to Cobble. Turn right onto Cobble. Travel north on Cobble to the Jewelry Store."
+        },
+        {
+          "text": "Travel east on Dexter to Rimrock. Turn right onto Rimrock. Travel south on Rimrock to Cypress. Turn right onto Cypress. Travel west on Cypress to Cobble. Turn right onto Cobble. Travel north on Cobble to Dexter. Turn right onto Dexter. Travel east on Dext"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v2 - All items.png' alt='Urban map v2'><p>A woman who is in her car at the west side entrance of the Factory must travel to the east side entrance of the Convention Center. What is the most direct route she can take while obeying all traffic signs?",
+      "options": [
+        {
+          "text": "Travel west on Dexter to the Convention Center."
+        },
+        {
+          "text": "Travel east on Dexter to the Convention Center."
+        },
+        {
+          "text": "Travel south on Rimrock to Cypress. Turn right onto Cypress. Travel west on Cypress to Newport. Turn right onto Newport. Travel north on Newport to the Convention Center."
+        },
+        {
+          "text": "Travel south on Rimrock to Cypress. Turn left onto Cypress. Travel east on Cypress to Newport. Turn right onto Newport. Travel north on Newport to the Convention Center."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v2 - All items.png' alt='Urban map v2'><p>An ambulance is located at the south entrance of the Day Care building on Sage. The ambulance must travel to a house on Shady halfway between Tyler and Newport. The most direct route the ambulance can take while obeying all traffic signs is:",
+      "options": [
+        {
+          "text": "Travel east on Sage to Rimrock. Turn right onto Rimrock. Travel south on Rimrock for one block to Shady. Turn right onto Shady. Travel west on Shady to the house."
+        },
+        {
+          "text": "Travel east on Sage to Newport. Turn right onto Newport. Travel south on Newport for one block to Shady. Turn right onto Shady. Travel west on Shady to the house."
+        },
+        {
+          "text": "Travel east on Sage to Rimrock. Turn right onto Rimrock. Travel south on Rimrock for one block to Shady. Turn right onto Shady. Travel east on Shady to the house."
+        },
+        {
+          "text": "Travel east on Sage to Newport. Turn right onto Newport. Travel north on Newport for one block to Shady. Turn right onto Shady. Travel west on Shady to the house."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v2 - All items.png' alt='Urban map v2'><p>A man drives from the intersection of Cypress and Rimrock and travels west for two blocks. The man then goes south for two blocks. The man turns again and goes west for one block. At what intersection does the man end this trip?",
+      "options": [
+        {
+          "text": "Tyler and Shady"
+        },
+        {
+          "text": "Cobble and Shady"
+        },
+        {
+          "text": "Tyler and Sage"
+        },
+        {
+          "text": "Newport and Sage"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v2 - All items.png' alt='Urban map v2'><p>A fire engine leaves the Jewelry store traveling east on Dexter to Rimrock and then turns south. The engine goes south two blocks on Rimrock and then turns left. The engine then travels one block east. At what intersection does the engine complete this trip?",
+      "options": [
+        {
+          "text": "Northington and Sage"
+        },
+        {
+          "text": "Newport and Sage"
+        },
+        {
+          "text": "Shady and Tyler"
+        },
+        {
+          "text": "Cypress and Tyler"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v2 - All items.png' alt='Urban map v2'><p>A vehicle starts at the intersection of Northington and Shady. The vehicle travels north for two blocks, turns west, and travels west for four blocks. The vehicle then turns north for one block. Which location is the closest to the right of the vehicle as it travels north for the last block?",
+      "options": [
+        {
+          "text": "Day Care"
+        },
+        {
+          "text": "Convention Center"
+        },
+        {
+          "text": "Factory"
+        },
+        {
+          "text": "Jewelry Store"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v2 - All items.png' alt='Urban map v2'><p>A man is standing in the middle of the intersection of Newport and Cypress. What direction is the Day Care from that location?</p>",
+      "options": [
+        {
+          "text": "North and East"
+        },
+        {
+          "text": "North and West"
+        },
+        {
+          "text": "South and East"
+        },
+        {
+          "text": "South and West"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v2 - All items.png' alt='Urban map v2'><p>A woman who lives at the intersection of Dexter and Tyler drives from her apartment to drop off some paperwork. She travels south from her house for one block and then turns left. She travels east for two-and-a-half blocks and stops. What building is on the left side of her vehicle where she stopped?",
+      "options": [
+        {
+          "text": "Factory"
+        },
+        {
+          "text": "Day Care"
+        },
+        {
+          "text": "Convention Center"
+        },
+        {
+          "text": "Jewelry Store"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v2 - All items.png' alt='Urban map v2'><p>A woman is inside the convention center. What direction is the Factory from that location?</p>",
+      "options": [
+        {
+          "text": "North"
+        },
+        {
+          "text": "East"
+        },
+        {
+          "text": "South"
+        },
+        {
+          "text": "West"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v2 - All items.png' alt='Urban map v2'><p>A man starts his trip at the intersection of Cobble and Sage. He drives east on Sage and then turns left on Northington. He then drives north on Northington until he stops at the intersection of Dexter and Northington. How many blocks did this man drive during this trip?",
+      "options": [
+        {
+          "text": "4"
+        },
+        {
+          "text": "5"
+        },
+        {
+          "text": "6"
+        },
+        {
+          "text": "7"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v2 - All items.png' alt='Urban map v2'><p>A vehicle that was traveling south on Tyler turned left on Cypress. What direction on Cypress is the vehicle now traveling?</p>",
+      "options": [
+        {
+          "text": "North"
+        },
+        {
+          "text": "East"
+        },
+        {
+          "text": "South"
+        },
+        {
+          "text": "West"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v2 - All items.png' alt='Urban map v2'><p>A security officer telephones and requests an ambulance to meet him at the Southwest entrance of the Convention Center. What is the closest intersection to the Southwest entrance of the Convention Center?",
+      "options": [
+        {
+          "text": "Dexter and Tyler"
+        },
+        {
+          "text": "Dexter and Newport"
+        },
+        {
+          "text": "Cypress and Tyler"
+        },
+        {
+          "text": "Cypress and Newport"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v2 - All items.png' alt='Urban map v2'><p>A police car is at the intersection of Shady and Cobble and must travel quickly to the entrance of the Factory that faces Rimrock. The shortest distance the police car can drive from the intersection of Shady and Cobble to the entrance of the Factory entrance that faces Rimrock while obeying all traffic signs is:",
+      "options": [
+        {
+          "text": "North on Cobble. Then east on Cypress. Then north on Rimrock to the Factory entrance on Rimrock."
+        },
+        {
+          "text": "East on Shady. Then north on Newport. Then east on Dexter. Then south on Rimrock to the Factory entrance on Rimrock."
+        },
+        {
+          "text": "North on Cobble. Then east on Dexter. Then south on Rimrock to the Factory entrance on Rimrock."
+        },
+        {
+          "text": "North on Cobble. Then east on Sage. Then north on Rimrock to the Factory entrance on Rimrock."
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [
+        {
+          "id": "Map Reading v2 - All items",
+          "url": "/content/image-library/mcq/criticall/map-reading/Map Reading v2 - All items.png"
+        }
+      ],
+      "audio": []
+    }
+  }
+}

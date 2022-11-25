@@ -1,0 +1,113 @@
+{
+    "assessmentName": "Bank Deposit",
+    "playerType": "FIB",
+    "id": "FIB",
+    "modeType": "fib-multi",
+    "templateType": "bank-deposit",
+    "instructions": " <span role=heading aria-level=3 > For this test, enter the correct response for each question in the appropriate field. Use the mouse and click to move to the next and previous fields. Use the scroll bar to scroll the form up and down if necessary.</span><br><br>When you are done, select Submit from the Header section. Your Test Administrator may have set a time limit for the test. If there is a time limit, you will be told how much time you have. You will also notice a countdown timer on the Header of the screen showing the time remaining.",
+    "questions": [{
+            "id": 1,
+            "label": "Date"
+        },
+        {
+            "id": 2,
+            "label": "BILLS Dollars"
+        },
+        {
+            "id": 3,
+            "label": "BILLS Cents"
+        },
+        {
+            "id": 4,
+            "label": "COINS Dollars"
+        },
+        {
+            "id": 5,
+            "label": "COINS Cents"
+        },
+        {
+            "id": 6,
+            "label": "ABA #41-637 Dollars"
+        },
+        {
+            "id": 7,
+            "label": "ABA #41-637 Cents"
+        },
+        {
+            "id": 8,
+            "label": "PIN #27-852 Dollars"
+        },
+        {
+            "id": 9,
+            "label": "PIN #27-852 Cents"
+        },
+        {
+            "id": 10,
+            "label": "TOTAL DEPOSIT Dollars"
+        },
+        {
+            "id": 11,
+            "label": "TOTAL DEPOSIT Cents"
+        }
+    ],
+    "questionData": {
+        "question": "SCENARIO:  In this situation, you are employed by Lowry Bowling Lanes.<br><br>It is your responsibility to prepare deposit slips, write checks, and keep the checkbook balance up to date.  Today is June 7.",
+        "questionDetails": {
+            "text": "Prepare a deposit slip for the following receipts:",
+            "rows": [
+                [
+                    "18-$20 bills",
+                    "72-quarters",
+                    "$441.50 check (ABA #41-637)"
+                ],
+                [
+                    "37-$10 bills",
+                    "46-dimes",
+                    "$318.25 check (PIN #27-852)"
+                ],
+                [
+                    "41-$ 5 bills",
+                    "25-nickles"
+                ],
+                [
+                    "63-$ 1 bills",
+                    "53-pennies"
+                ]
+            ]
+        },
+        "worksheet-details": {
+            "header1": [
+                "For Deposit to Account of",
+                "XX-XXX"
+            ],
+            "header2": "Checks as Follows Properly Endorsed",
+            "address1": [
+                "LOWRY BOWLING LANES",
+                "Bowling Green, KY  69483"
+            ],
+            "address2": [
+                "First National Bank",
+                "Bowling Green, KY 69483"
+            ],
+            "columnHeaders": [
+                "Dollars",
+                "Cents"
+            ],
+            "year": "20XX",
+            "questionLabels": [
+                "Date",
+                "BILLS",
+                "COINS",
+                "ABA #41-637",
+                "PIN #27-852",
+                "TOTAL DEPOSIT"
+            ]
+        }
+    },
+    "resources": {
+        "media": {
+            "images": [],
+            "audio": []
+        }
+    }
+}

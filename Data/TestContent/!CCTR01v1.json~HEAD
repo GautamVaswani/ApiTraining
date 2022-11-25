@@ -1,0 +1,582 @@
+{
+    "assessmentName": "Customer Service Interaction",
+    "playerType": "DataEntry",
+    "modeType": "customer-service-interaction",
+    "testID": "!CCTR01",
+    "instructions": "<b  role=heading aria-level=3 >CUSTOMER SERVICE INTERACTION TEST</b><br /><br />You are about to start the \"Customer Service Interaction\" test.  For this test, you will need to listen to information that is provided to you through the computer. We recommend using a headset or a set of quality speakers.<br /><br />During this test you will play the role of a customer service agent who is responding to telephone calls for service.  To do this you must first answer the call and enter the caller’s name and telephone number.  When the \"Incoming Call\" button begins flashing and you hear the telephone ringing, click on the button to answer the call.  After the customer provides you with their name and telephone number and you have entered that information in the appropriate fields, click the \"Run Search\" button.<br /><br />Once you have brought up the customer information and at various points throughout the test, you will be presented with three different ways you, as the customer service agent, might respond to the caller.  At those times, you will be asked to select the \"<b>Most effective</b>\" and \"<b>Least effective</b>\" response of the three choices.  Each choice will be presented in a written format and will also have an audio version for you to listen to.  You can listen to the response by clicking on the \"Play Audio\" button next to each response.<br /><br />The \"<b>Most effective</b>\" response is the one which, in general, is most likely to create a good impression of the customer service agent to the caller in terms of communication, politeness, interpersonal interaction, demonstrating sound judgment, and effectively addressing the caller’s issues.<br /><br />The \"<b>Least effective</b>\" response one which, in general, is most likely to create a poor impression of the customer service agent to the caller.<br /><br />If there appears to be more than one most effective or least effective response, then please do your best to choose between them to indicate the very most effective or very least effective response.<br /><br />Please choose one \"<b>Most effective</b>\" response and one \"<b>Least effective</b>\" response by clicking on the appropriate radio buttons.<br /><br />Finally, at any time during this test you may click on the \"Repeat caller’s last statement\" button if you wish to hear the caller’s last comment again.<br /><br />Good luck!",
+    "testVersion": 1,
+    "questions": [
+        {
+            "callType": "service-call",
+            "firstName": "Jane",
+            "lastName": "Nichols",
+            "phoneNo": "528-692-7619",
+            "notes": "Name: Nichols, Jane<br />Prefix: Ms.<br />Address: 941 Fairlawn Drive<br />Telephone: 528-692-7619<br />Payment History: Paid by check, 10 days past due date.<br />Check number: 7436",
+            "mcqQuestions": [
+                {
+                    "questionAudioId": "C4201",
+                    "responces": [
+                        {
+                            "responceAudioId": "4201A",
+                            "responceText": "Thank you, Ms. Nichols. What's going on?"
+                        },
+                        {
+                            "responceAudioId": "4201B",
+                            "responceText": "Thank you, Ms. Nichols. What can I do for you?"
+                        },
+                        {
+                            "responceAudioId": "4201C",
+                            "responceText": "Thank you, Ms. Nichols. How can I help you today?"
+                        }
+                    ],
+                    "mostEffectiveResponceIndex": 2,
+                    "leastEffectiveResponceIndex": 0,
+                    "notApplicableIndexes": []
+                },
+                {
+                    "questionAudioId": "C4202",
+                    "responces": [
+                        {
+                            "responceAudioId": "4202A",
+                            "responceText": "It's not that easy. I have to look up your connection records first."
+                        },
+                        {
+                            "responceAudioId": "4202B",
+                            "responceText": "Let me see what I can do. I need to look up your connection records first."
+                        },
+                        {
+                            "responceAudioId": "4202C",
+                            "responceText": "I have to check your connection history first."
+                        }
+                    ],
+                    "mostEffectiveResponceIndex": 1,
+                    "leastEffectiveResponceIndex": 0,
+                    "notApplicableIndexes": []
+                },
+                {
+                    "questionAudioId": "C4203",
+                    "responces": [
+                        {
+                            "responceAudioId": "4203A",
+                            "responceText": "You were ten days late on your payment, which is why you were disconnected."
+                        },
+                        {
+                            "responceAudioId": "4203B",
+                            "responceText": "You were late on a payment, which is why you were disconnected."
+                        },
+                        {
+                            "responceAudioId": "4203C",
+                            "responceText": "Our records show your payment was received ten days late, which is why you were disconnected."
+                        }
+                    ],
+                    "mostEffectiveResponceIndex": 2,
+                    "leastEffectiveResponceIndex": 0,
+                    "notApplicableIndexes": []
+                },
+                {
+                    "questionAudioId": "C4204",
+                    "responces": [
+                        {
+                            "responceAudioId": "4204A",
+                            "responceText": "Unfortunately, we are not allowed to give a refund when payment was received late."
+                        },
+                        {
+                            "responceAudioId": "4204B",
+                            "responceText": "We cannot refund your money because your payment was received late."
+                        },
+                        {
+                            "responceAudioId": "4204C",
+                            "responceText": "If you would have paid when it was due you would not have been charged."
+                        }
+                    ],
+                    "mostEffectiveResponceIndex": 0,
+                    "leastEffectiveResponceIndex": 2,
+                    "notApplicableIndexes": []
+                },
+                {
+                    "questionAudioId": "C4205",
+                    "responces": [
+                        {
+                            "responceAudioId": "4205A",
+                            "responceText": "We appreciate your business. Good bye, Ms. Nichols."
+                        },
+                        {
+                            "responceAudioId": "4205B",
+                            "responceText": "I am glad that won't be a problem in the future. Good-bye."
+                        },
+                        {
+                            "responceAudioId": "4205C",
+                            "responceText": "Hopefully this doesn't happen again, Ms. Nichols. Good-bye."
+                        }
+                    ],
+                    "mostEffectiveResponceIndex": 0,
+                    "leastEffectiveResponceIndex": 2,
+                    "notApplicableIndexes": []
+                }
+            ]
+        },
+        {
+            "callType": "product-call",
+            "firstName": "James",
+            "lastName": "Johnson",
+            "phoneNo": "786-427-8917",
+            "notes": "Name: Johnson, James<br />Prefix: Mr.<br />Address: 347 Maple Place<br />Telephone: 786-427-8911<br />History: Purchased Deluxe Model<br />Payment History: Paid by credit card<br />Credit card expiration date: 9/2009",
+            "mcqQuestions": [
+                {
+                    "questionAudioId": "C4101",
+                    "responces": [
+                        {
+                            "responceAudioId": "4101A",
+                            "responceText": "I have your information in front of me. What's your problem?"
+                        },
+                        {
+                            "responceAudioId": "4101B",
+                            "responceText": "How may I assist you today?"
+                        },
+                        {
+                            "responceAudioId": "4101C",
+                            "responceText": "What can I do for you?"
+                        }
+                    ],
+                    "mostEffectiveResponceIndex": 1,
+                    "leastEffectiveResponceIndex": 0,
+                    "notApplicableIndexes": []
+                },
+                {
+                    "questionAudioId": "C4102",
+                    "responces": [
+                        {
+                            "responceAudioId": "4102A",
+                            "responceText": "Did you break it already? The company wants me to ask, first."
+                        },
+                        {
+                            "responceAudioId": "4102B",
+                            "responceText": "Company policy requires me to ask if it is still working—is it?"
+                        },
+                        {
+                            "responceAudioId": "4102C",
+                            "responceText": "First let me ask: does the deluxe model you received work?"
+                        }
+                    ],
+                    "mostEffectiveResponceIndex": 2,
+                    "leastEffectiveResponceIndex": 0,
+                    "notApplicableIndexes": []
+                },
+                {
+                    "questionAudioId": "C4103",
+                    "responces": [
+                        {
+                            "responceAudioId": "4103A",
+                            "responceText": "Well, I need to know why you want to send it back."
+                        },
+                        {
+                            "responceAudioId": "4103B",
+                            "responceText": "Well, then please tell me why you want your money back."
+                        },
+                        {
+                            "responceAudioId": "4103C",
+                            "responceText": "Well, if it is still working, then why do you want your money back?"
+                        }
+                    ],
+                    "mostEffectiveResponceIndex": -1,
+                    "leastEffectiveResponceIndex": -1,
+                    "notApplicableIndexes": [
+                        0,
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "questionAudioId": "C4104",
+                    "responces": [
+                        {
+                            "responceAudioId": "4104A",
+                            "responceText": "Sorry, Mr. Johnson, I just need to know."
+                        },
+                        {
+                            "responceAudioId": "4104B",
+                            "responceText": "I understand Mr. Johnson, we'll get this taken care of, but I have to know why you want to ship it back."
+                        },
+                        {
+                            "responceAudioId": "4104C",
+                            "responceText": "Sorry Mr. Johnson, I'm only following company policy."
+                        }
+                    ],
+                    "mostEffectiveResponceIndex": 1,
+                    "leastEffectiveResponceIndex": 0,
+                    "notApplicableIndexes": []
+                },
+                {
+                    "questionAudioId": "C4105",
+                    "responces": [
+                        {
+                            "responceAudioId": "4105A",
+                            "responceText": "That has nothing to do with us. Did you happen to keep the original container?"
+                        },
+                        {
+                            "responceAudioId": "4105B",
+                            "responceText": "Okay. Do you still have the original container?"
+                        },
+                        {
+                            "responceAudioId": "4105C",
+                            "responceText": "I'm sorry to hear that. Did you keep the original container it came in?"
+                        }
+                    ],
+                    "mostEffectiveResponceIndex": 2,
+                    "leastEffectiveResponceIndex": 0,
+                    "notApplicableIndexes": []
+                },
+                {
+                    "questionAudioId": "C4106",
+                    "responces": [
+                        {
+                            "responceAudioId": "4106A",
+                            "responceText": "That's too bad, now you'll have to find something to send it back in. In the meantime, I'll mail you a postage paid return label."
+                        },
+                        {
+                            "responceAudioId": "4106B",
+                            "responceText": "That's fine, but it will be up to you to find a container to return the product in. I'll mail you a postage paid return label."
+                        },
+                        {
+                            "responceAudioId": "4106C",
+                            "responceText": "That's all right, as long as you can find something to ship it in, I can mail you a postage paid return label that you can add to your shipment."
+                        }
+                    ],
+                    "mostEffectiveResponceIndex": 2,
+                    "leastEffectiveResponceIndex": 0,
+                    "notApplicableIndexes": []
+                },
+                {
+                    "questionAudioId": "C4107",
+                    "responces": [
+                        {
+                            "responceAudioId": "4107A",
+                            "responceText": "There's more; I'll need to first verify your address. Is it 347 Maple Place?"
+                        },
+                        {
+                            "responceAudioId": "4107B",
+                            "responceText": "Is your address still 347 Maple Place?"
+                        },
+                        {
+                            "responceAudioId": "4107C",
+                            "responceText": "Actually, I need to verify that your address is 347 Maple Place."
+                        }
+                    ],
+                    "mostEffectiveResponceIndex": 2,
+                    "leastEffectiveResponceIndex": -1,
+                    "notApplicableIndexes": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "questionAudioId": "C4108",
+                    "responces": [
+                        {
+                            "responceAudioId": "4108A",
+                            "responceText": "Good. I assume you know what to do with the return label when you get it."
+                        },
+                        {
+                            "responceAudioId": "4108B",
+                            "responceText": "Good. After you receive the return label, put it on the box and send it back."
+                        },
+                        {
+                            "responceAudioId": "4108C",
+                            "responceText": "Good. Send the model back to us when you get the return label."
+                        }
+                    ],
+                    "mostEffectiveResponceIndex": 1,
+                    "leastEffectiveResponceIndex": 0,
+                    "notApplicableIndexes": []
+                },
+                {
+                    "questionAudioId": "C4109",
+                    "responces": [
+                        {
+                            "responceAudioId": "4109A",
+                            "responceText": "The important thing is that it gets returned to us, then, you'll get your money."
+                        },
+                        {
+                            "responceAudioId": "4109B",
+                            "responceText": "The day we receive the returned deluxe model, your credit card will be credited."
+                        },
+                        {
+                            "responceAudioId": "4109C",
+                            "responceText": "When we receive it, we'll issue a credit to your credit card."
+                        }
+                    ],
+                    "mostEffectiveResponceIndex": 1,
+                    "leastEffectiveResponceIndex": 0,
+                    "notApplicableIndexes": []
+                },
+                {
+                    "questionAudioId": "C4110",
+                    "responces": [
+                        {
+                            "responceAudioId": "4110A",
+                            "responceText": "Okay, that's it; I'm going to hang up. Call again if you have further questions."
+                        },
+                        {
+                            "responceAudioId": "4110B",
+                            "responceText": "I'm glad I could be of assistance to you today. If you have more questions, please feel free to call again. Good bye."
+                        },
+                        {
+                            "responceAudioId": "4110C",
+                            "responceText": "Okay, then; you should be all set. Have a nice day. Call again if you need to. Bye-bye now."
+                        }
+                    ],
+                    "mostEffectiveResponceIndex": 1,
+                    "leastEffectiveResponceIndex": 0,
+                    "notApplicableIndexes": []
+                }
+            ]
+        }
+    ],
+    "resources": {
+        "media": {
+            "images": [],
+            "audio": [
+                {
+                    "id": "C4201",
+                    "url": "/content/audio-library/customer-service-interaction/tests/C4201.mp3"
+                },
+                {
+                    "id": "4201A",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4201A.mp3"
+                },
+                {
+                    "id": "4201B",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4201B.mp3"
+                },
+                {
+                    "id": "4201C",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4201C.mp3"
+                },
+                {
+                    "id": "C4202",
+                    "url": "/content/audio-library/customer-service-interaction/tests/C4202.mp3"
+                },
+                {
+                    "id": "4202A",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4202A.mp3"
+                },
+                {
+                    "id": "4202B",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4202B.mp3"
+                },
+                {
+                    "id": "4202C",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4202C.mp3"
+                },
+                {
+                    "id": "C4203",
+                    "url": "/content/audio-library/customer-service-interaction/tests/C4203.mp3"
+                },
+                {
+                    "id": "4203A",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4203A.mp3"
+                },
+                {
+                    "id": "4203B",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4203B.mp3"
+                },
+                {
+                    "id": "4203C",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4203C.mp3"
+                },
+                {
+                    "id": "C4204",
+                    "url": "/content/audio-library/customer-service-interaction/tests/C4204.mp3"
+                },
+                {
+                    "id": "4204A",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4204A.mp3"
+                },
+                {
+                    "id": "4204B",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4204B.mp3"
+                },
+                {
+                    "id": "4204C",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4204C.mp3"
+                },
+                {
+                    "id": "C4205",
+                    "url": "/content/audio-library/customer-service-interaction/tests/C4205.mp3"
+                },
+                {
+                    "id": "4205A",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4205A.mp3"
+                },
+                {
+                    "id": "4205B",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4205B.mp3"
+                },
+                {
+                    "id": "4205C",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4205C.mp3"
+                },
+                {
+                    "id": "C4101",
+                    "url": "/content/audio-library/customer-service-interaction/tests/C4101.mp3"
+                },
+                {
+                    "id": "4101A",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4101A.mp3"
+                },
+                {
+                    "id": "4101B",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4101B.mp3"
+                },
+                {
+                    "id": "4101C",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4101C.mp3"
+                },
+                {
+                    "id": "C4102",
+                    "url": "/content/audio-library/customer-service-interaction/tests/C4102.mp3"
+                },
+                {
+                    "id": "4102A",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4102A.mp3"
+                },
+                {
+                    "id": "4102B",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4102B.mp3"
+                },
+                {
+                    "id": "4102C",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4102C.mp3"
+                },
+                {
+                    "id": "C4103",
+                    "url": "/content/audio-library/customer-service-interaction/tests/C4103.mp3"
+                },
+                {
+                    "id": "4103A",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4103A.mp3"
+                },
+                {
+                    "id": "4103B",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4103B.mp3"
+                },
+                {
+                    "id": "4103C",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4103C.mp3"
+                },
+                {
+                    "id": "C4104",
+                    "url": "/content/audio-library/customer-service-interaction/tests/C4104.mp3"
+                },
+                {
+                    "id": "4104A",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4104A.mp3"
+                },
+                {
+                    "id": "4104B",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4104B.mp3"
+                },
+                {
+                    "id": "4104C",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4104C.mp3"
+                },
+                {
+                    "id": "C4105",
+                    "url": "/content/audio-library/customer-service-interaction/tests/C4105.mp3"
+                },
+                {
+                    "id": "4105A",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4105A.mp3"
+                },
+                {
+                    "id": "4105B",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4105B.mp3"
+                },
+                {
+                    "id": "4105C",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4105C.mp3"
+                },
+                {
+                    "id": "C4106",
+                    "url": "/content/audio-library/customer-service-interaction/tests/C4106.mp3"
+                },
+                {
+                    "id": "4106A",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4106A.mp3"
+                },
+                {
+                    "id": "4106B",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4106B.mp3"
+                },
+                {
+                    "id": "4106C",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4106C.mp3"
+                },
+                {
+                    "id": "C4107",
+                    "url": "/content/audio-library/customer-service-interaction/tests/C4107.mp3"
+                },
+                {
+                    "id": "4107A",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4107A.mp3"
+                },
+                {
+                    "id": "4107B",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4107B.mp3"
+                },
+                {
+                    "id": "4107C",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4107C.mp3"
+                },
+                {
+                    "id": "C4108",
+                    "url": "/content/audio-library/customer-service-interaction/tests/C4108.mp3"
+                },
+                {
+                    "id": "4108A",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4108A.mp3"
+                },
+                {
+                    "id": "4108B",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4108B.mp3"
+                },
+                {
+                    "id": "4108C",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4108C.mp3"
+                },
+                {
+                    "id": "C4109",
+                    "url": "/content/audio-library/customer-service-interaction/tests/C4109.mp3"
+                },
+                {
+                    "id": "4109A",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4109A.mp3"
+                },
+                {
+                    "id": "4109B",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4109B.mp3"
+                },
+                {
+                    "id": "4109C",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4109C.mp3"
+                },
+                {
+                    "id": "C4110",
+                    "url": "/content/audio-library/customer-service-interaction/tests/C4110.mp3"
+                },
+                {
+                    "id": "4110A",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4110A.mp3"
+                },
+                {
+                    "id": "4110B",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4110B.mp3"
+                },
+                {
+                    "id": "4110C",
+                    "url": "/content/audio-library/customer-service-interaction/tests/4110C.mp3"
+                }
+            ]
+        }
+    }
+}

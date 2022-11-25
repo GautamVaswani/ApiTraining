@@ -1,0 +1,194 @@
+{
+  "assessmentName": "Sentence Clarity",
+  "playerType": "MCQ",
+  "lastModified": "06/09/2017",
+  "instruction": "",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "<p> Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "The witness could not identify the suspect. His beard was gone and his hair was cut."
+        },
+        {
+          "text": "The witness could not identify the suspect whose beard was gone and hair was cut."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "<p> Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "Everyone went to the concert last night."
+        },
+        {
+          "text": "Nobody did not go to the concert last night."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "<p> Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "As Joan entered the store, a man grabs her bag. She screamed and he ran away."
+        },
+        {
+          "text": "As Joan entered the store, a man grabbed her bag. She screamed and he ran away."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionText": "<p> Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "I couldn’t hardly leave in the middle of the task."
+        },
+        {
+          "text": "I could hardly leave in the middle of the task."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionText": "<p> Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "The woman saw a very short girl crossing the street."
+        },
+        {
+          "text": "The woman saw a girl crossing the street. She was very short."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionText": "<p> Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "For days, the tenants reported the broken furnace as the cause of their discomfort."
+        },
+        {
+          "text": "The tenants reported the broken furnace for days as the cause of their discomfort."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionText": "<p> Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "Cheerful and alert, the boy awoke while the rest of the family continued to sleep."
+        },
+        {
+          "text": "Cheerful and alert, the rest of the family continued to sleep when the boy awoke."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionText": "<p> Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "Reporters have cited unidentified persons for days as the source of their story."
+        },
+        {
+          "text": "For days, reporters have cited unidentified persons as the source of their story."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionText": "<p> Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "Pass your sister the ticket from the boat."
+        },
+        {
+          "text": "Pass your sister from the boat the ticket."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionText": "<p> Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "Walking in the parking garage, the car horn honked. John covered his ears."
+        },
+        {
+          "text": "As John walked in the parking garage, he heard the car horn honk. He covered his ears."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "questionText": "<p> Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "Poverty, because of the falling high-school graduation rate, is increasing."
+        },
+        {
+          "text": "Poverty is increasing because of the falling high-school graduation rate."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "questionText": "<p> Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "Hardly anything matters anymore."
+        },
+        {
+          "text": "Hardly nothing matters anymore."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "questionText": "<p> Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "Yelling and screaming, the woman protested while the officer watched closely."
+        },
+        {
+          "text": "Yelling and screaming, the officer watched closely as the woman protested."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "questionText": "<p> Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "Driving down the street, loud noises came from the car."
+        },
+        {
+          "text": "Loud noises came from the car as it was driven down the street."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "questionText": "<p> Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "She went to the store and the cafe to only buy candy and drink coffee."
+        },
+        {
+          "text": "She only went to the store to buy candy and to the cafe to drink coffee."
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

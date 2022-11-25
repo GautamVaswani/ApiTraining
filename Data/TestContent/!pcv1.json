@@ -1,0 +1,211 @@
+{
+    "assessmentName": "Petty Cash",
+    "playerType": "FIB",
+    "modeType": "fib-multi",
+    "templateType": "petty-cash",
+    "instructions": "<span role=heading aria-level=3 >For this test, enter the correct response for each question in the appropriate field. Use the mouse and click to move to the next and previous fields. Use the scroll bar to scroll the form up and down if necessary.</span><br><br>When you are done, select Submit from the Header section. Your Test Administrator may have set a time limit for the test. If there is a time limit, you will be told how much time you have. You will also notice a countdown timer on the Header of the screen showing the time remaining.",
+    "questions": [{
+            "id": 1,
+            "label": "No."
+        },
+        {
+            "id": 2,
+            "label": "Date"
+        },
+        {
+            "id": 3,
+            "label": "Pay to"
+        },
+        {
+            "id": 4,
+            "label": "$"
+        },
+        {
+            "id": 5,
+            "label": "For"
+        },
+        {
+            "id": 6,
+            "label": "Cashier"
+        },
+        {
+            "id": 7,
+            "label": "Signature"
+        },
+        {
+            "id": 8,
+            "label": "What was the total amount spent from the petty cash fund for the month?"
+        },
+        {
+            "id": 9,
+            "label": "How much money should be in the petty cash box at this time?"
+        },
+        {
+            "id": 10,
+            "label": "Mr. Scoggins decides to replenish the fund to bring it back to its original balance of $100.00.  He tells you to write the check so that he can cash it at the bank.  What should be the amount of the check?"
+        },
+        {
+            "id": 11,
+            "label": "How much money should be in the petty cash box after the fund has been replenished?"
+        },
+        {
+            "id": 12,
+            "label": "Balance in petty cash book on September 1"
+        },
+        {
+            "id": 13,
+            "label": "Actual amount in petty cash box"
+        },
+        {
+            "id": 14,
+            "label": "Cash short/over (use parentheses to indicate shortage)"
+        },
+        {
+            "id": 15,
+            "label": "Balance in petty cash book on September 1"
+        },
+        {
+            "id": 16,
+            "label": "Cash short/over (add or subtract as appropriate)"
+        },
+        {
+            "id": 17,
+            "label": "Corrected balance in petty cash book"
+        },
+        {
+            "id": 18,
+            "label": "Original petty cash balance"
+        },
+        {
+            "id": 19,
+            "label": "Deduct corrected balance in petty cash book"
+        },
+        {
+            "id": 20,
+            "label": "Amount to replenish fund"
+        }
+    ],
+    "questionData": {
+        "scenario": "In this situation, you are employed by Steven Scoggins, owner of a real estate agency, who started a petty cash fund on July 1 by cashing a check for $100.  You are responsible for the fund and are to fill out a petty cash voucher for each payment made.  Fill in all the information on the voucher except the signature.  Approve the voucher by adding your initials as cashier.<br><br>A summary of petty cash transactions for the month is shown below the following petty cash voucher form.  Prepare the petty cash voucher for the first payment made from the petty cash fund during July.",
+        "dollar": "$",
+        "worksheet-details": {
+            "header": "PETTY CASH VOUCHER",
+            "year": "20XX",
+            "questionLabels": [{
+                    "text": "No."
+                },
+                {
+                    "text": "Date"
+                },
+                {
+                    "text": "20XX"
+                },
+                {
+                    "text": "Pay to"
+                },
+                {
+                    "text": "$"
+                },
+                {
+                    "text": "For"
+                },
+                {
+                    "text": "Approved by"
+                },
+                {
+                    "text": "Payment Received by"
+                },
+                {
+                    "text": "Cashier"
+                },
+                {
+                    "text": "Signature"
+                }
+            ]
+        },
+        "summary": {
+            "header": "SUMMARY OF PETTY CASH TRANSACTIONS",
+            "details": [
+                "July 10  Paid $20.85 to Mary Miller for the purchase of first-aid supplies.",
+                "July 11  Paid $30.40 to Beverly Moss for travel expense.",
+                "July 18  Paid $14.50 to Rodeway Freight Company for a delivery charge.",
+                "July 25  Paid $25 to the post office for stamps."
+            ]
+        },
+        "part1": [{
+            "heading": "Answer the following questions:",
+            "questions": [{
+                    "id": 1,
+                    "question": "What was the total amount spent from the petty cash fund for the month?"
+                },
+                {
+                    "id": 2,
+                    "question": "How much money should be in the petty cash box at this time?"
+                },
+                {
+                    "id": 3,
+                    "question": "Mr. Scoggins decides to replenish the fund to bring it back to its original balance of $100.00.  He tells you to write the check so that he can cash it at the bank.  What should be the amount of the check?"
+                },
+                {
+                    "id": 4,
+                    "question": "How much money should be in the petty cash box after the fund has been replenished?"
+                }
+            ]
+        }],
+        "part2": [{
+                "heading": "On September 1, you compare the petty cash book balance of $29.30 with the actual currency in the petty cash box.  The box contains the following:  2-$5 bills; 6-$1 bills; 12-half dollars; 8-quarters; 34-dimes; 16-nickels; and 25 pennies. <br> Complete the following to find the amount of cash shortage/overage:",
+                "questions": [{
+                        "id": 1,
+                        "question": "Balance in petty cash book on September 1"
+                    },
+                    {
+                        "id": 2,
+                        "question": "Actual amount in petty cash box"
+                    },
+                    {
+                        "id": 3,
+                        "question": "Cash short/over (use parentheses to indicate shortage)"
+                    }
+                ]
+            },
+            {
+                "heading": "Complete the following to show corrected petty cash book balance:",
+                "questions": [{
+                        "id": 4,
+                        "question": "Balance in petty cash book on September 1"
+                    },
+                    {
+                        "id": 5,
+                        "question": "Cash short/over (add or subtract as appropriate)"
+                    },
+                    {
+                        "id": 6,
+                        "question": "Corrected balance in petty cash book"
+                    }
+                ]
+            },
+            {
+                "heading": "Complete the following form to find the amount to replenish the fund to bring it back to its original balance of $100.00:",
+                "questions": [{
+                        "id": 7,
+                        "question": "Original petty cash balance"
+                    },
+                    {
+                        "id": 8,
+                        "question": "Deduct corrected balance in petty cash book"
+                    },
+                    {
+                        "id": 9,
+                        "question": "Amount to replenish fund"
+                    }
+                ]
+            }
+        ]
+    },
+    "resources": {
+        "media": {
+            "images": [],
+            "audio": []
+        }
+    }
+}

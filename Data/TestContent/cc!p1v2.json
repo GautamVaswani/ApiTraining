@@ -1,0 +1,194 @@
+{
+  "assessmentName": "Prioritization",
+  "playerType": "MCQ",
+  "lastModified": "06/09/2017",
+  "instruction": "",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "<p>A telephone caller reports a woman lying in the gutter bleeding. Choose the priority of this situation.</p>",
+      "options": [
+        {
+          "text": "Priority 1 - An immediate threat to life or health"
+        },
+        {
+          "text": "Priority 2 - An immediate threat to property"
+        },
+        {
+          "text": "Priority 3 - A routine report or incident"
+        },
+        {
+          "text": "Priority 4 - A public service or public education"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "<p>Woman says her 17 year old daughter has run away for the fifth time this month. Choose the priority of this situation.</p>",
+      "options": [
+        {
+          "text": "Priority 1 - An immediate threat to life or health"
+        },
+        {
+          "text": "Priority 2 - An immediate threat to property"
+        },
+        {
+          "text": "Priority 3 - A routine report or incident"
+        },
+        {
+          "text": "Priority 4 - A public service or public education"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "<p>Elderly telephone caller wants information on setting up a neighborhood watch meeting. Choose the priority of this situation.</p>",
+      "options": [
+        {
+          "text": "Priority 1 - An immediate threat to life or health"
+        },
+        {
+          "text": "Priority 2 - An immediate threat to property"
+        },
+        {
+          "text": "Priority 3 - A routine report or incident"
+        },
+        {
+          "text": "Priority 4 - A public service or public education"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionText": "<p>Telephone caller's neighbor is outside chopping down caller's tree. Choose the priority of this situation.</p>",
+      "options": [
+        {
+          "text": "Priority 1 - An immediate threat to life or health"
+        },
+        {
+          "text": "Priority 2 - An immediate threat to property"
+        },
+        {
+          "text": "Priority 3 - A routine report or incident"
+        },
+        {
+          "text": "Priority 4 - A public service or public education"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionText": "<p>Woman wants to report her boyfriend violated a court's restraining order last week by calling her. Choose the priority of this situation.</p>",
+      "options": [
+        {
+          "text": "Priority 1 - An immediate threat to life or health"
+        },
+        {
+          "text": "Priority 2 - An immediate threat to property"
+        },
+        {
+          "text": "Priority 3 - A routine report or incident"
+        },
+        {
+          "text": "Priority 4 - A public service or public education"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionText": "<p>Telephone caller is having chest pains and difficulty breathing. Choose the priority of this situation.</p>",
+      "options": [
+        {
+          "text": "Priority 1 - An immediate threat to life or health"
+        },
+        {
+          "text": "Priority 2 - An immediate threat to property"
+        },
+        {
+          "text": "Priority 3 - A routine report or incident"
+        },
+        {
+          "text": "Priority 4 - A public service or public education"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionText": "<p>A scout leader would like to have a firefighter do a presentation on fire safety. Choose the priority of this situation.</p>",
+      "options": [
+        {
+          "text": "Priority 1 - An immediate threat to life or health"
+        },
+        {
+          "text": "Priority 2 - An immediate threat to property"
+        },
+        {
+          "text": "Priority 3 - A routine report or incident"
+        },
+        {
+          "text": "Priority 4 - A public service or public education"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionText": "<p>Alarm company reports a ringing fire alarm at a vacant building. Choose the priority of this situation.</p>",
+      "options": [
+        {
+          "text": "Priority 1 - An immediate threat to life or health"
+        },
+        {
+          "text": "Priority 2 - An immediate threat to property"
+        },
+        {
+          "text": "Priority 3 - A routine report or incident"
+        },
+        {
+          "text": "Priority 4 - A public service or public education"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionText": "<p>A mother says that her two year-old child swallowed bleach. Choose the priority of this situation.</p>",
+      "options": [
+        {
+          "text": "Priority 1 - An immediate threat to life or health"
+        },
+        {
+          "text": "Priority 2 - An immediate threat to property"
+        },
+        {
+          "text": "Priority 3 - A routine report or incident"
+        },
+        {
+          "text": "Priority 4 - A public service or public education"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionText": "<p>Parent was just told by her 14-year-old daughter that a friend stole money last summer while staying at their house. Choose the priority of this situation.</p>",
+      "options": [
+        {
+          "text": "Priority 1 - An immediate threat to life or health"
+        },
+        {
+          "text": "Priority 2 - An immediate threat to property"
+        },
+        {
+          "text": "Priority 3 - A routine report or incident"
+        },
+        {
+          "text": "Priority 4 - A public service or public education"
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "audio": [],
+      "images": []
+    }
+  }
+}

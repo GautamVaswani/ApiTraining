@@ -1,0 +1,161 @@
+{
+  "assessmentName": "Data Entry MT (Audio)",
+  "playerType": "DataEntry",
+  "modeType": "data-entry-audio-mt",
+  "subType": "data-entry-mt-audio",
+  "instructions": "<span role=heading aria-level=3 > Data Entry MT (Audio)</span><br/><br/>    The following is a test of your ability to correctly enter data you hear through your headset into proper fields on the computer screen.<br/><br/>   During this section of test, when you hear information, such as names, addresses, and telephone numbers through your headset, you should enter that information into the proper boxes on the screen.<br/><br/>    You will be graded on your ability to correctly enter the data in the correct boxes. Do NOT use abbreviations in this section of the test.<br/><br/>    Be sure to enter data in the correct boxes. The order in which you are given data will frequently change. For example, sometimes you will be given the phone number before you are given the name or address.<br/><br/>    You will be informed when each set of data you hear is completed. You should then follow the on-screen instructions and enter the new data you hear. Continue this process until the time limit runs out.<br/><br/>    You will also need to respond to any emergency messages that appear in the bottom right corner of the screen by left clicking your mouse over the agency to be dispatched. Failing to respond to a decision-making message within 15 seconds after the message first appears will result in a lower score.<br/>    <p class='aria-only'>Press Alt+s to pause the background audio while accessing Emergency box. Press Alt+r to resume the background audio.</p>",
+  "timeLimit": 5,
+  "MTquestions": [
+    {
+      "id": 1,
+      "queText": "Woman is putting sand into the gas tank of her neighbor's car.",
+      "startDelay": 15
+    },
+    {
+      "id": 2,
+      "queText": "Boy breaks his arm when he falls out of a tree.",
+      "startDelay": 45
+    },
+    {
+      "id": 3,
+      "queText": "Traffic lights on the south side of town are not working properly.",
+      "startDelay": 75
+    },
+    {
+      "id": 4,
+      "queText": "Several children are trapped inside an abandoned building",
+      "startDelay": 105
+    },
+    {
+      "id": 5,
+      "queText": "A girl deliberately drives her car over her neighbor's flower bushes.",
+      "startDelay": 135
+    },
+    {
+      "id": 6,
+      "queText": "A man attempts to hit his girlfriend with a baseball bat.",
+      "startDelay": 165
+    },
+    {
+      "id": 7,
+      "queText": "Man calls to complain about low water pressure to his house.",
+      "startDelay": 195
+    },
+    {
+      "id": 8,
+      "queText": "A woman sees smoke coming from the attic of a vacant building.",
+      "startDelay": 225
+    },
+    {
+      "id": 9,
+      "queText": "A man is yelling that he is going over to kick in the door of his neighbor's car.",
+      "startDelay": 255
+    },
+    {
+      "id": 10,
+      "queText": "Child accidentally swallowed 50 aspirin.",
+      "startDelay": 285
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "audioId": "DE053",
+      "alt": "Data Entry 1"
+    },
+    {
+      "id": 2,
+      "audioId": "DE053 (2)",
+      "alt": "Data Entry 2"
+    },
+    {
+      "id": 3,
+      "audioId": "DE053 (3)",
+      "alt": "Data Entry 3"
+    },
+    {
+      "id": 4,
+      "audioId": "DE053 (4)",
+      "alt": "Data Entry 4"
+    },
+    {
+      "id": 5,
+      "audioId": "DE053 (5)",
+      "alt": "Data Entry 5"
+    },
+    {
+      "id": 6,
+      "audioId": "DE053 (6)",
+      "alt": "Data Entry 6"
+    },
+    {
+      "id": 7,
+      "audioId": "DE053 (7)",
+      "alt": "Data Entry 7"
+    },
+    {
+      "id": 8,
+      "audioId": "DE053 (8)",
+      "alt": "Data Entry 8"
+    },
+    {
+      "id": 9,
+      "audioId": "DE053 (9)",
+      "alt": "Data Entry 9"
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": [
+        {
+          "id": "DE053",
+          "url": "/content/audio-library/data-entry-audio-mt/DE053.mp3"
+        },
+        {
+          "id": "DE053 (2)",
+          "url": "/content/audio-library/data-entry-audio-mt/DE053 (2).mp3"
+        },
+        {
+          "id": "DE053 (3)",
+          "url": "/content/audio-library/data-entry-audio-mt/DE053 (3).mp3"
+        },
+        {
+          "id": "DE053 (4)",
+          "url": "/content/audio-library/data-entry-audio-mt/DE053 (4).mp3"
+        },
+        {
+          "id": "DE053 (5)",
+          "url": "/content/audio-library/data-entry-audio-mt/DE053 (5).mp3"
+        },
+        {
+          "id": "DE053 (6)",
+          "url": "/content/audio-library/data-entry-audio-mt/DE053 (6).mp3"
+        },
+        {
+          "id": "DE053 (7)",
+          "url": "/content/audio-library/data-entry-audio-mt/DE053 (7).mp3"
+        },
+        {
+          "id": "DE053 (8)",
+          "url": "/content/audio-library/data-entry-audio-mt/DE053 (8).mp3"
+        },
+        {
+          "id": "DE053 (9)",
+          "url": "/content/audio-library/data-entry-audio-mt/DE053 (9).mp3"
+        }
+      ]
+    }
+  },
+  "captions" : {        
+    "DE053":"WEBVTT\n\n1\n00:00:00.840 --> 00:00:02.600\nLast name Donnivan\n\n2\n00:00:03.540 --> 00:00:07.970\nD O N N I V A N.\n\n4\n00:00:08.490 --> 00:00:09.722\nFirst name Doe\n\n5\n00:00:10.560 --> 00:00:12.260\nD O E.\n\n6\n00:00:12.900 --> 00:00:20.030\nPhone 3 8 1 6 2 8 9 9 8 9.\n\n10\n00:00:20.730 --> 00:00:25.100\nAddress 9 4 2 8 Dabry\n\n12\n00:00:25.590 --> 00:00:27.770\nD A B R Y.\n\n13\n00:00:28.410 --> 00:00:30.350\nCity Gorbin\n\n14\n00:00:30.870 --> 00:00:33.800\nG O R B I N.\n\n16\n00:00:34.620 --> 00:00:36.440\nVehicle Identification Number\n\n17\n00:00:36.780 --> 00:00:49.640\n1 G 9 5 K 7 3 S H V B 3 8 2 9 1.\n\n23\n00:00:49.910 --> 00:00:55.135\nLicense Plate 1 3 7 4 2 K.\n\n26\n00:00:56.340 --> 00:00:58.170\nFollow the On-Screen instructions to\n\n27\n00:00:58.171 --> 00:00:59.310\nhear the next set of data.\n",
+    "DE053 (2)":"WEBVTT\n\n1\n00:00:00.360 --> 00:00:02.270\nLast name Canilla\n\n2\n00:00:02.670 --> 00:00:05.390\nC A N I L L A.\n\n4\n00:00:05.850 --> 00:00:07.580\nFirst name Jessie\n\n5\n00:00:07.920 --> 00:00:14.417\nj E S S I E.\nAddress 9 2 1 7 Kromwell\n\n8\n00:00:15.060 --> 00:00:18.780\nK R O M W E L L.\n\n10\n00:00:19.230 --> 00:00:20.482\nCity Frownup\n\n11\n00:00:21.330 --> 00:00:24.290\nF R O W N U P.\n\n13\n00:00:24.870 --> 00:00:27.980\nZip 3 3 5 8 1.\n\n15\n00:00:28.190 --> 00:00:33.080\nDrivers license L 2 6 7 9 4 1 1.\n\n18\n00:00:33.630 --> 00:00:35.550\nFollow the On-Screen instructions to\n\n19\n00:00:35.551 --> 00:00:36.930\nhear the next set of data.\n",
+    "DE053 (3)":"WEBVTT\n\n1\n00:00:00.600 --> 00:00:02.324\nLast name Song\n\n2\n00:00:02.700 --> 00:00:04.596\nS O N G.\n\n3\n00:00:05.400 --> 00:00:07.021\nFirst name Corbin\n\n4\n00:00:07.740 --> 00:00:10.940\nC O R B I N.\n\n6\n00:00:11.460 --> 00:00:18.530\nPhone 7 0 3 1 2 4 5 1 8 9.\n\n9\n00:00:19.020 --> 00:00:20.750\nCity Persey\n\n10\n00:00:21.240 --> 00:00:24.500\nP E R S E Y.\n\n12\n00:00:24.990 --> 00:00:26.810\nVehicle identification number\n\n13\n00:00:27.150 --> 00:00:39.680\nN R 6 4 3 2 9 J F N R 6 7 H A Q.\n\n19\n00:00:40.650 --> 00:00:46.280\nLicense plate X 2 8 F 9 8.\n\n22\n00:00:46.980 --> 00:00:48.960\nFollow the On-Screen instructions to\nhear\n\n23\n00:00:48.961 --> 00:00:49.900\nthe next set of data.\n",
+    "DE053 (4)":"WEBVTT\n\n1\n00:00:00.690 --> 00:00:05.840\nDriver's license W 1 6 4 8 5 3 1.\n\n4\n00:00:06.420 --> 00:00:08.340\nAddress 2 3 7\n\n5\n00:00:08.341 --> 00:00:12.620\nJunCreek J U N C R E E K.\n\n7\n00:00:12.990 --> 00:00:14.630\nCity Dallas\n\n8\n00:00:14.810 --> 00:00:17.580\nD A L L A S.\n\n10\n00:00:17.910 --> 00:00:19.480\nFirst name Katie\n\n11\n00:00:19.780 --> 00:00:21.290\nK A T I E.\n\n12\n00:00:22.080 --> 00:00:25.160\nZip 7 4 9 6 1.\n\n14\n00:00:25.710 --> 00:00:27.310\nLast name Ambert\n\n15\n00:00:27.780 --> 00:00:30.260\nA M B E R T.\n\n17\n00:00:30.990 --> 00:00:32.820\nFollow the On-Screen instructions\n\n18\n00:00:32.821 --> 00:00:34.320\nto hear the next set of data.\n",
+    "DE053 (5)":"WEBVTT\n\n1\n00:00:00.600 --> 00:00:02.240\nVehicle Identification Number\n\n2\n00:00:03.330 --> 00:00:15.410\n9 5 1 3 5 7 4 U 2 6 8 W 1 2 4 7.\n\n7\n00:00:15.960 --> 00:00:21.530\nLicense plate 8 G 1 2 5 4.\n\n10\n00:00:22.320 --> 00:00:23.723\nCity Knolesome\n\n11\n00:00:24.840 --> 00:00:30.800\nK N O L E S O M E.\n\n14\n00:00:32.100 --> 00:00:33.830\nLast name Mish\n\n15\n00:00:34.510 --> 00:00:36.780\nM I S H.\n\n16\n00:00:37.470 --> 00:00:39.110\nFirst name Claud\n\n17\n00:00:39.540 --> 00:00:42.550\nC L A U D.\n\n19\n00:00:43.440 --> 00:00:51.560\nPhone Number 6 9 1 3 2 5 4 8 2 1.\n\n23\n00:00:53.030 --> 00:00:54.960\nFollow the On-Screen instructions to\nhear\n\n24\n00:00:54.961 --> 00:00:55.890\nthe next set of data.\n",
+    "DE053 (6)":"WEBVTT\n\n1\n00:00:00.420 --> 00:00:03.848\nAddress 4 6 1 8 Free\n\n3\n00:00:04.290 --> 00:00:05.930\nF R E E.\n\n4\n00:00:06.300 --> 00:00:08.270\nLast name Garvin\n\n5\n00:00:08.470 --> 00:00:10.879\nG A R V I N.\n\n7\n00:00:11.310 --> 00:00:16.910\nDriver's license D 9 1 6 3 7 4 5.\n\n10\n00:00:17.310 --> 00:00:18.545\nFirst name Tina\n\n11\n00:00:19.230 --> 00:00:20.885\nT I N A.\n\n12\n00:00:21.300 --> 00:00:25.184\nCity Gain G A I And\n\n14\n00:00:25.320 --> 00:00:27.240\nfollow the On-Screen instructions to\n\n15\n00:00:27.241 --> 00:00:28.600\nhear the next set of data.\n",
+    "DE053 (7)":"WEBVTT\n\n1\n00:00:00.540 --> 00:00:05.656\nFirst name Carolann C A R O L A N N.\n\n4\n00:00:06.870 --> 00:00:08.960\nLast name Kerns\n\n5\n00:00:09.210 --> 00:00:11.765\nK E R N S.\n\n7\n00:00:12.480 --> 00:00:16.930\nAddress 8 1 6 6 Terriessa\n\n9\n00:00:17.370 --> 00:00:22.070\nT E R R I E S S A.\n\n12\n00:00:22.710 --> 00:00:23.769\nCity Nexington\n\n13\n00:00:25.200 --> 00:00:29.885\nN E X I N G T O N.\n\n16\n00:00:30.330 --> 00:00:34.190\nZip 9 0 0 8 3.\n\n18\n00:00:34.860 --> 00:00:40.070\nLicense plate R K V 2 5 6.\n\n21\n00:00:40.530 --> 00:00:47.780\nPhone 3 7 1 2 6 4 8 5 1 9.\n\n25\n00:00:48.870 --> 00:00:50.880\nFollow the On-Screen instructions to\nhear\n\n26\n00:00:50.881 --> 00:00:51.810\nthe next set of data.\n",
+    "DE053 (8)":"WEBVTT\n\n1\n00:00:00.630 --> 00:00:04.022\nAddress 3 7 5 5 Panbrust\n\n3\n00:00:04.950 --> 00:00:08.690\nP A N B R U S T.\n\n5\n00:00:09.360 --> 00:00:10.560\nLast name McReilly\n\n6\n00:00:11.570 --> 00:00:15.620\nM C R E I L L Y.\n\n8\n00:00:15.950 --> 00:00:21.110\nDriver's license B 6 4 9 2 5 1 1.\n\n11\n00:00:21.540 --> 00:00:23.390\nCity Fools\n\n12\n00:00:23.700 --> 00:00:25.655\nF O O L S.\n\n13\n00:00:26.370 --> 00:00:28.340\nVehicle Identification Number\n\n14\n00:00:29.350 --> 00:00:38.390\nN 9 P T 4 5 7 3 1 0 5 J G D 6 8.\n\n19\n00:00:38.700 --> 00:00:40.760\nFirst name Jake\n\n20\n00:00:41.130 --> 00:00:43.070\nJ A K E.\n\n21\n00:00:43.440 --> 00:00:45.360\nFollow the On-Screen instructions to\n\n22\n00:00:45.361 --> 00:00:46.740\nhear the next set of data.\n",
+    "DE053 (9)":"WEBVTT\n\n1\n00:00:00.540 --> 00:00:01.910\nFirst name Nancy\n\n2\n00:00:02.370 --> 00:00:04.890\nN A N C Y.\n\n4\n00:00:05.610 --> 00:00:06.900\nLast name Lorner\n\n5\n00:00:07.710 --> 00:00:10.840\nL O R N E R.\n\n7\n00:00:11.910 --> 00:00:16.640\nLicense plate 9 1 6 M Q L.\n\n10\n00:00:17.290 --> 00:00:18.781\nCity Visalia\n\n11\n00:00:20.370 --> 00:00:23.785\nV I S A L I A.\n\n13\n00:00:24.570 --> 00:00:28.620\nAddress 4 6 1 8 Summer\n\n15\n00:00:28.820 --> 00:00:31.963\nS U M M E R.\n\n17\n00:00:32.790 --> 00:00:39.440\nPhone 5 8 3 4 2 1 9 1 5 0.\n\n20\n00:00:40.760 --> 00:00:42.720\nFollow the On-Screen instructions to\nhear\n\n21\n00:00:42.721 --> 00:00:43.680\nthe next set of data.\n"
+ }
+}

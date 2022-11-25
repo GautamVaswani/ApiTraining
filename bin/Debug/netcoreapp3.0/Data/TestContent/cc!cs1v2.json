@@ -1,0 +1,316 @@
+{
+  "assessmentName": "Call Summarization 2",
+  "playerType": "DataEntry",
+  "modeType": "call-summarization",
+  "tplType": "CS2",
+  "instructions": "<p role=heading aria-level=3 > Call Summarization 2</p><p>For this test, you will need to listen to information that is provided to you through the computer. We recommend using a headset or a set of quality speakers. You may write notes about each of the stories in the box in the lower half of the screen labeled Notes to help you recall information about the story. </p><p>After each story has been told, follow the on-screen instructions to proceed to a question where you will be asked to choose the alternative that best summarizes that story.</p><p>The information you record in any of the boxes on the screen will later be available to assist you in choosing the correct answer.</p><p>HOW TO RESPOND TO MULTIPLE-CHOICE QUESTION</p><p>With each question there will be four choices labeled A, B, C, and D. You can choose your response in one of three ways.</p><ol><li>You can use your mouse to select your answers</li><li>You can use the up and down arrows to choose your response.</li><li>You can hold down the Alt key and then press either A, B, C, or D.</li></ol>",
+  "disableEmergency": true,
+  "questions": [
+    {
+      "initAudioId": "CS121",
+      "mcqQuestions": [
+        {
+          "questionText": "According to the caller, while they were at the store one of the men bought:",
+          "options": [
+            {
+              "text": "pretzels"
+            },
+            {
+              "text": "beer"
+            },
+            {
+              "text": "whiskey"
+            },
+            {
+              "text": "unknown items"
+            }
+          ]
+        },
+        {
+          "questionText": "The name of the movie theater where the men wanted the caller to meet them was the _______ cinema.",
+          "options": [
+            {
+              "text": "Playhouse"
+            },
+            {
+              "text": "Playland"
+            },
+            {
+              "text": "Playstation"
+            },
+            {
+              "text": "Playtime"
+            }
+          ]
+        },
+        {
+          "questionText": "The caller described herself as ____________ of the liquor store:",
+          "options": [
+            {
+              "text": "An employee"
+            },
+            {
+              "text": "The manager"
+            },
+            {
+              "text": "The owner"
+            },
+            {
+              "text": "The wife of the owner"
+            }
+          ]
+        },
+        {
+          "questionText": "The vehicle that the men drove away in was described by the caller as being a _________truck.",
+          "options": [
+            {
+              "text": "flatbed"
+            },
+            {
+              "text": "red"
+            },
+            {
+              "text": "pickup"
+            },
+            {
+              "text": "dirty"
+            }
+          ]
+        },
+        {
+          "questionText": "One of the men left his __________ behind at the store.",
+          "options": [
+            {
+              "text": "expired driver's license"
+            },
+            {
+              "text": "current driver's license"
+            },
+            {
+              "text": "expired credit card"
+            },
+            {
+              "text": "current credit card"
+            }
+          ]
+        }
+      ],
+      "emergencyQuestions": [
+        {
+          "delay": 5,
+          "questionText": "Man reports seeing flames coming out of hotel's windows."
+        }
+      ]
+    },
+    {
+      "initAudioId": "CS122",
+      "mcqQuestions": [
+        {
+          "questionText": "The residents of the house where the suspicious activity is taking place were last seen leaving the house on:",
+          "options": [
+            {
+              "text": "Monday"
+            },
+            {
+              "text": "Tuesday"
+            },
+            {
+              "text": "Wednesday"
+            },
+            {
+              "text": "Thursday"
+            }
+          ]
+        },
+        {
+          "questionText": "The caller described the suspicious person's vehicle as being colored _________ stripes painted on its sides.",
+          "options": [
+            {
+              "text": "Blue with green"
+            },
+            {
+              "text": "Green with yellow"
+            },
+            {
+              "text": "Yellow with green"
+            },
+            {
+              "text": "Green with blue"
+            }
+          ]
+        },
+        {
+          "questionText": "The age of the suspicious person was estimated by the caller to be __________ years old.",
+          "options": [
+            {
+              "text": "sixteen"
+            },
+            {
+              "text": "twenty"
+            },
+            {
+              "text": "twenty-five"
+            },
+            {
+              "text": "thirty"
+            }
+          ]
+        },
+        {
+          "questionText": "The suspicious person is said to have _________ hair.",
+          "options": [
+            {
+              "text": "short blonde"
+            },
+            {
+              "text": "long blonde"
+            },
+            {
+              "text": "short brown"
+            },
+            {
+              "text": "long brown"
+            }
+          ]
+        },
+        {
+          "questionText": "The suspicious person was last seen by the caller:",
+          "options": [
+            {
+              "text": "In the back yard of the house next door to 1461 Cedar."
+            },
+            {
+              "text": "In the back yard of the house across the street from 1461 Cedar."
+            },
+            {
+              "text": "In the back yard of the house next door to 1484 Cedar."
+            },
+            {
+              "text": "In a vehicle in front of 1484 Cedar."
+            }
+          ]
+        }
+      ],
+      "emergencyQuestions": [
+        {
+          "delay": 5,
+          "questionText": "The sewer pipe to a house on Watkins Street is broken."
+        }
+      ]
+    },
+    {
+      "initAudioId": "CS123",
+      "mcqQuestions": [
+        {
+          "questionText": "According to the caller, the accident happened __________ prior to his calling this report in.",
+          "options": [
+            {
+              "text": "immediately"
+            },
+            {
+              "text": "approximately 10 minutes"
+            },
+            {
+              "text": "approximately 20 minutes"
+            },
+            {
+              "text": "approximately 30 minutes"
+            }
+          ]
+        },
+        {
+          "questionText": "According to the caller, the number and gender of the occupants of the vehicle was:",
+          "options": [
+            {
+              "text": "Three women."
+            },
+            {
+              "text": "Two women and one man."
+            },
+            {
+              "text": "Two men and one woman."
+            },
+            {
+              "text": "Three men."
+            }
+          ]
+        },
+        {
+          "questionText": "The vehicle involved in the accident was described as a:",
+          "options": [
+            {
+              "text": "Blue Chevrolet"
+            },
+            {
+              "text": "Blue Pontiac"
+            },
+            {
+              "text": "Green Chevrolet"
+            },
+            {
+              "text": "Green Pontiac"
+            }
+          ]
+        },
+        {
+          "questionText": "The caller said that he saw the vehicle involved in the accident:",
+          "options": [
+            {
+              "text": "Speeding."
+            },
+            {
+              "text": "Run a stop sign."
+            },
+            {
+              "text": "Run a red light."
+            },
+            {
+              "text": "Fail to yield the right of way."
+            }
+          ]
+        },
+        {
+          "questionText": "According to the caller, he saw _________ bleeding after the accident occurred.",
+          "options": [
+            {
+              "text": "ONLY the driver."
+            },
+            {
+              "text": "ONLY the passenger."
+            },
+            {
+              "text": "Both the driver and the passenger."
+            },
+            {
+              "text": "Both the driver and the person in the rear seat."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": [
+        {
+          "id": "CS121",
+          "url": "/content/audio-library/call-summarization/CS121.mp3"
+        },
+        {
+          "id": "CS122",
+          "url": "/content/audio-library/call-summarization/CS122.mp3"
+        },
+        {
+          "id": "CS123",
+          "url": "/content/audio-library/call-summarization/CS123.mp3"
+        }
+      ]
+    }
+  },
+  "captions" : {        
+    "CS121":"WEBVTT\n\n1\n00:00:00.120 --> 00:00:02.390\nHi. My name is Shannan white.\n\n2\n00:00:02.520 --> 00:00:10.145\nShannan S H A N N A N White W H I T E\n\n6\n00:00:10.650 --> 00:00:12.320\nyou know like the color white.\n\n7\n00:00:12.810 --> 00:00:14.820\nI am the manager of the liquor store\nat\n\n8\n00:00:14.821 --> 00:00:16.739\n7 3 4 4\n\n9\n00:00:16.740 --> 00:00:20.480\nMaple M A P L E\n\n11\n00:00:20.790 --> 00:00:22.020\nN Southvale\n\n12\n00:00:22.620 --> 00:00:26.460\nS O U T H V A L E.\n\n14\n00:00:26.930 --> 00:00:28.490\nI am really angry.\n\n15\n00:00:28.740 --> 00:00:29.910\nI tried calling the owner\n\n16\n00:00:29.911 --> 00:00:31.820\nbut his wife said he wasn't home.\n\n17\n00:00:32.130 --> 00:00:33.830\nThere were two guys here you know.\n\n18\n00:00:33.990 --> 00:00:35.600\nThey came in to buy pretzels.\n\n19\n00:00:36.000 --> 00:00:38.180\nBoy were they high on something you\nknow.\n\n20\n00:00:38.340 --> 00:00:39.420\nThey paid for the pretzels\n\n21\n00:00:39.421 --> 00:00:40.520\nwith a credit card.\n\n22\n00:00:40.800 --> 00:00:42.629\nI told them I couldn't take credit\ncards\n\n23\n00:00:42.630 --> 00:00:44.750\nunless they had a current driver's\nlicense\n\n24\n00:00:44.940 --> 00:00:46.019\nbut they got so mad\n\n25\n00:00:46.020 --> 00:00:47.850\nand the guy with the Credit Card\nsaid he\n\n26\n00:00:47.851 --> 00:00:49.680\nonly had an expired driver's license\n\n27\n00:00:49.681 --> 00:00:51.560\nso I took the credit card anyway\n\n28\n00:00:51.900 --> 00:00:53.730\nbut I wrote down the guy's license\nplate\n\n29\n00:00:53.731 --> 00:00:56.060\nnumber that was on his flatbed\ntruck.\n\n30\n00:00:56.400 --> 00:01:00.590\nIt is 7 X P R 8 4 2.\n\n32\n00:01:01.170 --> 00:01:03.060\nThey even asked me to meet them at\nthe\n\n33\n00:01:03.061 --> 00:01:05.129\n9 o'clock movie at the Playland\n\n34\n00:01:05.130 --> 00:01:07.190\ncinema after I got off work.\n\n35\n00:01:07.800 --> 00:01:09.990\nLook they just left as they were\ndriving\n\n36\n00:01:09.991 --> 00:01:12.389\naway. They almost ran headfirst\n\n37\n00:01:12.390 --> 00:01:13.580\ninto a red car\n\n38\n00:01:13.650 --> 00:01:15.380\nwith their metallic blue truck.\n\n39\n00:01:15.900 --> 00:01:18.140\nI am afraid they are going to hurt\nsomebody.\n\n40\n00:01:18.330 --> 00:01:20.280\nOh yeah the stupid guy left his\n\n41\n00:01:20.281 --> 00:01:21.850\ndriver's license behind.\n\n42\n00:01:22.230 --> 00:01:27.470\nIts number is R 4 5 8 3 4 9 7.",
+    "CS122":"WEBVTT\n\n1\n00:00:00.090 --> 00:00:02.340\nHi. This is Sally Stone again.\n\n2\n00:00:02.520 --> 00:00:04.980\nSally S A L L Y.\n\n4\n00:00:05.550 --> 00:00:08.243\nStone S T O N E.\n\n6\n00:00:08.880 --> 00:00:10.910\nI know you guys are glad to hear\nfrom me.\n\n7\n00:00:11.040 --> 00:00:12.900\nMy husband says I should write a\nbook about\n\n8\n00:00:12.901 --> 00:00:14.120\nall the stuff I see.\n\n9\n00:00:14.460 --> 00:00:19.977\nI live at 1 4 6 1 Cedar C E D A R\n\n12\n00:00:20.490 --> 00:00:21.890\nin valley stream.\n\n13\n00:00:22.050 --> 00:00:25.220\nValley V A L L E Y.\n\n15\n00:00:25.380 --> 00:00:28.540\nStream S T R E A M.\n\n17\n00:00:29.190 --> 00:00:31.049\nMy neighbors in the house next door\n\n18\n00:00:31.050 --> 00:00:32.120\non vacation.\n\n19\n00:00:32.369 --> 00:00:33.630\nI saw them leave Tuesday\n\n20\n00:00:33.631 --> 00:00:34.760\nwith suitcases.\n\n21\n00:00:35.010 --> 00:00:36.530\nThere should be no one home.\n\n22\n00:00:36.920 --> 00:00:39.240\nThere is this vehicle a suspicious\n\n23\n00:00:39.241 --> 00:00:41.190\nguy with long frizzy blond hair\n\n24\n00:00:41.191 --> 00:00:42.720\nhanging around in the backyard.\n\n25\n00:00:43.290 --> 00:00:45.320\nI know it's not my neighbors because\n\n26\n00:00:45.420 --> 00:00:47.340\nthey bought their house about the\nsame time as\n\n27\n00:00:47.341 --> 00:00:48.740\nme 10 years ago\n\n28\n00:00:48.780 --> 00:00:50.610\nand their 10 year old kids look\nabout 10\n\n29\n00:00:50.611 --> 00:00:52.010\nyears younger than this guy\n\n30\n00:00:52.290 --> 00:00:54.290\nand their kids get short brown hair.\n\n31\n00:00:54.480 --> 00:00:55.190\nOh yeah.\n\n32\n00:00:55.290 --> 00:00:56.759\nYou already have my phone number.\n\n33\n00:00:56.760 --> 00:01:01.520\nBut here it is again 6 4 9 8 7 2 4.\n\n36\n00:01:02.190 --> 00:01:04.040\nI know last time I called you guys\n\n37\n00:01:04.110 --> 00:01:06.209\nthat it turned out to be something\nreally big\n\n38\n00:01:06.210 --> 00:01:07.760\na kidnapping or something.\n\n39\n00:01:08.010 --> 00:01:09.390\nMaybe it's nothing this time\n\n40\n00:01:09.391 --> 00:01:11.180\nbut maybe it's something important.\n\n41\n00:01:11.490 --> 00:01:13.530\nIt's just that I know that this guy\ndoesn't\n\n42\n00:01:13.531 --> 00:01:15.660\nbelong in this neighborhood\nespecially\n\n43\n00:01:15.661 --> 00:01:17.370\nwith that ratty old green truck\n\n44\n00:01:17.371 --> 00:01:19.139\nwith the yellow stripes painted on\nthe side.\n\n45\n00:01:19.140 --> 00:01:21.120\nI saw him Parkdale in front of 14\n\n46\n00:01:21.121 --> 00:01:22.211\n84 Cedar.\n\n47\n00:01:23.190 --> 00:01:25.470\nI saw the guy drop his vehicle\nregistration\n\n48\n00:01:25.471 --> 00:01:27.419\nform and I have his VIN number\n\n49\n00:01:27.420 --> 00:01:27.908\nhere.\n\n50\n00:01:28.380 --> 00:01:38.056\nIt is I M L P 6 0 2 1 V 6 9 4 3 8 G T.\n\n55\n00:01:38.970 --> 00:01:41.460\nMaybe you could check this guy out\nas soon as\n",
+    "CS123":"WEBVTT\n\n1\n00:00:00.300 --> 00:00:01.789\nMy name is Michael Lopez\n\n2\n00:00:01.790 --> 00:00:06.785\nand M I C H A E L L O P E S.\n\n5\n00:00:07.950 --> 00:00:09.780\nI'm calling for my house in the city\nof\n\n6\n00:00:09.781 --> 00:00:11.729\nHarley H A R L E Y where I live\n\n8\n00:00:13.771 --> 00:00:20.036\nat 5 9 2 4 1 Master M A S T E R.\n\n11\n00:00:20.490 --> 00:00:22.158\nHave you had any reports of an\naccident?\n\n12\n00:00:22.470 --> 00:00:24.680\nHow come you guys didn't show up\nwhen it happened?\n\n13\n00:00:25.040 --> 00:00:26.940\nSee I was at the carwash on E\n\n14\n00:00:26.941 --> 00:00:28.940\nStreet vacuuming out my Chevrolet.\n\n15\n00:00:28.960 --> 00:00:30.599\nYou know the car wash on each\nstreet.\n\n16\n00:00:30.600 --> 00:00:32.430\nNot the one on Hawthorne Street.\n\n17\n00:00:32.820 --> 00:00:34.650\nAnyway I saw a green\n\n18\n00:00:34.651 --> 00:00:36.470\nPontiac run a stop sign\n\n19\n00:00:36.590 --> 00:00:38.600\nand swerve right into a fire\nhydrant.\n\n20\n00:00:38.910 --> 00:00:40.700\nIt all happened about 20 minutes\nago.\n\n21\n00:00:41.280 --> 00:00:42.890\nThe car's license plate was\n\n22\n00:00:43.170 --> 00:00:47.690\n8 4 9 8 Q N T.\n\n24\n00:00:48.210 --> 00:00:50.180\nThe driver of the car seemed to be\nOK\n\n25\n00:00:50.520 --> 00:00:52.380\nbut I don't think she's all there if\nyou know what\n\n26\n00:00:52.381 --> 00:00:52.940\nI mean.\n\n27\n00:00:53.610 --> 00:00:54.750\nI think she is drugged out\n\n28\n00:00:54.751 --> 00:00:57.130\nor something because she kept\ntalking to herself.\n\n29\n00:00:57.630 --> 00:00:59.550\nShe must have been wearing her\nseatbelt because\n\n30\n00:00:59.551 --> 00:01:01.499\nshe is the only one in the car\n\n31\n00:01:01.500 --> 00:01:03.689\nwho wasn't hurt her friend\n\n32\n00:01:03.690 --> 00:01:05.759\nin the passenger seat wasn't quite\n\n33\n00:01:05.760 --> 00:01:06.500\nso lucky.\n\n34\n00:01:06.720 --> 00:01:08.670\nHe must have been bounced around\nquite a bit since\n\n35\n00:01:08.671 --> 00:01:10.010\nhe seemed to be cut everywhere.\n\n36\n00:01:10.470 --> 00:01:11.870\nThere was blood everywhere.\n\n37\n00:01:12.480 --> 00:01:13.649\nI felt sorry for him\n\n38\n00:01:13.650 --> 00:01:15.640\nbut he kept telling me he didn't\nwant any help.\n\n39\n00:01:15.790 --> 00:01:17.790\nAnd the guy in the backseat looked\nreally pale\n\n40\n00:01:17.791 --> 00:01:19.950\nlike he smacked his head on\nsomething because\n\n41\n00:01:19.951 --> 00:01:21.230\nit was all bruised up.\n\n42\n00:01:21.510 --> 00:01:23.370\nHe kept saying he didn't want his\nparents to find\n\n43\n00:01:23.371 --> 00:01:24.450\nout that the car was wrecked\n\n44\n00:01:24.451 --> 00:01:26.090\nand that it was all his brother's\nfault.\n\n45\n00:01:26.730 --> 00:01:28.830\nIf you need to call me back my\ntelephone number\n\n46\n00:01:28.831 --> 00:01:32.180\nis 7 4 0 8 7 2 3.\n\n48\n00:01:32.550 --> 00:01:33.420\nWhere were you guys?\n\n49\n00:01:33.720 --> 00:01:34.850\nWhy didn't you come help them?\n"
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "assessmentName": "Data Entry MT",
+  "playerType": "DataEntry",
+  "modeType": "data-entry-audio-mt",
+  "subType": "data-entry-mt",
+  "instructions": "<span role=heading aria-level=3 >Data Entry  MT</span><br/><br/>    The following is a test of your ability to correctly enter data you see into the proper fields on the computer monitor.<br/><br/>    During this test, you will see names, addresses, telephone numbers, and other data on the right side of the screen. You should enter all the data exactly as it appears into the proper boxes on the left side of the screen. Once you have entered all of the data that appears in the box on the right, follow the on-screen instructions to see and enter the next set of data, and so on. Continue entering data until the time limit runs out.<br/><br/>    You may skip to the next set of data prior to your entering all of the data shown in the box on the right if you wish. However, you cannot return to the skipped data and failing to enter all of the data from the box on the right will result in a lower score.<br/><br/>    You will be graded on the speed and accuracy of the data you enter into the correct boxes. Do NOT use abbreviations in this section of the test.<br/><br/>    You will also need to respond to any emergency messages that appear in the bottom right corner of the screen by left-clicking your mouse over the agency to be dispatched. Failing to respond to a decision-making message within 15 seconds after the message first appears will result in a lower score.<br/>    ",
+  "timeLimit": 5,
+  "MTquestions": [
+    {
+      "id": 1,
+      "queText": "Homeless woman reports that the high school is burning down.",
+      "startDelay": 15
+    },
+    {
+      "id": 2,
+      "queText": "Backed up sewer line reported at 1996 Fulton Avenue.",
+      "startDelay": 45
+    },
+    {
+      "id": 3,
+      "queText": "Small girl eats poisonous mushrooms that were growing in her back yard.",
+      "startDelay": 75
+    },
+    {
+      "id": 4,
+      "queText": "Angry woman threatens to shoot her husband.",
+      "startDelay": 105
+    },
+    {
+      "id": 5,
+      "queText": "Firefighter reports that street lights are not working downtown.",
+      "startDelay": 135
+    },
+    {
+      "id": 6,
+      "queText": "Store owner reports teenagers wrote obscene graffiti on the side of his building.",
+      "startDelay": 165
+    },
+    {
+      "id": 7,
+      "queText": "Flames seen coming from under the hood of a car on Nelson Street.",
+      "startDelay": 195
+    },
+    {
+      "id": 8,
+      "queText": "Workers fixing a pothole accidentally cut underground electrical power lines.",
+      "startDelay": 225
+    },
+    {
+      "id": 9,
+      "queText": "Elderly man is trapped in the basement of his house.",
+      "startDelay": 255
+    },
+    {
+      "id": 10,
+      "queText": "Grammar school teacher breaks her leg while stepping from the curb.",
+      "startDelay": 285
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "inputs": [
+        "LEWIS",
+        "TARA",
+        "310-658-9346",
+        "3127 BRANKLIN",
+        "CUSHION",
+        "86425",
+        "5F684D239J4H25B1F",
+        "K53VR5",
+        "C5489315"
+      ]
+    },
+    {
+      "id": 2,
+      "inputs": [
+        "TON",
+        "HORGAN",
+        "916-248-2891",
+        "2359 DOGWOOD",
+        "PARIS",
+        "26743",
+        "98J41K2Y3R8V4N64",
+        "46C38P",
+        "N5791364"
+      ]
+    },
+    {
+      "id": 3,
+      "inputs": [
+        "HINKLEY",
+        "NED",
+        "714-389-6275",
+        "9164 JULIE",
+        "GREENTON",
+        "56731",
+        "PL452186HF617KQ",
+        "M76G24",
+        "M849352"
+      ]
+    },
+    {
+      "id": 4,
+      "inputs": [
+        "SIGMAN",
+        "ROYAL",
+        "213-698-2364",
+        "7615 TILLOWMICK",
+        "MULVER",
+        "64491",
+        "812JRFD36KP14QA5",
+        "J3A51H",
+        "D1462857"
+      ]
+    },
+    {
+      "id": 5,
+      "inputs": [
+        "SLAWSON",
+        "KRISTINA",
+        "404-391-6722",
+        "5613 KANOMA",
+        "BELSAH",
+        "31980",
+        "TG5841L293SD196P",
+        "H52G84",
+        "K659238"
+      ]
+    },
+    {
+      "id": 6,
+      "inputs": [
+        "THOMAS",
+        "JERRY",
+        "587-614-1324",
+        "6729 CIERRA",
+        "DOWNEY",
+        "10029",
+        "M15R2D963W47KP20",
+        "Q52P6Z",
+        "P8549327"
+      ]
+    },
+    {
+      "id": 7,
+      "inputs": [
+        "STONEPOTTER",
+        "HORACE",
+        "618-926-5431",
+        "8279 CORY",
+        "TULARE",
+        "91643",
+        "R58JH23965K1D82",
+        "569JKH",
+        "O2105773"
+      ]
+    },
+    {
+      "id": 8,
+      "inputs": [
+        "WEBER",
+        "JAMISON",
+        "572-648-1597",
+        "4486 MEAKSIDE",
+        "MALTON",
+        "72854",
+        "BT528K6912FT54752",
+        "B25Y3D",
+        "W2196743"
+      ]
+    },
+    {
+      "id": 9,
+      "inputs": [
+        "LOCKETT",
+        "KAY",
+        "303-918-6437",
+        "1678 DULLRIDGE",
+        "SALEM",
+        "43517",
+        "N2G4W9J35128GTF2",
+        "WSD258",
+        "F6329857"
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

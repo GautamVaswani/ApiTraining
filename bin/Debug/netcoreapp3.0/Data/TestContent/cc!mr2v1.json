@@ -1,0 +1,108 @@
+{
+  "assessmentName": "Memory Recall (Audio)",
+  "playerType": "DataRecollection",
+  "modeType": "memory-recall-audio",
+  "templateType": "memory-recall-3",
+  "instructions": "<span role=heading aria-level=3 >Memory Recall (Audio)</span> <br/><br/> The following is a test of your ability to remember combinations of letters and numbers, such as serial numbers, license plates, or medical identification numbers. You will hear a series of between five and nine numbers and letters followed by the word \"NOW\". For example, you may hear, \"6-L-4-2-E-1-NOW\". After you hear the word \"NOW\" you should use the keyboard to type in the series of numbers and letters exactly in the same order they were just given to you. Do not place any spaces between the numbers and letters in the sequence and do not type the word “NOW”. <br/><br/> You must wait until after you hear the word \"NOW\" before you begin to type in the numbers and letters. Information you attempt to type prior to hearing the word \"NOW\" will NOT be recorded. <br/><br/>  Because this is a test of your memory, you may not write down any information during this section of the test or take any notes. You must recall this information only from memory. Writing down anything during this portion of the test will result in immediate failure for the entire test. <br/><br/> After you enter your response, follow the on screen instructions to hear the next set of letters and numbers. ",
+  "questions": [
+    {
+      "id": "1",
+      "audioID": "MR211"
+    },
+    {
+      "id": "2",
+      "audioID": "MR212"
+    },
+    {
+      "id": "3",
+      "audioID": "MR213"
+    },
+    {
+      "id": "4",
+      "audioID": "MR214"
+    },
+    {
+      "id": "5",
+      "audioID": "MR215"
+    },
+    {
+      "id": "6",
+      "audioID": "MR216"
+    },
+    {
+      "id": "7",
+      "audioID": "MR217"
+    },
+    {
+      "id": "8",
+      "audioID": "MR218"
+    },
+    {
+      "id": "9",
+      "audioID": "MR219"
+    },
+    {
+      "id": "10",
+      "audioID": "MR2110"
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": [
+        {
+          "id": "MR211",
+          "url": "/content/audio-library/memory-recall/MR211.mp3"
+        },
+        {
+          "id": "MR212",
+          "url": "/content/audio-library/memory-recall/MR212.mp3"
+        },
+        {
+          "id": "MR213",
+          "url": "/content/audio-library/memory-recall/MR213.mp3"
+        },
+        {
+          "id": "MR214",
+          "url": "/content/audio-library/memory-recall/MR214.mp3"
+        },
+        {
+          "id": "MR215",
+          "url": "/content/audio-library/memory-recall/MR215.mp3"
+        },
+        {
+          "id": "MR216",
+          "url": "/content/audio-library/memory-recall/MR216.mp3"
+        },
+        {
+          "id": "MR217",
+          "url": "/content/audio-library/memory-recall/MR217.mp3"
+        },
+        {
+          "id": "MR218",
+          "url": "/content/audio-library/memory-recall/MR218.mp3"
+        },
+        {
+          "id": "MR219",
+          "url": "/content/audio-library/memory-recall/MR219.mp3"
+        },
+        {
+          "id": "MR2110",
+          "url": "/content/audio-library/memory-recall/MR2110.mp3"
+        }
+      ]
+    }
+  },
+  "captions": {
+    "MR211":"WEBVTT\n\n1\n00:00:00.630 --> 00:00:03.810\nR F 8 5 K now.\n\n\n",
+    "MR212":"WEBVTT\n\n1\n00:00:00.270 --> 00:00:06.540\nQ B 8 8 5 A now.\n\n\n",
+    "MR213":"WEBVTT\n\n1\n00:00:00.270 --> 00:00:04.559\nF 9 3 L R 1 now.\n",
+    "MR214":"WEBVTT\n\n1\n00:00:00.440 --> 00:00:06.240\nE U G 9 5 5 now.\n\n\n",
+    "MR215":"WEBVTT\n\n1\n00:00:00.210 --> 00:00:04.740\nK 2 1 9 G W now.\n",
+    "MR216":"WEBVTT\n\n1\n00:00:00.750 --> 00:00:07.010\n2 9 M R T 5 3 now.",
+    "MR217":"WEBVTT\n\n1\n00:00:00.330 --> 00:00:05.740\n6 R D Q 8 G 4 now.",
+    "MR218":"WEBVTT\n\n1\n00:00:00.120 --> 00:00:08.580\nP J Y 7 4 R T 7 now.\n\n",
+    "MR219":"WEBVTT\n\n1\n00:00:00.240 --> 00:00:06.210\n3 8 5 K U 2 L 6 now.",
+    "MR2110":"WEBVTT\n\n1\n00:00:00.120 --> 00:00:04.350\nB D 4 7 9 now."
+  }
+}

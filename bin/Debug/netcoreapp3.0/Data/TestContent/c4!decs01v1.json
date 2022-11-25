@@ -1,0 +1,490 @@
+{
+  "assessmentName": "Data Entry/Call Summary",
+  "playerType": "DataEntry",
+  "modeType": "data-entry-call-summary-chat",
+  "templateType": "call-summary",
+  "lastModified": "16/10/2017",
+  "instructions": "<span role=heading aria-level=3 > DATA ENTRY/CALL SUMMARY TEST </span><br /> <br /> You are about to start the 'Data Entry/Call Summary' test.  For this test, you will need to listen to information that is provided to you through the computer. We recommend using a headset or a set of quality speakers. <br /> <br /> During this test you should listen to each telephone call and enter the caller’s data into the proper fields on the screen as it is given.  You can use the mouse to go to any field in the data-entry table.  You can also use the 'Tab' or 'Enter' keys to move to the next field, and the 'Shift'-'Tab' combination to go back to the previous field.  Please note that the data presented during this test may not be in the same order as the fields on the screen.  For example, sometimes you will be given the phone number before you are given the caller’s name or address. <br /> <br />You do not need to enter the hyphens ( - ) for telephone numbers.  The hyphens have already been entered for you. <br /> <br />After each call is completed, you will be presented with a question asking you to summarize the call you just heard.  For this task, you should choose the response that best represents the caller’s issue presented in the call. <br /> <br /> After you have finished the question, click the 'Next' button that will enable at the top-right of the page to listen to the next call. <br /> <br /> Finally, during this test the computer will automatically enter data in ALL CAPITAL LETTERS.  There is no need for you to adjust your keyboard since this will be done automatically.  <br /> <br /> Please note, although you may hear state names during the call, do not enter the state names, or state abbreviations, during this test. <br /> <br /> Good luck! ",
+  "totalItems": 112,
+  "isMCQ": true,
+  "isChat": false,
+  "questions": [
+    {
+      "callType": "string (service-call / product-call)",
+      "initAudioId": "question-audio-1",
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer wants to upgrade their service"
+          },
+          {
+            "text": "The customer would like to hear offers other than the one they have received"
+          },
+          {
+            "text": "The customer wants to be removed from the automated calling system"
+          },
+          {
+            "text": "The customer does not like being interrupted during dinner time"
+          }
+        ]
+      }
+    },
+    {
+      "callType": "string (service-call / product-call)",
+      "initAudioId": "question-audio-2",
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer is very pleased with the company"
+          },
+          {
+            "text": "The customer does not like opening their mail"
+          },
+          {
+            "text": "The customer does not want to receive flyers"
+          },
+          {
+            "text": "The customer gets confused about their bill and other flyers"
+          }
+        ]
+      }
+    },
+    {
+      "callType": "string (service-call / product-call)",
+      "initAudioId": "question-audio-3",
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer has enjoyed using the V2 thus far"
+          },
+          {
+            "text": "The customer is wondering if this has happened before"
+          },
+          {
+            "text": "The customer wants it noted that the V2 is not working satisfactorily"
+          },
+          {
+            "text": "The customer wants to provide positive feedback about the V2"
+          }
+        ]
+      }
+    },
+    {
+      "callType": "string (service-call / product-call)",
+      "initAudioId": "question-audio-4",
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer read an advertisement at the airport"
+          },
+          {
+            "text": "The customer didn't find any other information except for a phone number"
+          },
+          {
+            "text": "The customer wants to purchase a product"
+          },
+          {
+            "text": "The customer would like to receive more information"
+          }
+        ]
+      }
+    },
+    {
+      "callType": "string (service-call / product-call)",
+      "initAudioId": "question-audio-5",
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer needs to renew his service contract"
+          },
+          {
+            "text": "The customer requested an address change, but it was not recorded correctly"
+          },
+          {
+            "text": "The customer is now living in Georgia and would like to discontinue service"
+          },
+          {
+            "text": "The customer hasn't received a bill in two months because they moved"
+          }
+        ]
+      }
+    },
+    {
+      "callType": "string (service-call / product-call)",
+      "initAudioId": "question-audio-6",
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer is willing to subscribe to the 700-minute plan"
+          },
+          {
+            "text": "The customer is requesting options for the 700-minute plan"
+          },
+          {
+            "text": "The customer may be interested in changing to a plan with more minutes"
+          },
+          {
+            "text": "The customer is confirming that other plans are available"
+          }
+        ]
+      }
+    },
+    {
+      "callType": "string (service-call / product-call)",
+      "initAudioId": "question-audio-7",
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer would like the status of her shipment"
+          },
+          {
+            "text": "The customer believes her shipment has been sent to the wrong address"
+          },
+          {
+            "text": "The shipping company needs to supply a replacement package"
+          },
+          {
+            "text": "The customer should be paid back for her shipping charges"
+          }
+        ]
+      }
+    },
+    {
+      "callType": "string (service-call / product-call)",
+      "initAudioId": "question-audio-8",
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer is referring the 4-star model to other people"
+          },
+          {
+            "text": "The customer is providing positive feedback on the 4-star model"
+          },
+          {
+            "text": "The automatic counter feature has made the customer's life easier"
+          },
+          {
+            "text": "The new and improved features really suit the customer's needs"
+          }
+        ]
+      }
+    },
+    {
+      "callType": "string (service-call / product-call)",
+      "initAudioId": "question-audio-9",
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer feels she is not getting enough value for the cost"
+          },
+          {
+            "text": "The customer has not received any upgrades or updates in a long time"
+          },
+          {
+            "text": "The customer wants to return her software"
+          },
+          {
+            "text": "The customer has been a subscriber for many years and expects a discount"
+          }
+        ]
+      }
+    },
+    {
+      "callType": "string (service-call / product-call)",
+      "initAudioId": "question-audio-10",
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer found the website very useful"
+          },
+          {
+            "text": "The customer would like to upgrade his shipping selection"
+          },
+          {
+            "text": "The customer is wondering which shipping option was originally ordered"
+          },
+          {
+            "text": "The customer wants an update on the status of the shipment"
+          }
+        ]
+      }
+    },
+    {
+      "callType": "string (service-call / product-call)",
+      "initAudioId": "question-audio-11",
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer is a very busy person"
+          },
+          {
+            "text": "The customer would like to have their additional channels set up as soon as possible"
+          },
+          {
+            "text": "The customer would like to begin using the special features right away"
+          },
+          {
+            "text": "The customer will need a flexible schedule for their installation"
+          }
+        ]
+      }
+    },
+    {
+      "callType": "string (service-call / product-call)",
+      "initAudioId": "question-audio-12",
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer is a current subscriber and needs service performed"
+          },
+          {
+            "text": "The customer is requesting a Wednesday service appointment"
+          },
+          {
+            "text": "The customer is leaving town and needs service performed"
+          },
+          {
+            "text": "The customer is wondering if they can setup an appointment for Thursday"
+          }
+        ]
+      }
+    },
+    {
+      "callType": "string (service-call / product-call)",
+      "initAudioId": "question-audio-13",
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer would like to switch to the 700 minute plan"
+          },
+          {
+            "text": "The customer currently has the 400 minute plan"
+          },
+          {
+            "text": "The customer is not sure which plan they have"
+          },
+          {
+            "text": "The customer needs a plan that includes twice the allowed time"
+          }
+        ]
+      }
+    },
+    {
+      "callType": "string (service-call / product-call)",
+      "initAudioId": "question-audio-14",
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer overdrew their account last month but took care of the issue"
+          },
+          {
+            "text": "The customer would like to know the status of their account"
+          },
+          {
+            "text": "The customer has tried to make a few purchases on their card but was denied"
+          },
+          {
+            "text": "The customer does not know whether or not they took care of the overdraw"
+          }
+        ]
+      }
+    },
+    {
+      "callType": "string (service-call / product-call)",
+      "initAudioId": "question-audio-15",
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer needs technical support assistance"
+          },
+          {
+            "text": "The customer is displeased with technical support"
+          },
+          {
+            "text": "The customer has looked through all the help documents and manuals"
+          },
+          {
+            "text": "The customer bought the software a month ago"
+          }
+        ]
+      }
+    },
+    {
+      "callType": "string (service-call / product-call)",
+      "initAudioId": "question-audio-16",
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer is interested in a product that has only the basic features"
+          },
+          {
+            "text": "The customer is interested in buying a product that is not too expensive"
+          },
+          {
+            "text": "The customer is looking for a moderately priced product"
+          },
+          {
+            "text": "The customer needs more information to choose the right product for her"
+          }
+        ]
+      }
+    },
+    {
+      "callType": "string (service-call / product-call)",
+      "initAudioId": "question-audio-17",
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer has a enjoyed using the A1350 thus far"
+          },
+          {
+            "text": "The customer is wondering if this has happened before"
+          },
+          {
+            "text": "The customer wants it noted that the A1350 is not working satisfactorily"
+          },
+          {
+            "text": "The customer wants to provide positive feedback about the A1350"
+          }
+        ]
+      }
+    },
+    {
+      "callType": "string (service-call / product-call)",
+      "initAudioId": "question-audio-18",
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer is satisfied with their current plan but wants an upgrade"
+          },
+          {
+            "text": "The customer needs to know if the upgrade has a fee associated with it"
+          },
+          {
+            "text": "The customer believes most upgrades have additional charges"
+          },
+          {
+            "text": "The customer wants to upgrade to the premium service"
+          }
+        ]
+      }
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": [
+        {
+          "id": "question-audio-1",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item1.mp3"
+        },
+        {
+          "id": "question-audio-2",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item2.mp3"
+        },
+        {
+          "id": "question-audio-3",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item3.mp3"
+        },
+        {
+          "id": "question-audio-4",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item4.mp3"
+        },
+        {
+          "id": "question-audio-5",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item5.mp3"
+        },
+        {
+          "id": "question-audio-6",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item6.mp3"
+        },
+        {
+          "id": "question-audio-7",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item7.mp3"
+        },
+        {
+          "id": "question-audio-8",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item8.mp3"
+        },
+        {
+          "id": "question-audio-9",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item9.mp3"
+        },
+        {
+          "id": "question-audio-10",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item10.mp3"
+        },
+        {
+          "id": "question-audio-11",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item11.mp3"
+        },
+        {
+          "id": "question-audio-12",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item12.mp3"
+        },
+        {
+          "id": "question-audio-13",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item13.mp3"
+        },
+        {
+          "id": "question-audio-14",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item14.mp3"
+        },
+        {
+          "id": "question-audio-15",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item15.mp3"
+        },
+        {
+          "id": "question-audio-16",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item16.mp3"
+        },
+        {
+          "id": "question-audio-17",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item17.mp3"
+        },
+        {
+          "id": "question-audio-18",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item18.mp3"
+        }
+      ]
+    }
+  },
+  "captions" : {
+    "question-audio-1":"WEBVTT\r\n\r\n1\r\n00:00:00.660 --> 00:00:02.509\r\nHi this is Cathy Sullivan\r\n\r\n2\r\n00:00:02.510 --> 00:00:03.752\r\nthat C A T H Y S U L L I V A N\r\n\r\n3\r\n00:00:08.220 --> 00:00:13.820\r\nand my phone number is 5 6 1 2 0 6 3 8 7 6.\r\n\r\n6\r\n00:00:13.950 --> 00:00:15.780\r\nI keep receiving an automated\r\nmessage\r\n\r\n7\r\n00:00:15.781 --> 00:00:17.700\r\nduring my dinner time asking if I\r\nwant\r\n\r\n8\r\n00:00:17.701 --> 00:00:19.130\r\nto upgrade my service.\r\n\r\n9\r\n00:00:19.320 --> 00:00:20.789\r\nI have already declined this offer\r\n\r\n10\r\n00:00:20.790 --> 00:00:22.160\r\nbut the calls continue.\r\n\r\n11\r\n00:00:22.260 --> 00:00:24.209\r\nI'm not interested in receiving news\r\nabout this\r\n\r\n12\r\n00:00:24.210 --> 00:00:26.450\r\nupgrade or any other offers over the\r\nphone.\r\n\r\n13\r\n00:00:26.610 --> 00:00:28.900\r\nMy home address is 2 4 8 9\r\n\r\n14\r\n00:00:28.901 --> 00:00:30.889\r\nSycamore that's\r\n\r\n15\r\n00:00:30.890 --> 00:00:32.800\r\ns y c a m o r e\r\n\r\n16\r\n00:00:32.801 --> 00:00:35.390\r\n in Menasha\r\n\r\n17\r\n00:00:35.550 --> 00:00:37.450\r\nM E N A S H A\r\n\r\n18\r\n00:00:37.451 --> 00:00:39.260\r\n Wisconsin.\r\n\r\n19\r\n00:00:39.450 --> 00:00:42.040\r\nZip Code 5 4 9 5 2.\r\n",
+    "question-audio-2":"WEBVTT\n\n1\n00:00:00.940 --> 00:00:02.630\nI have a problem and I hope you can\nhelp me\n\n2\n00:00:02.940 --> 00:00:04.800\nalways get some kind of flyer in the\nmail from your\n\n3\n00:00:04.801 --> 00:00:06.980\ncompany and I Keep mistaking it for\nmy bill.\n\n4\n00:00:07.290 --> 00:00:08.969\nI absolutely love your company's\nproducts.\n\n5\n00:00:08.970 --> 00:00:10.640\nBut I don't enjoy opening mail.\n\n6\n00:00:10.890 --> 00:00:13.319\nI especially don't like mail when\nit's not important\n\n7\n00:00:13.320 --> 00:00:14.540\nlike a flyer or something.\n\n8\n00:00:14.970 --> 00:00:17.069\nMy address is 4 5 8\n\n9\n00:00:17.070 --> 00:00:20.870\nStevenson spelled s t e v e n s o n\n\n12\n00:00:22.040 --> 00:00:23.000\nand Des Moines.\n\n13\n00:00:23.250 --> 00:00:25.300\nTwo words spelled d e s \n\n14\n00:00:25.301 --> 00:00:29.090\nsecond word m o i n e s \n\n\n16\n00:00:29.091 --> 00:00:29.819\nIowa.\n\n17\n00:00:29.820 --> 00:00:31.190\nAnd my last name is Ramosa.\n\n18\n00:00:31.410 --> 00:00:32.450\nRamosa is spelled\n\n19\n00:00:33.570 --> 00:00:34.822\nR A M O S A." ,
+    "question-audio-3":"WEBVTT\n\n1\n00:00:01.890 --> 00:00:04.079\nHello. I bought your v2 headset\n\n2\n00:00:04.080 --> 00:00:05.369\nabout four months ago\n\n3\n00:00:05.370 --> 00:00:07.230\nand I have reference number \n\n4\n00:00:07.230 --> 00:00:10.400\nU 7 8 B as in boy 4 9.\n\n6\n00:00:10.680 --> 00:00:12.539\nI have enjoyed using the V2 headset\n\n7\n00:00:12.540 --> 00:00:13.340\nthus far\n\n8\n00:00:13.350 --> 00:00:15.300\nbut I've noticed recently that the\nsound is a bit\n\n9\n00:00:15.301 --> 00:00:17.840\nscratchy and the warranty has\nalready expired.\n\n10\n00:00:18.120 --> 00:00:18.900\nI think it's a problem\n\n11\n00:00:18.901 --> 00:00:19.940\nwith the headset.\n\n12\n00:00:20.100 --> 00:00:21.810\nI don't know if you've ever come\nacross this issue\n\n13\n00:00:21.811 --> 00:00:23.910\nor not but please make a note in my\naccount\n\n14\n00:00:23.911 --> 00:00:25.560\nof history that I am not pleased\n\n15\n00:00:25.561 --> 00:00:26.810\nwith how it is functioning.\n\n16\n00:00:27.030 --> 00:00:28.989\nMy name is Jasmine Keller.\n\n17\n00:00:28.990 --> 00:00:35.029\nThat's J A S M I N E K E L L E R\n\n20\n00:00:35.030 --> 00:00:37.430\nand my email address is J Keller\n\n21\n00:00:37.440 --> 00:00:39.650\nat easy email dot com.\n\n22\n00:00:46.200 --> 00:00:47.690\nJKELLER@EASYMAIL.com.\n\n23\n00:00:47.970 --> 00:00:52.799\nMy phone number is 8 5 0 7 9 3 2 7 5 4.\n\n26\n00:00:52.800 --> 00:00:53.610\nIf you need that too.\n",
+    "question-audio-4":"WEBVTT\n\n1\n00:00:01.080 --> 00:00:03.210\nHello. I was at the airport about a\nweek ago\n\n2\n00:00:03.211 --> 00:00:05.130\nand was waiting for my flight for\nroughly\n\n3\n00:00:05.131 --> 00:00:06.990\nthree hours while\n\n4\n00:00:06.991 --> 00:00:08.729\nI was waiting, I picked up a\nmagazine\n\n5\n00:00:08.730 --> 00:00:10.680\nand was reading through a few\narticles when\n\n6\n00:00:10.681 --> 00:00:12.890\nI noticed an advertisement for your\ncompany.\n\n7\n00:00:13.530 --> 00:00:15.209\nI didn't find any other information\n\n8\n00:00:15.210 --> 00:00:17.010\nbut I really like to read a brochure\n\n9\n00:00:17.011 --> 00:00:19.020\nor something that can provide more\n\n10\n00:00:19.021 --> 00:00:19.850\ninformation.\n\n11\n00:00:20.850 --> 00:00:22.769\nMy address is 451\n\n12\n00:00:22.770 --> 00:00:23.690\nNorthern.\n\n13\n00:00:24.120 --> 00:00:27.770\nThat's N O R T H E R N \n\n\n15\n00:00:27.990 --> 00:00:29.240\nin Mountain View.\n\n16\n00:00:29.880 --> 00:00:31.775\nThat's two words mountain \n\n17\n00:00:31.776 --> 00:00:37.610\nm o u n t a i n View v i e w\n\n20\n00:00:37.880 --> 00:00:39.004\nin California.\n\n21\n00:00:39.690 --> 00:00:45.860\nMy phone numbers is 4 1 5 3 7 8 0 9 8 8.\n\n24\n00:00:46.920 --> 00:00:49.170\nIf you can send a confirmation to my\nemail\n\n25\n00:00:49.171 --> 00:00:50.210\nthat would be great.\n\n26\n00:00:50.700 --> 00:00:51.965\nMy address is SJohns\n\n27\n00:00:52.730 --> 00:00:54.860\nweddall dot com that's\n\n28\n00:00:54.960 --> 00:01:05.519\nSJOHANS@WEDDALL.COM.\n\n",
+    "question-audio-5":"WEBVTT\n\n1\n00:00:00.630 --> 00:00:01.430\nGood morning.\n\n2\n00:00:01.740 --> 00:00:04.000\nI'm currently living at 294\nwoodland.\n\n3\n00:00:04.019 --> 00:00:07.310\nIt's spelled W O O D L A N D\n\n5\n00:00:07.560 --> 00:00:10.460\nand my zip code is 3 0 3 0 3.\n\n\n7\n00:00:10.980 --> 00:00:12.660\nI moved to another city about three\nmonths ago\n\n8\n00:00:12.661 --> 00:00:13.830\nand kept my service contract\n\n9\n00:00:13.831 --> 00:00:14.300\nwith you.\n\n10\n00:00:14.790 --> 00:00:16.890\nFilled out that change of address\nform on my bill before\n\n11\n00:00:16.891 --> 00:00:19.190\nI moved but haven't received a bill\nin two months.\n\n12\n00:00:19.560 --> 00:00:21.639\nNow living in Atlanta Georgia\nAtlanta\n\n13\n00:00:21.640 --> 00:00:25.740\nspelled A T L A N T A.\n\n15\n00:00:25.741 --> 00:00:27.739\nAnd I'd like you to update my\ninformation\n\n16\n00:00:27.740 --> 00:00:29.379\nrecords. My name is James Pearson.\n\n17\n00:00:29.380 --> 00:00:31.130\nJames spelled J A M E S.\n\n18\n00:00:31.131 --> 00:00:34.460\nPearson is P E A R S O N\n\n\n20\n00:00:34.620 --> 00:00:36.740\nand I just want to be sure that I\nget my bills on time.\n\n21\n00:00:36.990 --> 00:00:40.040\nReference Number is W 2 5 M 5 9.\n",
+    "question-audio-6":"WEBVTT\n\n1\n00:00:00.840 --> 00:00:01.889\nHi how's it going.\n\n2\n00:00:01.890 --> 00:00:03.930\nMy name is Janell Gastin that's\nspelled\n\n3\n00:00:03.931 --> 00:00:09.455\nJ A N E L L E Gaston G A S T I N\n\n6\n00:00:09.750 --> 00:00:11.759\nand I'm currently a subscriber to\nyour 700\n\n7\n00:00:11.760 --> 00:00:12.620\nminute plan.\n\n8\n00:00:12.930 --> 00:00:15.579\nMy mailing address is 2 18\nWellington.\n\n9\n00:00:15.580 --> 00:00:19.780\nThat's spelled w e l l i n g t o n\n\n11\n00:00:19.860 --> 00:00:20.789\nin Springfield.\n\n12\n00:00:20.790 --> 00:00:21.590\nThat spelled\n\n13\n00:00:23.280 --> 00:00:25.520\nS P R I N G F I E L D\n\n14\n00:00:25.650 --> 00:00:26.660\nMASSACHUSETTS.\n\n15\n00:00:26.720 --> 00:00:29.030\nZip code 0 1 1 0 9.\n\n16\n00:00:29.280 --> 00:00:31.170\nI'm finding that lately I have been\ngoing over my\n\n17\n00:00:31.171 --> 00:00:32.510\nallowed time for the plan.\n\n18\n00:00:32.729 --> 00:00:34.770\nI've heard that there are plants\nthat offer larger time\n\n19\n00:00:34.771 --> 00:00:36.720\nlimits. Do you have a plan that\nmight suit\n\n20\n00:00:36.721 --> 00:00:37.362\nme better?\n\n21\n00:00:37.650 --> 00:00:39.839\nIf you can email me a copy of the\navailable plans\n\n22\n00:00:39.840 --> 00:00:41.360\nI would greatly appreciate it.\n\n23\n00:00:41.520 --> 00:00:43.030\nMy email address is J G..\n\n24\n00:00:43.980 --> 00:00:46.309\nThat is J is an Janell G is in\nGeorge\n\n25\n00:00:46.310 --> 00:00:47.828\n4 5 7 at somaldd\n\n26\n00:00:48.140 --> 00:00:52.680\ndot com that spelled S O M A L D D .com.\n\n",
+    "question-audio-7":"WEBVTT\n\n1\n00:00:00.510 --> 00:00:02.409\nGood afternoon. My name is Bonnie\nbooth.\n\n2\n00:00:02.410 --> 00:00:03.930\nThat is spelled B O N N I E booth\n\n3\n00:00:08.460 --> 00:00:10.319\nB O O T H. I Ordered your model 475\n\n4\n00:00:10.320 --> 00:00:11.810\nand paid the three day shipping.\n\n5\n00:00:12.010 --> 00:00:13.890\nMy mailing address is 2 4 8 2\n\n6\n00:00:13.891 --> 00:00:15.840\nGlenwood that\n\n7\n00:00:15.841 --> 00:00:16.400\nspelled\n\n8\n00:00:18.870 --> 00:00:24.590\nG L E N W O O D and Cleveland C L E V E L A N D Ohio\n\n11\n00:00:24.720 --> 00:00:27.290\nZIP Code 4 4 1 1 1.\n\n13\n00:00:27.630 --> 00:00:29.369\nI be looking for the package\neveryday\n\n14\n00:00:29.370 --> 00:00:30.570\nand haven't seen any notes\n\n15\n00:00:30.571 --> 00:00:32.990\nor anything that would indicate it\nhad been delivered.\n\n16\n00:00:33.330 --> 00:00:34.580\nDo you know where it is?\n\n17\n00:00:34.680 --> 00:00:36.779\nRight now it has been longer than\nthe three days\n\n18\n00:00:36.780 --> 00:00:38.780\nand I still haven't received my\npackage.\n\n19\n00:00:38.910 --> 00:00:44.260\nIf you need my phone number it is 2 1 6 2 5 1 5 3 5 7.\n",
+    "question-audio-8":"WEBVTT\n\n1\n00:00:00.720 --> 00:00:01.400\nHi there.\n\n2\n00:00:01.530 --> 00:00:03.659\nI live at 172 Perry\n\n3\n00:00:03.660 --> 00:00:04.850\nin Miami Florida.\n\n4\n00:00:04.890 --> 00:00:07.850\nPerry spelled p e r r y.\n\n\n6\n00:00:08.189 --> 00:00:12.200\nMy email address is Petera@spambob.com\n\n8\n00:00:12.390 --> 00:00:19.480\nspelled P E T E R A at S P A M B O B dot com\n\n12\n00:00:19.750 --> 00:00:25.400\nand my phone number is 3 0 5 6 6 7 6 6 8 6.\n\n15\n00:00:26.160 --> 00:00:28.169\nI currently own your Forestar model\n\n16\n00:00:28.170 --> 00:00:29.750\nand I've been using it a lot lately.\n\n17\n00:00:30.000 --> 00:00:30.809\nI found that the new\n\n18\n00:00:30.810 --> 00:00:33.080\nand improved features really suit my\nneeds\n\n19\n00:00:33.090 --> 00:00:35.000\nand have come in handy numerous\ntimes.\n\n20\n00:00:35.100 --> 00:00:37.019\nSpecifically the automatic counter\nfeature\n\n21\n00:00:37.020 --> 00:00:38.720\nhas made my life much easier.\n\n22\n00:00:39.120 --> 00:00:41.099\nI want your company to know that I\nthink the 4 star\n\n23\n00:00:41.100 --> 00:00:42.460\nmodel is the best around.\n",
+    "question-audio-9":"WEBVTT\n\n1\n00:00:01.530 --> 00:00:03.740\nHello. My name is Florence Cahill.\n\n2\n00:00:03.790 --> 00:00:09.830\nThat's F L O R E N C E C A H I L L.\n\n5\n00:00:09.900 --> 00:00:12.470\nI'm calling because I have a\ncomplaint about my software.\n\n6\n00:00:12.630 --> 00:00:14.159\nI've been a customer for many years\n\n7\n00:00:14.160 --> 00:00:16.280\nand feel that I'm being overcharged\nfor it.\n\n8\n00:00:16.680 --> 00:00:17.640\nI find it very useful\n\n9\n00:00:17.641 --> 00:00:19.760\nbut simply feel that I'm paying too\nmuch.\n\n10\n00:00:19.980 --> 00:00:21.659\nI have not received any upgrades\n\n11\n00:00:21.660 --> 00:00:22.469\nor updates\n\n12\n00:00:22.470 --> 00:00:24.260\nand I'm still paying the same\namount.\n\n13\n00:00:24.480 --> 00:00:28.619\nMy address is 4 0 6 2 Glenview.\n\n15\n00:00:28.620 --> 00:00:29.669\nThat's one word.\n\n16\n00:00:29.670 --> 00:00:37.949\nG L E N V I E W in Victoria V I C T O R I A Texas\n\n\n20\n00:00:37.950 --> 00:00:42.900\nand my phone number is 3 6 1 8 4 4 4 4 6 2.\n\n",
+    "question-audio-12":"WEBVTT\n\n1\n00:00:02.070 --> 00:00:04.070\nHello. My name is Scott White.\n\n2\n00:00:04.200 --> 00:00:10.190\nThat's s c o t t w h i t e.\n\n5\n00:00:10.880 --> 00:00:13.079\nAnd I'm a current subscriber to your\nautomotive\n\n6\n00:00:13.080 --> 00:00:14.270\nwarranty plan.\n\n7\n00:00:14.790 --> 00:00:21.050\nMy phone number is \n5 6 2 3 0 7 8 5 4 1\n\n10\n00:00:21.660 --> 00:00:26.150\nand my email is sewhite@quickmail.com .\n\n13\n00:00:26.880 --> 00:00:37.420\nThat's s e w h i t e at q u i c k m a i l dot com.\n\n18\n00:00:38.430 --> 00:00:40.289\nI'm wondering if there are any\nopenings\n\n19\n00:00:40.290 --> 00:00:42.020\nfor Miky to work on my car.\n\n20\n00:00:42.750 --> 00:00:44.789\nI need to get in and have the\nservice performed\n\n21\n00:00:44.790 --> 00:00:47.129\non my car before I leave town on\nThursday\n\n22\n00:00:47.130 --> 00:00:48.950\nand I'm pretty booked until then.\n\n23\n00:00:49.290 --> 00:00:52.760\nThe journey where you can squeeze me\nin on Wednesday.\n",
+    "question-audio-18":"WEBVTT\n\n1\n00:00:00.960 --> 00:00:02.690\nHi this is Monika Tylor\n\n2\n00:00:02.920 --> 00:00:05.330\nthat's spelled M O N I K A.\n\n4\n00:00:05.860 --> 00:00:10.229\nTyler T Y L E R at 3 7 9 5\n\n6\n00:00:10.230 --> 00:00:16.519\nRiverside that spelled\nR I V E R S I D E Augusta\n\n9\n00:00:16.520 --> 00:00:17.636\nthat spelled A U G U S T A GORGEA .\n\n10\n00:00:20.820 --> 00:00:22.770\nI recently received a brochure about\nyour\n\n11\n00:00:22.771 --> 00:00:24.050\nnew premium package.\n\n12\n00:00:24.240 --> 00:00:25.050\nI'm pretty satisfied\n\n13\n00:00:25.051 --> 00:00:26.159\nwith my current plan\n\n14\n00:00:26.160 --> 00:00:27.770\nbut I'm thinking about upgrading.\n\n15\n00:00:27.960 --> 00:00:29.910\nI don't really want to pay more\nmoney if I don't\n\n16\n00:00:29.911 --> 00:00:31.830\nhave to. But I really would like the\n\n17\n00:00:31.831 --> 00:00:32.990\npremium service.\n\n18\n00:00:33.150 --> 00:00:34.350\nIs there a fee associated\n\n19\n00:00:34.351 --> 00:00:35.192\nwith the upgrade?\n\n20\n00:00:35.610 --> 00:00:37.650\nI'm assuming there is since most\nupgrades\n\n21\n00:00:37.651 --> 00:00:38.609\ncosts something\n\n22\n00:00:38.610 --> 00:00:39.890\nbut I guess you never know.\n\n23\n00:00:39.990 --> 00:00:42.030\nIf it's easier you may email the\ninformation\n\n24\n00:00:42.031 --> 00:00:43.315\nto me at M\n\n25\n00:00:43.890 --> 00:00:45.220\nTyler spelled\n\n26\n00:00:47.130 --> 00:00:49.370\nM T Y L E R @ DODGIT.com\n\n27\n00:00:49.560 --> 00:00:53.130\nthat spelled D O D G I T dot com.",
+    "question-audio-10":"WEBVTT\n\n1\n00:00:01.280 --> 00:00:03.380\nI'm surprised to reach you on the\nweekend.\n\n2\n00:00:03.540 --> 00:00:05.220\nMy name is Derek Pfeiffer.\n\n3\n00:00:05.440 --> 00:00:11.854\nThat's Derek D E R E K Pfeiffer \nP F E I F E R.\n\n7\n00:00:12.690 --> 00:00:18.800\nAnd my phone number is \n9 0 9 9 4 1 0 3 7 9.\n\n10\n00:00:19.560 --> 00:00:21.610\nI just placed an order on your\nwebsite.I\n\n11\n00:00:22.090 --> 00:00:23.579\nSelect the standard shipping\n\n12\n00:00:23.580 --> 00:00:25.850\nbut realized you want it sooner.\n\n13\n00:00:26.300 --> 00:00:32.000\nI have a reference number K 7 3 F 5 8\n\n\n16\n00:00:32.759 --> 00:00:36.680\nand my address is 4 6 7 2 Clarence\n\n18\n00:00:36.950 --> 00:00:40.970\nthat's c l a r e n c e\n\n20\n00:00:41.190 --> 00:00:42.380\nin Riverside.\n\n21\n00:00:42.990 --> 00:00:49.550\nThat's one word r i v e r s i d e \nin California.\n\n24\n00:00:49.980 --> 00:00:53.360\nZIP Code 9 2 5 0 7.\n\n26\n00:00:54.390 --> 00:00:56.250\nI'm not sure what your other\nshipping options\n\n27\n00:00:56.251 --> 00:00:58.080\nare, but I'd really like to receive\nmy\n\n28\n00:00:58.081 --> 00:00:59.940\norder sooner than five to seven\n\n29\n00:00:59.941 --> 00:01:00.920\nbusiness days.\n\n30\n00:01:01.410 --> 00:01:03.450\nI mean one of those early is 2 days\nfrom now.\n",
+    "question-audio-14":"WEBVTT\n\n1\n00:00:01.200 --> 00:00:01.880\nHi there.\n\n2\n00:00:01.980 --> 00:00:02.827\nHow's your day going?\n\n3\n00:00:03.330 --> 00:00:04.229\nI'm doing pretty well.\n\n4\n00:00:04.230 --> 00:00:06.089\nBut I one concern that has been on\nmy mind for\n\n5\n00:00:06.090 --> 00:00:06.890\na few days.\n\n6\n00:00:07.170 --> 00:00:09.020\nI overdrew my account last month\n\n7\n00:00:09.120 --> 00:00:11.180\nand I'm pretty sure it was taken\ncare of.\n\n8\n00:00:11.310 --> 00:00:13.229\nBut I recently tried to make a few\npurchases\n\n9\n00:00:13.230 --> 00:00:14.129\non my card\n\n10\n00:00:14.130 --> 00:00:15.380\nand they were not approved.\n\n11\n00:00:15.630 --> 00:00:16.949\nI need to know what's going on\n\n12\n00:00:16.950 --> 00:00:17.840\nwith my card.\n\n13\n00:00:18.030 --> 00:00:19.580\nMy name is Daniel Price.\n\n14\n00:00:19.650 --> 00:00:23.009\nFirst name is spelled D A N I E L.\n\n16\n00:00:23.010 --> 00:00:25.820\nLast name is spelled P R I C E\n\n18\n00:00:26.010 --> 00:00:28.439\nand I live at 7 3 6 vine\n\n19\n00:00:28.440 --> 00:00:29.990\nin Libertyville Illinois.\n\n20\n00:00:30.240 --> 00:00:32.159\nVine spelled V I N E. \n\n21\n00:00:32.160 --> 00:00:34.199\nLibertyville spelled\n\n22\n00:00:34.200 --> 00:00:38.930\nL I B E R T Y V I L L E.\n\n25\n00:00:39.270 --> 00:00:44.000\nMy phone number is \n8 4 7 6 8 0 1 6 6 9.\n\n28\n00:00:44.190 --> 00:00:46.390\nI hope you're able to look at my\naccount information.\n",
+    "question-audio-13":"WEBVTT\n\n1\n00:00:01.540 --> 00:00:02.245\nHow's it going?\n\n2\n00:00:02.890 --> 00:00:04.839\nI need some clarification about my\ncell phone\n\n3\n00:00:04.840 --> 00:00:05.430\nplan.\n\n4\n00:00:05.920 --> 00:00:10.170\nI have reference number P 4 3 S 0 7.\n\n\n6\n00:00:10.540 --> 00:00:12.600\nAnd my last name is swoope\n\n7\n00:00:12.850 --> 00:00:15.600\ns w o o p e.\n\n9\n00:00:15.760 --> 00:00:19.680\nFirst name is Debra D E B R A.\n\n11\n00:00:20.230 --> 00:00:21.424\nI live at 21 60 stiles\n\n12\n00:00:22.840 --> 00:00:26.679\nS T I L E S in Pittsburgh\n\n14\n00:00:26.680 --> 00:00:30.580\nP I T T S B U R G H\n\n16\n00:00:31.160 --> 00:00:32.240\nPennsylvania.\n\n17\n00:00:32.650 --> 00:00:35.400\nZip code 1 5 2 2 2.\n\n19\n00:00:36.160 --> 00:00:38.109\nI'm pretty sure I have your 400\nminute\n\n20\n00:00:38.110 --> 00:00:39.840\nplan for my cell phone service.\n\n21\n00:00:40.300 --> 00:00:42.519\nI saw that the 700 minute plan\n\n22\n00:00:42.520 --> 00:00:44.379\nincludes almost twice the allowed\n\n23\n00:00:44.380 --> 00:00:45.120\ntime\n\n24\n00:00:45.340 --> 00:00:46.629\nand has more flexibility\n\n25\n00:00:46.630 --> 00:00:47.970\nwith the rollover minutes.\n\n26\n00:00:48.550 --> 00:00:50.439\nI think I would like to switch to\nthe 700\n\n27\n00:00:50.440 --> 00:00:51.330\nminute plan.\n\n28\n00:00:51.550 --> 00:00:53.840\nIt seems like it might be best\nsuited for my\n",
+    "question-audio-15":"WEBVTT\n\n1\n00:00:01.410 --> 00:00:03.390\nGood morning. My name is Ruth\nAlexander\n\n2\n00:00:03.391 --> 00:00:05.508\nthat's R U T H.\n\n4\n00:00:06.120 --> 00:00:09.324\nLast name A L E X A N D E R.\n\n6\n00:00:10.830 --> 00:00:12.899\nAnd I'm from Dayton Ohio\n\n7\n00:00:12.900 --> 00:00:14.795\nthat's D A Y T O N.\n\n8\n00:00:15.480 --> 00:00:16.566\nI have reference number E 7 8 N 6 2.\n\n9\n00:00:20.130 --> 00:00:21.539\nI bought your software last month\n\n10\n00:00:21.540 --> 00:00:23.489\nand have spent the last few weeks\ntrying to figure out\n\n11\n00:00:23.490 --> 00:00:24.350\nhow to use it.\n\n12\n00:00:24.660 --> 00:00:26.520\nI've already read the manual trying\nto figure out what's\n\n13\n00:00:26.521 --> 00:00:27.290\ngoing on.\n\n14\n00:00:27.540 --> 00:00:29.909\nI'm not sure if I need to your\ntechnical staff\n\n15\n00:00:29.910 --> 00:00:31.740\nbut I'm confused if they would like\n\n16\n00:00:31.741 --> 00:00:32.960\nto send me an email.\n\n17\n00:00:33.120 --> 00:00:37.610\nMy address is RAlexander@mailBob.com\n\n19\n00:00:37.730 --> 00:00:38.280\nthat's\n\n20\n00:00:43.510 --> 00:00:48.140\nR A L E X A N D E R at M A I L B O B dot com\n\n23\n00:00:48.330 --> 00:00:50.160\nor they can reach me by phone at\n\n24\n00:00:50.161 --> 00:00:54.000\n9 3 7 8 9 2 5 3 1 4.\n",
+    "question-audio-11":"WEBVTT\n\n1\n00:00:00.840 --> 00:00:03.050\nHello. My name is Carolyn Smith\n\n2\n00:00:03.240 --> 00:00:05.622\nC A R O L Y N.\n\n4\n00:00:06.330 --> 00:00:08.890\nLast name s m i t h\n\n5\n00:00:09.050 --> 00:00:10.949\nand I'm calling to set up a time for\nsomeone\n\n6\n00:00:10.950 --> 00:00:13.460\nto come over and install the\nadditional channels\n\n7\n00:00:13.500 --> 00:00:15.620\nto my current cable television\npackage.\n\n8\n00:00:15.840 --> 00:00:17.660\nI want this done relatively quickly\n\n9\n00:00:17.700 --> 00:00:19.739\nand would like to begin using the\nadditional channels\n\n10\n00:00:19.740 --> 00:00:20.930\nas soon as possible.\n\n11\n00:00:21.240 --> 00:00:23.069\nI'm a fairly busy person so I hope\n\n12\n00:00:23.070 --> 00:00:24.239\nyour workers can be flexible\n\n13\n00:00:24.240 --> 00:00:25.370\nwith their time.\n\n14\n00:00:25.620 --> 00:00:29.325\nMy address is 2 6 8 1 Jarviston\n\n\n16\n00:00:29.700 --> 00:00:33.492\nthat's J A R V I S T O N\n\n18\n00:00:33.960 --> 00:00:35.360\nin New York New York.\n\n19\n00:00:35.520 --> 00:00:41.660\nAnd my phone number is \n5 1 6 9 0 8 7 0 2 0.\n",
+    "question-audio-16":"WEBVTT\n\n1\n00:00:01.710 --> 00:00:03.436\nHi this is Christie Brandle\n\n2\n00:00:03.700 --> 00:00:04.360\nChristie\n\n3\n00:00:06.860 --> 00:00:11.090\nC H R I S T I E Brandel B R A N D L E.\n\n5\n00:00:11.580 --> 00:00:17.180\nAnd my phone number is\n2 5 6 8 4 6 1 2 4 6.\n\n8\n00:00:17.670 --> 00:00:19.530\nI understand you have a few\ndifferent products\n\n9\n00:00:19.531 --> 00:00:21.380\nthat are comparable in price.\n\n10\n00:00:21.810 --> 00:00:23.670\nI see that your model A is the\n\n11\n00:00:23.671 --> 00:00:24.449\ncheapest\n\n12\n00:00:24.450 --> 00:00:26.840\nand your Model F is the most\nexpensive.\n\n13\n00:00:27.420 --> 00:00:29.340\nI'm looking for a product that will\ngive me\n\n14\n00:00:29.341 --> 00:00:31.130\nthe basic stuff I made\n\n15\n00:00:31.320 --> 00:00:32.900\nbut is too expensive.\n\n16\n00:00:33.690 --> 00:00:35.670\nAre the models listed from cheapest\n\n17\n00:00:35.671 --> 00:00:36.960\nto most expensive?\n\n18\n00:00:37.740 --> 00:00:39.630\nIf you can send me information to my\nhome\n\n19\n00:00:39.631 --> 00:00:41.780\naddress I would greatly appreciate\nit.\n\n20\n00:00:42.360 --> 00:00:45.710\nMy address is 2 1 3 8\n\n22\n00:00:46.220 --> 00:00:47.069\nnew Creek.\n\n23\n00:00:47.070 --> 00:00:49.079\nThat's two words new\n\n24\n00:00:49.080 --> 00:00:51.430\nN E W. second word Creek\n\n26\n00:00:51.510 --> 00:00:55.730\nC R E E K in Anniston\n\n27\n00:00:55.770 --> 00:00:59.940\nA N N I S T O N Alabama.\n\n29\n00:01:00.570 --> 00:01:03.870\nZip Code 3 6 2 0 1. Thanks.",
+    "question-audio-17":"WEBVTT\n\n1\n00:00:01.380 --> 00:00:03.580\nHello. My name is Terry Gonyea\n\n2\n00:00:03.690 --> 00:00:06.350\nspelled t e r r y.\n\n4\n00:00:06.570 --> 00:00:10.060\nLast name is spelled G A G N E.\n\n6\n00:00:10.260 --> 00:00:16.819\nAnd my email address is TD.GONYEA@Mainmail.com\nspelled\n\n9\n00:00:16.920 --> 00:00:25.010\nT D dot G A G N E at M A I N M A I L dot com.\n\n12\n00:00:25.380 --> 00:00:26.910\nI'm not sure if I reached the right\nnumber\n\n13\n00:00:26.911 --> 00:00:27.470\nor not.\n\n14\n00:00:27.810 --> 00:00:30.029\nI recently viewed a trial version of\nyour product\n\n15\n00:00:30.030 --> 00:00:31.340\nand was very impressed.\n\n16\n00:00:31.710 --> 00:00:33.120\nI think it will fit right in\n\n17\n00:00:33.121 --> 00:00:34.550\nwith what I'm currently using.\n\n18\n00:00:34.860 --> 00:00:37.280\nThe funding has been approved by our\nbudget manager\n\n19\n00:00:37.320 --> 00:00:38.780\nso that is good to go.\n\n20\n00:00:39.120 --> 00:00:41.010\nI've also decided on the product\nversion that\n\n21\n00:00:41.011 --> 00:00:41.840\nI would like.\n\n22\n00:00:42.150 --> 00:00:43.700\nDo you need my address for the\norder?\n\n23\n00:00:44.430 --> 00:00:46.439\nIt's 2 0 7 0\n\n24\n00:00:46.440 --> 00:00:48.419\nwalnut spelled\n\n25\n00:00:48.420 --> 00:00:50.400\nW A L N U T\n\n26\n00:00:50.400 --> 00:00:52.670\nin Glen Allen Virginia.\n\n27\n00:00:52.800 --> 00:00:53.639\nGlen Allen.\n\n28\n00:00:53.640 --> 00:00:55.284\nTwo words spelled G L E N.\n\n29\n00:00:56.670 --> 00:00:59.430\nsecond word A L L E N.\n\n31\n00:01:00.240 --> 00:01:03.740\nZip Code 2 3 0 6 0.\n\n33\n00:01:04.120 --> 00:01:05.570\nAlso I have my reference number.\n\n34\n00:01:05.790 --> 00:01:08.900\nIt's T 4 5 U 0 2."
+  }
+}

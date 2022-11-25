@@ -1,0 +1,113 @@
+{
+    "assessmentName": "Bank Deposit",
+    "playerType": "FIB",
+    "id": "FIB",
+    "modeType": "fib-multi",
+    "templateType": "bank-deposit",
+    "instructions": "<span role=heading aria-level=3 > For this test, enter the correct response for each question in the appropriate field. Use the mouse and click to move to the next and previous fields. Use the scroll bar to scroll the form up and down if necessary.</span><br><br>When you are done, select Submit from the Header section.  Your Test Administrator may have set a time limit for the test. If there is a time limit, you will be told how much time you have. You will also notice a countdown timer on the Header of the screen showing the time remaining.",
+    "questions": [{
+            "id": 1,
+            "label": "Date"
+        },
+        {
+            "id": 2,
+            "label": "BILLS Dollars"
+        },
+        {
+            "id": 3,
+            "label": "BILLS Cents"
+        },
+        {
+            "id": 4,
+            "label": "COINS Dollars"
+        },
+        {
+            "id": 5,
+            "label": "COINS Cents"
+        },
+        {
+            "id": 6,
+            "label": "SVH #19-332 Dollars"
+        },
+        {
+            "id": 7,
+            "label": "SVH #19-332 Cents"
+        },
+        {
+            "id": 8,
+            "label": "RJR #25-213 Dollars"
+        },
+        {
+            "id": 9,
+            "label": "RJR #25-213 Cents"
+        },
+        {
+            "id": 10,
+            "label": "TOTAL DEPOSIT Dollars"
+        },
+        {
+            "id": 11,
+            "label": "TOTAL DEPOSIT Cents"
+        }
+    ],
+    "questionData": {
+        "question": "SCENARIO:  In this situation, you are employed by Miller Insurance.<br><br>It is your responsibility to prepare deposit slips, write checks, and keep the checkbook balance up to date.  Today is June 9.",
+        "questionDetails": {
+            "text": "Prepare a deposit slip for the following receipts:",
+            "rows": [
+                [
+                    "19-$20 bills",
+                    "61-quarters",
+                    "$402.90 check (SVH #19-332)"
+                ],
+                [
+                    "34-$10 bills",
+                    "46-dimes",
+                    "$616.46 check (RJR #25-213)"
+                ],
+                [
+                    "18-$ 5 bills ",
+                    "32-nickles"
+                ],
+                [
+                    "52-$ 1 bills",
+                    "93-pennies"
+                ]
+            ]
+        },
+        "worksheet-details": {
+            "header1": [
+                "For Deposit to Account of",
+                "XX-XXX"
+            ],
+            "header2": "Checks as Follows Properly Endorsed",
+            "address1": [
+                "MILLER INSURANCE",
+                "Franklin, MI  48025"
+            ],
+            "address2": [
+                "First National Bank",
+                "Franklin, MI  48025"
+            ],
+            "columnHeaders": [
+                "Dollars",
+                "Cents"
+            ],
+            "year": "20XX",
+            "questionLabels": [
+                "Date",
+                "BILLS",
+                "COINS",
+                "SVH #19-332",
+                "RJR #25-213",
+                "TOTAL DEPOSIT"
+            ]
+        }
+    },
+    "resources": {
+        "media": {
+            "images": [],
+            "audio": []
+        }
+    }
+}

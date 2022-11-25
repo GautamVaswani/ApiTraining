@@ -1,0 +1,283 @@
+{
+  "assessmentName": "Reading Comprehension",
+  "playerType": "MCQ",
+  "lastModified": "06/09/2017",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "<P>Dispatchers should carefully monitor the closed circuit television cameras that are positioned to monitor the parking lot outside the building and also identify persons who may wish to enter the dispatch room. Only those with a lawful and legitimate reason may operate or view the equipment in a dispatch control room.</P><P> According to this passage: </P>",
+      "options": [
+        {
+          "text": "People in the parking lot are sometimes a threat to dispatch control room equipment."
+        },
+        {
+          "text": "People often try to gain access to the dispatch control room without a lawful or legitimate reason."
+        },
+        {
+          "text": "Closed circuit television cameras can be used to lawfully and legitimately view the equipment in a dispatch control room."
+        },
+        {
+          "text": "Closed circuit television cameras should be used to identify if a person may legitimately view dispatch control room equipment."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "<P>According to the fire department's rules and regulations, off hours is defined as \"that period of time when fire center employees are not normally at work.\" That period includes weekdays from 5:00 PM to 8:00 AM, weekends and holidays. In this same document the term reasonably available means that an employee must be available at one's home phone number or carrying a pager, be able to communicate by telephone, and be able to return to the fire center within one hour.</P><P> According to this passage: </P>",
+      "options": [
+        {
+          "text": "Fire center employees are expected to be at work by 10:00 AM on Saturdays."
+        },
+        {
+          "text": "An employee who is “reasonably available” is permitted up to one hour to communicate by telephone."
+        },
+        {
+          "text": "An employee who is carrying a pager does NOT need to be available at their home phone."
+        },
+        {
+          "text": "Fire center employees typically work on holidays."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "<P>Dispatchers should always give the name of the streets of the nearest intersection of the location where a unit is being sent. Dispatchers should not provide travel directions to responding units unless there is an impediment to the normal route or if asked by the responding unit. Thus, a dispatcher must be able to read maps and direct units to the scene of an emergency when required.</P><P> According to this passage:</P>",
+      "options": [
+        {
+          "text": "Dispatchers should give directions to responding units if the route that units typically travel to that location is blocked."
+        },
+        {
+          "text": "The names of the cross streets of the nearest intersection to where a unit is being sent should be provided only when asked."
+        },
+        {
+          "text": "Dispatchers should look at a map during every call and be ready in case responding units ask for directions."
+        },
+        {
+          "text": "Dispatchers should always indicate to responding units the most direct route to an emergency call."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionText": "<P>A person commits the crime of arson if they start a fire or cause an explosion where the person intentionally damages any property, whether the property of the person or the property of another, and such act recklessly places another person in danger of physical injury. A person commits the crime of reckless burning if the person recklessly damages property of another by fire or explosion. Sally Smith is involved in a single-car traffic accident while driving drunk. During the accident she drives into a building causing a fire which burns the building down. </P> <P>According to the above passage, Sally Smith has: </P>",
+      "options": [
+        {
+          "text": "NOT committed either the crime of arson or reckless burning."
+        },
+        {
+          "text": "has committed the crime of arson, but NOT reckless burning."
+        },
+        {
+          "text": "has committed the crime of reckless burning, but NOT arson."
+        },
+        {
+          "text": "has committed the crimes of arson AND reckless burning."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionText": "<P>At the start of a radio transmission or series of transmissions, Police Department employees should properly identify themselves, then the communications center they are calling. For example, a Police Officer with identification number 724 calling the Metropolis dispatch center would say, \"724 Metropolis.\" All Police Officers in the field shall respond to radio traffic initiated by the dispatch center with their identification number followed by their location except when stating the location would jeopardize the safety of the employee or others.</P> <P> According to this passage, if a Police Officer with the Identification Number 634, who is in a restaurant eating lunch at 2236 Main Street, is radioed by the Metropolis dispatch center so they can give that officer a message, the officer should respond by saying: </P>",
+      "options": [
+        {
+          "text": "\"634 Metropolis.\""
+        },
+        {
+          "text": "\"634, 2236 Main Street.\""
+        },
+        {
+          "text": "\"634, Metropolis, 2236 Main Street.\""
+        },
+        {
+          "text": "\"2236 Main Street.\""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionText": "<P>Every call to the dispatch center should be treated as an emergency unless and until it is proven otherwise. Each agency should have a target time for answering all calls to the center. This target goal can only be reached by having the telecommunicator answer all calls as quickly as possible.</P><P> According to this passage:</P>",
+      "options": [
+        {
+          "text": "Emergency calls should be answered more promptly than non-emergency calls."
+        },
+        {
+          "text": "All calls received at the dispatch center should be answered as quickly as possible."
+        },
+        {
+          "text": "The target time for answering emergency phone calls should be the same for all dispatch centers."
+        },
+        {
+          "text": "A telecommunicator should presume a call is NOT an emergency unless and until it is proven otherwise."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionText": "<P>The Metropolis Fire Department uses both Rescues and Ambulances owned by private companies to respond to medical calls. A “Rescue” is a Metropolis Fire Department owned unit that transports medical patients to the hospital. A Rescue or Ambulance shall be dispatched on all medical calls. A Rescue shall be dispatched initially on the following types of emergencies: serious auto accidents with injuries, drowning, gunshot wounds, or stabbings. A Rescue shall be dispatched at the request of any other Fire Department unit at any time.</P><P> According to this passage: </P>",
+      "options": [
+        {
+          "text": "Both a Rescue and an Ambulance should be dispatched when there is a serious auto accident with injuries."
+        },
+        {
+          "text": "A Rescue must be dispatched at the request of an Ambulance at any time."
+        },
+        {
+          "text": "An Ambulance shall be dispatched if someone overdoses on drugs."
+        },
+        {
+          "text": "An Ambulance must be dispatched at the request of a Rescue at any time."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionText": "<P>Carbon Monoxide (COHb) is a colorless, odorless, tasteless, and toxic gas produced as a byproduct of combustion. Many residents use Carbon Monoxide detectors to alert them if a high level of COHb is present in their home. Most situations resulting in the activation of a COHb detector are not life threatening and do not require calling 9-1-1. To determine the need to call 9-1-1 if a COHb detector goes off, the resident should ask everyone in the household if anyone feels ill, such as a headache, dizziness or nausea. If the answer to any of the above is true, the residents should evacuate the household and immediately call 9-1-1 for assistance.</P><P> According to this passage, if a Carbon Monoxide detector sounds, residents should: </P>",
+      "options": [
+        {
+          "text": "immediately call 9-1-1 for assistance."
+        },
+        {
+          "text": "call 9-1-1 and then ask if anyone in the household feels ill."
+        },
+        {
+          "text": "ask everyone in the household if anyone feels ill before calling 9-1-1."
+        },
+        {
+          "text": "NOT call 9-1-1 unless everyone in the household feels ill."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionText": "<P>During a natural disaster the Police Dispatcher shall contact the agency responsible for the particular nature of each request (i.e. fire, police or first aid). When incidents escalate, the dispatcher notifies the Emergency Management Coordinator who makes the necessary decision as to whether additional personnel or facilities are needed. The Police Dispatcher then notifies the necessary personnel to report to the Emergency Operations Center, which is located at the Fire Department Headquarters. Notification is made through the telephone from Police Headquarters.</P><P> According to this passage: </P>",
+      "options": [
+        {
+          "text": "The dispatcher makes the decision as to whether additional personnel or facilities are needed."
+        },
+        {
+          "text": "The Emergency Management Coordinator will directly contact the necessary personnel when additional personnel are needed."
+        },
+        {
+          "text": "Additional police personnel that are needed when an incident escalates should first go to Fire Headquarters."
+        },
+        {
+          "text": "Additional fire personnel that are needed will be notified through the telephone from Fire Headquarters."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionText": "<P> In the event of an emergency requiring the fire department in the community, the public safety dispatcher will signal to the fire department the appropriate level of response needed. If in the judgment of the dispatcher there is a need to upgrade the level of response he/she may do so at any time. It shall be the responsibility of the responding firefighters to upgrade the level of response whenever in their judgment there is a need.</P><P> According to this passage:</P>",
+      "options": [
+        {
+          "text": "Only responding firefighters can upgrade the level of response."
+        },
+        {
+          "text": "Prior to making decisions about upgrading a response, the dispatcher must receive input from the fire department."
+        },
+        {
+          "text": "The fire department initially decides the appropriate level of response needed."
+        },
+        {
+          "text": "A dispatcher may upgrade the level of the fire department’s response without input from responding firefighters."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "questionText": "<P> People often react unpredictably when placed in an unfamiliar emergency situation. This reaction sometimes includes hysteria. The telecommunicator must be able to quickly calm and reassure the caller. However, the telecommunicator should resist the temptation to tell the caller that everything will \"be all right\" because there is no way to know if that is true. Instead, the telecommunicator should simply tell the caller that everything possible is being done to mitigate the situation.</P><P> According to this passage:</P>",
+      "options": [
+        {
+          "text": "Telecommunicators often become hysterical when dealing with unfamiliar emergency situations."
+        },
+        {
+          "text": "Telecommunicators should reassure callers that everything possible is being done to handle the situation."
+        },
+        {
+          "text": "Telecommunicators should resist the temptation to calm a hysterical caller."
+        },
+        {
+          "text": "When a caller is hysterical the telecommunicator should reassure the caller by saying that \"everything will be all right.\""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "questionText": "<P>There is no requirement in the City of Metropolis to delay the search for or rescue of any lost, missing, or overdue person. Any person who is reported lost, missing, or overdue, adult or child, may be searched for immediately by any emergency management, fire, law enforcement, emergency medical services, search and rescue, rescue squad, or other similar organization to which a missing or overdue person is reported. No emergency dispatcher shall delay any call reporting a person lost, overdue, or missing to the organization responsible for searching for these types of persons.</P><P> According to this passage: </P>",
+      "options": [
+        {
+          "text": "Dispatchers must decide, based upon the resources available, if a search for a missing person should be begun immediately."
+        },
+        {
+          "text": "Dispatchers should report a missing person to the organization responsible for searching for missing persons without delay."
+        },
+        {
+          "text": "Dispatchers are required to make certain that searches for lost persons are begun without delay."
+        },
+        {
+          "text": "The City of Metropolis has a requirement to immediately begin searching for missing persons."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "questionText": "<P>The dispatcher supervisor is responsible for the direct management and supervision of all dispatch activities. The supervisor assists in the formation of the communication plan. The supervisor may have deputy positions. Deputies should be equally as qualified as the dispatch supervisor. All radio and telephone traffic at the dispatch center is managed through the use of a communications plan.</P><P> According to this passage: </P>",
+      "options": [
+        {
+          "text": "The dispatcher supervisor is responsible for creating the communication plan."
+        },
+        {
+          "text": "The communications plan is used to manage all radio traffic at the dispatch center."
+        },
+        {
+          "text": "A deputy to a dispatch supervisor has all of the authority of a dispatch supervisor."
+        },
+        {
+          "text": "A deputy to a dispatch supervisor is responsible for the supervision of all dispatch activities in the absence of the dispatch supervisor."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "questionText": "<P>The State Law says, \"whoever, having kindled or caused to be kindled, a fire in or near any forest, timber, or other inflammable material upon any lands owned, controlled or leased by, or under the partial, concurrent, or exclusive jurisdiction of this state, including lands under contract for purchase or for the acquisition of which condemnation proceedings have been instituted, leaves said fire without totally extinguishing the same, or permits or suffers said fire to burn or spread beyond his control, or leaves or suffers said fire to burn unattended, shall be imprisoned not more than six months.\"</P><P> According to this passage, a person shall be imprisoned for not more than six months: </P>",
+      "options": [
+        {
+          "text": "who smokes a cigarette in a state forest."
+        },
+        {
+          "text": "who possesses an open canister of gasoline into a state forest."
+        },
+        {
+          "text": "whose children use fireworks that starts a fire that burns an acre of trees in a state forest."
+        },
+        {
+          "text": "whose campfire in a state forest gets out of control and burns two acres of dry grass."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "questionText": "<P>All emergency units in the field will contact the dispatch center by radio and identify themselves using an identification number. City employees assigned to a vehicle will be identified by their assigned personal identification number during radio communications. Employees not assigned a personal identification number and assigned the use of an agency vehicle will be identified by the agency identification number assigned to the vehicle.</P><P> According to this passage: </P>",
+      "options": [
+        {
+          "text": "All city employees will use a personal identification number during radio communications."
+        },
+        {
+          "text": "All city employees who are assigned a personal identification number will use that number during radio communications."
+        },
+        {
+          "text": "All city employees will use the agency identification number assigned to the vehicle during radio communications."
+        },
+        {
+          "text": "City employees who do not have a personal identification number should use their name."
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

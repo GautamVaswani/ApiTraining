@@ -1,0 +1,230 @@
+{
+  "assessmentName": "Cross Referencing (Audio)",
+  "playerType": "DataEntry",
+  "modeType": "cross-referencing",
+  "instructions": "<span role=heading aria-level=3 >Cross-Referencing </span> <br/><br/>The following is a test of your ability to use information from a list. Using the reference list of names, addresses, and telephone numbers on the right side of the screen, enter the correct information about a person as requested by the computer. Like a telephone book, names are listed in alphabetical order according to people's last names. For example, if the directory lists a person's name as \"Smith, Adam\" then their first name is \"Adam\" and their last name is \"Smith.\" You might have to use the scroll bar on the right side of the list to view the entire list. <br/><br/> You will be asked questions about the directory and you should enter the requested information into the box provided on the screen. <br/><br/>In the questions, names are always given with the first name first. For example, if you see the question, \"What is the telephone number of John Smith,\" then John is the first name and Smith is the last name. <br/><br/>Enter names by first, then last name. Data entered will be scored for accuracy. <br/><br/>You will also need to respond to any emergency messages that appear in the bottom right corner of the screen by left clicking your mouse over the agency to be dispatched. Failing to respond to a decision-making message within 15 seconds after the message first appears will result in a lower score.<p class='aria-only'>Press Alt+s to pause the background audio while accessing Emergency box. Press Alt+r to resume the background audio.</p>",
+  "questions": [
+    {
+      "id": "1",
+      "questionText": "What is the phone number of Dawn Masters who lives on Warner Street?",
+      "audioID": "DC421"
+    },
+    {
+      "id": "2",
+      "questionText": "What is the address of Asa Klerk/Clark?",
+      "audioID": "DC422"
+    },
+    {
+      "id": "3",
+      "questionText": "A message just came in and the only part that was recorded was the last four digits of the phone number -6283. What is the last name for whose phone number is this?",
+      "audioID": "DC423"
+    },
+    {
+      "id": "4",
+      "questionText": "What is the phone number of the person who resides at 4991 Schmidt Street?",
+      "audioID": "DC424"
+    },
+    {
+      "id": "5",
+      "questionText": "What is the address of Alex Pederson whose telephone number begins with the digits 410?",
+      "audioID": "DC425"
+    }
+  ],
+  "emergencyQuestions": [
+    {
+      "id": "1",
+      "quetext": "Boy threatens to shoot his step-mother."
+    },
+    {
+      "id": "2",
+      "quetext": "Broken pipe is leaking water into city hall."
+    }
+  ],
+  "referenceData": [
+    {
+      "name": "Allan, Tamara",
+      "address": "2419 Herald",
+      "phone": "826-4392"
+    },
+    {
+      "name": "Alex, Tamika",
+      "address": "4082 Hershey",
+      "phone": "398-4621"
+    },
+    {
+      "name": "Bolt, Michael",
+      "address": "361 Nelson",
+      "phone": "263-3621"
+    },
+    {
+      "name": "Bolter, Michelle",
+      "address": "163 Nielson",
+      "phone": "632-3621"
+    },
+    {
+      "name": "Celee, L.",
+      "address": "2039 Rockwood",
+      "phone": "668-9133"
+    },
+    {
+      "name": "Clerk, A.",
+      "address": "5027 Capitol",
+      "phone": "485-0220"
+    },
+    {
+      "name": "Colter, Amika",
+      "address": "2705 Capital",
+      "phone": "488-0222"
+    },
+    {
+      "name": "Engle, Rami",
+      "address": "1941 Smith",
+      "phone": "530-5073"
+    },
+    {
+      "name": "Ingalls, Rene",
+      "address": "4991 Schmidt",
+      "phone": "503-3507"
+    },
+    {
+      "name": "Ingles, Randy",
+      "address": "4919 Schwim",
+      "phone": "531-6235"
+    },
+    {
+      "name": "Jared, Patricia",
+      "address": "731 Andy",
+      "phone": "362-6737"
+    },
+    {
+      "name": "Jarvis, Tricia",
+      "address": "728 Candy",
+      "phone": "366-7367"
+    },
+    {
+      "name": "Jerrard, Trish",
+      "address": "216 Anson",
+      "phone": "632-3667"
+    },
+    {
+      "name": "Klerk, Asa",
+      "address": "5702 Capitola",
+      "phone": "458-0022"
+    },
+    {
+      "name": "Lope, Alicia",
+      "address": "1874 Belt",
+      "phone": "964-3268"
+    },
+    {
+      "name": "Lopes, Oleta",
+      "address": "7418 Belasco",
+      "phone": "964-6283"
+    },
+    {
+      "name": "Lopez, Alice",
+      "address": "1847 Belt",
+      "phone": "946-6262"
+    },
+    {
+      "name": "Master, Donny",
+      "address": "2643 Warren",
+      "phone": "621-3814"
+    },
+    {
+      "name": "Masters, D.",
+      "address": "3642 Warner",
+      "phone": "612-8413"
+    },
+    {
+      "name": "Messler, Donna",
+      "address": "6422 Werner",
+      "phone": "621-1438"
+    },
+    {
+      "name": "Pedersen, Alice",
+      "address": "1039 Caramay",
+      "phone": "401-3901"
+    },
+    {
+      "name": "Pederson, Alex",
+      "address": "3931 Carmen",
+      "phone": "410-2901"
+    },
+    {
+      "name": "Peterson, Allison",
+      "address": "1903 Carp",
+      "phone": "410-9012"
+    },
+    {
+      "name": "Quade, Randy",
+      "address": "8764 Orange",
+      "phone": "334-2839"
+    },
+    {
+      "name": "Qauid, Mandy",
+      "address": "7648 Orangevale",
+      "phone": "334-8329"
+    },
+    {
+      "name": "Sable, Lauren",
+      "address": "9203 Rock Crest",
+      "phone": "688-2913"
+    },
+    {
+      "name": "Saelee, Laura",
+      "address": "5795 Rockwell",
+      "phone": "668-9132"
+    },
+    {
+      "name": "Thomas, H.",
+      "address": "4621 Puebla",
+      "phone": "422-2439"
+    },
+    {
+      "name": "Thomson, Heather",
+      "address": "6214 Pala",
+      "phone": "442-2349"
+    },
+    {
+      "name": "Thomsen, Hester",
+      "address": "4612 Mahla",
+      "phone": "424-2449"
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": [
+        {
+          "id": "DC421",
+          "url": "/content/audio-library/cross-referencing/DC421.mp3"
+        },
+        {
+          "id": "DC422",
+          "url": "/content/audio-library/cross-referencing/DC422.mp3"
+        },
+        {
+          "id": "DC423",
+          "url": "/content/audio-library/cross-referencing/DC423.mp3"
+        },
+        {
+          "id": "DC424",
+          "url": "/content/audio-library/cross-referencing/DC424.mp3"
+        },
+        {
+          "id": "DC425",
+          "url": "/content/audio-library/cross-referencing/DC425.mp3"
+        }
+      ]
+    }
+  },
+  "captions": {
+    
+    "DC421":"WEBVTT\n\n1\n00:00:00.210 --> 00:00:02.519\nWhat is the phone number of Don\nmasters\n\n2\n00:00:02.520 --> 00:00:03.847\nwho lives on Warner street?\n",
+    "DC425":"WEBVTT\n\n1\n00:00:00.150 --> 00:00:02.720\nWhat is the address of Alex Peterson\n\n2\n00:00:02.820 --> 00:00:04.439\nwhose telephone number begins\n\n3\n00:00:04.440 --> 00:00:06.835\nwith the digits 4 1\n",
+    "DC422":"WEBVTT\n\n1\n00:00:00.150 --> 00:00:02.418\nWhat is the address of Asia\n",
+    "DC423":"WEBVTT\n\n1\n00:00:00.270 --> 00:00:01.729\nA message just came in\n\n2\n00:00:01.730 --> 00:00:03.740\nand the only part that was recorded\n\n3\n00:00:03.750 --> 00:00:06.140\nwas the last four digits of the\nphone number\n\n4\n00:00:06.240 --> 00:00:08.609\n6 2 8 3.\n\n5\n00:00:09.270 --> 00:00:11.130\nWhat is the last name for whose\nphone\n\n6\n00:00:11.131 --> 00:00:11.737\nnumber this is?\n",
+    "DC424":"WEBVTT\n\n1\n00:00:00.180 --> 00:00:02.280\nWhat is the phone number of the\nperson who resides\n\n2\n00:00:02.281 --> 00:00:04.247\nat 49 91 Schmitt's street?\n"
+   }
+}

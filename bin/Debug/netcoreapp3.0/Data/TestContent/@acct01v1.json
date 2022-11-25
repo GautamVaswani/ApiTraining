@@ -1,0 +1,914 @@
+{
+  "assessmentName": "Accounting Principles",
+  "playerType": "MCQ",
+  "lastModified": "06/09/2017",
+  "instruction": "<P role=heading aria-level=3>Accounting Basic Principles</P><P>This section of the test contains multiple-choice questions, which you must answer by using your computer mouse to select the correct response. Upon answering a question, you can go to the next question by clicking the Next button on the Menu bar.</P><P>During this section of the test, if you choose you may skip an item and then later return to that item.</P><P>When you are finished, select Submit from the Menu bar. Your Test Administrator may have set a time limit for this test section. If there is a time limit, you will be told how much time you have. If a time limit has been set for this section of the test, you will notice a countdown timer on the Header of the screen, showing the amount of time remaining to complete this section of the test.</P>",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "<P>Which of the following transactions results in the recognition of an inventory asset for Warren Company?</P>",
+      "options": [
+        {
+          "text": "Warren Company agrees to buy inventory from Feltz Company during the next quarter."
+        },
+        {
+          "text": "Warren Company bought inventory from Feltz Company last quarter."
+        }, 
+        {
+          "text": "Feltz Company bought inventory from Warren Company last quarter."
+        },
+        {
+          "text": "Warren Company agrees to buy inventory from Feltz Company at the end of the current quarter."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "<P>Which of the following transactions results in the recognition of a liability for Cobra Inc.?</P>",
+      "options": [
+        {
+          "text": "Cobra Inc. agrees to buy inventory on account from Snake Inc. during the next quarter."
+        },
+        {
+          "text": "Snake Inc. bought inventory from Cobra Inc. during the previous quarter. Snake paid cash and the inventory was delivered."
+        },
+        {
+          "text": "Cobra Inc. bought inventory from Snake Inc. on account during the current period. The inventory was delivered."
+        },
+        {
+          "text": "Snake Inc. bought inventory on account from Cobra Inc. during the current period. The inventory was delivered."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "<P>Groeninger Company holds the following partial list of assets: Property and Equipment $100,000; Inventory $45,000; Cash $20,000; Accounts Receivable $30,000. In what order would the first and second section of the balance sheet report accounts and dollar amounts in?</P>",
+      "options": [
+        {
+          "text": "Cash $20,000, Inventory $45,000, Property and Equipment $100,000, Accounts Receivable $30,000."
+        },
+        {
+          "text": "Cash $20,000, Inventory $45,000, Accounts Receivable $30,000, Property and Equipment $100,000."
+        },
+        {
+          "text": "Property and Equipment $100,000, Inventory $45,000, Accounts Receivable $30,000, Cash $20,000."
+        },
+        {
+          "text": "Cash $20,000, Accounts Receivable $30,000, Inventory, $45,000, Property and Equipment $100,000."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionText": "<P>Which of the following items represents a component of owner’s equity for a corporation?</P>",
+      "options": [
+        {
+          "text": "Common Stock"
+        },
+        {
+          "text": "Note Payable"
+        },
+        {
+          "text": "Investments"
+        },
+        {
+          "text": "Dividends Payable"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionText": "<P>The main balance sheet categories equal $240,000, $260,000 and $500,000. What would the basic accounting equation allow you to determine?</P>",
+      "options": [
+        {
+          "text": "Total Assets = $500,000"
+        },
+        {
+          "text": "Total Liabilities = $500,000"
+        },
+        {
+          "text": "Total Equity = $500,000"
+        },
+        {
+          "text": "Total Cash = $260,000"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionText": "<P>Jones, Inc. issued $5,000 of equity stock, receiving cash from investors. What are the effects on the accounting equation?</P>",
+      "options": [
+        {
+          "text": "Increase in Assets $5,000, Increase in Liabilities $5,000"
+        },
+        {
+          "text": "Increase in Liabilities $5,000, Increase in Equity $5,000"
+        },
+        {
+          "text": "Decrease in Assets $5,000, Increase in Equity $5,000"
+        },
+        {
+          "text": "Increase in Assets $5,000, Increase in Equity $5,000"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionText": "<P>Smith, Inc. borrows $6,000 from a local bank. What are the effects on the accounting equation?</P>",
+      "options": [
+        {
+          "text": "Increase Assets $6,000, Increase Liabilities $6,000"
+        },
+        {
+          "text": "Increase Assets $6,000, Increase Equity $6,000"
+        },
+        {
+          "text": "Increase Liabilities $6,000, Increase Equity $6,000"
+        },
+        {
+          "text": "Decrease Assets $6,000, Increase Liabilities $6,000"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionText": "<P>Yancy, Inc. paid $2,000 in wages to employees for work performed in the same week the wages were paid. What are the effects on the accounting equation?</P>",
+      "options": [
+        {
+          "text": "Increase Assets $2,000, Increase Liabilities $2,000"
+        },
+        {
+          "text": "Increase Assets $2,000, Increase Equity $2,000"
+        },
+        {
+          "text": "Decrease Assets $2,000, Decrease Liabilities $2,000"
+        },
+        {
+          "text": "Decrease Assets $2,000, Decrease Equity $2,000"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionText": "<P>Which of the following statements is true about the meaning of the accounting term “debit”?</P>",
+      "options": [
+        {
+          "text": "Debit means a reduction in a company’s assets"
+        },
+        {
+          "text": "Debit means the left side of an account."
+        },
+        {
+          "text": "Debit means the increase of an equity account."
+        },
+        {
+          "text": "Debit means an increase in a company’s liabilities."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionText": "<P>Which of the following statements is true about the meaning of the accounting term “credit”?</P>",
+      "options": [
+        {
+          "text": "Credit means an increase in a company’s assets."
+        },
+        {
+          "text": "Credit means a reduction in a company’s liabilities."
+        },
+        {
+          "text": "Credit means the right side of an account."
+        },
+        {
+          "text": "Credit means a reduction in a company’s equity."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "questionText": "<P>Which of the following statements is true if assets are increased, liabilities are increased, and equities are increased?</P>",
+      "options": [
+        {
+          "text": "The assets, liabilities and equities will all be debited."
+        },
+        {
+          "text": "The assets and equities will be debited and the liabilities will be credited."
+        },
+        {
+          "text": "The assets will be debited and the liabilities and equities will be credited."
+        },
+        {
+          "text": "The assets will be credited and the liabilities and equities will be debited."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "questionText": "<P>Which of the following statements is true if revenues and expenses are increased?</P>",
+      "options": [
+        {
+          "text": "Revenues and expenses are debited."
+        },
+        {
+          "text": "Revenues are credited and expenses are debited."
+        },
+        {
+          "text": "Revenues and expenses are credited."
+        },
+        {
+          "text": "Revenues are debited and expenses are credited."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "questionText": "<P>Which of the following statements is true about the accrual versus cash basis of revenue recognition and expense recognition?</P>",
+      "options": [
+        {
+          "text": "The accrual basis of accounting recognizes revenues only when the underlying transaction occurs and recognizes expenses only when they are paid."
+        },
+        {
+          "text": "The cash basis of accounting recognizes revenues only when the underlying transaction occurs and recognizes expenses only when they are paid."
+        },
+        {
+          "text": "The accrual basis of accounting recognizes revenues only when cash is received or paid."
+        },
+        {
+          "text": "The cash basis of accounting recognizes revenues and expenses only when cash is received or paid."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "questionText": "<P>Kanga Company rendered $25,000 of services to customers. The customers have paid $20,000 for those services. Kanga Company has also incurred expenses of $10,000. Kanga Company has paid $8,000 on account for those expenses. Which of the following statements is true when comparing the cash basis and accrual basis of accounting?</P>",
+      "options": [
+        {
+          "text": "The accrual basis of accounting would recognize $25,000 revenue and $8,000 expenses."
+        },
+        {
+          "text": "The cash basis of accounting would recognize $20,000 revenue and $10,000 expenses."
+        },
+        {
+          "text": "The cash basis of accounting would recognize $25,000 revenue and $10,000 expenses."
+        },
+        {
+          "text": "The accrual basis of accounting would recognize $25,000 revenue and $10,000 expenses."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "questionText": "<P>Sandwich Company received $13,000 in cash franchise fees based on weekly sales. $2,000 of the amount was due from franchise sales recorded in the previous month and recorded as accounts receivable and the remainder is from sales from the current month. What is the cash revenue and accrual revenue?</P>",
+      "options": [
+        {
+          "text": "Cash revenue is $13,000 and accrual revenue is $13,000 during the current month."
+        },
+        {
+          "text": "Cash revenue is $13,000 and accrual revenue is $2,000 during the current month."
+        },
+        {
+          "text": "Cash Revenue is $13,000 and accrual revenue is $11,000 during the current month."
+        },
+        {
+          "text": "Cash Revenue is $2,000 and accrual revenue is $2,000 during the current month."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "questionText": "<P>Pizza Company paid $5,000 to suppliers this month for supplies used on pizzas sold in the previous month. What is the cash expense and the accrual expense?</P>",
+      "options": [
+        {
+          "text": "Cash expense is $5,000 and accrual expense is $5,000 during the current month."
+        },
+        {
+          "text": "Cash expense is $5,000 and accrual expense is $-0- during the current month."
+        },
+        {
+          "text": "Cash expense is $-0- and accrual expense is $-0- during the current month."
+        },
+        {
+          "text": "Cash expense is $-0- and accrual expense is $5,000 during the current month."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "questionText": "<P>At the end of the accounting period, Maya Company determined that $5,000 of revenue had been earned from their primary client. No cash had been received and no accounting entry have been made. In order to correct the accounts, what would Maya Company need to do?</P>",
+      "options": [
+        {
+          "text": "Debit Cash and Credit Unearned Revenue for $5,000."
+        },
+        {
+          "text": "Debit Receivable and Credit Revenue for $5,000."
+        },
+        {
+          "text": "Debit Unearned Revenue and Credit Revenue for $5,000."
+        },
+        {
+          "text": "Debit Unearned Revenue and Credit Cash for $5,000."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "questionText": "<P>At the end of the accounting period, Rexy Company determined that the entry to record $10,000 revenue earned and received in the current period included a debit to receivable and a credit to revenue. What would need to be done to correct the journal entry?</P>",
+      "options": [
+        {
+          "text": "Debit to Revenue $10,000 and a credit to Cash $10,000"
+        },
+        {
+          "text": "Debit to Cash $10,000 and a credit to Unearned Revenue $10,000."
+        },
+        {
+          "text": "Debit to Cash $10,000 and a credit to the Receivable $10,000."
+        },
+        {
+          "text": "Debit to Unearned Revenue and a credit to Revenue $10,000."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "questionText": "<P>Januth Company purchased a piece of equipment this month with cash and debited Expense and credited note payable before the books were closed. What entry would be applied to correct the journal entry?</P>",
+      "options": [
+        {
+          "text": "Debit to equipment and credit to cash."
+        },
+        {
+          "text": "Debit to equipment and credit to note payable."
+        },
+        {
+          "text": "Debit to equipment, debit to note payable, credit to cash and credit to expense."
+        },
+        {
+          "text": "Debit to cash, debit to expense, credit to equipment, and credit to note payable."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "questionText": "<P>Nikki Company sold stock to investors for cash. The company debited cash and credited investments in stock. What entry would be applied to correct this journal entry?</P>",
+      "options": [
+        {
+          "text": "Debit to Investments in Stock and credit to Liability to Investors."
+        },
+        {
+          "text": "Debit to Investments in Stock and credit to Equity-Capital Stock."
+        },
+        {
+          "text": "Debit to Cash and credit to Equity-Capital Stock."
+        },
+        {
+          "text": "Debit to Equity-Capital Stock and credit to Cash."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "questionText": "<P>The Balance Sheet and the Income Statement are two of the basic financial statements that Generally Accepted Accounting Principles require companies to report. In addition to these basic financial statements, companies are required to report which of the following statements?</P>",
+      "options": [
+        {
+          "text": "Statement of Net Assets and Statement of Cash Flows."
+        },
+        {
+          "text": "Statement of Expenses and Losses and Statement of Cash Flows."
+        },
+        {
+          "text": "Statement of Equity and Statement of Net Assets."
+        },
+        {
+          "text": "Statement of Retained Earnings and Statement of Cash Flows."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "questionText": "<P>The Balance Sheet is prepared in order to report which of the following details about an accounting entity’s assets, liabilities, and equities?</P>",
+      "options": [
+        {
+          "text": "The accounting balance changes during a particular time period."
+        },
+        {
+          "text": "The ending accounting balances at a particular point in time."
+        },
+        {
+          "text": "The market value of the accounts at a particular point in time."
+        },
+        {
+          "text": "The market value changes during a particular time period."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "questionText": "<P>The Income Statement is prepared in order to report which of the following about the revenues and expenses of a company?</P>",
+      "options": [
+        {
+          "text": "The differences in cash revenues and cash expenses of a company at a particular point in time."
+        },
+        {
+          "text": "The differences in accrual revenues and accrual expenses of a company at a particular point in time."
+        },
+        {
+          "text": "The differences in cash revenues and cash expenses of a company during a period of time."
+        },
+        {
+          "text": "The differences in accrual revenues and accrual expenses of a company during a period of time."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "questionText": "<P>What is an example of a temporary (nominal) account that must be closed at the end of each accounting period?</P>",
+      "options": [
+        {
+          "text": "Accounts Receivable"
+        },
+        {
+          "text": "Sales Revenue"
+        },
+        {
+          "text": "Unearned Sales Revenue"
+        },
+        {
+          "text": "Retained Earnings"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "questionText": "<P>When closing entries are prepared, zero balances are established in temporary accounts. What happens to the amounts that were in the temporary accounts before they were closed?</P>",
+      "options": [
+        {
+          "text": "The balances in the temporary accounts are transferred to increase or decrease the related asset and liability accounts."
+        },
+        {
+          "text": "The balances in the temporary accounts were used to increase and decrease the Retained Earnings account."
+        },
+        {
+          "text": "The balances in the temporary accounts were transferred to increase and decrease the starting balances for the next accounting period."
+        },
+        {
+          "text": "The balances in the temporary accounts do not affect any other company accounts when closed."
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "questionText": "<P>What is the result of preparing the closing entry on the last day of the accounting period?</P>",
+      "options": [
+        {
+          "text": "Temporary accounts with debit balances are credited and temporary accounts with credit balances are debited. The net amount is equal to net income and affects Retained Earnings."
+        },
+        {
+          "text": "Temporary accounts with debit balances are credited and temporary accounts with credit balances are debited. The net amount is equal to a liability and affects Long-Term Liabilities."
+        },
+        {
+          "text": "Temporary accounts with debit balances are debited and temporary accounts with credit balances are credited. The net amount is equal to net income and affects an Asset."
+        },
+        {
+          "text": "Temporary accounts with debit balances are debited and temporary accounts with credit balances are credited. The net amount is equal to net income and affects Retained Earnings."
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "questionText": "<P>Which of the following statements about revenues is not true?</P>",
+      "options": [
+        {
+          "text": "Revenues are increases in assets or settlement of liabilities from ongoing operations of the business."
+        },
+        {
+          "text": "If a customer pays for goods or services in advance revenue is earned at the point cash is received."
+        },
+        {
+          "text": "If a customer pays for goods or services in advance revenue is earned at the point that the good or service is provided to the customer."
+        },
+        {
+          "text": "When revenue is earned cash or accounts receivable usually increase."
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "questionText": "<P>Which of the following statements about expenses is true?</P>",
+      "options": [
+        {
+          "text": "All cash expenditures are expenses and necessary to generate revenues."
+        },
+        {
+          "text": "Expenses must be recognized and used to calculate net income in the period paid even if they benefit future periods."
+        },
+        {
+          "text": "Expenses are decreases in assets or increases in liabilities from ongoing operations incurred to generate revenues during the period."
+        },
+        {
+          "text": "Recognition of expenses always involves the recognition of a liability."
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "questionText": "<P>When activities affecting an income statement are not central to ongoing operations, they may be recorded as a revenue, gain, expense, or loss. Which of the following is an example of these “other items”?</P>",
+      "options": [
+        {
+          "text": "Retail Sales Revenue for a Merchandising Company"
+        },
+        {
+          "text": "Gains or Losses on Sales of Assets."
+        },
+        {
+          "text": "Salaries Expense for managers in a Manufacturing Company"
+        },
+        {
+          "text": "Cost of Inventory for a Merchandising Company"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "questionText": "<P>Which statement most closely represents the accounting cycle process followed by entities?",
+      "options": [
+        {
+          "text": "To analyze and record transactions"
+        },
+        {
+          "text": "To adjust the records at the end of the period."
+        },
+        {
+          "text": "To prepare the financial statements and prepare the records for the next cycle."
+        },
+        {
+          "text": "All of the above are part of the accounting cycle."
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "questionText": "<P>Which of the actions is taken immediately after the adjusted trial balance has been completed as part of the accounting process cycle followed by entities?</P>",
+      "options": [
+        {
+          "text": "No actions are taken. The preparation of the adjusted trial balance is the final step of the accounting cycle."
+        },
+        {
+          "text": "The accounts and the balances in the adjusted trial balance are used to prepare the financial statements for disclosure to the users of the financial statements."
+        },
+        {
+          "text": "Closing entries are prepared in order to establish a zero balance in the temporary accounts for the next period and in order to close the income effects into the Retained Earnings account."
+        },
+        {
+          "text": "A post-closing trial balance is prepared to ensure that the debits equals the credits before the next accounting cycle begins."
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "questionText": "<P>Which of the following statements is false regarding the flow of accounting information?</P>",
+      "options": [
+        {
+          "text": "The account balances in the adjusted trial balance are used to prepare financial statements for the current accounting period."
+        },
+        {
+          "text": "Transactions are first recorded in the accounting journals and then transferred to the accounting ledger."
+        },
+        {
+          "text": "The net income as reported on the income statement is closed to the Retained Earnings account through the closing of the revenue and expense accounts."
+        },
+        {
+          "text": "The dividends reported on the statement of retained earnings are also reported on the income statement."
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "questionText": "<P>What is the purpose of subsidiary ledgers?</P>",
+      "options": [
+        {
+          "text": "Used to represent the summary account (total amount) reported on the balance sheet."
+        },
+        {
+          "text": "Used to track the separate accounts for each item that makes up the control account."
+        },
+        {
+          "text": "Used to categorize revenues and expenses into operating versus non-operating items."
+        },
+        {
+          "text": "Used to summarize the revenue and expenses for the period in order to compute net income."
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "questionText": "<P>Retail Company had three customer accounts: Customer A $2,000 (90 days old); Customer B $2,500 (60 days old); Customer C $3,000 (30 days old). What is the Account Receivable control account equal to?</P>",
+      "options": [
+        {
+          "text": "$5,500"
+        },
+        {
+          "text": "$3,000"
+        },
+        {
+          "text": "$7,500"
+        },
+        {
+          "text": "$5,000"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "questionText": "<P>Three months of insurance were purchased on June 1st for $2,500 recorded in a Prepaid Insurance account. What is the adjusting entry on August 31st to recognize that the three months of insurance has expired?",
+      "options": [
+        {
+          "text": "Debit Prepaid Insurance $2,500 and credit Cash $2,500"
+        },
+        {
+          "text": "Debit Cash $2,500 and credit Prepaid Insurance $2,500"
+        },
+        {
+          "text": "Debit Insurance Expense $2,500 and credit Cash $2,500"
+        },
+        {
+          "text": "Debit Insurance Expense $2,500 and credit Prepaid Insurance $2,500"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "questionText": "<P>Wages have been paid through the first 28 days of the month. The employees worked the last two days of the week and will be paid in the next week. The unpaid portion equals $200 per day. What would the adjusting entry to recognize the unpaid wages be?</P>",
+      "options": [
+        {
+          "text": "Debit Wages Expense $400 and credit Cash $400."
+        },
+        {
+          "text": "Debit Wages Expense $400 and credit Wages Payable $400."
+        },
+        {
+          "text": "Debit Wages Payable $400 and credit Cash $400."
+        },
+        {
+          "text": "No adjusting entry is necessary."
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "questionText": "<P>Santiago Company purchased a $50,000 building and purchased five wastebaskets for $100. What would the debit portion of the entry to record the purchases include?</P>",
+      "options": [
+        {
+          "text": "A Debit to Assets-Building $50,000 and a Debit to Assets-wastebaskets $100."
+        },
+        {
+          "text": "A Debit to Assets-Building $50,000 and a Debit to Expense-wastebaskets $100."
+        },
+        {
+          "text": "A Debit to Expense $50,000 and a Debit to Assets- wastebaskets $100."
+        },
+        {
+          "text": "A Debit to Expense $50,100"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "questionText": "<P>Carlotta, Inc. expended $1,000 on expenditures for ordinary repairs and maintenance on a piece of equipment. The company also expended $2,500 on an equipment improvement that increased the equipment’s economic usefulness in the future. What is the total dollar amount that will be capitalized as part of the equipment?</P>",
+      "options": [
+        {
+          "text": "$1,000"
+        },
+        {
+          "text": "$3,500"
+        },
+        {
+          "text": "$-0-"
+        },
+        {
+          "text": "$2,500"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "questionText": "<P>Trade Account Receivables recorded during any accounting period result in uncollectible accounts. When must the expense associated with those uncollectible accounts be recognized?</P>",
+      "options": [
+        {
+          "text": "In the accounting period in which an entity is able to identify the specific account that is uncollectible."
+        },
+        {
+          "text": "In the accounting period in which an entity makes the sale and collects the cash on the account."
+        },
+        {
+          "text": "In the accounting period in which an entity makes the sale regardless of when the cash on the account is collected."
+        },
+        {
+          "text": "Uncollectible accounts do not need to be recognized."
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "questionText": "<P>Lawson, Inc. determined that the uncollectible accounts expense for the current accounting period equals $25,000. What must be recorded in the journal entry to recognize the uncollectible accounts expense?</P>",
+      "options": [
+        {
+          "text": "Debit Allowance for Uncollectible Accounts and credit Accounts Receivable."
+        },
+        {
+          "text": "Debit Uncollectible Accounts Expense and credit Allowance for Uncollectible Accounts."
+        },
+        {
+          "text": "Debit Uncollectible Accounts Expense and credit Accounts Receivable."
+        },
+        {
+          "text": "No entry is necessary."
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "questionText": "<P>What are the three categories of cash flows reported on the Statement of Cash Flows?</P>",
+      "options": [
+        {
+          "text": "Operating, Investing, or Expenditure."
+        },
+        {
+          "text": "Operating, Resources, or Expenditure."
+        },
+        {
+          "text": "Non-Operating, Investing, or Financing."
+        },
+        {
+          "text": "Operating, Investing, or Financing."
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "questionText": "<P>Which of the following is an example of an Investing Activity reported on the Statement of Cash Flows?</P>",
+      "options": [
+        {
+          "text": "Payment of an account payable."
+        },
+        {
+          "text": "Collection of accounts receivable."
+        },
+        {
+          "text": "Sale of common stock to investors for cash."
+        },
+        {
+          "text": "Purchase of a piece of equipment for cash."
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "questionText": "<P>Which of the following statements about depreciation accounting is true?</P>",
+      "options": [
+        {
+          "text": "Depreciation is the process of allocating the cost of buildings and equipment over their productive lives using a systematic and rational method."
+        },
+        {
+          "text": "Depreciation is an example of the matching principle in which a portion of an asset’s cost is allocated to an expense in the same period that repairs or improvements are made to the asset."
+        },
+        {
+          "text": "Depreciation is a process of determining an asset’s current market value or worth."
+        },
+        {
+          "text": "Depreciation is the process of putting aside funds for the eventual replacement of the asset being depreciated."
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "questionText": "<P>Cardinal Company has estimated its depreciation for the current accounting period as $45,000. How would Cardinal Company report the $45,000 depreciation in the financial statements?</P>",
+      "options": [
+        {
+          "text": "The depreciation would be reported as an operating expense in the income statement."
+        },
+        {
+          "text": "The depreciation would be reported as a non-operating loss in the income statement."
+        },
+        {
+          "text": "The depreciation would be reported as cash for asset replacement in the balance sheet."
+        },
+        {
+          "text": "The depreciation would be reported as an investing activity in the statement of cash flows."
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "questionText": "<P>Which one of the following is an example of a current liability?</P>",
+      "options": [
+        {
+          "text": "Note Payable due in 18 months."
+        },
+        {
+          "text": "Bonds Payable with principal due in 10 years."
+        },
+        {
+          "text": "Accounts Payable due in 30 days."
+        },
+        {
+          "text": "Pension Obligations to be paid out in 20 years."
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "questionText": "<P>Which of the following liabilities is typical example of a long-term liability?</P>",
+      "options": [
+        {
+          "text": "Accounts Payable"
+        },
+        {
+          "text": "Accrued Liabilities"
+        },
+        {
+          "text": "Lease Liabilities"
+        },
+        {
+          "text": "Estimated Liabilities"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "questionText": "<P>Current assets are those resources that an entity will use or turn into cash within the next twelve months. Which asset in the following list is not considered a current asset?</P>",
+      "options": [
+        {
+          "text": "Cash and Cash Equivalents"
+        },
+        {
+          "text": "Inventory"
+        },
+        {
+          "text": "Trademarks"
+        },
+        {
+          "text": "Accounts Receivable"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "questionText": "<P>Chamberlain Company provides the following partial list of assets: Cash: $10,000 Accounts Receivable: $25,000 Inventory: $15,000 Prepaid Expenses: $3,000 Patents: $5,000 What is the total amount of current assets that Chamberlain Company would report on its balance sheet?</P>",
+      "options": [
+        {
+          "text": "$53,000"
+        },
+        {
+          "text": "$58,000"
+        },
+        {
+          "text": "$50,000"
+        },
+        {
+          "text": "$38,000"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "questionText": "<P>Which of the following statements is true regarding the disposal of depreciable assets?</P>",
+      "options": [
+        {
+          "text": "The market value of the asset is removed from the accounting records."
+        },
+        {
+          "text": "The original cost of the asset is removed from the accounting records but the accumulated depreciation remains on the books until the asset is replaced."
+        },
+        {
+          "text": "The difference between any resources received on disposal of an asset and its book value at the date of disposal is treated as a gain or loss on the disposal of the asset."
+        },
+        {
+          "text": "The difference between any resources paid on the replacement of an asset and the book value of the disposal of an asset is treated as a gain or loss."
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "questionText": "<P>Carter Company sold equipment for $11,000 cash. The original cost of the equipment was $30,000. The Accumulated Depreciation on this equipment was $20,400. What is the result of the sale of this equipment?</P>",
+      "options": [
+        {
+          "text": "$11,000 Gain"
+        },
+        {
+          "text": "$1,400 Gain"
+        },
+        {
+          "text": "$19,000 Loss"
+        },
+        {
+          "text": "$1,400 Loss"
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

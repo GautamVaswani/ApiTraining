@@ -1,0 +1,25 @@
+{
+    "assessmentName": "Spelling",
+    "playerType": "FIB",
+    "instruction": "<P role=heading aria-level=3>Spelling</P> <P>This section of the test contains fill-in-the-blank questions, which you must answer by typing a missing word in the box provided. Use your mouse to click on [Play Audio] to hear the missing word spoken in the sentence. Upon answering a question, you can go on to the next question by clicking the Next button on the toolbar.</P> <P>During this section of the test, if you choose you may skip an item and then later return to that item.</P><P> </P><P>After you have answered all questions, click Submit on the toolbar. Your Test Administrator may have set a time limit for this test section. If there is a time limit, you will be told how much time you have. If a time limit has been set for this section of the test, you will notice a countdown timer on the Status bar in the lower right corner of the screen, showing the amount of time remaining to complete this section of the test.</P> <P>We recommend that you go to the practice version of this section of the test to learn more about how you should respond to items during this section of the test.</P><P>Spelling</P> <P>This section of the test contains fill-in-the-blank questions, which you must answer by typing a missing word in the box provided. Use your mouse to click on [Play Audio File] to hear the missing word spoken in the sentence. Upon answering a question, you can go on to the next question by clicking the Next button on the toolbar.</P> <P>During this section of the test, if you choose you may skip an item and then later return to that item.</P><P> </P><P>After you have answered all questions, click Submit on the Header section. Your Test Administrator may have set a time limit for this test section. If there is a time limit, you will be told how much time you have. If a time limit has been set for this section of the test, you will notice a countdown timer on the Header of the screen, showing the amount of time remaining to complete this section of the test.</P> <P>We recommend that you go to the practice version of this section of the test to learn more about how you should respond to items during this section of the test.</P> ",
+    "questions": [{
+        "id": "P",
+        "questionText": "<span>The woman said her </span><span class='blank-field'></span><span> plays baseball every day.\n\nClick [Play Audio File]  to listen to the word spoken in the sentence.\n\nEXPLANATION FOR CORRECT ANSWER: To respond to this question you \nshould type the word son into the space provided. If you type in any incorrect \nspelling of the word son for this context, such as sun, your response would be \nincorrect.\n\nThere is only one practice test item. Click on NEXT after you have entered the \nspelling word for this one question.</span>",
+        "correctOption": "son",
+        "audioID": "son"
+    }],
+    "resources": {
+        "media": {
+            "images": [],
+            "audio": [{
+                "id": "son",
+                "url": "/content/audio-library/fib/opac/spelling/son.mp3"
+            }]
+        }
+    },
+    "captions":{
+       "son" : " WEBVTT\r\n\r\n1\r\n00:00:00.090 --> 00:00:01.160\r\nThe word is son.\r\n\r\n2\r\n00:00:01.470 --> 00:00:03.359\r\nThe woman said her son plays\r\nbaseball\r\n\r\n3\r\n00:00:03.360 --> 00:00:03.840\r\nevery day.\r\n"
+     },
+
+    "modeType": "fib-single"
+}

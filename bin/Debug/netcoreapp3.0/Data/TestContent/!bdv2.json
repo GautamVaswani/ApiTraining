@@ -1,0 +1,113 @@
+{
+    "assessmentName": "Bank Deposit",
+    "playerType": "FIB",
+    "id": "FIB",
+    "modeType": "fib-multi",
+    "templateType": "bank-deposit",
+    "instructions": " <span role=heading aria-level=3 > For this test, enter the correct response for each question in the appropriate field. Use the mouse and click to move to the next and previous fields. Use the scroll bar to scroll the form up and down if necessary.</span><br><br>When you are done, select Submit from the Header section.   Your Test Administrator may have set a time limit for the test. If there is a time limit, you will be told how much time you have. You will also notice a countdown timer on the Header of the screen showing the time remaining.",
+    "questions": [{
+            "id": 1,
+            "label": "Date"
+        },
+        {
+            "id": 2,
+            "label": "BILLS Dollars"
+        },
+        {
+            "id": 3,
+            "label": "BILLS Cents"
+        },
+        {
+            "id": 4,
+            "label": "COINS Dollars"
+        },
+        {
+            "id": 5,
+            "label": "COINS Cents"
+        },
+        {
+            "id": 6,
+            "label": "ACE #14-637 Dollars"
+        },
+        {
+            "id": 7,
+            "label": "ACE #14-637 Cents"
+        },
+        {
+            "id": 8,
+            "label": "HGO #72-258 Dollars"
+        },
+        {
+            "id": 9,
+            "label": "HGO #72-258 Cents"
+        },
+        {
+            "id": 10,
+            "label": "TOTAL DEPOSIT Dollars"
+        },
+        {
+            "id": 11,
+            "label": "TOTAL DEPOSIT Cents"
+        }
+    ],
+    "questionData": {
+        "question": "SCENARIO:  In this situation, you are employed by Jones Repair Service.<br><br>It is your responsibility to prepare deposit slips, write checks, and keep the checkbook balance up to date.  Today is July 1.",
+        "questionDetails": {
+            "text": "Prepare a deposit slip for the following receipts:",
+            "rows": [
+                [
+                    "23-$20 bills",
+                    "59-quarters",
+                    "$270.74 check (ACE #14-637)"
+                ],
+                [
+                    "32-$10 bills",
+                    "42-dimes",
+                    "$209.36 check (HGO #72-258)"
+                ],
+                [
+                    "15-$ 5 bills",
+                    "23-nickles"
+                ],
+                [
+                    "48-$ 1 bills",
+                    "68-pennies"
+                ]
+            ]
+        },
+        "worksheet-details": {
+            "header1": [
+                "For Deposit to Account of",
+                "XX-XXX"
+            ],
+            "header2": "Checks as Follows Properly Endorsed",
+            "address1": [
+                "JONES REPAIR SERVICE ",
+                "Charleston, IL  61920 "
+            ],
+            "address2": [
+                "Union National Bank ",
+                "Charleston, IL  61920 "
+            ],
+            "columnHeaders": [
+                "Dollars",
+                "Cents"
+            ],
+            "year": "20XX",
+            "questionLabels": [
+                "Date",
+                "BILLS",
+                "COINS",
+                "ACE #14-637",
+                "HGO #72-258",
+                "TOTAL DEPOSIT"
+            ]
+        }
+    },
+    "resources": {
+        "media": {
+            "images": [],
+            "audio": []
+        }
+    }
+}

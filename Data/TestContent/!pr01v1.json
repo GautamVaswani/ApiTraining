@@ -1,0 +1,15 @@
+{
+  "assessmentName": "Proofreading 1",
+  "playerType": "KEYBOARDING",
+  "modeType": "proofreading",
+  "instructions": "<span role=heading aria-level=3 >You are about to start the \"Proofreading\" test. This test measures ability to detect and correct spelling and grammatical errors. You will need to correct errors in: </span><br/><br/>1. Abbreviation<br/>2. Capitalization<br/>3. Grammar<br/>4. Number usage<br/>5. Possessives<br/>6. Punctuation<br/>7. Spelling<br/><br/>Use Standard English rules.<br/><br/>DO NOT add words of your own or remove any existing words. However, you may edit or change text in order to correct errors. DO NOT make any document format changes. Change only those items that are incorrect. DO NOT revise the document to improve the wording.<br/><br/>When you have finished, select Submit from the header section. Your Test Administrator may have set a time limit for the test. If there is a time limit, you will be told how much time you have. You will also notice a countdown timer on the header section showing the time remaining.",
+  "questionData": {
+    "incorrectText": "It is our pleasure, dr trimble to confirm you as the keynote speaker at the Internet electronic publishing conference.  The theme of our conference is \"Contrasting Electronic publishing of the '90s. This years conference is being co-sponsored by Professional secretaries International and Electronic Publishors inc.  You are schedueled to speak at 10:00 am on may 15 2009 for aproximately fifty minutes.  We have been informed that governor Collins of NY plan to be with us on the 15 of May and he will make a few comments prier to your keynote address.\n\nAllen Gonzales phd our conference director will make arrangements for your session.  Dr Gonzales address is four hundred fifteen Maple St, Albany Ny. 12234.  He curently teach a course introduction to electronic publishing at central technical educaton college.  60 student from the one year program and 8 from the two year program in the department of graphic arts plan to attend your address.  Both president brown of psi and chairman Jones of Electronic Publisher's inc plan to have lunch with you.\n\nExcellent facillities have been reserved for this conference. Please note on Page three of the program that you will meet in the alpine room of the hallmark inn. This room is equiped with several devices you may wish to use:  overhead projector telephone flip chart microfone and screen.  If additional equipment is require, please let us know what your needs will be, our resources are at you're disposal.  The hallmark inns staff, as well as Dr. Gonzales assistant, will also be available to assist you.  We look forward too meeting you and hearing a superb presentation."
+  },
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

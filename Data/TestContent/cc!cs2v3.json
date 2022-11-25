@@ -1,0 +1,166 @@
+{
+  "assessmentName": "Call Summarization 1",
+  "playerType": "DataEntry",
+  "modeType": "call-summarization",
+  "tplType": "CS1",
+  "instructions": "<p role=heading aria-level=3 >Call Summarization 1</p><p>For this test, you will need to listen to information that is provided to you through the computer. We recommend using a headset or a set of quality speakers. You will then be asked a series of questions about each of the calls.</p><p>You should enter the information that the caller gives in the appropriate boxes on the computer screen. For example, you should enter the caller's first name, last name, street address, city, and/or telephone number in the boxes marked for that information. You should enter any vehicle identification number, License Plate, or Driver's License provided by the caller in the boxes marked for that information.</p><p>You may write notes about the calls in the box in the lower half of the screen labeled Notes to help you recall information about the call.</p><p>The information you record in any of the boxes on the screen will later be available to assist you in choosing the correct answer.</p><p>After each call is completed, follow the on-screen instructions to proceed to the questions about that call.</p><p>HOW TO RESPOND TO MULTIPLE-CHOICE QUESTION</p><p>With each question there will be four choices labeled A, B, C, and D. You can choose your response in one of three ways.</p><ol><li>You can use your mouse to select your answers</li><li>You can use the up and down arrows to choose your response.</li><li>You can hold down the Alt key and then press either A, B, C, or D.</li></ol>",
+  "disableEmergency": true,
+  "questions": [
+    {
+      "initAudioId": "CS231",
+      "mcqQuestions": [
+        {
+          "questionText": "Which of the following best summarizes the last record?",
+          "options": [
+            {
+              "text": "Karen prevented a thief from getting away with the money and videos."
+            },
+            {
+              "text": "The burglar was foolish about picking out movies."
+            },
+            {
+              "text": "Friday the 13th was unlucky for the burglar."
+            },
+            {
+              "text": "Karen was frightened, but kept her cool during the incident."
+            }
+          ]
+        }
+      ],
+      "emergencyQuestions": [
+        {
+          "delay": 5,
+          "questionText": "Man stuck in chimney."
+        }
+      ]
+    },
+    {
+      "initAudioId": "CS232",
+      "mcqQuestions": [
+        {
+          "questionText": "Which of the following best summarizes the last record?",
+          "options": [
+            {
+              "text": "Elma is senile."
+            },
+            {
+              "text": "Elma thought her house was infested by bugs, but the problem was due to her eyes."
+            },
+            {
+              "text": "Sol dislikes working with senile old people."
+            },
+            {
+              "text": "Sol dislikes it when he gets called out to a job and there are no insects to exterminate."
+            }
+          ]
+        }
+      ],
+      "emergencyQuestions": [
+        {
+          "delay": 5,
+          "questionText": "Storm causes sewer pipes to back up and flood."
+        }
+      ]
+    },
+    {
+      "initAudioId": "CS233",
+      "mcqQuestions": [
+        {
+          "questionText": "Which of the following best summarizes the last record?",
+          "options": [
+            {
+              "text": "By slamming the screen door, Franklin woke up his son Josh."
+            },
+            {
+              "text": "By slamming the screen door, Franklin woke up his wife Dorothy."
+            },
+            {
+              "text": "By slamming the screen door, Franklin woke up his friend Dorothy."
+            },
+            {
+              "text": "Because Franklin was late for a meeting Josh was woken from a nap."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "initAudioId": "CS234",
+      "mcqQuestions": [
+        {
+          "questionText": "Which of the following best summarizes the last record?",
+          "options": [
+            {
+              "text": "Although Larry and John did not get any turkeys, they could laugh about their hunting trip."
+            },
+            {
+              "text": "John and Larry's hunting trip was unsuccessful because of Larry's bright orange hunting jacket."
+            },
+            {
+              "text": "John dislikes Larry's hunting jacket."
+            },
+            {
+              "text": "If they had gone somewhere besides Swan Lake, maybe they would have been more successful."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "initAudioId": "CS235",
+      "mcqQuestions": [
+        {
+          "questionText": "Which of the following best summarizes the last record?",
+          "options": [
+            {
+              "text": "Jane and Will debated over painting Jane's workspace lilac."
+            },
+            {
+              "text": "Jane's volunteering to assume the repainting led to the room being painted lilac."
+            },
+            {
+              "text": "Both Jane and Will gave convincing arguments over whether to paint the workspace lilac."
+            },
+            {
+              "text": "Jane and Will argued over paint color, but Jane won."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": [
+        {
+          "id": "CS231",
+          "url": "/content/audio-library/call-summarization/CS231.mp3"
+        },
+        {
+          "id": "CS232",
+          "url": "/content/audio-library/call-summarization/CS232.mp3"
+        },
+        {
+          "id": "CS233",
+          "url": "/content/audio-library/call-summarization/CS233.mp3"
+        },
+        {
+          "id": "CS234",
+          "url": "/content/audio-library/call-summarization/CS234.mp3"
+        },
+        {
+          "id": "CS235",
+          "url": "/content/audio-library/call-summarization/CS235.mp3"
+        }
+      ]
+    }
+  },
+  "captions" : {    
+    "CS231":"WEBVTT\n\n1\n00:00:00.303 --> 00:00:02.150\nKaren works part time at a video\nstore.\n\n2\n00:00:02.160 --> 00:00:04.050\nLast Friday, a man wearing a dark\nbrown\n\n3\n00:00:04.051 --> 00:00:05.570\nski mask entered the store.\n\n4\n00:00:05.640 --> 00:00:07.500\nHe ordered Karen to put all of the\nstore's money\n\n5\n00:00:07.501 --> 00:00:09.390\ninto a large olive drab duffel\n\n6\n00:00:09.391 --> 00:00:10.940\nbag tossed over the counter.\n\n7\n00:00:11.220 --> 00:00:13.140\nThen asked for several new movies to\n\n8\n00:00:13.141 --> 00:00:14.570\nalso be placed in the bag.\n\n9\n00:00:15.000 --> 00:00:16.170\nKaren opened the cash door\n\n10\n00:00:16.171 --> 00:00:18.200\nand pushed in the silent alarm\nbutton.\n\n11\n00:00:18.900 --> 00:00:20.780\nShe slowly emptied the cash drawer\n\n12\n00:00:20.940 --> 00:00:23.120\nthen made her way to the new\nreleases section\n\n13\n00:00:23.610 --> 00:00:25.650\nasking him if he wanted any specific\n\n14\n00:00:25.651 --> 00:00:26.190\nmovie.\n\n15\n00:00:26.730 --> 00:00:28.910\nHe asked her about a movie starring\nMel Gibson.\n\n16\n00:00:29.350 --> 00:00:31.250\nAnd helped him select five movies.\n\n17\n00:00:31.410 --> 00:00:33.270\nThe police who were responding to\nthe silent\n\n18\n00:00:33.271 --> 00:00:34.930\nalarm quickly apprehended the man.\n",
+    "CS232":"WEBVTT\n\n1\n00:00:00.180 --> 00:00:02.100\nSol works for a local exterminating\n\n2\n00:00:02.101 --> 00:00:04.139\ncompany and received a call from\nElma\n\n3\n00:00:04.140 --> 00:00:06.000\nwho was terrified at the thought of\nher\n\n4\n00:00:06.001 --> 00:00:08.210\nhouse being invaded by insects.\n\n5\n00:00:08.850 --> 00:00:10.920\nElma phoned in a complaint of ugly\n\n6\n00:00:10.921 --> 00:00:12.780\npurple shelled beetles crawling all\n\n7\n00:00:12.781 --> 00:00:13.880\nover her walls.\n\n8\n00:00:14.610 --> 00:00:16.529\nAfter meeting with the white haired\nElma\n\n9\n00:00:16.530 --> 00:00:18.350\nand thoroughly examining Elmas\n\n10\n00:00:18.351 --> 00:00:19.490\nspotless home,\n\n11\n00:00:19.720 --> 00:00:21.540\nSol could find no existence of\n\n12\n00:00:21.541 --> 00:00:23.400\nbugs other than a couple standard\n\n13\n00:00:23.401 --> 00:00:24.550\nhousehold spiders.\n\n14\n00:00:25.400 --> 00:00:26.649\nWhen sal told this to Elmas,\n\n15\n00:00:26.650 --> 00:00:27.870\nShe was overjoyed.\n\n16\n00:00:28.610 --> 00:00:29.969\nSol left shaking his head\n\n17\n00:00:29.970 --> 00:00:31.640\nand muttering about senility.\n\n18\n00:00:32.500 --> 00:00:34.620\nNext Tuesday when Elmo went to her\n\n19\n00:00:34.660 --> 00:00:35.529\neye doctor,\n\n20\n00:00:35.530 --> 00:00:37.450\nshe was told that particles floating\nin\n\n21\n00:00:37.451 --> 00:00:39.460\nher eyes were what made her think\n\n22\n00:00:39.461 --> 00:00:40.324\nshe was seen beatles.\n",
+    "CS233":"WEBVTT\n\n1\n00:00:00.180 --> 00:00:02.008\nMy brother Franklin dashed out of\nhis house\n\n2\n00:00:02.009 --> 00:00:03.900\naccidentally slamming the screen\ndoor behind\n\n3\n00:00:03.901 --> 00:00:05.790\nhim. He was in such a hurry to get\nto\n\n4\n00:00:05.791 --> 00:00:07.710\nhis meeting that he forgot that his\nson Josh\n\n5\n00:00:07.711 --> 00:00:09.200\nwas still asleep in his crib.\n\n6\n00:00:09.720 --> 00:00:11.850\nFranklin remembered quickly however\nwhen Josh\n\n7\n00:00:11.851 --> 00:00:12.720\nawoke with a scream\n\n8\n00:00:12.721 --> 00:00:13.820\nand began to cry.\n\n9\n00:00:14.160 --> 00:00:16.139\nDorothy winced at the sound of the\nslamming screen\n\n10\n00:00:16.140 --> 00:00:18.030\ndoor then rolled her eyes when she\nheard\n\n11\n00:00:18.031 --> 00:00:18.840\njoshes scream.\n",
+    "CS234":"WEBVTT\n\n1\n00:00:00.150 --> 00:00:01.050\nOn their day off,\n\n2\n00:00:01.051 --> 00:00:03.230\nLarian John decided to go hunting.\n\n3\n00:00:03.750 --> 00:00:04.589\nDuring the drive,\n\n4\n00:00:04.590 --> 00:00:06.450\nLarry bragged that he was going to\nbag\n\n5\n00:00:06.451 --> 00:00:07.970\nmore turkeys than John.\n\n6\n00:00:08.460 --> 00:00:10.319\nJohn laughed and said \"Not in\n\n7\n00:00:10.320 --> 00:00:12.330\nthat jacket\" as he pointed to\nLarry's\n\n8\n00:00:12.331 --> 00:00:14.030\nbright orange hunting coat.\n\n9\n00:00:14.640 --> 00:00:15.449\nBoth laughed\n\n10\n00:00:15.450 --> 00:00:16.940\nand continued their trip.\n\n11\n00:00:17.560 --> 00:00:19.419\nThey spent the entire day hunting\n\n12\n00:00:19.420 --> 00:00:21.030\nand returned to John's house.\n\n13\n00:00:21.580 --> 00:00:23.530\nJohn's wife asked how successful\n\n14\n00:00:23.531 --> 00:00:24.429\ntheir hunting was\n\n15\n00:00:24.430 --> 00:00:26.479\nand Larry replied the turkeys\n\n16\n00:00:26.480 --> 00:00:29.010\nwon everybody laughed.\n\n17\n00:00:29.140 --> 00:00:30.880\nJohn clarified he meant that he\n\n18\n00:00:30.881 --> 00:00:32.950\nand Larry did not get a single turkey.\n",
+    "CS235":"WEBVTT\n\n1\n00:00:00.180 --> 00:00:02.070\nJane wanted to paint her newly\nconverted\n\n2\n00:00:02.071 --> 00:00:03.740\nHome Office in Lilac color.\n\n3\n00:00:04.050 --> 00:00:06.210\nBut her husband Will was absolutely\nagainst\n\n4\n00:00:06.211 --> 00:00:08.130\nit Jane said that because it was\n\n5\n00:00:08.131 --> 00:00:09.860\nher office it should be Lilach.\n\n6\n00:00:09.960 --> 00:00:12.030\nWill said he didn't want to have to\nrepaint\n\n7\n00:00:12.031 --> 00:00:14.180\nthe room again before they sold the\nhome.\n\n8\n00:00:14.350 --> 00:00:16.230\nJane said that she needed to be\nhappy\n\n9\n00:00:16.231 --> 00:00:17.150\nin the short run\n\n10\n00:00:17.340 --> 00:00:19.350\nand asked Will to quit worrying\nabout the long\n\n11\n00:00:19.351 --> 00:00:19.820\nrun.\n\n12\n00:00:20.220 --> 00:00:22.230\nWe'll told Jane that planning early\ncould save time\n\n13\n00:00:22.231 --> 00:00:22.760\nlater.\n\n14\n00:00:23.250 --> 00:00:25.230\nJane finally stated that she would\ndefinitely\n\n15\n00:00:25.231 --> 00:00:27.470\nbe more productive in a lilac room\n\n16\n00:00:27.600 --> 00:00:29.550\nand offered to repaint it before\nthey moved.\n"
+  }
+}

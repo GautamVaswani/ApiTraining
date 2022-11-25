@@ -1,0 +1,523 @@
+﻿{
+  "assessmentName": "Position Locating Urban (Written)",
+  "playerType": "POSLOC",
+  "instruction": "<span role=heading aria-level=3> Position Locating (Written)</span><br><br>You are about to begin the \"Position Locating\" test.  At the beginning, you will see a map comprising the majority of the screen.  This map will be used to answer the simulated calls that are displayed on the right-hand side of the screen.  The simulated calls will describe certain items that appear on the map.  Using the information provided, you are to determine the most-likely location of the caller on the map.  <br><br>The map is divided into a grid by columns and rows.  Use the two drop down boxes to select the appropriate answer.  In the first drop down box, select a letter relating to a column on the map.  In the second drop down box you will select a number relating the a row on the map.  The intersection of the column and row is what you consider to be the most-likely location of the caller.<br><br>Once you have selected a column and a row from the drop down boxes, you can proceed to the next question using the \"Next\" button.  If you wish to review previous questions use the \"Back\" button.  You can also skip an unanswered question by clicking the \"Next\" button.  You may return to unanswered questions later in the test.<br>                                                                                                                                                                                           <br>If a time limit has been set for this test by the test administrator, you will see the timer counting down in the bottom right-hand corner of the screen.  This timer shows how much time you have remaining to complete the test.  If no time limit has been set, there will be no visible timer.<br><br>Across the top of the screen you will see a toolbar.  This toolbar lists the total number of questions and the number of unanswered questions remaining.  It also contains a drop down list of all unanswered questions.  You can use this list to quickly navigate to any unanswered question.  This toolbar also contains the \"Done\" button.<br><br>When you have finished the test, you can click the \"Done\" button in the top toolbar or you can simply click the \"Next\" button below the drop down boxes one final time.  <br><br>",
+  "url": "/content/image-library/position-locating/Urban Map.png",
+  "column": [
+    {
+      "text": "A",
+      "length": 119
+    },
+    {
+      "text": "B",
+      "length": 139
+    },
+    {
+      "text": "C",
+      "length": 192
+    },
+    {
+      "text": "D",
+      "length": 147
+    },
+    {
+      "text": "E",
+      "length": 131
+    },
+    {
+      "text": "F",
+      "length": 131
+    }
+  ],
+  "row": [
+    {
+      "text": "1",
+      "length": 134
+    },
+    {
+      "text": "2",
+      "length": 162
+    },
+    {
+      "text": "3",
+      "length": 174
+    },
+    {
+      "text": "4",
+      "length": 169
+    },
+    {
+      "text": "5",
+      "length": 169
+    },
+    {
+      "text": "6",
+      "length": 169
+    }
+  ],
+  "imageCoordinates": [
+    {
+      "id": "A1",
+      "areaCords": "24,20,140,78",
+      "cords": {
+        "0": "24",
+        "1": "20",
+        "2": "140",
+        "3": "78"
+      }
+    },
+    {
+      "id": "B1",
+      "areaCords": "138,20,278,78",
+      "cords": {
+        "0": "138",
+        "1": "20",
+        "2": "278",
+        "3": "78"
+      }
+    },
+    {
+      "id": "C1",
+      "areaCords": "275,20,420,78",
+      "cords": {
+        "0": "275",
+        "1": "20",
+        "2": "420",
+        "3": "78"
+      }
+    },
+    {
+      "id": "D1",
+      "areaCords": "418,20,574,78",
+      "cords": {
+        "0": "418",
+        "1": "20",
+        "2": "574",
+        "3": "78"
+      }
+    },
+    {
+      "id": "E1",
+      "areaCords": "572,20,736,78",
+      "cords": {
+        "0": "572",
+        "1": "20",
+        "2": "736",
+        "3": "78"
+      }
+    },
+    {
+      "id": "F1",
+      "areaCords": "735,20,875,78",
+      "cords": {
+        "0": "735",
+        "1": "20",
+        "2": "875",
+        "3": "78"
+      }
+    },
+    {
+      "id": "A2",
+      "areaCords": "24,75,140,196",
+      "cords": {
+        "0": "24",
+        "1": "75",
+        "2": "140",
+        "3": "196"
+      }
+    },
+    {
+      "id": "B2",
+      "areaCords": "138,75,278,196",
+      "cords": {
+        "0": "138",
+        "1": "75",
+        "2": "278",
+        "3": "196"
+      }
+    },
+    {
+      "id": "C2",
+      "areaCords": "275,75,420,196",
+      "cords": {
+        "0": "275",
+        "1": "75",
+        "2": "420",
+        "3": "196"
+      }
+    },
+    {
+      "id": "D2",
+      "areaCords": "418,75,574,196",
+      "cords": {
+        "0": "418",
+        "1": "75",
+        "2": "574",
+        "3": "196"
+      }
+    },
+    {
+      "id": "E2",
+      "areaCords": "572,75,736,196",
+      "cords": {
+        "0": "572",
+        "1": "75",
+        "2": "736",
+        "3": "196"
+      }
+    },
+    {
+      "id": "F2",
+      "areaCords": "735,75,875,196",
+      "cords": {
+        "0": "735",
+        "1": "75",
+        "2": "875",
+        "3": "196"
+      }
+    },
+    {
+      "id": "A3",
+      "areaCords": "23,194,140,317",
+      "cords": {
+        "0": "23",
+        "1": "194",
+        "2": "140",
+        "3": "317"
+      }
+    },
+    {
+      "id": "B3",
+      "areaCords": "138,194,278,317",
+      "cords": {
+        "0": "138",
+        "1": "194",
+        "2": "278",
+        "3": "317"
+      }
+    },
+    {
+      "id": "C3",
+      "areaCords": "277,194,419,317",
+      "cords": {
+        "0": "277",
+        "1": "194",
+        "2": "419",
+        "3": "317"
+      }
+    },
+    {
+      "id": "D3",
+      "areaCords": "418,194,573,317",
+      "cords": {
+        "0": "418",
+        "1": "194",
+        "2": "573",
+        "3": "317"
+      }
+    },
+    {
+      "id": "E3",
+      "areaCords": "572,194,735,317",
+      "cords": {
+        "0": "572",
+        "1": "194",
+        "2": "735",
+        "3": "317"
+      }
+    },
+    {
+      "id": "F3",
+      "areaCords": "735,194,874,317",
+      "cords": {
+        "0": "735",
+        "1": "194",
+        "2": "874",
+        "3": "317"
+      }
+    },
+    {
+      "id": "A4",
+      "areaCords": "23,315,140,431",
+      "cords": {
+        "0": "23",
+        "1": "315",
+        "2": "140",
+        "3": "431"
+      }
+    },
+    {
+      "id": "B4",
+      "areaCords": "138,315,278,431",
+      "cords": {
+        "0": "138",
+        "1": "315",
+        "2": "278",
+        "3": "431"
+      }
+    },
+    {
+      "id": "C4",
+      "areaCords": "277,315,419,431",
+      "cords": {
+        "0": "277",
+        "1": "315",
+        "2": "419",
+        "3": "431"
+      }
+    },
+    {
+      "id": "D4",
+      "areaCords": "418,315,573,431",
+      "cords": {
+        "0": "418",
+        "1": "315",
+        "2": "573",
+        "3": "431"
+      }
+    },
+    {
+      "id": "E4",
+      "areaCords": "572,315,735,431",
+      "cords": {
+        "0": "572",
+        "1": "315",
+        "2": "735",
+        "3": "431"
+      }
+    },
+    {
+      "id": "F4",
+      "areaCords": "735,315,874,431",
+      "cords": {
+        "0": "735",
+        "1": "315",
+        "2": "874",
+        "3": "431"
+      }
+    },
+    {
+      "id": "A5",
+      "areaCords": "24,428,139,528",
+      "cords": {
+        "0": "24",
+        "1": "428",
+        "2": "139",
+        "3": "528"
+      }
+    },
+    {
+      "id": "B5",
+      "areaCords": "139,428,277,528",
+      "cords": {
+        "0": "139",
+        "1": "428",
+        "2": "277",
+        "3": "528"
+      }
+    },
+    {
+      "id": "C5",
+      "areaCords": "279,428,418,528",
+      "cords": {
+        "0": "279",
+        "1": "428",
+        "2": "418",
+        "3": "528"
+      }
+    },
+    {
+      "id": "D5",
+      "areaCords": "420,428,572,528",
+      "cords": {
+        "0": "420",
+        "1": "428",
+        "2": "572",
+        "3": "528"
+      }
+    },
+    {
+      "id": "E5",
+      "areaCords": "573,428,734,528",
+      "cords": {
+        "0": "573",
+        "1": "428",
+        "2": "734",
+        "3": "528"
+      }
+    },
+    {
+      "id": "F5",
+      "areaCords": "738,428,873,528",
+      "cords": {
+        "0": "738",
+        "1": "428",
+        "2": "873",
+        "3": "528"
+      }
+    },
+    {
+      "id": "A6",
+      "areaCords": "24,526,140,654",
+      "cords": {
+        "0": "23",
+        "1": "526",
+        "2": "140",
+        "3": "656"
+      }
+    },
+    {
+      "id": "B6",
+      "areaCords": "140,529,274,656",
+      "cords": {
+        "0": "138",
+        "1": "526",
+        "2": "278",
+        "3": "656"
+      }
+    },
+    {
+      "id": "C6",
+      "areaCords": "276,529,420,656",
+      "cords": {
+        "0": "276",
+        "1": "526",
+        "2": "420",
+        "3": "656"
+      }
+    },
+    {
+      "id": "D6",
+      "areaCords": "417,525,574,656",
+      "cords": {
+        "0": "417",
+        "1": "525",
+        "2": "574",
+        "3": "656"
+      }
+    },
+    {
+      "id": "E6",
+      "areaCords": "571,526,737,656",
+      "cords": {
+        "0": "571",
+        "1": "526",
+        "2": "737",
+        "3": "656"
+      }
+    },
+    {
+      "id": "F6",
+      "areaCords": "734,526,878,656",
+      "cords": {
+        "0": "734",
+        "1": "526",
+        "2": "878",
+        "3": "656"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "questionText": "There is a person lying on the ground unconscious. In the distance in front of me I can see a billboard on top of a bridge. There is also a police station directly to my right.",
+      "audioID": "",
+      "imageID": "Urban Map"
+    },
+    {
+      "id": "2",
+      "questionText": "A fire has started nearby. Directly in front of me is a billboard. Behind the billboard is a single story building, and behind the single story building is a 5-story building.",
+      "audioID": "",
+      "imageID": "Urban Map"
+    },
+    {
+      "id": "3",
+      "questionText": "My friend has fallen and broken his ankle. We need an ambulance, but I’m not familiar with this area. I am in the middle of the street. In front of me is a post office and behind the post office is a 3-story building.",
+      "audioID": "",
+      "imageID": "Urban Map"
+    },
+    {
+      "id": "4",
+      "questionText": "I want to report seeing a big dog roaming the streets. I’m in the middle of the street and I can see the police station with a taller building behind it.",
+      "audioID": "",
+      "imageID": "Urban Map"
+    },
+    {
+      "id": "5",
+      "questionText": "I see a child wandering the streets alone. I am in the middle of a street in front of a billboard. To my left I can see power lines and directly behind me is a 3-story building.",
+      "audioID": "",
+      "imageID": "Urban Map"
+    },
+    {
+      "id": "6",
+      "questionText": "There are two people arguing loudly nearby. I am in front of the university and to my left I can see a power line and behind me is a 7-story building.",
+      "audioID": "",
+      "imageID": "Urban Map"
+    },
+    {
+      "id": "7",
+      "questionText": "My bicycle was stolen and I am not familiar with this area. I’m in the middle of the street facing a 5-story building and behind me are 2 4-story buildings.",
+      "audioID": "",
+      "imageID": "Urban Map"
+    },
+    {
+      "id": "8",
+      "questionText": "My dad has eaten something and his face is getting puffy. We are on the top floor of a 2-story building and I can see a billboard and a hospital outside the window.",
+      "audioID": "",
+      "imageID": "Urban Map"
+    },
+    {
+      "id": "9",
+      "questionText": "I was with my dad but we got separated. I’m on the top floor of a 3-story building and I can see a billboard and a 2-story building behind it. Behind me is a 4-story building.",
+      "audioID": "",
+      "imageID": "Urban Map"
+    },
+    {
+      "id": "10",
+      "questionText": "I was with my dad but we got separated. I’m on the top floor of a 5-story building and when I look out the window I can see a 2-story building. Across the street from the 2-story building is a park.",
+      "audioID": "",
+      "imageID": "Urban Map"
+    },
+    {
+      "id": "11",
+      "questionText": "Dad has cut himself and is bleeding badly. We are on the top floor of a 5-story building and I can see a power line connecting a 4-story building to the police station outside.",
+      "audioID": "",
+      "imageID": "Urban Map"
+    },
+    {
+      "id": "12",
+      "questionText": "My dad’s foot is stuck in the elevator. We are on the roof of a 4-story building. To the west I can see a 5-story building and to the east I can see a 3-story building.",
+      "audioID": "",
+      "imageID": "Urban Map"
+    },
+    {
+      "id": "13",
+      "questionText": "A pack of dogs is roaming around in front of me. I am in the middle of the intersection between B St. and 6th St. ",
+      "audioID": "",
+      "imageID": "Urban Map"
+    },
+    {
+      "id": "14",
+      "questionText": "I was just hit by a passing motorcycle. I am at a park which is north of the hospital.",
+      "audioID": "",
+      "imageID": "Urban Map"
+    },
+    {
+      "id": "15",
+      "questionText": "I just saw lightning strike a building. I am at a park next to a 6-story building.",
+      "audioID": "",
+      "imageID": "Urban Map"
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [
+        {
+          "id": "Urban Map",
+          "url": "/content/image-library/position-locating/Urban Map.png"
+        }
+      ],
+      "audio": []
+    }
+  }
+}

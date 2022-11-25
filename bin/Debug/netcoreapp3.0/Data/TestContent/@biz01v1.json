@@ -1,0 +1,863 @@
+{
+    "assessmentName": "Business Correspondence",
+    "playerType": "MCQ",
+    "lastModified": "06/09/2017",
+    "instruction": "<P role=heading aria-level=3>Business Correspondence</P><P>This section of the test contains multiple-choice questions, which you must answer by using your computer mouse to select the correct response. Upon answering a question, you can go to the next question by clicking the Next button on the Menu bar.</P><P>During this section of the test, if you choose you may skip an item and then later return to that item.</P><P>When you are finished, select Submit from the Menu bar. Your Test Administrator may have set a time limit for this test section. If there is a time limit, you will be told how much time you have. If a time limit has been set for this section of the test, you will notice a countdown timer on the Header of the screen, showing the amount of time remaining to complete this section of the test.</P>",
+    "questions": [{
+            "id": 1,
+            "questionText": "<P>Which of the following sections of a business correspondence appears last?</P>",
+            "options": [{
+                    "text": "Inside address"
+                },
+                {
+                    "text": "Writer's signature"
+                },
+                {
+                    "text": "Body"
+                },
+                {
+                    "text": "Subject line"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "questionText": "<P>Which of the following sections of a business report indicates for whom the report is for and what the purpose of the report is?</P>",
+            "options": [{
+                    "text": "Preface"
+                },
+                {
+                    "text": "Body"
+                },
+                {
+                    "text": "Inside address"
+                },
+                {
+                    "text": "Appendix"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "questionText": "<P>Which of the following sections of a report is used to organize reference data?</P>",
+            "options": [{
+                    "text": "Footer"
+                },
+                {
+                    "text": "Body"
+                },
+                {
+                    "text": "Preface"
+                },
+                {
+                    "text": "Appendix"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "questionText": "<P>Which of the following sections of a business correspondence letter contains the recipient's name, personal title, and physical address.</P>",
+            "options": [{
+                    "text": "Inside address"
+                },
+                {
+                    "text": "Outside address"
+                },
+                {
+                    "text": "Company address"
+                },
+                {
+                    "text": "Forwarding address"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "questionText": "<P>What is the purpose of the subject line of a business correspondence letter?</P>",
+            "options": [{
+                    "text": "To briefly explain the content or purpose of the letter."
+                },
+                {
+                    "text": "To indicate where the letter is to be sent to."
+                },
+                {
+                    "text": "To provide an address for responding to the letter."
+                },
+                {
+                    "text": "To notify the recipient of the number of pages in the letter."
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "questionText": "<P>Which of the following sections of a business correspondence letter contains a word or phrase used to end the message?</P>",
+            "options": [{
+                    "text": "Salutation"
+                },
+                {
+                    "text": "Complimentary closing"
+                },
+                {
+                    "text": "Enclosures"
+                },
+                {
+                    "text": "Appendix"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "questionText": "<P>Which of the following sections of a business correspondence letter provides the reader with an overview of the most important information within the letter?</P>",
+            "options": [{
+                    "text": "Enclosures"
+                },
+                {
+                    "text": "Body"
+                },
+                {
+                    "text": "Executive summary"
+                },
+                {
+                    "text": "References"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "questionText": "<P>Which of the following font colors is appropriate for a formal business correspondence letter?</P>",
+            "options": [{
+                    "text": "Red"
+                },
+                {
+                    "text": "Black"
+                },
+                {
+                    "text": "White"
+                },
+                {
+                    "text": "Green"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "questionText": "<P>What term is used for a business correspondence letter's address that indicates that the letter must be delivered to its intended recipient by a third party?</P>",
+            "options": [{
+                    "text": "Notation"
+                },
+                {
+                    "text": "CC:"
+                },
+                {
+                    "text": "Encl."
+                },
+                {
+                    "text": "In Care of"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "questionText": "<P>Which of the following terms is used when an attachment is included with a business correspondence letter?</P>",
+            "options": [{
+                    "text": "Encl"
+                },
+                {
+                    "text": "CC:"
+                },
+                {
+                    "text": "In Care of"
+                },
+                {
+                    "text": "Notation"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "questionText": "<P>Choose the most appropriately written sentence for a business correspondence letter.</P>",
+            "options": [{
+                    "text": "A letter was sent to Sally Smith, 123 Main Street, Cleveland OH 44101."
+                },
+                {
+                    "text": "A letter was sent to Sally Smith, 123 Main Street, Cleveland, OH 44101."
+                },
+                {
+                    "text": "A letter was sent to Sally Smith, 123 Main Street Cleveland, OH 44101."
+                },
+                {
+                    "text": "A letter was sent to Sally Smith, 123 Main Street, Cleveland, OH, 44101."
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "questionText": "<P>What is an appropriate salutation for a business correspondence letter?</P>",
+            "options": [{
+                    "text": "Dear Mr. Jones:"
+                },
+                {
+                    "text": "Dear Mr. Jones;"
+                },
+                {
+                    "text": "Dear Mr. Jones -"
+                },
+                {
+                    "text": "Dear Mr. Jones."
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "questionText": "<P>What is the appropriate way to express the date at the top of the page on a business correspondence letter?</P>",
+            "options": [{
+                    "text": "April 12th, 2011"
+                },
+                {
+                    "text": "April 12, 2011"
+                },
+                {
+                    "text": "8-12-11"
+                },
+                {
+                    "text": "8-12-2011"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "questionText": "<P>Choose the most appropriately written sentence for a business correspondence letter.</P>",
+            "options": [{
+                    "text": "One box contains twenty-two dolls and the other contains four."
+                },
+                {
+                    "text": "One box contains 22 dolls and the other contains four."
+                },
+                {
+                    "text": "One box contains 22 dolls and the other contains 4 ."
+                },
+                {
+                    "text": "One box contains twenty-two dolls and the other contains 4."
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "questionText": "<P>Choose the most appropriately written sentence for a business correspondence letter.</P>",
+            "options": [{
+                    "text": "The bank has branches in three cities; Newark, Trenton, and Clark."
+                },
+                {
+                    "text": "The bank has branches in three cities, Newark, Trenton, and Clark."
+                },
+                {
+                    "text": "The bank has branches in three cities: Newark, Trenton, and Clark."
+                },
+                {
+                    "text": "The bank has branches in three cities which are Newark, Trenton, and Clark."
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "questionText": "<P>How many lines are typically inserted between paragraphs in a standard block format business correspondence letter?</P>",
+            "options": [{
+                    "text": "1"
+                },
+                {
+                    "text": "2"
+                },
+                {
+                    "text": "3"
+                },
+                {
+                    "text": "4"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "questionText": "<P>What is the correct line spacing within paragraphs in a standard block format business correspondence letter?",
+            "options": [{
+                    "text": "Double space"
+                },
+                {
+                    "text": "Single space"
+                },
+                {
+                    "text": "1.5 lines"
+                },
+                {
+                    "text": "Exactly 10 pt."
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "questionText": "<P>Why is there space provided between the complimentary closing and the letter writer’s name?</P>",
+            "options": [{
+                    "text": "To allow the name greater visibility."
+                },
+                {
+                    "text": "To allow area for formal or informal titles."
+                },
+                {
+                    "text": "To indicate that the letter is at an end."
+                },
+                {
+                    "text": "To provide space for a signature."
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "questionText": "<P>According to the U.S. Postal Service, which of the following is the correct way of including a U.S. \"zip plus four\" zip code in the mailing address on an envelope.</P>",
+            "options": [{
+                    "text": "12345-1234"
+                },
+                {
+                    "text": "12345+1234"
+                },
+                {
+                    "text": "12345 1234"
+                },
+                {
+                    "text": "123451234"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "questionText": "<P>What types of margins are appropriate for business correspondence letters?</P>",
+            "options": [{
+                    "text": "Right justified"
+                },
+                {
+                    "text": "Left ragged"
+                },
+                {
+                    "text": "Left justified"
+                },
+                {
+                    "text": "Center aligned"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "questionText": "<P>Choose the most appropriately written sentence for a business correspondence letter.</P>",
+            "options": [{
+                    "text": "Fred worked at the client's office next week."
+                },
+                {
+                    "text": "Fred work at the client's office next week."
+                },
+                {
+                    "text": "Fred works at the client's office next week."
+                },
+                {
+                    "text": "Fred has worked at the client's office next week."
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "questionText": "<P>Choose the most appropriately written sentence for a business correspondence letter.</P>",
+            "options": [{
+                    "text": "The corporate buyout occur with minimal objections."
+                },
+                {
+                    "text": "The corporate buyout occurred with minimal objections."
+                },
+                {
+                    "text": "The corporate buyout will occurred with minimal objections."
+                },
+                {
+                    "text": "The corporate buyout occur with minimal objections."
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "questionText": "<P>Choose the most appropriately written sentence for a business correspondence letter.</P>",
+            "options": [{
+                    "text": "Me and the director are going to have lunch."
+                },
+                {
+                    "text": "The director and myself are going to have lunch."
+                },
+                {
+                    "text": "The director and me are going to have lunch."
+                },
+                {
+                    "text": "The director and I are going to have lunch."
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "questionText": "<P>Select the answer that correctly identifies both the region of the sentence containing the error, and the specific nature of the error. Note that the underline itself is not actually part of the sentence and should not be considered an error. The (1) book is not intended to be an encyclopedia, but (2) rather a suggestive guide.</P>",
+            "options": [{
+                    "text": "1, Spelling"
+                },
+                {
+                    "text": "2, Punctuation"
+                },
+                {
+                    "text": "2, Spelling"
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "questionText": "<P>Select the answer that correctly identifies both the region of the sentence containing the error, and the specific nature of the error. Note that the underline itself is not actually part of the sentence and should not be considered an error. The text aims to supply the (1) basic facts and the fundamental principles involved in specific problems, but the (2) teacher must interpret many of those facts and principles, and should provide illustrations.</P>",
+            "options": [{
+                    "text": "1, Spelling"
+                },
+                {
+                    "text": "2, Spelling"
+                },
+                {
+                    "text": "2, Punctuation"
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "questionText": "<P>Select the answer that correctly identifies both the region of the sentence containing the error, and the specific nature of the error. Note that the underline itself is not actually part of the sentence and should not be considered an error. Enough (1) materials have been offered to let (2) teachers expanding the text along particular lines.</P>",
+            "options": [{
+                    "text": "1, Incorrect verb tense"
+                },
+                {
+                    "text": "1, Spelling"
+                },
+                {
+                    "text": "2, Incorrect verb tense"
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "questionText": "<P>Select the answer that correctly identifies both the region of the sentence containing the error, and the specific nature of the error. Note that the underline itself is not actually part of the sentence and should not be considered an error. There (1) are many things in life that are more important than (2) money; health, family, and fulfillment for example.</P>",
+            "options": [{
+                    "text": "1, Incorrect verb tense"
+                },
+                {
+                    "text": "1, Spelling"
+                },
+                {
+                    "text": "2, Punctuation"
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "questionText": "<P>Select the answer that correctly identifies both the region of the sentence containing the error, and the specific nature of the error. Note that the underline itself is not actually part of the sentence and should not be considered an error. (1) Judges are important people: they make (2) critical decisions every day.</P>",
+            "options": [{
+                    "text": "1, Punctuation"
+                },
+                {
+                    "text": "1, Incorrect verb tense"
+                },
+                {
+                    "text": "2, Spelling"
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "questionText": "<P>Select the answer that correctly identifies both the region of the sentence containing the error, and the specific nature of the error. Note that the underline itself is not actually part of the sentence and should not be considered an error. Care has (1) been taken to cultivate critical thinking, and to (2) encourage the spirit of independent investigation and open-minded judgment on the part of the student.</P>",
+            "options": [{
+                    "text": "1, Incorrect verb tense"
+                },
+                {
+                    "text": "2, Punctuation"
+                },
+                {
+                    "text": "2, Spelling"
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "questionText": "<P>Select the answer that correctly identifies both the region of the sentence containing the error, and the specific nature of the error. Note that the underline itself is not actually part of the sentence and should not be considered an error. He (1) had to appoint all the people at work, and he (2) become responsible for every one of them.</P>",
+            "options": [{
+                    "text": "2, Incorrect verb tense"
+                },
+                {
+                    "text": "1, Punctuation"
+                },
+                {
+                    "text": "2, Punctuation"
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "questionText": "<P>Select the answer that correctly identifies both the region of the sentence containing the error, and the specific nature of the error. Note that the underline itself is not actually part of the sentence and should not be considered an error. Many (1) people think that the fire department needs another (2) truck to best serve our neighborhood.</P>",
+            "options": [{
+                    "text": "1, Punctuation"
+                },
+                {
+                    "text": "1, Spelling"
+                },
+                {
+                    "text": "2, Incorrect verb tense"
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "questionText": "<P>Select the answer that correctly identifies both the region of the sentence containing the error, and the specific nature of the error. Note that the underline itself is not actually part of the sentence and should not be considered an error. (1) Last Thursday I attended a meeting in (2) fremont to discuss our marketing strategy.</P>",
+            "options": [{
+                    "text": "1, Punctuation"
+                },
+                {
+                    "text": "2, Punctuation"
+                },
+                {
+                    "text": "2, Capitalization"
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "questionText": "<P>Select the answer that correctly identifies both the region of the sentence containing the error, and the specific nature of the error. Note that the underline itself is not actually part of the sentence and should not be considered an error. The President should appoint (1) some important positions ; but smaller, less critical (2) appointments should not be his job.",
+            "options": [{
+                    "text": "1, Punctuation"
+                },
+                {
+                    "text": "1, Capitalization"
+                },
+                {
+                    "text": "2, Spelling"
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "questionText": "<P>Select the underlined area in the sentence where there is an error in grammar, punctuation, or spelling. Note that the underline itself is not actually part of the sentence and should not be considered an error. In this book we will discuss (A) the parts of government, the (B) importance of separation of powers, and the (C) responsibility of each person to vote in elections.</P>",
+            "options": [{
+                    "text": "A"
+                },
+                {
+                    "text": "B"
+                },
+                {
+                    "text": "C"
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "questionText": "<P>Select the underlined area in the sentence where there is an error in grammar, punctuation, or spelling. Note that the underline itself is not actually part of the sentence and should not be considered an error. (A) In this selection the aim has been to discuss the more important (B) issues of American lives, whether economic, (C) social, or purely political.</P>",
+            "options": [{
+                    "text": "A"
+                },
+                {
+                    "text": "B"
+                },
+                {
+                    "text": "C"
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "questionText": "<P>Select the underlined area in the sentence where there is an error in grammar, punctuation, or spelling. Note that the underline itself is not actually part of the sentence and should not be considered an error. You might as well send someone to a (A) hardware store (B) to buying tools before they are told whether they are supposed to (C) make a mouse-trap or a boat.</P>",
+            "options": [{
+                    "text": "A"
+                },
+                {
+                    "text": "B"
+                },
+                {
+                    "text": "C"
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "questionText": "<P>Select the underlined area in the sentence where there is an error in grammar, punctuation, or spelling. Note that the underline itself is not actually part of the sentence and should not be considered an error. (A) Furthermore, to spend much more (B) time, on the mechanism of government than on the actual problems of (C) democracy is a mistake in emphasis.</P>",
+            "options": [{
+                    "text": "A"
+                },
+                {
+                    "text": "B"
+                },
+                {
+                    "text": "C"
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "questionText": "<P>Select the underlined area in the sentence where there is an error in grammar, punctuation, or spelling. Note that the underline itself is not actually part of the sentence and should not be considered an error. (A) Government is a means, (B) not an end: It is a tool (C) we use to attack and solve our problems.</P>",
+            "options": [{
+                    "text": "A"
+                },
+                {
+                    "text": "B"
+                },
+                {
+                    "text": "C"
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "questionText": "<P>Select the underlined area in the sentence where there is an error in grammar, punctuation, or spelling. Note that the underline itself is not actually part of the sentence and should not be considered an error. Considerable (A) space have been devoted to a problem growing directly out of (B) economic conditions, i.e. the (C) question of social justice or industrial reform.",
+            "options": [{
+                    "text": "A"
+                },
+                {
+                    "text": "B"
+                },
+                {
+                    "text": "C"
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "questionText": "<P>Select the underlined area in the sentence where there is an error in grammar, punctuation, or spelling. Note that the underline itself is not actually part of the sentence and should not be considered an error. This is the most (A) pressing-question before any (B) modern people, but strangely enough one which (C) has been neglected by our schools.</P>",
+            "options": [{
+                    "text": "A"
+                },
+                {
+                    "text": "B"
+                },
+                {
+                    "text": "C"
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "questionText": "<P>Select the underlined area in the sentence where there is an error in grammar, punctuation, or spelling. Note that the underline itself is not actually part of the sentence and should not be considered an error. (A) Because they tend to arise primarily from a (B) bad economic situation, such social problems as (C) industrial relations; health in industry, and immigration are considered next.</P>",
+            "options": [{
+                    "text": "A"
+                },
+                {
+                    "text": "B"
+                },
+                {
+                    "text": "C"
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "questionText": "<P>Select the underlined area in the sentence where there is an error in grammar, punctuation, or spelling. Note that the underline itself is not actually part of the sentence and should not be considered an error. (A) The President does (B) not has the power to (C) declare war.</P>",
+            "options": [{
+                    "text": "A"
+                },
+                {
+                    "text": "B"
+                },
+                {
+                    "text": "C"
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "questionText": "<P>Select the underlined area in the sentence where there is an error in grammar, punctuation, or spelling. Note that the underline itself is not actually part of the sentence and should not be considered an error. It is poor teaching practice to expect the student to attack the (A) defects of American life, and at the same time (B) to place in his hands a book which praises (C) American achievement.</P>",
+            "options": [{
+                    "text": "A"
+                },
+                {
+                    "text": "B"
+                },
+                {
+                    "text": "C"
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "questionText": "<P>Select the underlined area in the sentence where there is an error in grammar, punctuation, or spelling. Note that the underline itself is not actually part of the sentence and should not be considered an error. (A) It is possible for us to actually get (B) involved in a war: before Congress (C) makes a formal declaration.</P>",
+            "options": [{
+                    "text": "A"
+                },
+                {
+                    "text": "B"
+                },
+                {
+                    "text": "C"
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "questionText": "<P>The following sentence may contain an error. Select the correct type of error if one is present. I don't know how to reach dr. Henderson, but we have to keep trying.</P>",
+            "options": [{
+                    "text": "Capitalization"
+                },
+                {
+                    "text": "Punctuation"
+                },
+                {
+                    "text": "Spelling"
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "questionText": "<P>The following sentence may contain an error. Select the correct type of error if one is present. We are coming to the time when there are great, complicated duties to perform under the government.</P>",
+            "options": [{
+                    "text": "Capitalization"
+                },
+                {
+                    "text": "Punctuation"
+                },
+                {
+                    "text": "Spelling"
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "questionText": "<P>The following sentence may contain an error. Select the correct type of error if one is present. Nor do I wish to deny us the happiness of hope for reasonable and real progress toward Higher Ideals.</P>",
+            "options": [{
+                    "text": "Capitalization"
+                },
+                {
+                    "text": "Punctuation"
+                },
+                {
+                    "text": "Spelling"
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "questionText": "<P>The following sentence may contain an error. Select the correct type of error if one is present. Yet how are experts obtainable unless they are selected to permanent positions, by those who are looking for experts and not looking for men who exercise influence at the polls?</P>",
+            "options": [{
+                    "text": "Capitalization"
+                },
+                {
+                    "text": "Punctuation"
+                },
+                {
+                    "text": "Spelling"
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "questionText": "<P>The following sentence may contain an error. Select the correct type of error if one is present. Mr, Redfield wanted me to let you know that a complex in Raccoon City has an apartment for rent on Umbrella Street.</P>",
+            "options": [{
+                    "text": "Capitalization"
+                },
+                {
+                    "text": "Punctuation"
+                },
+                {
+                    "text": "Spelling"
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "questionText": "<P>The following sentence may contain an error. Select the correct type of error if one is present. We should not ignore the lessons that experience teaches us.</P>",
+            "options": [{
+                    "text": "Capitalization"
+                },
+                {
+                    "text": "Punctuation"
+                },
+                {
+                    "text": "Spelling"
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        }
+    ],
+    "resources": {
+        "media": {
+            "images": [],
+            "audio": []
+        }
+    }
+}

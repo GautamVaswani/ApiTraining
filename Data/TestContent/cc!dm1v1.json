@@ -1,0 +1,75 @@
+{
+  "assessmentName": "Decision Making",
+  "playerType": "DataEntry",
+  "modeType": "decision-making",
+  "questionIntro": [
+    [
+      "",
+      "Please make your choice using the following rules:"
+    ],
+    [
+      "Police",
+      "Police Department is dispatched when someone is attempting or threatening to physically harm another person or has actually physically harmed another person, or when a person causes or is in the process of causing harm to another person’s property."
+    ],
+    [
+      "Fire",
+      "Fire Department is dispatched, when there are the immediate signs of a fire in progress (such as flames or smoke), when a fire alarm is sounded, or when a person who is trapped or confined needs to be rescued or released."
+    ],
+    [
+      "EMS",
+      "Emergency Medical Service is dispatcehd when there is an emergency medical condition requiring intervention by medically trained personnel."
+    ],
+    [
+      "Utility",
+      "Public Utility is dispatched when there is a problem associated with malfunctioning or broken public water systems, electric power systems (including, but not limited to, electrical power lines, streetlights, and traffic signals), natural gas systems used for home heating, or blocked sewer drainpipes."
+    ]
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "quetext": "Middle-aged man with severe chest pains fell down in street."
+    },
+    {
+      "id": "2",
+      "quetext": "Heavy smoke seen pouring from a church’s window."
+    },
+    {
+      "id": "3",
+      "quetext": "Electrical power lines fallen down on to highway."
+    },
+    {
+      "id": "4",
+      "quetext": "Woman shoots at her husband during an argument."
+    },
+    {
+      "id": "5",
+      "quetext": "Streetlights are turning on and off all night long without reason."
+    },
+    {
+      "id": "6",
+      "quetext": "Woman choking on chicken bone stuck in her throat."
+    },
+    {
+      "id": "7",
+      "quetext": "Window washer trapped on ledge of building due to broken scaffold."
+    },
+    {
+      "id": "8",
+      "quetext": "Children roll large rocks down a steep hill towards nearby houses."
+    },
+    {
+      "id": "9",
+      "quetext": "Flames seen in bedroom of an occupied house."
+    },
+    {
+      "id": "10",
+      "quetext": "Man puts poison in aspirin bottle with intent to harm his fellow workers."
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

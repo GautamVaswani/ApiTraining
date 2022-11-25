@@ -1,0 +1,56 @@
+{
+  "assessmentName": "CritiCall Personality",
+  "playerType": "Personality",
+  "lastModified": "10/16/2020",
+  "instruction": "<p role=heading aria-level=3>Map Reading</p><p>This section of the test contains multiple-choice questions, which you must answer by using your computer mouse to select the correct response. Upon answering a question, you can go to the next question by clicking the Next button on the Menu bar.</p><p>During this section of the test, if you choose you may skip an item and then later return to that item.</p> <p>When you are finished, select Submit from the Menu bar. Your Test Administrator may have set a time limit for this test section. If there is a time limit, you will be told how much time you have. If a time limit has been set for this section of the test, you will notice a countdown timer on the Header of the screen, showing the amount of time remaining to complete this section of the test.</p><p>We recommend that you go to the practice version of this section of the test to learn more about how you should respond to items during this section of the test.</p>",
+  "return": "Yes",
+  "forceResponse": "Yes",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "I am more likely to...",
+      "questionTextLeft": "change when I feel like.",
+      "questionTextRight": "to stay the same.",
+      "optionsCount": 5
+    },
+    {
+      "id": 2,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v1 - All items.png' alt='Urban map v1'><p>I like to...",
+      "questionTextLeft": "bungee jump.",
+      "questionTextRight": "read at the library.",
+      "optionsCount": 6
+    },
+    {
+      "id": 3,
+      "questionText": "I am less likely to...",
+      "questionTextLeft": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v1 - All items.png' alt='Urban map v1'>",
+      "questionTextRight": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v1 - All items.png' alt='Urban map v1'>",
+      "optionsCount": 2
+    },
+    {
+      "id": 4,
+      "questionText": "I am more likely to...",
+      "questionTextLeft": "play board games.",
+      "questionTextRight": "play video games.",
+      "optionsCount": 10
+    },
+    {
+      "id": 5,
+      "questionText": "I am more likely to...",
+      "questionTextLeft": "buy expensive clothes.",
+      "questionTextRight": "buy economical clothes.<p><IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v1 - All items.png' alt='Urban map v1'>",
+      "optionsCount": 3
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [
+        {
+          "id": "Map Reading v1 - All items",
+          "url": "/content/image-library/mcq/criticall/map-reading/Map Reading v1 - All items.png"
+        }
+      ],
+      "audio": []
+    }
+  }
+}

@@ -1,0 +1,863 @@
+{
+    "assessmentName": "Language Arts",
+    "playerType": "MCQ",
+    "lastModified": "06/09/2017",
+    "instruction": "<p role=heading aria-level=3>Language Arts</p><p>This section of the test contains multiple-choice questions, which you must answer by using your computer mouse to select the correct response. Upon answering a question, you can go to the next question by clicking the Next button on the Menu bar.</p><p>During this section of the test, if you choose you may skip an item and then later return to that item.</p><p>When you are finished, select Submit from the Menu bar. Your Test Administrator may have set a time limit for this test section. If there is a time limit, you will be told how much time you have. If a time limit has been set for this section of the test, you will notice a countdown timer on the Header of the screen, showing the amount of time remaining to complete this section of the test.</p>",
+    "questions": [{
+            "id": 1,
+            "questionText": "<p>Which of the following sentences capitalizes the appropriate words correctly?</p>",
+            "options": [{
+                    "text": "Bank holidays like thanksgiving are inconvenient; consumers cannot take out loans on these days."
+                },
+                {
+                    "text": "Bank holidays like Thanksgiving are inconvenient; consumers cannot take out loans on these days."
+                },
+                {
+                    "text": "Bank holidays like Thanksgiving are inconvenient; Consumers cannot take out loans on these days."
+                },
+                {
+                    "text": "Bank holidays like thanksgiving are inconvenient; Consumers cannot take out loans on these days."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "questionText": "<p>Which of the following sentences capitalizes the appropriate words correctly?</p>",
+            "options": [{
+                    "text": "Taking the Amtrak train through the town of Mount Shasta is an eerie experience."
+                },
+                {
+                    "text": "Taking the Amtrak train through the town of mount Shasta is an eerie experience."
+                },
+                {
+                    "text": "Taking the amtrak train through the town of Mount Shasta is an eerie experience."
+                },
+                {
+                    "text": "Taking the amtrak train through the town of mount Shasta is an eerie experience."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "questionText": "<p>Which of the following sentences capitalizes the appropriate words correctly?</p>",
+            "options": [{
+                    "text": "We were told by Director Smith to submit our application directly to the Human Resources Manager."
+                },
+                {
+                    "text": "We were told by Director Smith to submit our application directly to the human resources manager."
+                },
+                {
+                    "text": "We were told by director Smith to submit our application directly to the human resources manager."
+                },
+                {
+                    "text": "We were told by director Smith to submit our application directly to the Human Resources Manager."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "questionText": "<p>Which of the following sentences capitalizes the appropriate words correctly?</p>",
+            "options": [{
+                    "text": "The Forest Ranger at Lakeside Park will be enforcing park rules and regulations."
+                },
+                {
+                    "text": "The Forest Ranger at Lakeside park will be enforcing park rules and regulations."
+                },
+                {
+                    "text": "The forest ranger at Lakeside park will be enforcing park rules and regulations."
+                },
+                {
+                    "text": "The forest ranger at Lakeside Park will be enforcing park rules and regulations."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "questionText": "<p>Which of the following sentences capitalizes the appropriate words correctly?</p>",
+            "options": [{
+                    "text": "According to the FBI warning, you cannot make a copy of the movie Pazow ."
+                },
+                {
+                    "text": "According to the fbi warning, you cannot make a copy of the movie Pazow ."
+                },
+                {
+                    "text": "According to the FBI warning, you cannot make a copy of the movie pazow ."
+                },
+                {
+                    "text": "According to the fbi warning, you cannot make a copy of the movie pazow ."
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "questionText": "<p>Which of the following sentences capitalizes the appropriate words correctly?</p>",
+            "options": [{
+                    "text": "The book The Life and Times of Me and You was written by Ms. Fangle."
+                },
+                {
+                    "text": "The book The Life and Times of Me and You was written by ms. Fangle."
+                },
+                {
+                    "text": "The book the Life and Times of Me and You was written by Ms. Fangle."
+                },
+                {
+                    "text": "The book the Life and Times of Me and You was written by ms. Fangle."
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "questionText": "<p>Which of the following sentences capitalizes the appropriate words correctly?</p>",
+            "options": [{
+                    "text": "The new x-ray machine will be set up in the hospital on North street."
+                },
+                {
+                    "text": "The new X-ray machine will be set up in the hospital on North Street."
+                },
+                {
+                    "text": "The new x-ray machine will be set up in the hospital on North Street."
+                },
+                {
+                    "text": "The new X-ray machine will be set up in the hospital on North street."
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "questionText": "<p>Which tense of the verb in parenthesis best fills in the blank?</p><p> The runner (pace) ___________ himself in order to complete yesterday's marathon.</p>",
+            "options": [{
+                    "text": "paces"
+                },
+                {
+                    "text": "pacing"
+                },
+                {
+                    "text": "paced"
+                },
+                {
+                    "text": "pace"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "questionText": "<p>Which tense of the verb in parenthesis best fills in the blank? </p><p>The last coach we had (teach) _________ the team not only how to play the game, but to be better people too.</p>",
+            "options": [{
+                    "text": "teaches"
+                },
+                {
+                    "text": "teach"
+                },
+                {
+                    "text": "taught"
+                },
+                {
+                    "text": "teaching"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "questionText": "<p>Which tense of the verb in parenthesis best fills in the blank?</p><p> How will you be (pay) ___________ for tonight's dinner?</p>",
+            "options": [{
+                    "text": "pay"
+                },
+                {
+                    "text": "paying"
+                },
+                {
+                    "text": "paid"
+                },
+                {
+                    "text": "pays"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "questionText": "<p>Which tense of the verb in the parentheses best fills in the blank? </p><p>I can't hear what you are (say) _____ because it is loud at the airport.</p>",
+            "options": [{
+                    "text": "said"
+                },
+                {
+                    "text": "says"
+                },
+                {
+                    "text": "have said"
+                },
+                {
+                    "text": "saying"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "questionText": "<p>Which tense of the verb in the parentheses best fills in the blank?</p><p> Everyone love's Michael's designs; they (be) ____ well thought of in the architectural community.</p>",
+            "options": [{
+                    "text": "be"
+                },
+                {
+                    "text": "is"
+                },
+                {
+                    "text": "are"
+                },
+                {
+                    "text": "being"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "questionText": "<p>Which tense of the verb in the parentheses best fills in the blank?</p><p> I think Mr. Henderson has (forget) _____ that we're ready to see him.</p>",
+            "options": [{
+                    "text": "forgot"
+                },
+                {
+                    "text": "forgotten"
+                },
+                {
+                    "text": "forget"
+                },
+                {
+                    "text": "forgetting"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "questionText": "<p>Which tense of the verb in the parentheses best fills in the blank? </p><p>I (try) ____ to remember her name, but it was difficult.</p>",
+            "options": [{
+                    "text": "tries"
+                },
+                {
+                    "text": "try"
+                },
+                {
+                    "text": "trying"
+                },
+                {
+                    "text": "tried"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "questionText": "<p>Which tense of the verb in the parentheses best fills in the blank? </p><p>To stay healthy, Mark (swim) ______ 20 laps in the pool every day.</p>",
+            "options": [{
+                    "text": "swims"
+                },
+                {
+                    "text": "swim"
+                },
+                {
+                    "text": "swimming"
+                },
+                {
+                    "text": "swam"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "questionText": "<p>Which of the following punctuation marks is used to end a statement?</p>",
+            "options": [{
+                    "text": "A period"
+                },
+                {
+                    "text": "A semicolon"
+                },
+                {
+                    "text": "A question mark"
+                },
+                {
+                    "text": "A colon"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "questionText": "<p>Which of the following punctuation marks is used after an abbreviation?</p>",
+            "options": [{
+                    "text": "A period"
+                },
+                {
+                    "text": "A comma"
+                },
+                {
+                    "text": "An exclamation mark"
+                },
+                {
+                    "text": "A hyphen"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "questionText": "<p>Which of the following punctuation marks is used to signify a spoken phrase?</p>",
+            "options": [{
+                    "text": "Quotation marks"
+                },
+                {
+                    "text": "Apostrophes"
+                },
+                {
+                    "text": "Brackets"
+                },
+                {
+                    "text": "Parenthesis"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "questionText": "<p>Which of the following punctuation marks is used in possessive nouns?</p>",
+            "options": [{
+                    "text": "Quotation marks"
+                },
+                {
+                    "text": "Commas"
+                },
+                {
+                    "text": "Apostrophes"
+                },
+                {
+                    "text": "Semicolons"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "questionText": "<p>Which of the following punctuation marks is used to separate two related, but independent clauses in a sentence?</p>",
+            "options": [{
+                    "text": "A colon"
+                },
+                {
+                    "text": "A semicolon"
+                },
+                {
+                    "text": "A forward slash"
+                },
+                {
+                    "text": "A hyphen"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "questionText": "<p>In which of the following sentences are commas used correctly?</p>",
+            "options": [{
+                    "text": "There are many, other businesses, other than show business."
+                },
+                {
+                    "text": "There are many other businesses, other than show business."
+                },
+                {
+                    "text": "There are many other businesses other than show business. (no commas)"
+                },
+                {
+                    "text": "There, are many other businesses other than show business."
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "questionText": "<p>In which of the following sentences are commas used correctly?</p>",
+            "options": [{
+                    "text": "The president, who was just elected into office yesterday, has already left the country."
+                },
+                {
+                    "text": "The president who was just elected into office yesterday, has already left the country."
+                },
+                {
+                    "text": "The president who was just elected into office yesterday has already left the country. (no commas)"
+                },
+                {
+                    "text": "The president, who was just elected into office yesterday has already left the country."
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "questionText": "<p>In which of the following sentences are commas used correctly?</p>",
+            "options": [{
+                    "text": "There are the fruits, vegetables meats and dairy products in this aisle."
+                },
+                {
+                    "text": "There are the fruits vegetables meats, and dairy products in this aisle."
+                },
+                {
+                    "text": "There are the fruits, vegetables, meats, and dairy products in this aisle."
+                },
+                {
+                    "text": "There are the fruits vegetables meats and dairy products in this aisle. (no commas)"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "questionText": "<p>In which of the following sentences are commas used correctly?</p>",
+            "options": [{
+                    "text": "I reminded him, for the third time to take the dog out for a walk."
+                },
+                {
+                    "text": "I reminded him, for the third time, to take the dog out for a walk."
+                },
+                {
+                    "text": "I reminded him for the third time, to take the dog out for a walk."
+                },
+                {
+                    "text": "I reminded him for the third time to take the dog out for a walk. (no commas)"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "questionText": "<p>In which of the following sentences are commas used correctly?</p>",
+            "options": [{
+                    "text": "The final album of the band was recorded on March 23 1980."
+                },
+                {
+                    "text": "The final album of the band was recorded on March, 23, 1980."
+                },
+                {
+                    "text": "The final album of the band was recorded on March, 23 1980."
+                },
+                {
+                    "text": "The final album of the band was recorded on March 23, 1980."
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "questionText": "<p>Which of the following sentences should be connected with a semi-colon?</p>",
+            "options": [{
+                    "text": "The company produces ___ computers, laptops, and monitors."
+                },
+                {
+                    "text": "Their oldest son ___ Ted, will drive the guests of honor to the party."
+                },
+                {
+                    "text": "You must be five feet tall to ride the roller coaster ___ therefore you cannot ride."
+                },
+                {
+                    "text": "Do not mistake my cat ___ for the neighbor's cat because they look alike."
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "questionText": "<p>Which of the following sentences should be connected with a semi-colon?</p>",
+            "options": [{
+                    "text": "Because the Olympics will be held in my home country this year ___ I will attend."
+                },
+                {
+                    "text": "There are many types of fish in the sea ___ there are also many types of birds in the sky."
+                },
+                {
+                    "text": "The team is down on points ___ but can still win the game."
+                },
+                {
+                    "text": "You will need to bring your ___ driver's license, social security card, and birth certificate."
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "questionText": "<p>Which of the following sentences should be connected with a semi-colon?</p>",
+            "options": [{
+                    "text": "We will be on the bus for a while ___ I will use this opportunity to read."
+                },
+                {
+                    "text": "The noise from the other passengers ___ made it difficult to concentrate."
+                },
+                {
+                    "text": "On a long road trip you need ___ books, music, and a pillow."
+                },
+                {
+                    "text": "The destination ___ which is 300 miles away, will take 4 hours."
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "questionText": "<p>Which of the following sentences should be connected with a colon?</p>",
+            "options": [{
+                    "text": "The question still remains ___ to be investigated."
+                },
+                {
+                    "text": "The scientist made a conclusion after years of research ___ the findings are inconclusive."
+                },
+                {
+                    "text": "Science must constantly progress ___ in order for new discoveries to be made."
+                },
+                {
+                    "text": "The answer was right in front of the scientist ___ however she failed to see it."
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "questionText": "<p>Which of the following sentences should be connected with a colon?</p>",
+            "options": [{
+                    "text": "Taking too many breaks while working on a project causes ___ the mind to lose focus more quickly than normal."
+                },
+                {
+                    "text": "The tallest mountain I have ever successfully climbed was in Sparco ___ Illinois."
+                },
+                {
+                    "text": "People look for desirable traits in their partners ___ health, income, personality, and emotional stability."
+                },
+                {
+                    "text": "In my opinion ___ the city would be cleaner if there were more trash receptacles placed on street corners."
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "questionText": "<p>Which of the following is a complete sentence?</p>",
+            "options": [{
+                    "text": "Left aligned or justified?"
+                },
+                {
+                    "text": "This report which Ed wrote."
+                },
+                {
+                    "text": "This is my coat."
+                },
+                {
+                    "text": "I for my birthday."
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "questionText": "<p>Which of the following is a complete sentence?</p>",
+            "options": [{
+                    "text": "Can you help me?"
+                },
+                {
+                    "text": "This for me?"
+                },
+                {
+                    "text": "Several years ago, in May."
+                },
+                {
+                    "text": "Notice of failure to comply with regulations."
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "questionText": "<p>Which of the following is a complete sentence?</p>",
+            "options": [{
+                    "text": "And then, without notice he."
+                },
+                {
+                    "text": "It is."
+                },
+                {
+                    "text": "And so on."
+                },
+                {
+                    "text": "For whom?"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "questionText": "<p>Which of the following is a complete sentence?</p>",
+            "options": [{
+                    "text": "Please return them to."
+                },
+                {
+                    "text": "A generous offer and benefits package."
+                },
+                {
+                    "text": "Thank you."
+                },
+                {
+                    "text": "Excuse the."
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "questionText": "<p>Which of the following is a complete sentence?</p>",
+            "options": [{
+                    "text": "Endlessly dull, boring, and repetitive without any sign of relent."
+                },
+                {
+                    "text": "Bring it to me."
+                },
+                {
+                    "text": "Intended to see him someday."
+                },
+                {
+                    "text": "Forgotten the place where it can be found."
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "questionText": "<p>Which of the following changes to the sentence fragment below would make it a complete sentence?</p><p> Filing reports for later retrieval.</p>",
+            "options": [{
+                    "text": "David filing reports for later retrieval the next day."
+                },
+                {
+                    "text": "I have been filing reports for later retrieval."
+                },
+                {
+                    "text": "Filing reports for later retrieval well into the night."
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "questionText": "<p>Which of the following changes to the sentence fragment below would make it a complete sentence? </p><p>Analyzing data.</p>",
+            "options": [{
+                    "text": "Analyzing data for a meeting with Mr. Henderson."
+                },
+                {
+                    "text": "Mary analyzing data in the back room."
+                },
+                {
+                    "text": "We are analyzing data."
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "questionText": "<p>Which of the following changes to the sentence fragment below would make it a complete sentence? </p><p>That was before the flood.</p>",
+            "options": [{
+                    "text": "Before the flood and many years ago."
+                },
+                {
+                    "text": "Found work before the flood."
+                },
+                {
+                    "text": "What before the flood?"
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "questionText": "<p>The following sentence is a \"run-on sentence.\" Which of the changes below would correct the problem?</p><p> My name is Bob, this is my story.</p>",
+            "options": [{
+                    "text": "My name is Bob, and this is my story."
+                },
+                {
+                    "text": "My name is Bob this is my story."
+                },
+                {
+                    "text": "Bob is my name, this is my story."
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "questionText": "<p>The following sentence is a \"run-on sentence.\" Which of the changes below would correct the problem? </p><p>Hilary asked her coworkers to help her with her spreadsheet no one was willing.</p>",
+            "options": [{
+                    "text": "Hilary asked her coworkers to help her with her spreadsheet, but no one was willing."
+                },
+                {
+                    "text": "Hilary asked her coworkers to help her with her spreadsheet no one was willing."
+                },
+                {
+                    "text": "Hilary asked her coworkers to help her with her spreadsheet, no one was willing."
+                },
+                {
+                    "text": "The sentence is correct as is."
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "questionText": "<p>Fill in the blank with the correct plural or possessive form of the word. </p><p>The smallest _________ hiding place was between the fence and the garden.</p>",
+            "options": [{
+                    "text": "bunnys"
+                },
+                {
+                    "text": "bunnies"
+                },
+                {
+                    "text": "bunny's"
+                },
+                {
+                    "text": "bunnies'"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "questionText": "<p>Fill in the blank with the correct plural or possessive form of the word.</p><p> Mastering the fine ______ takes years of practice.</p>",
+            "options": [{
+                    "text": "art"
+                },
+                {
+                    "text": "arts"
+                },
+                {
+                    "text": "art's"
+                },
+                {
+                    "text": "arts'"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "questionText": "<p>Fill in the blank with the correct plural or possessive form of the word. </p><p>The board was filled with the history _________ lecture notes.</p>",
+            "options": [{
+                    "text": "teacher"
+                },
+                {
+                    "text": "Teacher's"
+                },
+                {
+                    "text": "teacher's"
+                },
+                {
+                    "text": "teachers"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "questionText": "<p>Fill in the blank with the correct plural or possessive form of the word. </p><p>The _______ go into the storage unit.</p>",
+            "options": [{
+                    "text": "boxes'"
+                },
+                {
+                    "text": "boxs"
+                },
+                {
+                    "text": "boxes"
+                },
+                {
+                    "text": "box's"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "questionText": "<p>Fill in the blank with the correct plural or possessive form of the word. </p><p>Sunset _______ courthouse is located in the middle of downtown.</p>",
+            "options": [{
+                    "text": "City's"
+                },
+                {
+                    "text": "Cities"
+                },
+                {
+                    "text": "City"
+                },
+                {
+                    "text": "Cities"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "questionText": "<p>Which of the following sentences does NOT contain a misspelling or incorrectly used word?</p>",
+            "options": [{
+                    "text": "Do not step on the neighbors lawn."
+                },
+                {
+                    "text": "The rookie's batting average is 0.25 this year."
+                },
+                {
+                    "text": "The best places to eat seafood is by the ocean."
+                },
+                {
+                    "text": "Speeding tickets are a highest revenue generator."
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "questionText": "<p>Which of the following sentences does NOT contain a misspelling or incorrectly used word?</p>",
+            "options": [{
+                    "text": "The whether balloon was launched yesterday."
+                },
+                {
+                    "text": "Hoover Dam provides electricity for much of Nevada."
+                },
+                {
+                    "text": "Taking part in volunteer activities is a rewarded experience."
+                },
+                {
+                    "text": "Dont eat the purple colored mushrooms."
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "questionText": "<p>Which of the following sentences does NOT contain a misspelling or incorrectly used word?</p>",
+            "options": [{
+                    "text": "Using live bait for fishing is more environmentally friendly than using chemicals."
+                },
+                {
+                    "text": "We are going to spend the weekend at the beech surfing."
+                },
+                {
+                    "text": "Go strait at the intersection and then make a left into the parking lot."
+                },
+                {
+                    "text": "The top wrung of the ladder is the most unstable part of it."
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "questionText": "<p>Which of the following sentences does NOT contain a misspelling or incorrectly used word?</p>",
+            "options": [{
+                    "text": "Would you like a glass of whine with your dinner?"
+                },
+                {
+                    "text": "The breakfast serial contains more sugar than recommended."
+                },
+                {
+                    "text": "There is no prophet in selling a product that nobody wants."
+                },
+                {
+                    "text": "The books are due back to the library by Monday."
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "questionText": "<p>Which of the following sentences does NOT contain a misspelling  or incorrectly used word?</p>",
+            "options": [{
+                    "text": "The roof sprung a leak last winter."
+                },
+                {
+                    "text": "We are going to the state fare this year."
+                },
+                {
+                    "text": "The stainless steal knife was very sharp."
+                },
+                {
+                    "text": "Please weight for me by the front entrance."
+                }
+            ]
+        }
+    ],
+    "resources": {
+        "media": {
+            "images": [],
+            "audio": []
+        }
+    }
+}

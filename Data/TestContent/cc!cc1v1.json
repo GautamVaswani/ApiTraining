@@ -1,0 +1,194 @@
+{
+  "assessmentName": "Character Comparison",
+  "playerType": "MCQ",
+  "lastModified": "06/09/2017",
+  "instruction": "",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly the same as:</p><p>7524 HACKBERRY</p>",
+      "options": [
+        {
+          "text": "7524 HACBERRY"
+        },
+        {
+          "text": "7524 HACKBERRY"
+        },
+        {
+          "text": "5425 HACKBERRY"
+        },
+        {
+          "text": "7524 HAOKBERRY"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly the same as:</p><p>2L23249</p>",
+      "options": [
+        {
+          "text": "2L33249"
+        },
+        {
+          "text": "2L32249"
+        },
+        {
+          "text": "2L23294"
+        },
+        {
+          "text": "2L23249"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly the same as:</p><p>LT7639RAJ89246DP</p>",
+      "options": [
+        {
+          "text": "LT7639RAJ89246DP"
+        },
+        {
+          "text": "LT7639RAJ89246PD"
+        },
+        {
+          "text": "LT7639RAJ88246DP"
+        },
+        {
+          "text": "LT763R9AJ89246DP"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly the same as:</p><p>3290 BELASCO</p>",
+      "options": [
+        {
+          "text": "3290 BELASSO"
+        },
+        {
+          "text": "3290 BELASCO"
+        },
+        {
+          "text": "3290 BELLSCO"
+        },
+        {
+          "text": "3990 BELASCO"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly the same as:</p><p>S26H4268T223ABK</p>",
+      "options": [
+        {
+          "text": "S26H4268T332ABK"
+        },
+        {
+          "text": "S2H44268T223ABK"
+        },
+        {
+          "text": "S26H4268T223ABK"
+        },
+        {
+          "text": "S26H4268F223ABK"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly the same as:</p><p>98524 STONERIDGE</p>",
+      "options": [
+        {
+          "text": "98524 STONERIDGE"
+        },
+        {
+          "text": "98524 STONEDRIDGE"
+        },
+        {
+          "text": "98524 STONEBRIDGE"
+        },
+        {
+          "text": "98524 STANRIDGE"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly the same as:</p><p>1R23789</p>",
+      "options": [
+        {
+          "text": "1R32798"
+        },
+        {
+          "text": "1B78932"
+        },
+        {
+          "text": "1P23789"
+        },
+        {
+          "text": "1R23789"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly the same as:</p><p>2LTEP6491128DLP</p>",
+      "options": [
+        {
+          "text": "2LTEP649112BDLP"
+        },
+        {
+          "text": "2LTEP6491128DLP"
+        },
+        {
+          "text": "2LTFP6491128DLP"
+        },
+        {
+          "text": "2LTEB6491128DLP"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionText": "<p>From the following four alternatives, which is exactly the same as:</p><p>2184 RAMSGATE</p>",
+      "options": [
+        {
+          "text": "2148 RAMSGATE"
+        },
+        {
+          "text": "2184 RANSGATE"
+        },
+        {
+          "text": "2184 RAMSGATE"
+        },
+        {
+          "text": "2814 RAMSGATE"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly the same as:</p><p>6XGPL474</p>",
+      "options": [
+        {
+          "text": "6XGPL747"
+        },
+        {
+          "text": "6XGPE474"
+        },
+        {
+          "text": "6ZGPL447"
+        },
+        {
+          "text": "6XGPL474"
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "assessmentName": "Decision Making",
+  "playerType": "DataEntry",
+  "modeType": "decision-making",
+  "questionIntro": [
+    [
+      "",
+      "Please make your choice using the following rules:"
+    ],
+    [
+      "Police",
+      "Police Department is dispatched when someone is attempting or threatening to physically harm another person or has actually physically harmed another person, or when a person causes or is in the process of causing harm to another person’s property."
+    ],
+    [
+      "Fire",
+      "Fire Department is dispatched, when there are the immediate signs of a fire in progress (such as flames or smoke), when a fire alarm is sounded, or when a person who is trapped or confined needs to be rescued or released."
+    ],
+    [
+      "EMS",
+      "Emergency Medical Service is dispatcehd when there is an emergency medical condition requiring intervention by medically trained personnel."
+    ],
+    [
+      "Utility",
+      "Public Utility is dispatched when there is a problem associated with malfunctioning or broken public water systems, electric power systems (including, but not limited to, electrical power lines, streetlights, and traffic signals), natural gas systems used for home heating, or blocked sewer drainpipes."
+    ]
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "quetext": "Elderly woman is bleeding profusely from her nose and ears."
+    },
+    {
+      "id": "2",
+      "quetext": "Flames seen rising out of house’s window."
+    },
+    {
+      "id": "3",
+      "quetext": "Construction crew broke main natural gas pipeline."
+    },
+    {
+      "id": "4",
+      "quetext": "Boy seen displaying a large knife at the school."
+    },
+    {
+      "id": "5",
+      "quetext": "Jogger collapses in roadway during 100-degree heat wave."
+    },
+    {
+      "id": "6",
+      "quetext": "Boy throws a piece of wood at another boy’s head."
+    },
+    {
+      "id": "7",
+      "quetext": "Storm causes city to black out from downed power lines."
+    },
+    {
+      "id": "8",
+      "quetext": "Campground operator reports a motorhome is burning."
+    },
+    {
+      "id": "9",
+      "quetext": "Teenager in clock tower is shooting a rifle at cars that pass by."
+    },
+    {
+      "id": "10",
+      "quetext": "Man falls in bathtub and breaks his hip."
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

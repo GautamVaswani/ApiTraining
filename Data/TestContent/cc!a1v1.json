@@ -1,0 +1,194 @@
+{
+  "assessmentName": "Mathematics",
+  "playerType": "MCQ",
+  "lastModified": "06/09/2017",
+  "instruction": "",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "<P>Sandy bought a rug on sale that normally costs $300. The rug has been stolen and you must compute the price that Sandy paid for it. The rug was reduced in price by 50% off. How much did Sandy pay for the rug?</P>",
+      "options": [
+        {
+          "text": "$100"
+        },
+        {
+          "text": "$150"
+        },
+        {
+          "text": "$200"
+        },
+        {
+          "text": "$250"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "<P>Dave drove 5 miles north, then 2 miles east, and finally 9 miles south. How many total miles did Dave drive?</P>",
+      "options": [
+        {
+          "text": "9 miles"
+        },
+        {
+          "text": "12 miles"
+        },
+        {
+          "text": "16 miles"
+        },
+        {
+          "text": "19 miles"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "<P>Sally is driving at 30 miles an hour on the Freeway. The next town Sally will reach is 20 miles away. How long will it take Sally to get to the next town?</P>",
+      "options": [
+        {
+          "text": "20 minutes"
+        },
+        {
+          "text": "30 minutes"
+        },
+        {
+          "text": "40 minutes"
+        },
+        {
+          "text": "60 minutes"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionText": "<P>Fred is driving to a city that is 40 miles away. He tells you by radio that he has driven three-quarters of the way there. How far has Fred driven?</P>",
+      "options": [
+        {
+          "text": "10 miles"
+        },
+        {
+          "text": "20 miles"
+        },
+        {
+          "text": "25 miles"
+        },
+        {
+          "text": "30 miles"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionText": "<P>A man reports that his camera, which is worth $65, and his binoculars, which are worth $85, are missing. What is the total amount of property that is missing?</P>",
+      "options": [
+        {
+          "text": "$125"
+        },
+        {
+          "text": "$150"
+        },
+        {
+          "text": "$160"
+        },
+        {
+          "text": "$175"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionText": "<P>Three television sets, each worth $75, are missing. What is the combined total amount of the missing three television sets?</P>",
+      "options": [
+        {
+          "text": "$125"
+        },
+        {
+          "text": "$150"
+        },
+        {
+          "text": "$175"
+        },
+        {
+          "text": "$225"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionText": "<P>Bob drove for 15 minutes at 20 miles an hour. How far did Bob drive?</P>",
+      "options": [
+        {
+          "text": "5 miles"
+        },
+        {
+          "text": "10 miles"
+        },
+        {
+          "text": "15 miles"
+        },
+        {
+          "text": "20 miles"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionText": "<P>Mark drove 4 miles, turned left and drove 6 miles, then turned right and drove 8 miles. How many total miles did Mark drive?</P>",
+      "options": [
+        {
+          "text": "12 miles"
+        },
+        {
+          "text": "14 miles"
+        },
+        {
+          "text": "16 miles"
+        },
+        {
+          "text": "18 miles"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionText": "<P>Jim bought four identical towels for a total price of $24.00. One towel was stolen and you must compute the price of the missing towel. How much does ONE of the towels cost?</P>",
+      "options": [
+        {
+          "text": "$2.4"
+        },
+        {
+          "text": "$4"
+        },
+        {
+          "text": "$6"
+        },
+        {
+          "text": "$8"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionText": "<P>Seven men and 3 women entered an empty building. Three men and 1 woman were seen exiting the building. How many people are left in the building?</P>",
+      "options": [
+        {
+          "text": "4"
+        },
+        {
+          "text": "6"
+        },
+        {
+          "text": "8"
+        },
+        {
+          "text": "10"
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "audio": [],
+      "images": []
+    }
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "assessmentName": "Cross Referencing (Audio)",
+  "playerType": "DataEntry",
+  "modeType": "cross-referencing",
+  "instructions": "<span role=heading aria-level=3 >Cross-Referencing </span> <br/><br/>The following is a test of your ability to use information from a list. Using the reference list of names, addresses, and telephone numbers on the right side of the screen, enter the correct information about a person as requested by the computer. Like a telephone book, names are listed in alphabetical order according to people's last names. For example, if the directory lists a person's name as \"Smith, Adam\" then their first name is \"Adam\" and their last name is \"Smith.\" You might have to use the scroll bar on the right side of the list to view the entire list. <br/><br/> You will be asked questions about the directory and you should enter the requested information into the box provided on the screen. <br/><br/>In the questions, names are always given with the first name first. For example, if you see the question, \"What is the telephone number of John Smith,\" then John is the first name and Smith is the last name. <br/><br/>Enter names by first, then last name. Data entered will be scored for accuracy. <br/><br/>You will also need to respond to any emergency messages that appear in the bottom right corner of the screen by left clicking your mouse over the agency to be dispatched. Failing to respond to a decision-making message within 15 seconds after the message first appears will result in a lower score.<p class='aria-only'>Press Alt+s to pause the background audio while accessing Emergency box. Press Alt+r to resume the background audio.</p>",
+  "questions": [
+    {
+      "id": "1",
+      "questionText": "What is the phone number of R. Nixon who lives on River Street?",
+      "audioID": "DC411"
+    },
+    {
+      "id": "2",
+      "questionText": "What is the address of Brian Eukon/Yukon?",
+      "audioID": "DC412"
+    },
+    {
+      "id": "3",
+      "questionText": "A message just came in and the only part that was recorded was the last four digits of the phone number -4319. What is the last name for whose phone number this is?",
+      "audioID": "DC413"
+    },
+    {
+      "id": "4",
+      "questionText": "What is the phone number of the person who resides at 1503 Waterman?",
+      "audioID": "DC414"
+    },
+    {
+      "id": "5",
+      "questionText": "What is the address of M. Raley whose telephone number begins with the digits 309?",
+      "audioID": "DC415"
+    }
+  ],
+  "emergencyQuestions": [
+    {
+      "id": "1",
+      "quetext": "Teenager threatens to poison his schoolteacher."
+    },
+    {
+      "id": "2",
+      "quetext": "Utility company employee is ill from accidental food poisoning."
+    }
+  ],
+  "referenceData": [
+    {
+      "name": "Anders, Bob",
+      "address": "4213 Nelson",
+      "phone": "363-1363"
+    },
+    {
+      "name": "Anderson, Rob",
+      "address": "3214 Nielsen",
+      "phone": "316-1633"
+    },
+    {
+      "name": "Anton, Robbie",
+      "address": "2314 Nelman",
+      "phone": "613-2632"
+    },
+    {
+      "name": "Cane, Kenny",
+      "address": "284 Front",
+      "phone": "682-8945"
+    },
+    {
+      "name": "Dannon, John",
+      "address": "3493 Wind",
+      "phone": "361-3094"
+    },
+    {
+      "name": "Danton, Johnny",
+      "address": "3349 Winton",
+      "phone": "613-4093"
+    },
+    {
+      "name": "Denton, Johnathan",
+      "address": "4349 Wanda",
+      "phone": "316-4903"
+    },
+    {
+      "name": "Garis, Kurt",
+      "address": "742 Caselli",
+      "phone": "543-1094"
+    },
+    {
+      "name": "Garrison, Curtis",
+      "address": "424 Castle",
+      "phone": "435-4910"
+    },
+    {
+      "name": "Garriss, Burt",
+      "address": "247 Kessler",
+      "phone": "354-9410"
+    },
+    {
+      "name": "Kane, Kinny",
+      "address": "4028 Frontier",
+      "phone": "681-9458"
+    },
+    {
+      "name": "Lansing, Thom",
+      "address": "802 Harris",
+      "phone": "678-3509"
+    },
+    {
+      "name": "Nexon, Roger",
+      "address": "342 Riverwood",
+      "phone": "380-4319"
+    },
+    {
+      "name": "Nicks, R.",
+      "address": "3420 Woodriver",
+      "phone": "381-3194"
+    },
+    {
+      "name": "Nixon, Roger",
+      "address": "4321 River",
+      "phone": "803-1943"
+    },
+    {
+      "name": "Otter, Kent",
+      "address": "8024 Foster",
+      "phone": "682-9459"
+    },
+    {
+      "name": "Paul, Shelly",
+      "address": "911 Branch",
+      "phone": "430-6029"
+    },
+    {
+      "name": "Pauley, Lachelle",
+      "address": "1914 Bench",
+      "phone": "430-2629"
+    },
+    {
+      "name": "Paulson, Michelle",
+      "address": "1419 Baxter",
+      "phone": "434-6290"
+    },
+    {
+      "name": "Raley, Mia",
+      "address": "6234 McCallister",
+      "phone": "309-6024"
+    },
+    {
+      "name": "Rally, Mika",
+      "address": "4234 MacArthur",
+      "phone": "319-2460"
+    },
+    {
+      "name": "Ralph, Maura",
+      "address": "6432 McBeth",
+      "phone": "390-2463"
+    },
+    {
+      "name": "Stewart, Dean",
+      "address": "5301 Waterglen",
+      "phone": "503-9610"
+    },
+    {
+      "name": "Steward, Deanne",
+      "address": "3501 Waterway",
+      "phone": "530-6190"
+    },
+    {
+      "name": "Stuart, Dino",
+      "address": "1503 Waterman",
+      "phone": "350-9160"
+    },
+    {
+      "name": "Taffy, J.",
+      "address": "498 Williams",
+      "phone": "454-2431"
+    },
+    {
+      "name": "Taft, Jenny",
+      "address": "983 Williamsburg",
+      "phone": "455-2413"
+    },
+    {
+      "name": "Tagle, Gina",
+      "address": "839 Williard",
+      "phone": "554-4132"
+    },
+    {
+      "name": "Yukon, Bryan",
+      "address": "9926 Woodsale",
+      "phone": "309-6609"
+    },
+    {
+      "name": "Yukon, P.",
+      "address": "9926 Woodside",
+      "phone": "309-6607"
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": [
+        {
+          "id": "DC411",
+          "url": "/content/audio-library/cross-referencing/DC411.mp3"
+        },
+        {
+          "id": "DC412",
+          "url": "/content/audio-library/cross-referencing/DC412.mp3"
+        },
+        {
+          "id": "DC413",
+          "url": "/content/audio-library/cross-referencing/DC413.mp3"
+        },
+        {
+          "id": "DC414",
+          "url": "/content/audio-library/cross-referencing/DC414.mp3"
+        },
+        {
+          "id": "DC415",
+          "url": "/content/audio-library/cross-referencing/DC415.mp3"
+        }
+      ]
+    }
+  },
+  "captions" : {
+    "DC411":"WEBVTT\n\n1\n00:00:00.180 --> 00:00:01.884\nWhat is the phone number of Arm\nNixon\n\n2\n00:00:02.190 --> 00:00:03.360\nwho lives on River Street?\n",
+    "DC412":"WEBVTT\n\n1\n00:00:00.090 --> 00:00:02.310\nWhat is the address of Brian Yukon?\n",
+    "DC413":"WEBVTT\n\n1\n00:00:00.150 --> 00:00:01.619\nA message just came in\n\n2\n00:00:01.620 --> 00:00:03.449\nand the only part that was recorded\nwas\n\n3\n00:00:03.450 --> 00:00:05.270\nthe last four digits of the phone\nnumber\n\n4\n00:00:05.370 --> 00:00:05.970\n4319.\n\n5\n00:00:07.320 --> 00:00:09.420\nWhat is the last name for whose\nphone number\n\n6\n00:00:09.421 --> 00:00:09.745\nit is?\n",
+    "DC415":"WEBVTT\n\n1\n00:00:00.240 --> 00:00:01.792\nWhat is the address of M.\n\n2\n00:00:01.808 --> 00:00:03.240\nReilley Whose telephone number\nbegins\n\n3\n00:00:03.241 --> 00:00:04.890\nwith the digits 3 0 9?\n",
+    "DC414":"WEBVTT\n\n1\n00:00:00.120 --> 00:00:02.070\nWhat is the phone number of the\nperson who\n\n2\n00:00:02.071 --> 00:00:03.959\nresides at 1 5\n\n3\n00:00:03.960 --> 00:00:05.430\n0 3 Waterman?\n"
+  }
+}
+

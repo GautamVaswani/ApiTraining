@@ -1,0 +1,672 @@
+{
+  "assessmentName": "Encounter Office Responses",
+  "playerType": "Encounter",
+  "lastModified": "23/03/2018",
+  "instruction": "",
+  "questionTypes": [{
+      "type": "most",
+      "queText": "What is the most effective response?"
+    },
+    {
+      "type": "least",
+      "queText": "What is the least effective response?"
+    }
+  ],
+  "questions": [{
+      "id": 1,
+      "queTitle": "",
+      "video": {
+        "id": "video1",
+        "src": "/content/video-library/video1.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/video1.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+          "text": "Ask the female employee if she borrowed his pen and let her response determine what he should do next."
+        },
+        {
+          "text": "Send a group e-mail to the other employees in his office area asking if they have seen his pen or know where it might be."
+        },
+        {
+          "text": "Reclaim his pen from the female employee's work area when she is not around."
+        },
+        {
+          "text": "Inform his manager that one of his coworkers was looking through his work area and stole his pen."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "queTitle": "",
+      "video": {
+        "id": "video2",
+        "src": "/content/video-library/video2.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/video2.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+          "text": "Continue training the employee on the computer program and then help Teresa when training is finished."
+        },
+        {
+          "text": "Give the instruction manual to the trainee and ask him to become familiar with the program."
+        },
+        {
+          "text": "Provide training on the basics of the computer program with the time available."
+        },
+        {
+          "text": "Inform Teresa that her request will conflict with an already-assigned task and discuss the options."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "queTitle": "",
+      "video": {
+        "id": "video3",
+        "src": "/content/video-library/video3.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/video3.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+          "text": "Let Jim know that she was reprimanded by management because of him."
+        },
+        {
+          "text": "Offer strategies to Jim for completing the reports more efficiently and provide assistance as needed."
+        },
+        {
+          "text": "Equally divide the remaining reports that need to be completed between herself and Jim."
+        },
+        {
+          "text": "Determine the reason for the lack of Jim's productivity."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "queTitle": "",
+      "video": {
+        "id": "video4",
+        "src": "/content/video-library/video4.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/video4.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+          "text": "Repeat his sentence to show his co-worker that it is grammatically correct."
+        },
+        {
+          "text": "Tell his co-worker that she needs to stop being defensive about her writing in order to finish this letter."
+        },
+        {
+          "text": "Allow his co-worker to use her sentence in the letter, but remind her that the letter is a team effort."
+        },
+        {
+          "text": "Propose that they use a different sentence that is a compromise of both their sentences."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "queTitle": "",
+      "video": {
+        "id": "video5",
+        "src": "/content/video-library/video5.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/video5.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+          "text": "Again apologize to the client and indicate that she understands the customer's frustration."
+        },
+        {
+          "text": "Request that the client calm down and lower her voice so that she might explain the situation."
+        },
+        {
+          "text": "Inform the client that Greg failed to call her and that this mistake will not happen in the future."
+        },
+        {
+          "text": "Explain to the client that mistakes sometimes happen, and that it was not her fault."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "queTitle": "",
+      "video": {
+        "id": "video7",
+        "src": "/content/video-library/video7.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/video7.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "Complete the tasks as best as possible and ask the manager for clarification when he returns."
+      },
+      {
+        "text": "Seek out the assistance of coworkers to clarify the manager's instructions."
+      },
+      {
+        "text": "Let the manager know that all of his instructions were not understood and then ask follow up questions for clarification."
+      },
+      {
+        "text": "Tell manager the instructions he gave were unclear, and then ask him to provide the instructions in writing."
+      }
+      ]
+    },
+    {
+      "id": 7,
+      "queTitle": "",
+      "video": {
+        "id": "video8",
+        "src": "/content/video-library/video8.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/video8.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "Ignore Amanda's comments and carry on with the current discussion."
+      },
+      {
+        "text": "Immediately tell Amanda that it would be appreciated if her comments are more business related."
+      },
+      {
+        "text": "Immediately tell Amanda that her comments are inappropriate and apologize to the client for her comments."
+      },
+      {
+        "text": "Direct the conversation to a more appropriate subject and later speak with Amanda in private about her comments with the client."
+      }
+      ]
+    },
+    {
+      "id": 8,
+      "queTitle": "",
+      "video": {
+        "id": "video9",
+        "src": "/content/video-library/video9.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/video9.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "Ask the client to hold while he checks on the vice president's availability and informs him of the situation."
+      },
+      {
+        "text": "Attempt to take a message and have the vice president call the client back later."
+      },
+      {
+        "text": "Forward the call to the vice president's voicemail."
+      },
+      {
+        "text": "Tell the client that he will not put the call through to the vice president unless the client calms down and acts appropriately."
+      }
+      ]
+    },
+    {
+      "id": 9,
+      "queTitle": "",
+      "video": {
+        "id": "video10",
+        "src": "/content/video-library/video10.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/video10.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "During the meeting, explain to him that his interruptions are disrespectful and unprofessional."
+      },
+      {
+        "text": "Shortly after the meeting, tell him that his interruptions were rude during the meeting."
+      },
+      {
+        "text": "During the meeting, politely ask him not to speak until she finishes her comments."
+      },
+      {
+        "text": "Interrupt him the next time he speaks so that she can finish her remarks."
+      }
+      ]
+    },
+    {
+      "id": 10,
+      "queTitle": "",
+      "video": {
+        "id": "video11",
+        "src": "/content/video-library/video11.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/video11.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "Attempt to place the call on hold and explain to the new client about the disgruntled people he has to deal with."
+      },
+      {
+        "text": "Immediately hang up on the caller and assist the new client."
+      },
+      {
+        "text": "Attempt to place the call on hold and apologize to the new client and provide her assistance."
+      },
+      {
+        "text": "Ask the new client if she would mind taking a seat for the moment while he resolves the issue with the caller on the phone."
+      }
+      ]
+    },
+    {
+      "id": 11,
+      "queTitle": "",
+      "video": {
+        "id": "video12",
+        "src": "/content/video-library/video12.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/video12.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "Write out a set of instructions for Russell to follow when attempting this particular task."
+      },
+      {
+        "text": "Require Russell to figure it out for himself."
+      },
+      {
+        "text": "Reprimand Russell for not paying attention and let him know that this type of attitude will not be tolerated."
+      },
+      {
+        "text": "Repeat the instructions after asking Russell to pay closer attention and take notes."
+      }
+      ]
+    },
+    {
+      "id": 12,
+      "queTitle": "",
+      "video": {
+        "id": "video13",
+        "src": "/content/video-library/video13.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/video13.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "Ask him to coordinate with others assigned to the same project and receive their approval before his suggestions can be implemented."
+      },
+      {
+        "text": "Update the project plans based upon his suggestions."
+      },
+      {
+        "text": "Thank him for his suggestions, but tell him that his suggestions cannot be included in the current plan because the schedule has already been finalized."
+      },
+      {
+        "text": "Tell him that he should take his suggestions to his supervisor and let the supervisor decide whether his suggestions should be included."
+      }
+      ]
+    },
+    {
+      "id": 13,
+      "queTitle": "",
+      "video": {
+        "id": "video14",
+        "src": "/content/video-library/video14.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/video14.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "Do nothing and ignore what was said."
+      },
+      {
+        "text": "Ask them to please stop discussing issues involving their co-workers while at work."
+      },
+      {
+        "text": "E-mail them asking them to please stop talking about other employees."
+      },
+      {
+        "text": "Tell Erik that co-workers were saying negative things about him."
+      }
+      ]
+    },
+    {
+      "id": 14,
+      "queTitle": "",
+      "video": {
+        "id": "video15",
+        "src": "/content/video-library/video15.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/video15.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "Inform both employees that their manager will be closely monitoring their interactions with one another."
+      },
+      {
+        "text": "Hold a meeting with both employees together in an attempt to resolve the reasons for their conflict."
+      },
+      {
+        "text": "Ignore the potential conflict between team members and move forward on the project."
+      },
+      {
+        "text": "Meet with team members to discuss the importance of working cooperatively on this project."
+      }
+      ]
+    },
+    {
+      "id": 15,
+      "queTitle": "",
+      "video": {
+        "id": "video16",
+        "src": "/content/video-library/video16.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/video16.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "Tell his co-worker to read the manual and do the best she can."
+      },
+      {
+        "text": "Inform the person he is meeting for lunch that he will be delayed and stay to assist the co-worker."
+      },
+      {
+        "text": "Tell his co-worker that he needs to leave, but will provide assistance when he returns from lunch."
+      },
+      {
+        "text": "Suggest to the co-worker that she ask her manager for an extension to the deadline."
+      }
+      ]
+    },
+    {
+      "id": 16,
+      "queTitle": "",
+      "video": {
+        "id": "video17",
+        "src": "/content/video-library/video17.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/video17.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "Speak loudly when taking his own calls to show his co-worker what she sounds like."
+      },
+      {
+        "text": "Tell his co-worker to take her personal calls outside of the office."
+      },
+      {
+        "text": "Ask his co-worker to speak more quietly when talking on the phone."
+      },
+      {
+        "text": "Get a pair of headphones to reduce the noise from the co-worker's phone calls."
+      }
+      ]
+    },
+    {
+      "id": 17,
+      "queTitle": "",
+      "video": {
+        "id": "video18",
+        "src": "/content/video-library/video18.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/video18.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "Express her concerns to her manager about the new employee's lack of interest."
+      },
+      {
+        "text": "Tell the new employee that he had better get his act together or she will inform the Chief Executive Officer of his poor effort."
+      },
+      {
+        "text": "Remind the new employee about the importance of organization and keeping good records."
+      },
+      {
+        "text": "Do nothing since the new employee has connections to the Chief Executive Officer."
+      }
+      ]
+    },
+    {
+      "id": 18,
+      "queTitle": "",
+      "video": {
+        "id": "video19",
+        "src": "/content/video-library/video19.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/video19.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "Make a joke to lighten the conversation."
+      },
+      {
+        "text": "Decide which employee is in the wrong."
+      },
+      {
+        "text": "Criticize the employees for their poor attitudes."
+      },
+      {
+        "text": "Direct the focus of the employees toward completing the task at hand."
+      }
+      ]
+    },
+    {
+      "id": 19,
+      "queTitle": "",
+      "video": {
+        "id": "video20",
+        "src": "/content/video-library/video20.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/video20.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "Continue with the meeting and speak to the late employee afterwards to give him the information he missed."
+      },
+      {
+        "text": "Provide a quick recap of the missed information so that the late employee will be up to date on the most current company policies without feeling left behind."
+      },
+      {
+        "text": "Restart the meeting from the beginning to make sure that everyone has heard all of the information."
+      },
+      {
+        "text": "Immediately ask the employee why he was late."
+      }
+      ]
+    },
+    {
+      "id": 20,
+      "queTitle": "",
+      "video": {
+        "id": "video21",
+        "src": "/content/video-library/video21.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/video21.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "Inform Robert that she has previous obligations and ask for guidance on which task she should perform first."
+      },
+      {
+        "text": "Prioritize the assignments in terms of importance and complete the more important of the two assignments."
+      },
+      {
+        "text": "Continue working on her current task and complete Robert's tasks if she has time."
+      },
+      {
+        "text": "Attempt to delegate some of her responsibilities to a less busy co-worker in order to complete both assignments."
+      }
+      ]
+    },
+    {
+      "id": 21,
+      "queTitle": "",
+      "video": {
+        "id": "video22",
+        "src": "/content/video-library/video22.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/video22.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "Ask Dante about his specific reason for wanting to meet with the boss and then determine if the reason requires a meeting."
+      },
+      {
+        "text": "Ask the boss if she is available to meet with Dante about a personal matter."
+      },
+      {
+        "text": "Ask Dante to read the section in the employee handbook that covers these issues."
+      },
+      {
+        "text": "Tell Dante that he must make an appointment and receive clearance from his supervisor."
+      }
+      ]
+    },
+    {
+      "id": 22,
+      "queTitle": "",
+      "video": {
+        "id": "video23",
+        "src": "/content/video-library/video23.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/video23.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "Share the feedback she has received from current customers and surveys."
+      },
+      {
+        "text": "Explain to the manager that his reasoning is incorrect."
+      },
+      {
+        "text": "Assume the manager has already considered all options and say nothing."
+      },
+      {
+        "text": "Approach the manager after the meeting and then share her thoughts about the distribution method."
+      }
+      ]
+    },
+    {
+      "id": 23,
+      "queTitle": "",
+      "video": {
+        "id": "video24",
+        "src": "/content/video-library/video24.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/video24.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "Leave the breakroom with the new employee and apologize for any comments he may have heard."
+      },
+      {
+        "text": "Immediately tell the two employees that their comments are inappropriate."
+      },
+      {
+        "text": "Attempt to change the subject to a discussion that is more appropriate."
+      },
+      {
+        "text": "Tell the new employee to avoid talking to these two employees because they spread gossip."
+      }
+      ]
+    },
+    {
+      "id": 24,
+      "queTitle": "",
+      "video": {
+        "id": "video25",
+        "src": "/content/video-library/video25.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/video25.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "Watch the employee in the future to ensure that he is not gambling."
+      },
+      {
+        "text": "Provide information about a local gambling problem support group."
+      },
+      {
+        "text": "Accept his apology and ask him to assist her as requested."
+      },
+      {
+        "text": "Ask him not to gamble when he is supposed to be helping her."
+      }
+      ]
+    },
+    {
+      "id": 25,
+      "queTitle": "",
+      "video": {
+        "id": "video26",
+        "src": "/content/video-library/video26.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/video26.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+          "text": "Tell the other employees that he is too busy to help them."
+        },
+        {
+          "text": "Only assist the co-worker who is having trouble with the copy machine."
+        },
+        {
+          "text": "Complete the tasks in the order they were requested."
+        },
+        {
+          "text": "Briefly assist his co-workers before returning to the initial task."
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "audio": [],
+      "images": []
+    }
+  }
+}

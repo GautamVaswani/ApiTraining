@@ -1,0 +1,1454 @@
+{
+  "assessmentName": "Medical Terminology",
+  "playerType": "MCQ",
+  "lastModified": "06/09/2017",
+  "instruction": "<p role=heading aria-level=3>Medical Terminology</p><p>This section of the test contains multiple-choice questions, which you must answer by using your computer mouse to select the correct response. Upon answering a question, you can go to the next question by clicking the Next button on the Menu bar.</p><p>During this section of the test, if you choose you may skip an item and then later return to that item.</p> <p>When you are finished, select Submit from the Menu bar. Your Test Administrator may have set a time limit for this test section. If there is a time limit, you will be told how much time you have. If a time limit has been set for this section of the test, you will notice a countdown timer on the Header of the screen, showing the amount of time remaining to complete this section of the test.</p>",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "<p>Emesis means to _________________. </p>",
+      "options": [
+        {
+          "text": "Vomit"
+        },
+        {
+          "text": "Faint"
+        },
+        {
+          "text": "Cough"
+        },
+        {
+          "text": "Spit"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "<p>The long bones of the lower leg are called the __________________. </p>",
+      "options": [
+        {
+          "text": "Tibia and Fibula"
+        },
+        {
+          "text": "Radius and Ulna"
+        },
+        {
+          "text": "Tibia and Ulna"
+        },
+        {
+          "text": "Femur and Patella"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "<p>Introduction of a substance not through the digestive tract or lungs is done________________. </p>",
+      "options": [
+        {
+          "text": "Ventricularly"
+        },
+        {
+          "text": "Parenterally"
+        },
+        {
+          "text": "Nasogastrically"
+        },
+        {
+          "text": "Subcostal"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionText": "<p>A pouch branching from a hollow organ is called ____________________. </p>",
+      "options": [
+        {
+          "text": "Diverticulum"
+        },
+        {
+          "text": "Hump"
+        },
+        {
+          "text": "Plexitis"
+        },
+        {
+          "text": "Rupture"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionText": "<p>Electroencephalogram is a record of the electricity of the ______________________.</p>",
+      "options": [
+        {
+          "text": "Heart"
+        },
+        {
+          "text": "Muscle"
+        },
+        {
+          "text": "Nervous system"
+        },
+        {
+          "text": "Brain"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionText": "<p>The area between the lungs is called the ________________________. </p>",
+      "options": [
+        {
+          "text": "Mediastinum"
+        },
+        {
+          "text": "Mediastratum"
+        },
+        {
+          "text": "Mediasacral"
+        },
+        {
+          "text": "Mediacrest"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionText": "<p>A lesion on the lining of the stomach caused by superficial loss of tissue usually accompanied by necrosis and inflammation is a gastric ____________. </p>",
+      "options": [
+        {
+          "text": "Cyst"
+        },
+        {
+          "text": "Ulcer"
+        },
+        {
+          "text": "Carcinoma"
+        },
+        {
+          "text": "Blister"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionText": "<p>The duodenum is which part of the small intestine? </p>",
+      "options": [
+        {
+          "text": "Beginning"
+        },
+        {
+          "text": "Middle"
+        },
+        {
+          "text": "Third"
+        },
+        {
+          "text": "Last"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionText": "<p>The back surface of the body is __________________. </p>",
+      "options": [
+        {
+          "text": "Distal"
+        },
+        {
+          "text": "Anterior"
+        },
+        {
+          "text": "Posterior"
+        },
+        {
+          "text": "Lateral"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionText": "<p>_____________________ relates to the nose and stomach. </p>",
+      "options": [
+        {
+          "text": "Nasogastric"
+        },
+        {
+          "text": "Nasoral"
+        },
+        {
+          "text": "Nasolabial"
+        },
+        {
+          "text": "Nasopalatine"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "questionText": "<p>The bony segment of the spinal column is called the _______________. </p>",
+      "options": [
+        {
+          "text": "Vertebra"
+        },
+        {
+          "text": "Clavicle"
+        },
+        {
+          "text": "Cranium"
+        },
+        {
+          "text": "Aneurysm"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "questionText": "<p>Glycosuria refers to ________________ in the urine. </p>",
+      "options": [
+        {
+          "text": "Blood"
+        },
+        {
+          "text": "Sugar"
+        },
+        {
+          "text": "Bile"
+        },
+        {
+          "text": "Water"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "questionText": "<p>The increase in the severity of disease is called _______________________.</p>",
+      "options": [
+        {
+          "text": "Exacerbation"
+        },
+        {
+          "text": "Lintitus"
+        },
+        {
+          "text": "Exagerration"
+        },
+        {
+          "text": "Exanthema"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "questionText": "<p>A cancerous tumor that is life threatening is called_____________________. </p>",
+      "options": [
+        {
+          "text": "Maduromycosis"
+        },
+        {
+          "text": "Malignant"
+        },
+        {
+          "text": "Malacia"
+        },
+        {
+          "text": "Malfunction"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "questionText": "<p>Reflex is a _______________. </p>",
+      "options": [
+        {
+          "text": "Quick expulsion"
+        },
+        {
+          "text": "Backward flow"
+        },
+        {
+          "text": "Reaction"
+        },
+        {
+          "text": "Rapid onset"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "questionText": "<p>____________ is a white blood cell that fights microorganisms. </p>",
+      "options": [
+        {
+          "text": "Immunoglobulin"
+        },
+        {
+          "text": "Lymphocyte"
+        },
+        {
+          "text": "Myosarcoma"
+        },
+        {
+          "text": "Sarcoma"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "questionText": "<p>A high-pitched noisy respiration indicative of respiratory obstruction is ___________. </p>",
+      "options": [
+        {
+          "text": "Copula"
+        },
+        {
+          "text": "Egophony"
+        },
+        {
+          "text": "Verruca"
+        },
+        {
+          "text": "Stridor"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "questionText": "<p>The inhalation of air into the lungs is called______________________.</p>",
+      "options": [
+        {
+          "text": "Inspiration"
+        },
+        {
+          "text": "Indigestion"
+        },
+        {
+          "text": "Infusion"
+        },
+        {
+          "text": "Injest"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "questionText": "<p>The sensation of noise in one or both ears is known as ____________________. </p>",
+      "options": [
+        {
+          "text": "Stridor"
+        },
+        {
+          "text": "Sclerosis"
+        },
+        {
+          "text": "Tinnitus"
+        },
+        {
+          "text": "Epistaxis"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "questionText": "<p>Anterior refers to which area of the body? </p>",
+      "options": [
+        {
+          "text": "Behind"
+        },
+        {
+          "text": "Front"
+        },
+        {
+          "text": "Side"
+        },
+        {
+          "text": "Middle"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "questionText": "<p>___________________ is a dark colored tumor arising from a melanocyte. </p>",
+      "options": [
+        {
+          "text": "Melatonin"
+        },
+        {
+          "text": "Melanin"
+        },
+        {
+          "text": "Melalgia"
+        },
+        {
+          "text": "Melanoma"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "questionText": "<p>Another name for \"whooping cough\" is _____________________. </p>",
+      "options": [
+        {
+          "text": "Onychomycosis"
+        },
+        {
+          "text": "Lordosis"
+        },
+        {
+          "text": "Ischemia"
+        },
+        {
+          "text": "Pertussis"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "questionText": "<p>The suffix ectomy means to ____________________________. </p>",
+      "options": [
+        {
+          "text": "Cut"
+        },
+        {
+          "text": "Surgically remove"
+        },
+        {
+          "text": "Repair"
+        },
+        {
+          "text": "Suture"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "questionText": "<p>The diastolic pressure is the __________________arterial blood pressure.</p>",
+      "options": [
+        {
+          "text": "Lowest"
+        },
+        {
+          "text": "Highest"
+        },
+        {
+          "text": "Weaker"
+        },
+        {
+          "text": "Strongest"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "questionText": "<p>The area below the breastbone is referred to as ___________________. </p>",
+      "options": [
+        {
+          "text": "Subthalamus"
+        },
+        {
+          "text": "Substernal"
+        },
+        {
+          "text": "Subcostal"
+        },
+        {
+          "text": "Subglottic"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "questionText": "<p>White blood cells are also known as ______________________.</p>",
+      "options": [
+        {
+          "text": "Leukocytes"
+        },
+        {
+          "text": "Phagocytes"
+        },
+        {
+          "text": "Erythrocytes"
+        },
+        {
+          "text": "Histiocytes"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "questionText": "<p>An erythrocyte is a ___________________ blood cell. </p>",
+      "options": [
+        {
+          "text": "White"
+        },
+        {
+          "text": "Red"
+        },
+        {
+          "text": "Clotted"
+        },
+        {
+          "text": "Plasma"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "questionText": "<p>Polydipsia and polyuria are symptoms of ______________________. </p>",
+      "options": [
+        {
+          "text": "Ulcerative colitis"
+        },
+        {
+          "text": "Thyrotoxicosis"
+        },
+        {
+          "text": "Diabetes mellitus"
+        },
+        {
+          "text": "Varicella"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "questionText": "<p>Minute hemorrhage spots in the skin are __________________. </p>",
+      "options": [
+        {
+          "text": "Vermiform"
+        },
+        {
+          "text": "Petechiae"
+        },
+        {
+          "text": "Lacrimal"
+        },
+        {
+          "text": "Metastases"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "questionText": "<p>____________________ is a procedure that involves examination of the interior of a joint using an instrument that is inserted into the joint. </p>",
+      "options": [
+        {
+          "text": "Furcation"
+        },
+        {
+          "text": "Arthroscopy"
+        },
+        {
+          "text": "Microscopic surgery"
+        },
+        {
+          "text": "Joule"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "questionText": "<p>An abnormal curve of the spine in the lumbar area is called_____________. </p>",
+      "options": [
+        {
+          "text": "Lumbago"
+        },
+        {
+          "text": "Lucifugal"
+        },
+        {
+          "text": "Lordosis"
+        },
+        {
+          "text": "Lumbosacral"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "questionText": "<p>The tube leading from the kidney to the bladder is the ___________________. </p>",
+      "options": [
+        {
+          "text": "Ureteral"
+        },
+        {
+          "text": "Urethra"
+        },
+        {
+          "text": "Urea"
+        },
+        {
+          "text": "Ureter"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "questionText": "<p>Intramuscular refers to ____________________ a muscle. </p>",
+      "options": [
+        {
+          "text": "Outside"
+        },
+        {
+          "text": "Between"
+        },
+        {
+          "text": "Under"
+        },
+        {
+          "text": "Within"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "questionText": "<p>Which surgical procedure involves removal of the uterus? </p>",
+      "options": [
+        {
+          "text": "Hysteralgia"
+        },
+        {
+          "text": "Hysterectomy"
+        },
+        {
+          "text": "Hysteresis"
+        },
+        {
+          "text": "Hysterodynia"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "questionText": "<p>A fissure is a _______________________________.</p>",
+      "options": [
+        {
+          "text": "Groove"
+        },
+        {
+          "text": "Scrape"
+        },
+        {
+          "text": "Muscle"
+        },
+        {
+          "text": "Growth"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "questionText": "<p>A lesion located near the surface of the body is called ______________. </p>",
+      "options": [
+        {
+          "text": "Superficial"
+        },
+        {
+          "text": "Layerus"
+        },
+        {
+          "text": "Visceral"
+        },
+        {
+          "text": "Epidermal"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "questionText": "<p>The word ecchymosis refers to a ____________________. </p>",
+      "options": [
+        {
+          "text": "Wart"
+        },
+        {
+          "text": "Mole"
+        },
+        {
+          "text": "Bruise"
+        },
+        {
+          "text": "Rash"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "questionText": "<p>What is a catheter used to do? </p>",
+      "options": [
+        {
+          "text": "Drain and instill fluid"
+        },
+        {
+          "text": "View the bladder"
+        },
+        {
+          "text": "Stretch the urethra"
+        },
+        {
+          "text": "Clean blood"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "questionText": "<p>What term is used to describe an illness without a known cause?</p>",
+      "options": [
+        {
+          "text": "Iatrogenic"
+        },
+        {
+          "text": "Nosocomial"
+        },
+        {
+          "text": "Functional."
+        },
+        {
+          "text": "Idiopathic"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "questionText": "<p>Endometriosis is an abnormal condition of the__________________. </p>",
+      "options": [
+        {
+          "text": "Uterine tubes"
+        },
+        {
+          "text": "Inner lining of the uterus"
+        },
+        {
+          "text": "Inside of the stomach"
+        },
+        {
+          "text": "The lungs"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "questionText": "<p>The ______________ is the triangular end part of the spinal column just before the coccyx. </p>",
+      "options": [
+        {
+          "text": "Labrum"
+        },
+        {
+          "text": "Thorax"
+        },
+        {
+          "text": "Sacrum"
+        },
+        {
+          "text": "Vitiligo"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "questionText": "<p>Cirrhosis is a condition found in the ______________________________. </p>",
+      "options": [
+        {
+          "text": "Kidneys"
+        },
+        {
+          "text": "Heart"
+        },
+        {
+          "text": "Intestines"
+        },
+        {
+          "text": "Liver"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "questionText": "<p>A condition characterized by hemorrhage into the skin is _________________. </p>",
+      "options": [
+        {
+          "text": "Infarction"
+        },
+        {
+          "text": "Phagocytosis"
+        },
+        {
+          "text": "Meningioma"
+        },
+        {
+          "text": "Purpura"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "questionText": "<p>Dilation means to __________________________. </p>",
+      "options": [
+        {
+          "text": "Tighten"
+        },
+        {
+          "text": "Expand"
+        },
+        {
+          "text": "Close"
+        },
+        {
+          "text": "Shorten"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "questionText": "<p>To face the patient upward, you must place him/her _______________. </p>",
+      "options": [
+        {
+          "text": "Supine"
+        },
+        {
+          "text": "Prone"
+        },
+        {
+          "text": "Lateral"
+        },
+        {
+          "text": "Horizontal"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "questionText": "<p>___________________ is enlargement of the liver. </p>",
+      "options": [
+        {
+          "text": "Heplieusis"
+        },
+        {
+          "text": "Hepatomegaly"
+        },
+        {
+          "text": "Hepatorrhaphy"
+        },
+        {
+          "text": "Hepatectomy"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "questionText": "<p>____________________ means to secrete large amounts of urine. </p>",
+      "options": [
+        {
+          "text": "Urethralgia"
+        },
+        {
+          "text": "Diuresis"
+        },
+        {
+          "text": "Nephritis"
+        },
+        {
+          "text": "Pyelitis"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "questionText": "<p>Intravenous means within the ___________________. </p>",
+      "options": [
+        {
+          "text": "Body"
+        },
+        {
+          "text": "Cell"
+        },
+        {
+          "text": "Vein"
+        },
+        {
+          "text": "Blood"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "questionText": "<p>The muscular area that allows substances to leave the stomach and enter the small intestine is the _______________. </p>",
+      "options": [
+        {
+          "text": "Duodenum"
+        },
+        {
+          "text": "Gastric valve"
+        },
+        {
+          "text": "Pyloric sphincter"
+        },
+        {
+          "text": "Jejunum"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "questionText": "<p>Euthyroid means________________________________. </p>",
+      "options": [
+        {
+          "text": "Damaged thyroid gland"
+        },
+        {
+          "text": "Normal thyroid gland"
+        },
+        {
+          "text": "Swollen thyroid gland"
+        },
+        {
+          "text": "Excessive thyroid production"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "questionText": "<p>Death of cells or tissues due to disease or injury is called__________________. </p>",
+      "options": [
+        {
+          "text": "Nephrosis"
+        },
+        {
+          "text": "Necrosis"
+        },
+        {
+          "text": "Nocardiosis"
+        },
+        {
+          "text": "Neuralgia"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "questionText": "<p>The clavicle is also called the ___________________________________.</p>",
+      "options": [
+        {
+          "text": "collar bone"
+        },
+        {
+          "text": "shoulder blade"
+        },
+        {
+          "text": "breast bone"
+        },
+        {
+          "text": "arm bone"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "questionText": "<p>A reduction in the quantity of bone is called _____________________.</p>",
+      "options": [
+        {
+          "text": "Osteoporosis"
+        },
+        {
+          "text": "Chondromalacia"
+        },
+        {
+          "text": "Osteomalacia"
+        },
+        {
+          "text": "Orthopnea"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "questionText": "<p>A localized protective reaction of tissue to injury or infection is called_____________. </p>",
+      "options": [
+        {
+          "text": "Lesion"
+        },
+        {
+          "text": "Inflammation"
+        },
+        {
+          "text": "Swelling"
+        },
+        {
+          "text": "Palpitation"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "questionText": "<p>__________________ means a body opening or passage.</p>",
+      "options": [
+        {
+          "text": "Meatus"
+        },
+        {
+          "text": "Agnosia"
+        },
+        {
+          "text": "Esotropia"
+        },
+        {
+          "text": "Eructation"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "questionText": "<p>The tympanic membrane is another name for the ______________________. </p>",
+      "options": [
+        {
+          "text": "Kidney tissue"
+        },
+        {
+          "text": "Stomach tissue"
+        },
+        {
+          "text": "Ear Drum"
+        },
+        {
+          "text": "Brain layers"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "questionText": "<p>An embolism is a ___________________________________. </p>",
+      "options": [
+        {
+          "text": "Narrowed artery"
+        },
+        {
+          "text": "Traveling blood clot"
+        },
+        {
+          "text": "Constricted vessel"
+        },
+        {
+          "text": "Collapsed vein"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "questionText": "<p>A congenital anomaly is the same as a ____________________. </p>",
+      "options": [
+        {
+          "text": "Malformed genitalia"
+        },
+        {
+          "text": "Brain disease"
+        },
+        {
+          "text": "Birth defect"
+        },
+        {
+          "text": "Limb disorder"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "questionText": "<p>A catheter placed above the mons pubis would be ______________________. </p>",
+      "options": [
+        {
+          "text": "Subpubic"
+        },
+        {
+          "text": "Supracervical"
+        },
+        {
+          "text": "Suprapubic"
+        },
+        {
+          "text": "Subpapular"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "questionText": "<p>What is the term used to define a medical procedure in which a part of the body is entered? </p>",
+      "options": [
+        {
+          "text": "Inversion"
+        },
+        {
+          "text": "Invaginate"
+        },
+        {
+          "text": "Invasive"
+        },
+        {
+          "text": "Inverate"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "questionText": "<p>Inflammation of the tube leading from the bladder to the meatus is ___________. </p>",
+      "options": [
+        {
+          "text": "Urethritis"
+        },
+        {
+          "text": "Ureteritis"
+        },
+        {
+          "text": "Ureterolithiasis"
+        },
+        {
+          "text": "Uresis"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "questionText": "<p>An enlargement of an organ that is not tumorous is called________________. </p>",
+      "options": [
+        {
+          "text": "Hypertropia"
+        },
+        {
+          "text": "Hypertrophy"
+        },
+        {
+          "text": "Hypertonia"
+        },
+        {
+          "text": "Hypesthesia"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "questionText": "<p>A condition characterized by white patches on the skin is called ________________. </p>",
+      "options": [
+        {
+          "text": "Dysphasia"
+        },
+        {
+          "text": "Blepharoptosis"
+        },
+        {
+          "text": "Cyanosis"
+        },
+        {
+          "text": "Vitiligo"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "questionText": "<p>The period during which a lessening in severity of the symptoms of a disease occurs is called _____________. </p>",
+      "options": [
+        {
+          "text": "Retrogression"
+        },
+        {
+          "text": "Abatement"
+        },
+        {
+          "text": "Remission"
+        },
+        {
+          "text": "Enteromission"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "questionText": "<p>Dyspenea is difficulty with _________________________.</p>",
+      "options": [
+        {
+          "text": "Breathing"
+        },
+        {
+          "text": "Swallowing"
+        },
+        {
+          "text": "Movement"
+        },
+        {
+          "text": "Sight"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "questionText": "<p>The area of the intestinal tract between the descending colon and the rectum is the ________________________. </p>",
+      "options": [
+        {
+          "text": "Cecum"
+        },
+        {
+          "text": "Sigmoid"
+        },
+        {
+          "text": "Transverse colon"
+        },
+        {
+          "text": "Ileum"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "questionText": "<p>Which term is the act of breathing out? </p>",
+      "options": [
+        {
+          "text": "Exfoliation"
+        },
+        {
+          "text": "Expiration"
+        },
+        {
+          "text": "Expulsion"
+        },
+        {
+          "text": "Exsection"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "questionText": "<p>A bone malignancy that affects chiefly the ends of long bones is called ___________________. </p>",
+      "options": [
+        {
+          "text": "Osteoma"
+        },
+        {
+          "text": "Orthomalacia"
+        },
+        {
+          "text": "Osteosarcoma"
+        },
+        {
+          "text": "Orthochorea"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "questionText": "<p>The excision of a segment or part of an organ is called _________________________. </p>",
+      "options": [
+        {
+          "text": "Incision"
+        },
+        {
+          "text": "Renin"
+        },
+        {
+          "text": "Bisection"
+        },
+        {
+          "text": "Resection"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "questionText": "<p>A diagnosis is a doctor's statement as to the __________________ of a disease. </p>",
+      "options": [
+        {
+          "text": "Outcome"
+        },
+        {
+          "text": "Cure"
+        },
+        {
+          "text": "Cause"
+        },
+        {
+          "text": "Treatment"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "questionText": "<p>An irregular shaped disklike cytoplasimic body found in blood plasma that contains granules and clear protoplasm but no definite nucleus nor hemoglobin is called a ___________________.</p>",
+      "options": [
+        {
+          "text": "Platelet"
+        },
+        {
+          "text": "Lymphocyte"
+        },
+        {
+          "text": "Granulocyte"
+        },
+        {
+          "text": "Lipocyte"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "questionText": "<p>Expectorated matter such as mucus or mucopurulent matter is ____________. </p>",
+      "options": [
+        {
+          "text": "Tinnitus"
+        },
+        {
+          "text": "Hircus"
+        },
+        {
+          "text": "Cilia"
+        },
+        {
+          "text": "Sputum"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "questionText": "<p>The stoppage or control of bleeding is called ______________. </p>",
+      "options": [
+        {
+          "text": "Hemiparesis"
+        },
+        {
+          "text": "Hemostasis"
+        },
+        {
+          "text": "Hemoptysis"
+        },
+        {
+          "text": "Hematemesis"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "questionText": "<p>Herpes zoster is a herpes virus that causes chickenpox and shingles which is also called __________________. </p>",
+      "options": [
+        {
+          "text": "Varicella-zoster"
+        },
+        {
+          "text": "Rarefaction-zoster"
+        },
+        {
+          "text": "Piarachnoid-zoster"
+        },
+        {
+          "text": "Genital-zoster"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "questionText": "<p>Clotting within a blood vessel is called _____________________.</p>",
+      "options": [
+        {
+          "text": "Thrombosis"
+        },
+        {
+          "text": "Thrombocytopenia"
+        },
+        {
+          "text": "Thyroptosis"
+        },
+        {
+          "text": "Thrombectomy"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "questionText": "<p>The suffix emia means______________________________. </p>",
+      "options": [
+        {
+          "text": "Hair"
+        },
+        {
+          "text": "Skin"
+        },
+        {
+          "text": "Blood"
+        },
+        {
+          "text": "Disease"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "questionText": "<p>The long bones of the forearm are the ___________________.</p>",
+      "options": [
+        {
+          "text": "Radius and ulna"
+        },
+        {
+          "text": "Tibia and fibula"
+        },
+        {
+          "text": "Humerus and femur"
+        },
+        {
+          "text": "Ulna and humerus"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "questionText": "<p>Jaundice, a yellow discoloration of the skin and other tissues, is also known as__________. </p>",
+      "options": [
+        {
+          "text": "Joule"
+        },
+        {
+          "text": "Icterus"
+        },
+        {
+          "text": "Ascites"
+        },
+        {
+          "text": "Cirrhosis"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "questionText": "<p>Removal of all or part of the breast is called_______________________. </p>",
+      "options": [
+        {
+          "text": "Mastectomy"
+        },
+        {
+          "text": "Orchiectomy"
+        },
+        {
+          "text": "Bregamectomy"
+        },
+        {
+          "text": "Cloacadectomy"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "questionText": "<p>Afebrile means that a patient has: </p>",
+      "options": [
+        {
+          "text": "High fever"
+        },
+        {
+          "text": "Contagious disease"
+        },
+        {
+          "text": "Normal body temperature"
+        },
+        {
+          "text": "High blood pressure"
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "audio": [],
+      "images": []
+    }
+  }
+}

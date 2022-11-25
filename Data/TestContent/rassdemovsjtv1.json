@@ -1,0 +1,412 @@
+{
+  "assessmentName": "RASS Video Situational Judgment Test",
+  "playerType": "Encounter",
+  "lastModified": "02/08/2019",
+  "instruction": "This section of the test will measure your ability to determine the most effective and least effective responses for situational judgments in a retail setting. The practice item that comes after the instructions will introduce you to the test, as well as ensure that your computer is capble of playing the video and that you can hear the audio.",
+  "questionTypes": [{
+      "type": "most",
+      "queText": "What is the most effective response?"
+    },
+    {
+      "type": "least",
+      "queText": "What is the least effective response?"
+    }
+  ],
+  "questions": [{
+      "id": 1,
+      "queTitle": "",
+      "video": {
+        "id": "video1",
+        "src": "/content/video-library/rass_video1.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/rass_video1.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+          "text": "Tell the second customer to ask another employee for help."
+        },
+        {
+          "text": "Ask the first customer if they mind waiting so that you can find another employee to help the second customer."
+        },
+        {
+          "text": "Excuse yourself from the first customer and respond to the second customer’s questions."
+        },
+        {
+          "text": "Tell the second customer that you will answer his questions when you are done with the first customer."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "queTitle": "",
+      "video": {
+        "id": "video2",
+        "src": "/content/video-library/rass_video2.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/rass_video2.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+          "text": "I’m sorry that happened to you, can you tell me more about what happened?"
+        },
+        {
+          "text": "I’m sorry that they were rude to you, they need to be nicer."
+        },
+        {
+          "text": "Why did you pay your bill late last month?"
+        },
+        {
+          "text": "We have had many customers say the same thing, sorry about that."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "queTitle": "",
+      "video": {
+        "id": "video3",
+        "src": "/content/video-library/rass_video3.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/rass_video3.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+          "text": "Sorry, I don’t have the address for our website memorized."
+        },
+        {
+          "text": "I can help you, but only for a minute because I have a lot of customers waiting."
+        },
+        {
+          "text": "Our website is really easy is navigate. I would help you, but I have a long line of people waiting."
+        },
+        {
+          "text": "Sure, I can help you get to the website."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "queTitle": "",
+      "video": {
+        "id": "video4",
+        "src": "/content/video-library/rass_video4.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/rass_video4.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+          "text": "Ask his supervisor to go over the steps again before moving on to the next topic."
+        },
+        {
+          "text": "Ask his supervisor to check his work later in the day to make sure he handled customer transactions correctly."
+        },
+        {
+          "text": "Let his supervisor continue and later find a coworker who understands the instructions and ask for their help."
+        },
+        {
+          "text": "Let his supervisor continue, but ask for help later if he has problems when assisting customers with their transactions."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "queTitle": "",
+      "video": {
+        "id": "video5",
+        "src": "/content/video-library/rass_video5.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/rass_video5.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+          "text": "Point out the tear to the customer and ask if she still wants to make the purchase."
+        },
+        {
+          "text": "Remind the customer of the return policy and that she can bring the shirt back if she’s not satisfied."
+        },
+        {
+          "text": "Tell the customer that he’s happy she was able to find the shirt in the store."
+        },
+        {
+          "text": "Let the customer know that a new shipment of shirts should arrive within a week or two."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "queTitle": "",
+      "video": {
+        "id": "video7",
+        "src": "/content/video-library/rass_video6.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/rass_video6.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "I’m sorry about the length of the application process, do you want to come back at a different time to complete the application?"
+      },
+      {
+        "text": "The application really shouldn’t take that long to complete. I’m sure you can still make it to your appointment."
+      },
+      {
+        "text": "All of the sections need to be completed, but I’m happy to help you fill in the information."
+      },
+      {
+        "text": "Let me ask my supervisor if we can make an exception."
+      }
+      ]
+    },
+    {
+      "id": 7,
+      "queTitle": "",
+      "video": {
+        "id": "video8",
+        "src": "/content/video-library/rass_video7.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/rass_video7.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "Is that really Max? Does he still have as much energy as when he was a puppy? Can you show me another picture?"
+      },
+      {
+        "text": " It’s nice to see a picture of Max. Sorry, but I don’t have any time to talk with you today."
+      },
+      {
+        "text": "What a cute dog! I am so busy today, we have too many customers in the store today."
+      },
+      {
+        "text": "Wow! He’s grown so much. If it weren’t so busy I’d love to look at more pictures."
+      }
+      ]
+    },
+    {
+      "id": 8,
+      "queTitle": "",
+      "video": {
+        "id": "video9",
+        "src": "/content/video-library/rass_video8.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/rass_video8.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "My coworker is actually correct about the sales promotion, I am sorry you didn’t understand."
+      },
+      {
+        "text": "I am sorry for the confusion about the sales promotion and I definitely understand your frustration."
+      },
+      {
+        "text": "The sales promotion can be confusing to some people, let me explain it to you again."
+      },
+      {
+        "text": "I am sorry that you were unable to understand the sales promotion. You should speak with same employee from yesterday to sort this out."
+      }
+      ]
+    },
+    {
+      "id": 9,
+      "queTitle": "",
+      "video": {
+        "id": "video10",
+        "src": "/content/video-library/rass_video9.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/rass_video9.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "Apologize for the delay with the scheduling."
+      },
+      {
+        "text": "Explain that delays happen all the time due to unforeseen scheduling issues."
+      },
+      {
+        "text": "Apologize and ask the customer if he would like to submit a complaint on the store’s website."
+      },
+      {
+        "text": "Show the customer how to track the status of his order online."
+      }
+      ]
+    },
+    {
+      "id": 10,
+      "queTitle": "",
+      "video": {
+        "id": "video11",
+        "src": "/content/video-library/rass_video10.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/rass_video10.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "I am sorry, that is a tough question, contact my supervisor who can probably answer it for you."
+      },
+      {
+        "text": "That is a great question but I do not know the answer, I am sure someone else can help you."
+      },
+      {
+        "text": "I am sorry, I do not have access to that type of information."
+      },
+      {
+        "text": "I don’t know the answer myself, but let me find out if there is someone who can answer it for you."
+      }
+      ]
+    },
+    {
+      "id": 11,
+      "queTitle": "",
+      "video": {
+        "id": "video12",
+        "src": "/content/video-library/rass_video11.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/rass_video11.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "Apologize and ask the customer to find another employee to help her because your shift has not started."
+      },
+      {
+        "text": "Tell the customer that your shift starts soon and are happy to help if she’s still shopping at that time."
+      },
+      {
+        "text": "Ask the customer what she needs and then contact a supervisor to assist her."
+      },
+      {
+        "text": "Tell the customer you will find a coworker who can answer her questions."
+      }
+      ]
+    },
+    {
+      "id": 12,
+      "queTitle": "",
+      "video": {
+        "id": "video13",
+        "src": "/content/video-library/rass_video12.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/rass_video12.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "Tell the employee to stop making inappropriate comments in front of the customers."
+      },
+      {
+        "text": "Ask the employee if you can speak with him for a moment in private."
+      },
+      {
+        "text": "Ask the customers if they heard the comment made by the employee."
+      },
+      {
+        "text": "Apologize to the customers for the inappropriate comment made by the employee."
+      }
+      ]
+    },
+    {
+      "id": 13,
+      "queTitle": "",
+      "video": {
+        "id": "video14",
+        "src": "/content/video-library/rass_video13.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/rass_video13.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "Point out the reasons why the policy can’t be changed."
+      },
+      {
+        "text": "Tell the customer that you also don’t like the policy and hope that it gets changed."
+      },
+      {
+        "text": "Tell the customer you understand and that you will speak with your supervisor about it."
+      },
+      {
+        "text": "Advise the customer that although you are sorry, you do not have the authority to change store policy."
+      }
+      ]
+    },
+    {
+      "id": 14,
+      "queTitle": "",
+      "video": {
+        "id": "video15",
+        "src": "/content/video-library/rass_video14.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/rass_video14.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "Ok, I can clean it up myself, but can you find someone to help me with these boxes?"
+      },
+      {
+        "text": "Someone could slip and get hurt.  Can you please help me before you take your break?"
+      },
+      {
+        "text": "Somebody can get hurt if we don’t get this cleaned up now. I’m going to have to speak with our supervisor if you don’t help me."
+      },
+      {
+        "text": "Spills are your responsibility too. I need your help because I’m already assisting another customer."
+      }
+      ]
+    },
+    {
+      "id": 15,
+      "queTitle": "",
+      "video": {
+        "id": "video16",
+        "src": "/content/video-library/rass_video15.mp4",
+        "captions": [{
+          "captionSrc": "/content/video-library/captions/rass_video15.vtt",
+          "lang": "en",
+          "label": "English"
+        }]
+      },
+      "options": [{
+        "text": "Watch the ladder closely to see if it starts to shift or move in an unsafe manner."
+      },
+      {
+        "text": "Walk over to the ladder and hold it stable for his coworker."
+      },
+      {
+        "text": "Tell his coworker to be careful because the ladder may shift unexpectedly."
+      },
+      {
+        "text": "Tell his coworker not to climb the ladder because it looks unstable."
+      }
+	]
+	}
+  ],
+  "resources": {
+    "media": {
+      "audio": [],
+      "images": []
+    }
+  }
+}

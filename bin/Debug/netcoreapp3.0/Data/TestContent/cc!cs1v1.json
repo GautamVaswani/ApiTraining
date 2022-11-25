@@ -1,0 +1,316 @@
+{
+  "assessmentName": "Call Summarization 2",
+  "playerType": "DataEntry",
+  "modeType": "call-summarization",
+  "tplType": "CS2",
+  "instructions": "<p role=heading aria-level=3 >Call Summarization 2</p><p>For this test, you will need to listen to information that is provided to you through the computer. We recommend using a headset or a set of quality speakers. You may write notes about each of the stories in the box in the lower half of the screen labeled Notes to help you recall information about the story. </p><p>After each story has been told, follow the on-screen instructions to proceed to a question where you will be asked to choose the alternative that best summarizes that story.</p><p>The information you record in any of the boxes on the screen will later be available to assist you in choosing the correct answer.</p><p>HOW TO RESPOND TO MULTIPLE-CHOICE QUESTION</p><p>With each question there will be four choices labeled A, B, C, and D. You can choose your response in one of three ways.</p><ol><li>You can use your mouse to select your answers</li><li>You can use the up and down arrows to choose your response.</li><li>You can hold down the Alt key and then press either A, B, C, or D.</li></ol>",
+  "disableEmergency": true,
+  "questions": [
+    {
+      "initAudioId": "CS111",
+      "mcqQuestions": [
+        {
+          "questionText": "According to the caller, there was/were_________ men who came into the store to buy beer?",
+          "options": [
+            {
+              "text": "one"
+            },
+            {
+              "text": "two"
+            },
+            {
+              "text": "three"
+            },
+            {
+              "text": "four"
+            }
+          ]
+        },
+        {
+          "questionText": "The party that the men asked the caller to go to with them was said to be:",
+          "options": [
+            {
+              "text": "in progress at the time the men were in the market"
+            },
+            {
+              "text": "starting at 9 p.m."
+            },
+            {
+              "text": "starting at 10 p.m."
+            },
+            {
+              "text": "starting in one hour"
+            }
+          ]
+        },
+        {
+          "questionText": "The caller reported that there was damage to:",
+          "options": [
+            {
+              "text": "A pickup truck's front bumper."
+            },
+            {
+              "text": "A pickup truck's rear bumper."
+            },
+            {
+              "text": "A car's front bumper."
+            },
+            {
+              "text": "A car's rear bumper."
+            }
+          ]
+        },
+        {
+          "questionText": "According to the caller, the party where the suspects will be is located on Kingston:",
+          "options": [
+            {
+              "text": "Way."
+            },
+            {
+              "text": "Road."
+            },
+            {
+              "text": "Court."
+            },
+            {
+              "text": "Drive."
+            }
+          ]
+        },
+        {
+          "questionText": "The car mentioned in this scenario is described as being ________ in color.",
+          "options": [
+            {
+              "text": "Dark blue"
+            },
+            {
+              "text": "Light blue"
+            },
+            {
+              "text": "Dirty red"
+            },
+            {
+              "text": "Shiny red"
+            }
+          ]
+        }
+      ],
+      "emergencyQuestions": [
+        {
+          "delay": 5,
+          "questionText": "A street gang is running after a man to beat him up."
+        }
+      ]
+    },
+    {
+      "initAudioId": "CS112",
+      "mcqQuestions": [
+        {
+          "questionText": "The location of where the suspicious vehicle is located is:",
+          "options": [
+            {
+              "text": "2752 Elder"
+            },
+            {
+              "text": "Next door to 2752 Elder"
+            },
+            {
+              "text": "Across the street from 2752 Elder"
+            },
+            {
+              "text": "Down the block from 2752 Elder"
+            }
+          ]
+        },
+        {
+          "questionText": "According to this caller, the suspicious vehicle is:",
+          "options": [
+            {
+              "text": "Backed up to the garage."
+            },
+            {
+              "text": "Parked in an unknown direction in the driveway."
+            },
+            {
+              "text": "Parked on the street in front of the house."
+            },
+            {
+              "text": "Backed up to the front door of the house."
+            }
+          ]
+        },
+        {
+          "questionText": "According to this caller, the suspicious vehicle has been at the location he indicated for approximately:",
+          "options": [
+            {
+              "text": "One-half hour"
+            },
+            {
+              "text": "One hour"
+            },
+            {
+              "text": "One and-a-half hours"
+            },
+            {
+              "text": "Two hours"
+            }
+          ]
+        },
+        {
+          "questionText": "According to this caller, what kinds of items were being loaded into the vehicle?",
+          "options": [
+            {
+              "text": "Electronic equipment"
+            },
+            {
+              "text": "Suitcases"
+            },
+            {
+              "text": "Power tools"
+            },
+            {
+              "text": "The specific types of items were NOT identified"
+            }
+          ]
+        },
+        {
+          "questionText": "Based upon the information received, what is the most detailed accurate description of the suspicious vehicle?",
+          "options": [
+            {
+              "text": "Blue Chevy van"
+            },
+            {
+              "text": "Dirty brown Chevy van"
+            },
+            {
+              "text": "Blue van, unknown make"
+            },
+            {
+              "text": "Dirty brown van, unknown make"
+            }
+          ]
+        }
+      ],
+      "emergencyQuestions": [
+        {
+          "delay": 5,
+          "questionText": "Man falls off his motorcyle and cut his head."
+        }
+      ]
+    },
+    {
+      "initAudioId": "CS113",
+      "mcqQuestions": [
+        {
+          "questionText": "According to this caller, the accident occurred:",
+          "options": [
+            {
+              "text": "immediately prior to her call"
+            },
+            {
+              "text": "5 minutes before she called"
+            },
+            {
+              "text": "10 minutes before she called"
+            },
+            {
+              "text": "15 minutes before she called"
+            }
+          ]
+        },
+        {
+          "questionText": "According to this caller, the accident occurred near:",
+          "options": [
+            {
+              "text": "Main Street"
+            },
+            {
+              "text": "Stuart Street"
+            },
+            {
+              "text": "Webster Street"
+            },
+            {
+              "text": "Market Street"
+            }
+          ]
+        },
+        {
+          "questionText": "According to this caller, the female passenger in the rear seat of the car is:",
+          "options": [
+            {
+              "text": "Unconscious."
+            },
+            {
+              "text": "Cut in the head."
+            },
+            {
+              "text": "Bleeding."
+            },
+            {
+              "text": "Talking to herself."
+            }
+          ]
+        },
+        {
+          "questionText": "According to this caller, the accident occurred when the car:",
+          "options": [
+            {
+              "text": "Was struck by a truck."
+            },
+            {
+              "text": "Struck a telephone pole."
+            },
+            {
+              "text": "Struck another vehicle"
+            },
+            {
+              "text": "The caller did not specify what happened during the accident."
+            }
+          ]
+        },
+        {
+          "questionText": "The age of the female passenger in the front seat was described as being:",
+          "options": [
+            {
+              "text": "Approximately 10 years of age."
+            },
+            {
+              "text": "Less than 10 years of age."
+            },
+            {
+              "text": "Approximately 15 years of age."
+            },
+            {
+              "text": "The caller did not specify an age for this passenger."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": [
+        {
+          "id": "CS111",
+          "url": "/content/audio-library/call-summarization/CS111.mp3"
+        },
+        {
+          "id": "CS112",
+          "url": "/content/audio-library/call-summarization/CS112.mp3"
+        },
+        {
+          "id": "CS113",
+          "url": "/content/audio-library/call-summarization/CS113.mp3"
+        }
+      ]
+    }
+  },
+  "captions" : {    
+    "CS111":"WEBVTT\n\n1\n00:00:00.150 --> 00:00:02.194\nHi. My name is Samantha black.\n\n2\n00:00:02.550 --> 00:00:08.645\nSamantha as S A M A N T H A\nBlack\n\n5\n00:00:08.910 --> 00:00:11.300\nB L A C K.\n\n6\n00:00:11.880 --> 00:00:13.610\nYou know like the color black.\n\n7\n00:00:14.070 --> 00:00:18.270\nI work at the market on 1 2 7 7 0\n\n9\n00:00:18.930 --> 00:00:21.089\n0 A K in\n\n10\n00:00:21.090 --> 00:00:26.720\nNorth Vale N O R T H V A L E.\n\n13\n00:00:27.420 --> 00:00:28.460\nI'm scared.\n\n14\n00:00:28.740 --> 00:00:30.650\nI only worked here for two days.\n\n15\n00:00:30.960 --> 00:00:32.130\nI tried to call the owner\n\n16\n00:00:32.131 --> 00:00:34.109\nbut there's no answer because I\nforgot he's\n\n17\n00:00:34.110 --> 00:00:35.150\non vacation.\n\n18\n00:00:35.700 --> 00:00:37.430\nThere were two guys here you know.\n\n19\n00:00:37.710 --> 00:00:39.230\nThey came by to buy beer.\n\n20\n00:00:39.630 --> 00:00:41.240\nBoy, they were drunk you know\n\n21\n00:00:41.550 --> 00:00:42.750\none guy paid for the beer\n\n22\n00:00:42.751 --> 00:00:44.090\nwith a personal check.\n\n23\n00:00:44.460 --> 00:00:46.410\nI told my boss that I couldn't take\n\n24\n00:00:46.411 --> 00:00:48.390\nchecks that they got so mad\n\n25\n00:00:48.391 --> 00:00:49.360\nI took the check.\n\n26\n00:00:49.830 --> 00:00:51.720\nI took down the guy's driver's\nlicense\n\n27\n00:00:51.721 --> 00:00:53.390\nnumber and wrote it on the check.\n\n28\n00:00:53.910 --> 00:00:59.690\nIt is E 8 7 4 6 3 5 2.\n\n31\n00:01:00.180 --> 00:01:01.380\nThey even asked me to go\n\n32\n00:01:01.381 --> 00:01:03.360\nwith them to a big party on Kingston\n\n33\n00:01:03.361 --> 00:01:05.580\ncourt that was going to start at 10\no'clock.\n\n34\n00:01:05.730 --> 00:01:07.320\nThat is supposed to have a live band\n\n35\n00:01:07.321 --> 00:01:08.150\nand everything.\n\n36\n00:01:08.570 --> 00:01:10.470\nLook, they just left when\n\n37\n00:01:10.471 --> 00:01:12.420\nthey were leaving they back their\ndirty pickup\n\n38\n00:01:12.421 --> 00:01:14.430\ntruck into a dark blue car in the\nparking\n\n39\n00:01:14.431 --> 00:01:14.900\nlot.\n\n40\n00:01:15.300 --> 00:01:17.490\nThe crash practically tore the\ntruck's bumper\n\n41\n00:01:17.491 --> 00:01:19.599\noff the truck's license plate\n\n42\n00:01:19.600 --> 00:01:23.960\nis 2 U E S 7 3 9\n\n44\n00:01:24.300 --> 00:01:26.490\nand boy is that vehicle really noisy\n\n45\n00:01:26.491 --> 00:01:28.730\nfrom the bumper rubbing up against\nthe tire.\n\n46\n00:01:29.040 --> 00:01:30.050\nPlease help me.\n\n47\n00:01:30.240 --> 00:01:32.070\nI'm afraid I'll get in trouble for\nselling\n\n48\n00:01:32.071 --> 00:01:33.800\nthem the beer and taking the check.\n\n49\n00:01:33.990 --> 00:01:34.725\nWhat should I do?\n",
+    "CS112":"WEBVTT\n\n1\n00:00:00.150 --> 00:00:02.199\nHi. This is Larry Park again\n\n2\n00:00:02.200 --> 00:00:04.400\nL A R R Y P A R K. \n\n3\n00:00:04.401 --> 00:00:06.390\nI know you guys are getting tired\nof hearing\n\n4\n00:00:06.391 --> 00:00:07.010\nfrom me.\n\n5\n00:00:07.200 --> 00:00:09.200\nMy wife says I should mind my own\nbusiness.\n\n6\n00:00:09.870 --> 00:00:19.470\nI live at 2 7 5 2 Elder E L D E R in\nValley Green V A L L E Y G R E E N.\n\n11\n00:00:20.040 --> 00:00:22.460\nMy neighbors across the street are\non vacation.\n\n12\n00:00:22.800 --> 00:00:23.880\nI saw them leave Tuesday\n\n13\n00:00:23.881 --> 00:00:25.719\nwith suitcases should\n\n14\n00:00:25.720 --> 00:00:26.770\nbe no one home.\n\n15\n00:00:27.380 --> 00:00:29.480\nThere's this vehicle a suspicious\n\n16\n00:00:29.481 --> 00:00:31.370\nvehicle backed up to the garage in\n\n17\n00:00:31.371 --> 00:00:32.260\ntheir driveway.\n\n18\n00:00:32.600 --> 00:00:34.570\nTwo guys are loading stuff into a\nvan.\n\n19\n00:00:35.000 --> 00:00:36.950\nI know it's not my neighbors vehicle\nsince\n\n20\n00:00:36.951 --> 00:00:38.590\nthey drive a blue Chevy van\n\n21\n00:00:39.290 --> 00:00:41.150\nWell yeah. You already have my phone\n\n22\n00:00:41.151 --> 00:00:45.660\nnumber but here it is again 9 2 9 7 6 7 0.\n\n25\n00:00:46.100 --> 00:00:47.770\nI know last time I called you\n\n26\n00:00:48.190 --> 00:00:49.670\nyou guys said it was unfounded\n\n27\n00:00:49.671 --> 00:00:50.350\nor something.\n\n28\n00:00:50.780 --> 00:00:52.640\nThat time someone was feeding my\nnext door\n\n29\n00:00:52.641 --> 00:00:53.620\nneighbor's dogs.\n\n30\n00:00:53.990 --> 00:00:55.909\nMy wife said I should mind my own\nbusiness.\n\n31\n00:00:55.910 --> 00:00:56.890\nOh never mind.\n\n32\n00:00:57.170 --> 00:00:58.300\nIt's probably nothing.\n\n33\n00:00:58.520 --> 00:01:00.350\nIt's just that I know that dirty\nbrown van\n\n34\n00:01:00.351 --> 00:01:01.780\ndoesn't belong in this neighborhood.\n\n35\n00:01:02.270 --> 00:01:04.420\nSince they have been there for about\n90 minutes\n\n36\n00:01:04.670 --> 00:01:05.450\nI had time to go over\n\n37\n00:01:05.451 --> 00:01:07.700\nand copy down part of the vehicle\nidentification\n\n38\n00:01:07.701 --> 00:01:09.620\nnumber of the van in case they are\nrobbing the place\n\n39\n00:01:09.621 --> 00:01:10.270\nor something.\n\n40\n00:01:10.550 --> 00:01:20.466\nThe VIN number is 1 R N T A P 6 4 D L J 3 3 4 5 P.\n\n45\n00:01:21.380 --> 00:01:23.360\nMaybe you could check out my\nneighbor's house when you\n\n46\n00:01:23.361 --> 00:01:24.050\nare in the area.\n",
+    "CS113":"WEBVTT\n\n1\n00:00:00.240 --> 00:00:02.240\nMy name is Esther Lopez.\n\n2\n00:00:02.310 --> 00:00:06.929\nEsther E S T H E R Lopez\n\n4\n00:00:06.930 --> 00:00:08.572\nL O P E Z.\n\n5\n00:00:09.810 --> 00:00:11.690\nI live in the town of DarlEY\n\n6\n00:00:11.850 --> 00:00:17.900\nD A R L E Y at 2 3 4 2 1\n\n9\n00:00:18.060 --> 00:00:23.060\nWebster W E B S T E R.\n\n12\n00:00:23.700 --> 00:00:25.790\nHave you had any reports of an\naccident?\n\n13\n00:00:26.430 --> 00:00:27.869\nI don't want to be a busybody\n\n14\n00:00:27.870 --> 00:00:30.000\nbut I think it's important for\npeople to become\n\n15\n00:00:30.001 --> 00:00:30.830\ninvolved.\n\n16\n00:00:31.500 --> 00:00:33.329\nI was at the Market on Main Street\n\n17\n00:00:33.330 --> 00:00:35.420\nloading my groceries into my car.\n\n18\n00:00:35.490 --> 00:00:37.290\nYou know the one on Main Street\n\n19\n00:00:37.291 --> 00:00:39.260\nand not the market on Stewart\nStreet.\n\n20\n00:00:39.630 --> 00:00:41.820\nAnyway I saw this accident happened\n\n21\n00:00:41.821 --> 00:00:43.010\nright in front of me.\n\n22\n00:00:43.290 --> 00:00:45.120\nI waited for ten minutes for someone\n\n23\n00:00:45.121 --> 00:00:46.949\nto show up to help them that\n\n24\n00:00:46.950 --> 00:00:48.089\nnobody has.\n\n25\n00:00:48.090 --> 00:00:49.520\nSo now I'm calling\n\n26\n00:00:50.010 --> 00:00:51.900\nthe driver of the car has a small\ncut\n\n27\n00:00:51.901 --> 00:00:53.760\non his forehead from where it hit\n\n28\n00:00:53.761 --> 00:00:54.760\nthe windshield\n\n29\n00:00:54.780 --> 00:00:56.790\nbut I don't think he is all there if\nyou know\n\n30\n00:00:56.791 --> 00:00:57.620\nwhat I mean.\n\n31\n00:00:57.930 --> 00:00:59.250\nI mean he looks pretty dazed\n\n32\n00:00:59.251 --> 00:01:01.100\nand he keeps talking to himself\n\n33\n00:01:01.350 --> 00:01:03.240\nbut his little girl isn't looking\ntoo good\n\n34\n00:01:03.241 --> 00:01:04.040\nat all.\n\n35\n00:01:04.349 --> 00:01:06.470\nI think she may be hurt pretty\nbadly.\n\n36\n00:01:06.900 --> 00:01:08.399\nThere she is bleeding\n\n37\n00:01:08.400 --> 00:01:10.380\nand all huddled up in a pile of\nempty\n\n38\n00:01:10.381 --> 00:01:12.530\nbeer cans in the front seat of the\ncar.\n\n39\n00:01:13.050 --> 00:01:14.960\nActually she isn't that little\n\n40\n00:01:15.120 --> 00:01:17.260\nprobably about 15 years old\n\n41\n00:01:17.670 --> 00:01:19.679\nand I think the lady in the back\nseat must've\n\n42\n00:01:19.680 --> 00:01:21.570\npassed out because she isn't moving\n\n43\n00:01:21.571 --> 00:01:22.070\nat all.\n\n44\n00:01:22.770 --> 00:01:24.980\nBy the way the car's license plate\nwas\n\n45\n00:01:25.020 --> 00:01:29.170\n4 6 2 U T D. I Saw the\n\n47\n00:01:29.171 --> 00:01:31.270\nwhole thing and no one was wearing a\nseatbelt\n\n48\n00:01:31.271 --> 00:01:32.840\nwhen they hit the telephone pole.\n\n49\n00:01:33.480 --> 00:01:35.309\nLet me tell you I don't think they\nshould let\n\n50\n00:01:35.310 --> 00:01:37.170\nanyone under the age of ten ride in\n\n51\n00:01:37.171 --> 00:01:38.890\na car without a seatbelt on.\n\n52\n00:01:39.480 --> 00:01:41.430\nThere are lots of damn negligent\npeople\n\n53\n00:01:41.431 --> 00:01:41.970\nout there.\n\n54\n00:01:42.790 --> 00:01:44.089\nI know you already have this\n\n55\n00:01:44.090 --> 00:01:48.100\nbut my telephone number is 8 2 9 7 3 4 1.\n\n57\n00:01:48.101 --> 00:01:49.870\nI guess you better send\n\n58\n00:01:49.871 --> 00:01:51.760\nan ambulance out before the guy\ntried to\n\n59\n00:01:51.761 --> 00:01:52.960\ndrive away or something.\n"
+  }
+}

@@ -1,0 +1,89 @@
+{
+    "assessmentName": "Bank Reconciliation",
+    "playerType": "FIB",
+    "id": "FIB",
+    "modeType": "fib-multi",
+    "templateType": "bank-recon",
+    "instructions": "<span role=heading aria-level=3 > For this test, enter the correct response for each question in the appropriate field. Use the mouse and click to move to the next and previous fields. Use the scroll bar to scroll the form up and down if necessary.</span><br><br>When you are done, select Submit from the Header section. Your Test Administrator may have set a time limit for the test. If there is a time limit, you will be told how much time you have. You will also notice a countdown timer on the Header of the screen showing the time remaining.",
+    "questions": [{
+            "id": 1,
+            "label": "Checkbook Balance"
+        },
+        {
+            "id": 2,
+            "label": "Bank Balance"
+        },
+        {
+            "id": 3,
+            "label": "Deduct Bank Charges"
+        },
+        {
+            "id": 4,
+            "label": "Add Outstanding Deposits"
+        },
+        {
+            "id": 5,
+            "label": "Deduct Outstanding Checks"
+        },
+        {
+            "id": 6,
+            "label": "Adjusted Checkbook Balance"
+        },
+        {
+            "id": 7,
+            "label": "Adjusted Bank Balance"
+        }
+    ],
+    "questionData": {
+        "question": "SCENARIO:  In this situation, prepare a bank reconciliation for Computer Services Company on the form below using the following information.",
+        "questionDetails": [{
+                "text": "Bank statement balance:",
+                "value": [
+                    "$11,364.33"
+                ]
+            },
+            {
+                "text": "Checkbook balance:",
+                "value": [
+                    "$12,623.75"
+                ]
+            },
+            {
+                "text": "Bank charges:",
+                "value": [
+                    "service charge, $7.10",
+                    "200 blank checks, $19.90"
+                ]
+            },
+            {
+                "text": "Deposits shown on bank statement:",
+                "value": [
+                    "$500.00, $120.00, $405.20"
+                ]
+            },
+            {
+                "text": "Deposits shown in checkbook:",
+                "value": [
+                    "$500.00, $120.00, $975.00, $405.20, $984.10"
+                ]
+            },
+            {
+                "text": "Checks not shown on bank statement:",
+                "value": [
+                    "$8.45, $76.45, $80.78, $561.00"
+                ]
+            }
+        ],
+        "worksheet-details": {
+            "header": "BANK RECONCILIATION WORKSHEET",
+            "date": "SEPTEMBER 30, 20XX",
+            "preText": "$"
+        }
+    },
+    "resources": {
+        "media": {
+            "images": [],
+            "audio": []
+        }
+    }
+}

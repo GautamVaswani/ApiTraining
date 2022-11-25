@@ -1,0 +1,194 @@
+{
+  "assessmentName": "Character Comparison",
+  "playerType": "MCQ",
+  "lastModified": "06/09/2017",
+  "instruction": "",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly the same as:</p><p>4723 BLACKBERRY</p>",
+      "options": [
+        {
+          "text": "4723 BLACKBERRY"
+        },
+        {
+          "text": "4723 BLUEBERRY"
+        },
+        {
+          "text": "4723 BLACKBERRTY"
+        },
+        {
+          "text": "4723 BLACKBURRY"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly the same as:</p><p>4J84265</p>",
+      "options": [
+        {
+          "text": "4I84256"
+        },
+        {
+          "text": "4JB4265"
+        },
+        {
+          "text": "4J84265"
+        },
+        {
+          "text": "4J48562"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly the same as:</p><p>S26H4268T223ABK</p>",
+      "options": [
+        {
+          "text": "526H4268T323A8K"
+        },
+        {
+          "text": "526IIA268T323ABK"
+        },
+        {
+          "text": "S62HA268T223ABK"
+        },
+        {
+          "text": "S26H4268T223ABK"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly the same as:</p><p>7240 MERCIDIO</p>",
+      "options": [
+        {
+          "text": "7240 PRECIDIO"
+        },
+        {
+          "text": "7240 MERCIDIO"
+        },
+        {
+          "text": "7204 MERCIDIO"
+        },
+        {
+          "text": "7420 MEIRCIO"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly the same as:</p><p>ITEC3694R5PVRP35</p>",
+      "options": [
+        {
+          "text": "1TEO3694P5PVRP35"
+        },
+        {
+          "text": "ITEC3649R5PVRP35"
+        },
+        {
+          "text": "ITEC3694R5PVRP35"
+        },
+        {
+          "text": "ITEC3694R5PVPR35"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly the same as:</p><p>75296 STRIKERIDGE</p>",
+      "options": [
+        {
+          "text": "75296 STRIKERIDGE"
+        },
+        {
+          "text": "75269 STRIKERIDGE"
+        },
+        {
+          "text": "75296 STRIKERRIDGE"
+        },
+        {
+          "text": "75296 STRIKEBRIDGE"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly the same as:</p><p>6P75298</p>",
+      "options": [
+        {
+          "text": "6RT5298"
+        },
+        {
+          "text": "6P75298"
+        },
+        {
+          "text": "P65229B"
+        },
+        {
+          "text": "6P75928"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly the same as:</p><p>6UWZT521869MLQ</p>",
+      "options": [
+        {
+          "text": "6UWZT521869MLO"
+        },
+        {
+          "text": "6UWZT512869MLQ"
+        },
+        {
+          "text": "6UWZT521869MLQ"
+        },
+        {
+          "text": "6UZWT521869MLQ"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly the same as:</p><p>111 BERSCUT</p>",
+      "options": [
+        {
+          "text": "111 BERSCUT"
+        },
+        {
+          "text": "111 BERSCUTT"
+        },
+        {
+          "text": "111 BRESCUT"
+        },
+        {
+          "text": "111 BISCUT"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionText": "<p>From the following four alternatives, choose the one that is exactly the same as:</p><p>8QTV696</p>",
+      "options": [
+        {
+          "text": "BQTV696"
+        },
+        {
+          "text": "8QTV669"
+        },
+        {
+          "text": "8QTV969"
+        },
+        {
+          "text": "8QTV696"
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

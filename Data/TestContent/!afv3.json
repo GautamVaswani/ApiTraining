@@ -1,0 +1,374 @@
+{
+  "assessmentName": "Alpha Filing",
+  "playerType": "AlphaFiling",
+  "instructions": "<p role=heading aria-level=3>Alpha Filing Instructions</p><p>Welcome to the \"Alpha Filing\" test. To navigate from field to field, use the Tab key and Shift-Tab key combination to move backwards and forwards between entry fields. You may also use the mouse to move to any field as desired.</p><p>This test is administered in two parts. When you have completed Part 1, click on Next button to move to Part 2. When finished with Part 2, select Submit to end testing. Your Test Administrator may have set a time limit for the test.  If there is a time limit, you will be told how much time you have.  You will also notice a countdown timer on the status bar showing the time remaining.</p><p>Alpha Filing Part 1</p><p>In this scenario, you work in an office that uses an alphabetic filing system. You will be asked to look at ten record names. Your task is to assign each record the name that it should be filed under.</p><p>The column on the left contains the original record names. To assign each record a file name, highlight the record and type the file name on the folder tab. When complete with Part 1, click on Next to move to Part 2.</p><p>In this scenario, you will be using the Association of Records Managers and Administrators, Inc. (ARMA) standard for alphabetic filing. Please comply with these standards by removing all punctuation within record names and by removing spaces after abbreviations when typing each record.</p><p>Example: Record Name   File Name </p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Roger-Holmes Construction &nbsp;&nbsp;RogerHolmes Construction</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Janice Smith&nbsp;&nbsp;Smith Janice</p><p>In some cases, your Test Administrator may ask you to use special filing rules that are different from the ARMA filing rules. If so, it is important to follow the filing rules set by your Test Administrator, otherwise your answers will be marked as incorrect.</p><p>To view these instructions again, click the Instructions button on the top of the screen.</p><p>Alpha Filing Part 2</p><p>In this scenario, you are presented with ten folders that have already been assigned a file name. Your task is to file each folder in one of the eight file drawers in the middle of the screen.</p><p>To file a folder, click on the appropriate file drawer to open it. The contents of the drawer will appear on the right side of the screen. Using your mouse, grab the folder to be filed and drag it over to the right side of the screen. Drop the folder in the space where the folder should be located in the drawer.</p><p>When finished with Part 2, click Submit to end the test.</p><p>To change your answers in Part 1, click on the Previous button.</p><p>To view these instructions again, click the Instructions button on the top of the screen.</p>",
+  "part1": {
+    "questionDivider": "Modified Name:",
+    "questionHeader": "Original Filename:",
+    "answerHeader": "Modified Filename:",
+    "questions": [
+      {
+        "id": 1,
+        "questionText": "ABC"
+      },
+      {
+        "id": 2,
+        "questionText": "Betty Carnes-Weber"
+      },
+      {
+        "id": 3,
+        "questionText": "James Weber"
+      },
+      {
+        "id": 4,
+        "questionText": "Sister Mary"
+      },
+      {
+        "id": 5,
+        "questionText": "John's Clinic"
+      },
+      {
+        "id": 6,
+        "questionText": "James Weber Jr."
+      },
+      {
+        "id": 7,
+        "questionText": "Northwest Systems"
+      },
+      {
+        "id": 8,
+        "questionText": "Boyd MacGregor"
+      },
+      {
+        "id": 9,
+        "questionText": "Fred Wayne Mack"
+      },
+      {
+        "id": 10,
+        "questionText": "Alt & Fox Electric"
+      }
+    ]
+  },
+  "part2": {
+    "cabinetTitle": "File Cabinet",
+    "dispenserTitle": "To Be Filed",
+    "fileList": {
+      "folders": [
+        "A - C",
+        "D - F",
+        "G - I",
+        "J - L",
+        "M - O",
+        "P - S",
+        "T - V",
+        "W - Z"
+      ],
+      "files": [
+        [
+          {
+            "name": "AAA Movers"
+          },
+          {
+            "name": "Ace Power Company"
+          },
+          {
+            "name": "American Depot"
+          },
+          {
+            "name": "Atlanta Commerce"
+          },
+          {
+            "name": "Binary Enterprise"
+          },
+          {
+            "name": "Blanca Rosa School"
+          },
+          {
+            "name": "Camron Nursery"
+          },
+          {
+            "name": "Cornette Center"
+          },
+          {
+            "name": "Customer Home Design"
+          },
+          {
+            "name": "Czar Dry Cleaning"
+          }
+        ],
+        [
+          {
+            "name": "DMG South"
+          },
+          {
+            "name": "Delaire Catering Service"
+          },
+          {
+            "name": "Delta Pointe Apartments"
+          },
+          {
+            "name": "Dimension One Records"
+          },
+          {
+            "name": "Emerald City Nail Salon"
+          },
+          {
+            "name": "Exotic Foods Limited"
+          },
+          {
+            "name": "Express Office Supplies"
+          },
+          {
+            "name": "Firestone Investing"
+          },
+          {
+            "name": "Freelance Photography"
+          },
+          {
+            "name": "Funco Party Supply"
+          }
+        ],
+        [
+          {
+            "name": "Garage Remodeling"
+          },
+          {
+            "name": "Gazelle Dance Studio"
+          },
+          {
+            "name": "Go Shopping Shoes"
+          },
+          {
+            "name": "Great Beginnings"
+          },
+          {
+            "name": "Herbal Way Foods"
+          },
+          {
+            "name": "Hexus Design Studio"
+          },
+          {
+            "name": "Hughes Engineering"
+          },
+          {
+            "name": "Innovator Interiors"
+          },
+          {
+            "name": "Insurance Auto Alliance"
+          },
+          {
+            "name": "Interwest Airlines"
+          }
+        ],
+        [
+          {
+            "name": "Jaguar Sports"
+          },
+          {
+            "name": "Janeal Morris Catering"
+          },
+          {
+            "name": "Johannesburg National"
+          },
+          {
+            "name": "John Alden Insurance"
+          },
+          {
+            "name": "Just Camping"
+          },
+          {
+            "name": "Knoll Law Group"
+          },
+          {
+            "name": "Kwong Gardening"
+          },
+          {
+            "name": "Liberty Bank"
+          },
+          {
+            "name": "Library Services"
+          },
+          {
+            "name": "Lohman Funeral Home"
+          }
+        ],
+        [
+          {
+            "name": "Mace Retailers"
+          },
+          {
+            "name": "Machado Mortgage Firm"
+          },
+          {
+            "name": "Mardi Gras Party Supply"
+          },
+          {
+            "name": "Murphy Investigators"
+          },
+          {
+            "name": "North Eastern Air Flight"
+          },
+          {
+            "name": "Nostalgia Gifts"
+          },
+          {
+            "name": "Odd Fellows Hardware"
+          },
+          {
+            "name": "Old Republic Mutual"
+          },
+          {
+            "name": "Ortega Cafe"
+          },
+          {
+            "name": "Overnite Delivery"
+          }
+        ],
+        [
+          {
+            "name": "Pacific Pool Service"
+          },
+          {
+            "name": "Papa GinPizza"
+          },
+          {
+            "name": "Park N Pay Gas"
+          },
+          {
+            "name": "Quality Tractors"
+          },
+          {
+            "name": "Quest Media Group"
+          },
+          {
+            "name": "Raphael Group"
+          },
+          {
+            "name": "Rite Roofing"
+          },
+          {
+            "name": "San Carlos School"
+          },
+          {
+            "name": "Sky Tech Automation"
+          },
+          {
+            "name": "Suburban Apartments"
+          }
+        ],
+        [
+          {
+            "name": "Thermo King Heating"
+          },
+          {
+            "name": "Thompson Blinds"
+          },
+          {
+            "name": "Thirteen Sixty Associates"
+          },
+          {
+            "name": "Traffic School Services"
+          },
+          {
+            "name": "Trendy Hair Stylists"
+          },
+          {
+            "name": "Underground Video"
+          },
+          {
+            "name": "Union Bus Lines"
+          },
+          {
+            "name": "Van Guard"
+          },
+          {
+            "name": "Variety Shipping"
+          },
+          {
+            "name": "Viking Lumber"
+          }
+        ],
+        [
+          {
+            "name": "Walker Insurance"
+          },
+          {
+            "name": "Webs Internet Services"
+          },
+          {
+            "name": "Winter Gardens"
+          },
+          {
+            "name": "Wolfe Design"
+          },
+          {
+            "name": "Wolfe Plumbing"
+          },
+          {
+            "name": "Xtra Copy Center"
+          },
+          {
+            "name": "Yamamato Motors"
+          },
+          {
+            "name": "Yates Morgan Insurance"
+          },
+          {
+            "name": "Z Best Books"
+          },
+          {
+            "name": "Zap Pest Control"
+          }
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "id": 1,
+        "questionText": "Borcelli Engineers"
+      },
+      {
+        "id": 2,
+        "questionText": "Grove Yvette"
+      },
+      {
+        "id": 3,
+        "questionText": "Industrial Design"
+      },
+      {
+        "id": 4,
+        "questionText": "King Consulting"
+      },
+      {
+        "id": 5,
+        "questionText": "Overnight Copies"
+      },
+      {
+        "id": 6,
+        "questionText": "Royal Automotive"
+      },
+      {
+        "id": 7,
+        "questionText": "Veteran Cleaners"
+      },
+      {
+        "id": 8,
+        "questionText": "WMI Security"
+      },
+      {
+        "id": 9,
+        "questionText": "Diet Club"
+      },
+      {
+        "id": 10,
+        "questionText": "Franke Bart"
+      }
+    ]
+  },
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

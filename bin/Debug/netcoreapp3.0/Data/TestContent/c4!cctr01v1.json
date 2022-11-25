@@ -1,0 +1,592 @@
+{
+  "assessmentName": "Customer Service Interaction",
+  "playerType": "DataEntry",
+  "modeType": "customer-service-interaction",
+  "instructions": "<b role=heading aria-level=3>CUSTOMER SERVICE INTERACTION TEST</b><br /><br />You are about to start the \"Customer Service Interaction\" test.  For this test, you will need to listen to information that is provided to you through the computer. We recommend using a headset or a set of quality speakers.<br /><br />During this test you will play the role of a customer service agent who is responding to telephone calls for service.  To do this you must first answer the call and enter the caller’s name and telephone number.  When the \"Incoming Call\" button begins flashing and you hear the telephone ringing, click on the button to answer the call.  After the customer provides you with their name and telephone number and you have entered that information in the appropriate fields, click the \"Run Search\" button.<br /><br />Once you have brought up the customer information and at various points throughout the test, you will be presented with three different ways you, as the customer service agent, might respond to the caller.  At those times, you will be asked to select the \"<b>Most effective</b>\" and \"<b>Least effective</b>\" response of the three choices.  Each choice will be presented in a written format and will also have an audio version for you to listen to.  You can listen to the response by clicking on the \"Play Audio\" button next to each response.<br /><br />The \"<b>Most effective</b>\" response is the one which, in general, is most likely to create a good impression of the customer service agent to the caller in terms of communication, politeness, interpersonal interaction, demonstrating sound judgment, and effectively addressing the caller’s issues.<br /><br />The \"<b>Least effective</b>\" response one which, in general, is most likely to create a poor impression of the customer service agent to the caller.<br /><br />If there appears to be more than one most effective or least effective response, then please do your best to choose between them to indicate the very most effective or very least effective response.<br /><br />Please choose one \"<b>Most effective</b>\" response and one \"<b>Least effective</b>\" response by clicking on the appropriate radio buttons.<br /><br />Finally, at any time during this test you may click on the \"Repeat caller’s last statement\" button if you wish to hear the caller’s last comment again.<br /><br />Good luck!",
+  "questions": [
+    {
+      "callType": "service-call",
+      "firstName": "Jane",
+      "lastName": "Nichols",
+      "phoneNo": "528-692-7619",
+      "notes": "Name: Nichols, Jane<br />Prefix: Ms.<br />Address: 941 Fairlawn Drive<br />Telephone: 528-692-7619<br />Payment History: Paid by check, 10 days past due date.<br />Check number: 7436",
+      "mcqQuestions": [
+        {
+          "questionAudioId": "C4201",
+          "responces": [
+            {
+              "responceAudioId": "4201A",
+              "responceText": "Thank you, Ms. Nichols. What's going on?"
+            },
+            {
+              "responceAudioId": "4201B",
+              "responceText": "Thank you, Ms. Nichols. What can I do for you?"
+            },
+            {
+              "responceAudioId": "4201C",
+              "responceText": "Thank you, Ms. Nichols. How can I help you today?"
+            }
+          ]
+        },
+        {
+          "questionAudioId": "C4202",
+          "responces": [
+            {
+              "responceAudioId": "4202A",
+              "responceText": "It's not that easy. I have to look up your connection records first."
+            },
+            {
+              "responceAudioId": "4202B",
+              "responceText": "Let me see what I can do. I need to look up your connection records first."
+            },
+            {
+              "responceAudioId": "4202C",
+              "responceText": "I have to check your connection history first."
+            }
+          ]
+        },
+        {
+          "questionAudioId": "C4203",
+          "responces": [
+            {
+              "responceAudioId": "4203A",
+              "responceText": "You were ten days late on your payment, which is why you were disconnected."
+            },
+            {
+              "responceAudioId": "4203B",
+              "responceText": "You were late on a payment, which is why you were disconnected."
+            },
+            {
+              "responceAudioId": "4203C",
+              "responceText": "Our records show your payment was received ten days late, which is why you were disconnected."
+            }
+          ]
+        },
+        {
+          "questionAudioId": "C4204",
+          "responces": [
+            {
+              "responceAudioId": "4204A",
+              "responceText": "Unfortunately, we are not allowed to give a refund when payment was received late."
+            },
+            {
+              "responceAudioId": "4204B",
+              "responceText": "We cannot refund your money because your payment was received late."
+            },
+            {
+              "responceAudioId": "4204C",
+              "responceText": "If you would have paid when it was due you would not have been charged."
+            }
+          ]
+        },
+        {
+          "questionAudioId": "C4205",
+          "responces": [
+            {
+              "responceAudioId": "4205A",
+              "responceText": "We appreciate your business. Good bye, Ms. Nichols."
+            },
+            {
+              "responceAudioId": "4205B",
+              "responceText": "I am glad that won't be a problem in the future. Good-bye."
+            },
+            {
+              "responceAudioId": "4205C",
+              "responceText": "Hopefully this doesn't happen again, Ms. Nichols. Good-bye."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callType": "product-call",
+      "firstName": "James",
+      "lastName": "Johnson",
+      "phoneNo": "786-427-8917",
+      "notes": "Name: Johnson, James<br />Prefix: Mr.<br />Address: 347 Maple Place<br />Telephone: 786-427-8911<br />History: Purchased Deluxe Model<br />Payment History: Paid by credit card<br />Credit card expiration date: 9/2009",
+      "mcqQuestions": [
+        {
+          "questionAudioId": "C4101",
+          "responces": [
+            {
+              "responceAudioId": "4101A",
+              "responceText": "I have your information in front of me. What's your problem?"
+            },
+            {
+              "responceAudioId": "4101B",
+              "responceText": "How may I assist you today?"
+            },
+            {
+              "responceAudioId": "4101C",
+              "responceText": "What can I do for you?"
+            }
+          ]
+        },
+        {
+          "questionAudioId": "C4102",
+          "responces": [
+            {
+              "responceAudioId": "4102A",
+              "responceText": "Did you break it already? The company wants me to ask, first."
+            },
+            {
+              "responceAudioId": "4102B",
+              "responceText": "Company policy requires me to ask if it is still working—is it?"
+            },
+            {
+              "responceAudioId": "4102C",
+              "responceText": "First let me ask: does the deluxe model you received work?"
+            }
+          ]
+        },
+        {
+          "questionAudioId": "C4103",
+          "responces": [
+            {
+              "responceAudioId": "4103A",
+              "responceText": "Well, I need to know why you want to send it back."
+            },
+            {
+              "responceAudioId": "4103B",
+              "responceText": "Well, then please tell me why you want your money back."
+            },
+            {
+              "responceAudioId": "4103C",
+              "responceText": "Well, if it is still working, then why do you want your money back?"
+            }
+          ]
+        },
+        {
+          "questionAudioId": "C4104",
+          "responces": [
+            {
+              "responceAudioId": "4104A",
+              "responceText": "Sorry, Mr. Johnson, I just need to know."
+            },
+            {
+              "responceAudioId": "4104B",
+              "responceText": "I understand Mr. Johnson, we'll get this taken care of, but I have to know why you want to ship it back."
+            },
+            {
+              "responceAudioId": "4104C",
+              "responceText": "Sorry Mr. Johnson, I'm only following company policy."
+            }
+          ]
+        },
+        {
+          "questionAudioId": "C4105",
+          "responces": [
+            {
+              "responceAudioId": "4105A",
+              "responceText": "That has nothing to do with us. Did you happen to keep the original container?"
+            },
+            {
+              "responceAudioId": "4105B",
+              "responceText": "Okay. Do you still have the original container?"
+            },
+            {
+              "responceAudioId": "4105C",
+              "responceText": "I'm sorry to hear that. Did you keep the original container it came in?"
+            }
+          ]
+        },
+        {
+          "questionAudioId": "C4106",
+          "responces": [
+            {
+              "responceAudioId": "4106A",
+              "responceText": "That's too bad, now you'll have to find something to send it back in. In the meantime, I'll mail you a postage paid return label."
+            },
+            {
+              "responceAudioId": "4106B",
+              "responceText": "That's fine, but it will be up to you to find a container to return the product in. I'll mail you a postage paid return label."
+            },
+            {
+              "responceAudioId": "4106C",
+              "responceText": "That's all right, as long as you can find something to ship it in, I can mail you a postage paid return label that you can add to your shipment."
+            }
+          ]
+        },
+        {
+          "questionAudioId": "C4107",
+          "responces": [
+            {
+              "responceAudioId": "4107A",
+              "responceText": "There's more; I'll need to first verify your address. Is it 347 Maple Place?"
+            },
+            {
+              "responceAudioId": "4107B",
+              "responceText": "Is your address still 347 Maple Place?"
+            },
+            {
+              "responceAudioId": "4107C",
+              "responceText": "Actually, I need to verify that your address is 347 Maple Place."
+            }
+          ]
+        },
+        {
+          "questionAudioId": "C4108",
+          "responces": [
+            {
+              "responceAudioId": "4108A",
+              "responceText": "Good. I assume you know what to do with the return label when you get it."
+            },
+            {
+              "responceAudioId": "4108B",
+              "responceText": "Good. After you receive the return label, put it on the box and send it back."
+            },
+            {
+              "responceAudioId": "4108C",
+              "responceText": "Good. Send the model back to us when you get the return label."
+            }
+          ]
+        },
+        {
+          "questionAudioId": "C4109",
+          "responces": [
+            {
+              "responceAudioId": "4109A",
+              "responceText": "The important thing is that it gets returned to us, then, you'll get your money."
+            },
+            {
+              "responceAudioId": "4109B",
+              "responceText": "The day we receive the returned deluxe model, your credit card will be credited."
+            },
+            {
+              "responceAudioId": "4109C",
+              "responceText": "When we receive it, we'll issue a credit to your credit card."
+            }
+          ]
+        },
+        {
+          "questionAudioId": "C4110",
+          "responces": [
+            {
+              "responceAudioId": "4110A",
+              "responceText": "Okay, that's it; I'm going to hang up. Call again if you have further questions."
+            },
+            {
+              "responceAudioId": "4110B",
+              "responceText": "I'm glad I could be of assistance to you today. If you have more questions, please feel free to call again. Good bye."
+            },
+            {
+              "responceAudioId": "4110C",
+              "responceText": "Okay, then; you should be all set. Have a nice day. Call again if you need to. Bye-bye now."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": [
+        {
+          "id": "C4201",
+          "url": "/content/audio-library/customer-service-interaction/tests/C4201.mp3"
+        },
+        {
+          "id": "4201A",
+          "url": "/content/audio-library/customer-service-interaction/tests/4201A.mp3"
+        },
+        {
+          "id": "4201B",
+          "url": "/content/audio-library/customer-service-interaction/tests/4201B.mp3"
+        },
+        {
+          "id": "4201C",
+          "url": "/content/audio-library/customer-service-interaction/tests/4201C.mp3"
+        },
+        {
+          "id": "C4202",
+          "url": "/content/audio-library/customer-service-interaction/tests/C4202.mp3"
+        },
+        {
+          "id": "4202A",
+          "url": "/content/audio-library/customer-service-interaction/tests/4202A.mp3"
+        },
+        {
+          "id": "4202B",
+          "url": "/content/audio-library/customer-service-interaction/tests/4202B.mp3"
+        },
+        {
+          "id": "4202C",
+          "url": "/content/audio-library/customer-service-interaction/tests/4202C.mp3"
+        },
+        {
+          "id": "C4203",
+          "url": "/content/audio-library/customer-service-interaction/tests/C4203.mp3"
+        },
+        {
+          "id": "4203A",
+          "url": "/content/audio-library/customer-service-interaction/tests/4203A.mp3"
+        },
+        {
+          "id": "4203B",
+          "url": "/content/audio-library/customer-service-interaction/tests/4203B.mp3"
+        },
+        {
+          "id": "4203C",
+          "url": "/content/audio-library/customer-service-interaction/tests/4203C.mp3"
+        },
+        {
+          "id": "C4204",
+          "url": "/content/audio-library/customer-service-interaction/tests/C4204.mp3"
+        },
+        {
+          "id": "4204A",
+          "url": "/content/audio-library/customer-service-interaction/tests/4204A.mp3"
+        },
+        {
+          "id": "4204B",
+          "url": "/content/audio-library/customer-service-interaction/tests/4204B.mp3"
+        },
+        {
+          "id": "4204C",
+          "url": "/content/audio-library/customer-service-interaction/tests/4204C.mp3"
+        },
+        {
+          "id": "C4205",
+          "url": "/content/audio-library/customer-service-interaction/tests/C4205.mp3"
+        },
+        {
+          "id": "4205A",
+          "url": "/content/audio-library/customer-service-interaction/tests/4205A.mp3"
+        },
+        {
+          "id": "4205B",
+          "url": "/content/audio-library/customer-service-interaction/tests/4205B.mp3"
+        },
+        {
+          "id": "4205C",
+          "url": "/content/audio-library/customer-service-interaction/tests/4205C.mp3"
+        },
+        {
+          "id": "C4101",
+          "url": "/content/audio-library/customer-service-interaction/tests/C4101.mp3"
+        },
+        {
+          "id": "4101A",
+          "url": "/content/audio-library/customer-service-interaction/tests/4101A.mp3"
+        },
+        {
+          "id": "4101B",
+          "url": "/content/audio-library/customer-service-interaction/tests/4101B.mp3"
+        },
+        {
+          "id": "4101C",
+          "url": "/content/audio-library/customer-service-interaction/tests/4101C.mp3"
+        },
+        {
+          "id": "C4102",
+          "url": "/content/audio-library/customer-service-interaction/tests/C4102.mp3"
+        },
+        {
+          "id": "4102A",
+          "url": "/content/audio-library/customer-service-interaction/tests/4102A.mp3"
+        },
+        {
+          "id": "4102B",
+          "url": "/content/audio-library/customer-service-interaction/tests/4102B.mp3"
+        },
+        {
+          "id": "4102C",
+          "url": "/content/audio-library/customer-service-interaction/tests/4102C.mp3"
+        },
+        {
+          "id": "C4103",
+          "url": "/content/audio-library/customer-service-interaction/tests/C4103.mp3"
+        },
+        {
+          "id": "4103A",
+          "url": "/content/audio-library/customer-service-interaction/tests/4103A.mp3"
+        },
+        {
+          "id": "4103B",
+          "url": "/content/audio-library/customer-service-interaction/tests/4103B.mp3"
+        },
+        {
+          "id": "4103C",
+          "url": "/content/audio-library/customer-service-interaction/tests/4103C.mp3"
+        },
+        {
+          "id": "C4104",
+          "url": "/content/audio-library/customer-service-interaction/tests/C4104.mp3"
+        },
+        {
+          "id": "4104A",
+          "url": "/content/audio-library/customer-service-interaction/tests/4104A.mp3"
+        },
+        {
+          "id": "4104B",
+          "url": "/content/audio-library/customer-service-interaction/tests/4104B.mp3"
+        },
+        {
+          "id": "4104C",
+          "url": "/content/audio-library/customer-service-interaction/tests/4104C.mp3"
+        },
+        {
+          "id": "C4105",
+          "url": "/content/audio-library/customer-service-interaction/tests/C4105.mp3"
+        },
+        {
+          "id": "4105A",
+          "url": "/content/audio-library/customer-service-interaction/tests/4105A.mp3"
+        },
+        {
+          "id": "4105B",
+          "url": "/content/audio-library/customer-service-interaction/tests/4105B.mp3"
+        },
+        {
+          "id": "4105C",
+          "url": "/content/audio-library/customer-service-interaction/tests/4105C.mp3"
+        },
+        {
+          "id": "C4106",
+          "url": "/content/audio-library/customer-service-interaction/tests/C4106.mp3"
+        },
+        {
+          "id": "4106A",
+          "url": "/content/audio-library/customer-service-interaction/tests/4106A.mp3"
+        },
+        {
+          "id": "4106B",
+          "url": "/content/audio-library/customer-service-interaction/tests/4106B.mp3"
+        },
+        {
+          "id": "4106C",
+          "url": "/content/audio-library/customer-service-interaction/tests/4106C.mp3"
+        },
+        {
+          "id": "C4107",
+          "url": "/content/audio-library/customer-service-interaction/tests/C4107.mp3"
+        },
+        {
+          "id": "4107A",
+          "url": "/content/audio-library/customer-service-interaction/tests/4107A.mp3"
+        },
+        {
+          "id": "4107B",
+          "url": "/content/audio-library/customer-service-interaction/tests/4107B.mp3"
+        },
+        {
+          "id": "4107C",
+          "url": "/content/audio-library/customer-service-interaction/tests/4107C.mp3"
+        },
+        {
+          "id": "C4108",
+          "url": "/content/audio-library/customer-service-interaction/tests/C4108.mp3"
+        },
+        {
+          "id": "4108A",
+          "url": "/content/audio-library/customer-service-interaction/tests/4108A.mp3"
+        },
+        {
+          "id": "4108B",
+          "url": "/content/audio-library/customer-service-interaction/tests/4108B.mp3"
+        },
+        {
+          "id": "4108C",
+          "url": "/content/audio-library/customer-service-interaction/tests/4108C.mp3"
+        },
+        {
+          "id": "C4109",
+          "url": "/content/audio-library/customer-service-interaction/tests/C4109.mp3"
+        },
+        {
+          "id": "4109A",
+          "url": "/content/audio-library/customer-service-interaction/tests/4109A.mp3"
+        },
+        {
+          "id": "4109B",
+          "url": "/content/audio-library/customer-service-interaction/tests/4109B.mp3"
+        },
+        {
+          "id": "4109C",
+          "url": "/content/audio-library/customer-service-interaction/tests/4109C.mp3"
+        },
+        {
+          "id": "C4110",
+          "url": "/content/audio-library/customer-service-interaction/tests/C4110.mp3"
+        },
+        {
+          "id": "4110A",
+          "url": "/content/audio-library/customer-service-interaction/tests/4110A.mp3"
+        },
+        {
+          "id": "4110B",
+          "url": "/content/audio-library/customer-service-interaction/tests/4110B.mp3"
+        },
+        {
+          "id": "4110C",
+          "url": "/content/audio-library/customer-service-interaction/tests/4110C.mp3"
+        }
+      ]
+    }
+  },
+  "captions" : {
+    "product-call":"WEBVTT\n\n1\n00:00:00.560 --> 00:00:02.849\nProduct center please state your\nname\n\n2\n00:00:02.850 --> 00:00:04.740\nand telephone number so that we may\nbetter\n\n3\n00:00:04.741 --> 00:00:05.740\nserve your needs.\n",
+    "service-call":"WEBVTT\n\n1\n00:00:00.510 --> 00:00:02.580\nService center in order to better\nserve\n\n2\n00:00:02.581 --> 00:00:03.540\nyou may we have your name\n\n3\n00:00:03.541 --> 00:00:04.379\nand telephone number.\n",
+    "4101A":"WEBVTT\n\n1\n00:00:00.560 --> 00:00:02.479\nI have your information in front of\nme.\n\n2\n00:00:02.580 --> 00:00:03.300\nWhat's your problem?\n",
+    "4101B":"WEBVTT\n\n1\n00:00:00.240 --> 00:00:01.650\nHow may I assist you today?\n",
+    "4101C":"WEBVTT\n\n1\n00:00:00.330 --> 00:00:01.330\nWhat can I do for you?\n",
+    "4102A":"WEBVTT\n\n1\n00:00:00.120 --> 00:00:01.169\nDid you break it already?\n\n2\n00:00:01.170 --> 00:00:02.880\nThe company wants me to ask first.\n",
+    "4102B":"WEBVTT\n\n1\n00:00:00.240 --> 00:00:02.100\nCompany policy requires me to ask\n\n2\n00:00:02.101 --> 00:00:03.200\nif it is still working.\n\n3\n00:00:03.450 --> 00:00:03.675\nIs it?\n",
+    "4102C":"WEBVTT\n\n1\n00:00:00.150 --> 00:00:01.289\nFirst let me ask,\n\n2\n00:00:01.290 --> 00:00:03.040\nDoes the deluxe bottle you received work?\n",
+    "4103A":"WEBVTT\n\n1\n00:00:00.120 --> 00:00:01.980\nWell, I need to know why you want to\n\n2\n00:00:01.981 --> 00:00:02.524\nsend it back?\n",
+    "4103B":"WEBVTT\n\n1\n00:00:00.120 --> 00:00:02.030\nWell then please tell me why you\nwant your money back?\n",
+    "4103C":"WEBVTT\n\n1\n00:00:00.390 --> 00:00:02.339\nWell if it's still working\n\n2\n00:00:02.340 --> 00:00:03.650\nthen why do you want your money back?\n",
+    "4104A":"WEBVTT\n\n1\n00:00:00.390 --> 00:00:01.820\nSorry Mr. Johnson.\n\n2\n00:00:02.009 --> 00:00:02.970\nI just need to know.\n",
+    "4104B":"WEBVTT\n\n1\n00:00:01.050 --> 00:00:02.070\nI understand Mr.\n\n2\n00:00:02.071 --> 00:00:04.110\nJohnson will get this taken care\n\n3\n00:00:04.111 --> 00:00:05.970\nof. But I have to know why you want\nto\n\n4\n00:00:05.971 --> 00:00:06.630\nship it back.\n",
+    "4104C":"WEBVTT\n\n1\n00:00:00.540 --> 00:00:02.490\nSorry Mr. Johnson I'm only\n\n2\n00:00:02.491 --> 00:00:03.830\nfollowing company policy.\n",
+    "4105A":"WEBVTT\n\n1\n00:00:00.690 --> 00:00:01.770\nThat has nothing to do\n\n2\n00:00:01.771 --> 00:00:02.540\nwith us.\n\n3\n00:00:02.730 --> 00:00:04.680\nDid you happen to keep the original container?\n",
+    "4105B":"WEBVTT\n\n1\n00:00:00.410 --> 00:00:01.050\nOK.\n\n2\n00:00:01.320 --> 00:00:02.991\nDo you still have the original container?\n",
+    "4106C":"WEBVTT\n\n1\n00:00:00.330 --> 00:00:01.270\nThat's all right.\n\n2\n00:00:01.380 --> 00:00:03.449\nAs long as you can find something to\nship it in.\n\n3\n00:00:03.450 --> 00:00:05.310\nI can mail you a postage paid return\n\n4\n00:00:05.311 --> 00:00:07.020\nlabel that you can add to your shipment.\n",
+    "4106A":"WEBVTT\n\n1\n00:00:00.120 --> 00:00:01.109\nThat's too bad.\n\n2\n00:00:01.110 --> 00:00:02.940\nNow you'll have to find something to\nsend it back\n\n3\n00:00:02.941 --> 00:00:04.520\nin. In the meantime\n\n4\n00:00:04.950 --> 00:00:06.600\nI'll mail you postage paid return label.\n",
+    "4107A":"WEBVTT\n\n1\n00:00:00.810 --> 00:00:01.700\nThere's more.\n\n2\n00:00:02.130 --> 00:00:04.400\nI need to first verify your address.\n\n3\n00:00:04.620 --> 00:00:06.977\nIs it 3 4 7 Maple place\n",
+    "4106B":"WEBVTT\n\n1\n00:00:01.230 --> 00:00:02.120\nThat's fine.\n\n2\n00:00:02.430 --> 00:00:04.320\nBut it will be up to you to find a\ncontainer\n\n3\n00:00:04.321 --> 00:00:05.720\nto return the product in.\n\n4\n00:00:06.060 --> 00:00:08.399\nI'll mail you a postage paid return label\n",
+    "4108B":"WEBVTT\n\n1\n00:00:00.750 --> 00:00:01.310\nGood!\n\n2\n00:00:01.650 --> 00:00:03.470\nAfter you received the return label,\n\n3\n00:00:03.540 --> 00:00:04.559\nput it on the box\n\n4\n00:00:04.560 --> 00:00:05.400\nand send it back.\n",
+    "4108A":"WEBVTT\n\n1\n00:00:00.270 --> 00:00:00.920\nGood.\n\n2\n00:00:01.260 --> 00:00:02.520\nI assume you know what to do\n\n3\n00:00:02.521 --> 00:00:04.080\nwith the return label when you get it.\n",
+    "4107C":"WEBVTT\n\n1\n00:00:00.120 --> 00:00:00.890\nActually,\n\n2\n00:00:01.140 --> 00:00:03.060\nI need to verify that your address\nis \n\n3\n00:00:03.061 --> 00:00:04.500\n3 4 7 Maple Place.\n",
+    "4107B":"WEBVTT\n\n1\n00:00:00.810 --> 00:00:02.800\nIs your address still 3 4 7\n\n2\n00:00:02.801 --> 00:00:04.182\n Maple Place?\n",
+    "4109C":"WEBVTT\n\n1\n00:00:00.090 --> 00:00:01.370\nWhen we receive it,\n\n2\n00:00:01.440 --> 00:00:03.380\nwill issue a credit to your credit card.\n",
+    "4109A":"WEBVTT\n\n1\n00:00:00.150 --> 00:00:02.070\nThe important thing is that it gets\nreturned to\n\n2\n00:00:02.071 --> 00:00:02.690\nus.\n\n3\n00:00:02.880 --> 00:00:04.140\nThen you'll get your money.\n",
+    "4105C":"WEBVTT\n\n1\n00:00:00.630 --> 00:00:01.940\nI'm sorry to hear that.\n\n2\n00:00:02.040 --> 00:00:04.114\nDid you keep the original container\nit came in? \n",
+    "4109B":"WEBVTT\n\n1\n00:00:00.180 --> 00:00:02.190\nThe day we receive the return deluxe\n\n2\n00:00:02.191 --> 00:00:04.230\nmodel, your credit card will be credited.\n",
+    "4110B":"WEBVTT\n\n1\n00:00:00.270 --> 00:00:02.600\nI'm glad I could be of assistance to\nyou today.\n\n2\n00:00:02.880 --> 00:00:04.770\nIf you have more questions please\nfeel\n\n3\n00:00:04.771 --> 00:00:06.720\nfree to call again.\n",
+    "4108C":"WEBVTT\n\n1\n00:00:00.600 --> 00:00:01.130\nGood.\n\n2\n00:00:01.410 --> 00:00:03.240\nSend the model back to us when you\nget the\n\n3\n00:00:03.241 --> 00:00:04.020\nreturn label.\n",
+    "4110C":"WEBVTT\n\n1\n00:00:00.210 --> 00:00:01.040\nOK then,\n\n2\n00:00:01.320 --> 00:00:02.510\nyou should be all set.\n\n3\n00:00:02.880 --> 00:00:04.010\nHave a nice day.\n\n4\n00:00:04.260 --> 00:00:05.690\nCall again if you need to.\n\n5\n00:00:06.000 --> 00:00:06.660\nBye bye now.\n",
+    "4110A":"WEBVTT\n\n1\n00:00:00.150 --> 00:00:01.490\nOK that's it.\n\n2\n00:00:01.740 --> 00:00:02.900\nI'm going to hang up.\n\n3\n00:00:03.120 --> 00:00:04.990\nCall again if you have further questions.\n",
+    "4201A":"WEBVTT\n\n1\n00:00:00.240 --> 00:00:01.430\nThank you Miss. Nichols.\n\n2\n00:00:01.590 --> 00:00:02.235\nWhat's going on?\n",
+    "4202B":"WEBVTT\n\n1\n00:00:00.600 --> 00:00:02.030\nLet me see what I can do.\n\n2\n00:00:02.430 --> 00:00:04.610\nI need to look up your connection\nrecords first.\n",
+    "4201B":"WEBVTT\n\n1\n00:00:00.090 --> 00:00:01.360\nThank you Ms. NICHOLS.\n\n2\n00:00:01.560 --> 00:00:02.502\nWhat can I do for you?\n",
+    "4202A":"WEBVTT\n\n1\n00:00:00.810 --> 00:00:02.000\nIt's not that easy.\n\n2\n00:00:02.250 --> 00:00:03.760\nI have to look up your connection\nrecords first.\n",
+    "4204B":"WEBVTT\n\n1\n00:00:00.390 --> 00:00:01.859\nWe cannot refund your money.\n\n2\n00:00:01.860 --> 00:00:03.720\nBecause your payment was received late.\n",
+    "4203B":"WEBVTT\n\n1\n00:00:00.570 --> 00:00:02.490\nYou were late on a payment which is\n\n2\n00:00:02.491 --> 00:00:03.720\nwhy you were disconnected.\n",
+    "4201C":"WEBVTT\n\n1\n00:00:00.600 --> 00:00:01.810\nThank you Miss Nichols.\n\n2\n00:00:01.950 --> 00:00:02.978\nHow can I help you today?\n",
+    "4203A":"WEBVTT\n\n1\n00:00:00.360 --> 00:00:02.489\nYou were ten days late on your\npayment\n\n2\n00:00:02.490 --> 00:00:03.990\nwhich is why you were disconnected.\n",
+    "4204A":"WEBVTT\n\n1\n00:00:00.480 --> 00:00:01.499\nUnfortunately,\n\n2\n00:00:01.500 --> 00:00:03.360\nwe are not allowed to give a refund\nwhen\n\n3\n00:00:03.361 --> 00:00:04.800\npayment was received late.\n",
+    "4203C":"WEBVTT\n\n1\n00:00:00.670 --> 00:00:02.629\nOur record show your payment was\nreceived\n\n2\n00:00:02.630 --> 00:00:03.800\n10 days late.\n\n3\n00:00:03.870 --> 00:00:05.340\nWhich is why you were disconnected.\n",
+    "4205A":"WEBVTT\n\n1\n00:00:00.660 --> 00:00:02.210\nWe appreciate your business.\n\n2\n00:00:02.370 --> 00:00:03.440\nGood bye Miss Nichols.\n",
+    "4202C":"WEBVTT\n\n1\n00:00:00.120 --> 00:00:02.220\nI have to check your connection\nhistory first.\n",
+    "4205B":"WEBVTT\n\n1\n00:00:00.690 --> 00:00:03.810\nI'm glad that won't be a problem in\nthe future. Good-bye.\n",
+    "4205C":"WEBVTT\n\n1\n00:00:00.360 --> 00:00:02.159\nHopefully this doesn't happen again\nMiss.\n\n2\n00:00:02.160 --> 00:00:03.540\nNichols. Good-bye.\n",
+    "4204C":"WEBVTT\n\n1\n00:00:00.120 --> 00:00:01.950\nIf you would have paid when it was\ndue you\n\n2\n00:00:01.951 --> 00:00:03.120\nwould not have been charged.\n",
+    "C4101":"WEBVTT\n\n1\n00:00:00.180 --> 00:00:01.860\nMy name is James Johnson\n\n2\n00:00:02.250 --> 00:00:06.060\nJ O H N S O N\n\n4\n00:00:06.180 --> 00:00:11.130\nand my telephone number is 7 8 6 4 2 7 8 9 1 1.\n",
+    "C4102":"WEBVTT\n\n1\n00:00:00.120 --> 00:00:01.190\nAbout a month ago,\n\n2\n00:00:01.230 --> 00:00:02.600\nI ordered your deluxe model.\n\n3\n00:00:02.850 --> 00:00:03.779\nI got it last week\n\n4\n00:00:03.780 --> 00:00:05.600\nbut I decided I don't want it\nanymore.\n\n5\n00:00:05.910 --> 00:00:07.010\nHow do I get my money back?\n",
+    "C4103":"WEBVTT\n\n1\n00:00:00.120 --> 00:00:02.249\nYes, the deluxe model works.\n\n2\n00:00:02.250 --> 00:00:02.750\nNow what.\n",
+    "C4105":"WEBVTT\n\n1\n00:00:00.260 --> 00:00:00.950\nOK.\n\n2\n00:00:01.050 --> 00:00:03.239\nWhile I've had a lot of expenses for\nmy kids schooling\n\n3\n00:00:03.240 --> 00:00:03.950\nrecently\n\n4\n00:00:04.070 --> 00:00:05.970\nand I can't afford to keep this product.\n",
+    "C4104":"WEBVTT\n\n1\n00:00:00.180 --> 00:00:01.610\nMIND YOUR OWN BUSINESS.\n\n2\n00:00:01.650 --> 00:00:03.359\nI'll ship you back the deluxe model.\n\n3\n00:00:03.360 --> 00:00:04.950\nBut, I want my credit card credited.\n",
+    "C4106":"WEBVTT\n\n1\n00:00:00.120 --> 00:00:02.250\nNo. I threw the container up the day\nI got\n",
+    "C4108":"WEBVTT\n\n1\n00:00:00.180 --> 00:00:01.570\nYes, that's correct.\n",
+    "C4107":"WEBVTT\n\n1\n00:00:00.090 --> 00:00:01.520\nI appreciate all of your help.\n\n2\n00:00:01.590 --> 00:00:02.880\nDo you need anything else from me?\n",
+    "C4110":"WEBVTT\n\n1\n00:00:00.060 --> 00:00:01.740\nGreat. That's all I wanted to hear.\n",
+    "C4109":"WEBVTT\n\n1\n00:00:00.170 --> 00:00:01.670\nI paid by credit card.\n\n2\n00:00:01.860 --> 00:00:03.690\nAfter I do it you asked one can you\n\n3\n00:00:03.691 --> 00:00:04.760\ncredit my credit card.\n",
+    "C4201":"WEBVTT\n\n1\n00:00:00.330 --> 00:00:02.570\nThe names Nichols Jane Nichols\n\n2\n00:00:02.670 --> 00:00:04.499\nN I C H O L S.\n\n3\n00:00:04.500 --> 00:00:06.350\n My phone number is\n\n4\n00:00:06.420 --> 00:00:09.900\n5 2 8 6 9 2 7 6 1 9.\n",
+    "C4202":"WEBVTT\n\n1\n00:00:00.240 --> 00:00:01.829\nI got charged a reconnection fee\n\n2\n00:00:01.830 --> 00:00:02.880\nand I want my money back.\n",
+    "C4203":"WEBVTT\n\n1\n00:00:00.090 --> 00:00:01.580\nWhatever it takes to get this done.\n",
+    "C4204":"WEBVTT\n\n1\n00:00:00.150 --> 00:00:01.770\nIt was disconnected for only a day\n\n2\n00:00:01.771 --> 00:00:03.420\nor two. Can you refund my money.\n",
+    "C4205":"WEBVTT\n\n1\n00:00:00.270 --> 00:00:02.540\nWell, I guess I was really late\nmaking my payment.\n\n2\n00:00:02.550 --> 00:00:03.770\nI'll never do that again.\n\n3\n00:00:03.840 --> 00:00:05.730\nI appreciate you're considering it.\n"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "assessmentName": "Decision Making",
+  "playerType": "DataEntry",
+  "modeType": "decision-making",
+  "questionIntro": [
+    [
+      "",
+      "Please make your choice using the following rules:"
+    ],
+    [
+      "Police",
+      "Police Department is dispatched when someone is attempting or threatening to physically harm another person or has actually physically harmed another person, or when a person causes or is in the process of causing harm to another person’s property."
+    ],
+    [
+      "Fire",
+      "Fire Department is dispatched, when there are the immediate signs of a fire in progress (such as flames or smoke), when a fire alarm is sounded, or when a person who is trapped or confined needs to be rescued or released."
+    ],
+    [
+      "EMS",
+      "Emergency Medical Service is dispatcehd when there is an emergency medical condition requiring intervention by medically trained personnel."
+    ],
+    [
+      "Utility",
+      "Public Utility is dispatched when there is a problem associated with malfunctioning or broken public water systems, electric power systems (including, but not limited to, electrical power lines, streetlights, and traffic signals), natural gas systems used for home heating, or blocked sewer drainpipes."
+    ]
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "quetext": "Young girl fell off a six foot fence and broke her leg."
+    },
+    {
+      "id": "2",
+      "quetext": "Strong smell of smoke in an elementary school. "
+    },
+    {
+      "id": "3",
+      "quetext": "Electrical power not working in half of the city."
+    },
+    {
+      "id": "4",
+      "quetext": "Brick thrown through jewelry store window."
+    },
+    {
+      "id": "5",
+      "quetext": "Woman cuts herself while cleaning fish."
+    },
+    {
+      "id": "6",
+      "quetext": "Woman has hand caught in home garbage disposal."
+    },
+    {
+      "id": "7",
+      "quetext": "Woman threatens to cut her boyfriend with a piece of broken glass."
+    },
+    {
+      "id": "8",
+      "quetext": "There is no water flowing to the houses south of Main Street."
+    },
+    {
+      "id": "9",
+      "quetext": "Woman cuts herself with a kitchen knife."
+    },
+    {
+      "id": "10",
+      "quetext": "A street gang is running after a man to beat him up."
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

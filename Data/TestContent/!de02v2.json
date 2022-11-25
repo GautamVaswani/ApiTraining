@@ -1,0 +1,336 @@
+{
+  "assessmentName": "Data Entry 2: Inventory",
+  "playerType": "DataEntry",
+  "modeType": "vendor-inventory-invoice",
+  "subType": "inventory",
+  "timeLimit": 5,
+  "instructions": " <span role=heading aria-level=3 > You are about to start the \"Data Entry\" test.  For this test, you will need to use the data sheet presented on the screen. </span><br/><br/>While you may correct errors within a record, you will not receive credit for Backspace, Delete, and Arrow keystrokes. Press ENTER or TAB after typing in each field (to advance to the next field or the next record). You can use Shift-TAB to go back to the previous field. You can also use the mouse to go to any field; however, doing so will slow you down. <br/><br/>Continue data entry for the full test duration. Your score will be based on the time allowed for the test. <br/><br/>>Unless otherwise instructed, you will be allowed five minutes to complete this test. The timer will begin with your first keystroke. You will notice a countdown timer on the Header of the screen showing the time remaining.",
+  "questions": [
+    [
+      "93213",
+      "PAPER",
+      "NX4342",
+      "HIGH-SENSITIVITY PAPER",
+      "45320",
+      "4.49"
+    ],
+    [
+      "35265",
+      "PAPER",
+      "NX1851",
+      "50-SHEET LEGAL-RULED PAD",
+      "74514",
+      "5.49"
+    ],
+    [
+      "68128",
+      "ACCESSORY",
+      "NX9242",
+      "PLASTIC CLIPBOARD",
+      "13028",
+      "1.99"
+    ],
+    [
+      "14789",
+      "NOTEBOOK",
+      "NX9353",
+      "PROJECT PLANNER",
+      "40865",
+      "1.79"
+    ],
+    [
+      "53023",
+      "NOTEBOOK",
+      "NX1932",
+      "SPIRAL-BOUND 85 NOTEBOOK",
+      "47427",
+      "0.99"
+    ],
+    [
+      "90831",
+      "PAPER",
+      "NX4785",
+      "LETTER SIZE TYPING PAPER-100",
+      "21270",
+      "10.05"
+    ],
+    [
+      "86715",
+      "NOTEBOOK",
+      "NX2976",
+      "COLLEGE-RULED FILLER PAPER",
+      "98238",
+      "3.05"
+    ],
+    [
+      "97065",
+      "ACCESSORY",
+      "NX7563",
+      "10S RECYCLED SELF-STICK NOTES",
+      "96137",
+      "3.95"
+    ],
+    [
+      "82091",
+      "ACCESSORY",
+      "NX5841",
+      "TWO-POCKET REPORT COVERS",
+      "75428",
+      "2.25"
+    ],
+    [
+      "36127",
+      "ACCESSORY",
+      "NX8279",
+      "25 COLOR PORTFOLIOS",
+      "53129",
+      "5.35"
+    ],
+    [
+      "74713",
+      "ACCESSORY",
+      "NX1452",
+      "GRAY NO. 10 ENVELOPES",
+      "63720",
+      "2.45"
+    ],
+    [
+      "53425",
+      "ACCESSORY",
+      "NX8941",
+      "EXECUTIVE RING BINDER",
+      "82180",
+      "12.19"
+    ],
+    [
+      "74054",
+      "ACCESSORY ",
+      "NX4108",
+      "CUSTOM PRESENTATION BOOK",
+      "97201",
+      "2.59"
+    ],
+    [
+      "29421",
+      "ACCESSORY",
+      "NX1981",
+      "HIDDEN DIVIDERS-50",
+      "49186",
+      "3.49"
+    ],
+    [
+      "92024",
+      "ACCESSORY",
+      "NX3851",
+      "DOCUMENT LAMINATOR",
+      "84184",
+      "189.95"
+    ],
+    [
+      "45828",
+      "ACCESSORY",
+      "NX4787",
+      "7M CLASSIFICATION FOLDERS",
+      "24324",
+      "12.99"
+    ],
+    [
+      "67910",
+      "ACCESSORY",
+      "NX5132",
+      "MANILA FILE  POCKETS",
+      "78020",
+      "4.99"
+    ],
+    [
+      "26513",
+      "ACCESSORY",
+      "NX3012",
+      "25 HANGING FOLDERS",
+      "98214",
+      "4.99"
+    ],
+    [
+      "37213",
+      "ACCESSORY",
+      "NX1962",
+      "4 PLASTIC STORAGE CONTAINERS",
+      "20109",
+      "9.99"
+    ],
+    [
+      "67329",
+      "ACCESSORY",
+      "NX9341",
+      "LEATHER EXPANDING FILE",
+      "92382",
+      "6.95"
+    ],
+    [
+      "18260",
+      "ACCESSORY",
+      "NX5120",
+      "SUPREME MESSAGE BOOK",
+      "71823",
+      "14.29"
+    ],
+    [
+      "69316",
+      "ACCESSORY",
+      "NX5824",
+      "500-PAGE PETTY CASH PAD",
+      "80532",
+      "3.15"
+    ],
+    [
+      "19258",
+      "LABELS",
+      "NX9261",
+      "COLOR CODING FILE LABELS",
+      "72348",
+      "2.99"
+    ],
+    [
+      "45284",
+      "ACCESSORY",
+      "NX3701",
+      "ROUND HEAD FASTENERS",
+      "68306",
+      "1.99"
+    ],
+    [
+      "48512",
+      "CLIPS",
+      "NX1861",
+      "LARGE MAGNETIC BULLDOG CLIPS",
+      "58315",
+      "0.89"
+    ],
+    [
+      "87323",
+      "ACCESSORY",
+      "NX8372",
+      "PREMIUM RUBBER BANDS-300",
+      "13750",
+      "0.59"
+    ],
+    [
+      "67561",
+      "PINS",
+      "NX3416",
+      "70-ASSORTED PUSH PINS",
+      "83023",
+      "0.79"
+    ],
+    [
+      "47528",
+      "ACCESSORY",
+      "NX2902",
+      "5 STICKY BACK PICTURE HANGERS",
+      "38740",
+      "3.19"
+    ],
+    [
+      "95079",
+      "STAPLER",
+      "NX8342",
+      "STANDARD STAPLER-BLACK",
+      "59329",
+      "25.49"
+    ],
+    [
+      "37819",
+      "SCISSORS",
+      "NX2642",
+      "2G STAINLESS STEEL SCISSORS",
+      "25101",
+      "3.55"
+    ],
+    [
+      "91639",
+      "TRIMMER",
+      "NX6417",
+      "PAPER TRIMMER WITH SAFETY LOCK",
+      "42153",
+      "21.95"
+    ],
+    [
+      "87920",
+      "ACCESSORY",
+      "NX4317",
+      "HEAVY DUTY PAPER PUNCH",
+      "13750",
+      "19.95"
+    ],
+    [
+      "16319",
+      "TAPE",
+      "NX9831",
+      "MAGIC TAPE WITH DISPENSER-4 PACK",
+      "59232",
+      "0.59"
+    ],
+    [
+      "46125",
+      "ACCESSORY",
+      "NX8018",
+      "10-PACK INVISIBLE TAPE SET",
+      "70530",
+      "2.95"
+    ],
+    [
+      "92130",
+      "ACCESSORY",
+      "NX4927",
+      "CARTON SEALING TAPE 3-PACK",
+      "23286",
+      "3.99"
+    ],
+    [
+      "96076",
+      "SCALE",
+      "NX6282",
+      "RATE CALCULATING SCALE",
+      "83413",
+      "89.54"
+    ],
+    [
+      "98518",
+      "MAILER",
+      "NX9751",
+      "DISK MAILERS 6-PACK",
+      "31430",
+      "2.19"
+    ],
+    [
+      "79079",
+      "ACCESSORY",
+      "NX9302",
+      "S57 OFFICE PRODUCTS STAMP",
+      "31423",
+      "12.59"
+    ],
+    [
+      "53247",
+      "ACCESSORY",
+      "NX7212",
+      "NUMBERING MACHINE",
+      "79528",
+      "26.95"
+    ],
+    [
+      "72813",
+      "NOTEBOOK",
+      "NX9727",
+      "WEEKLY APPOINTMENT BOOK",
+      "85262",
+      "9.99"
+    ]
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "assessmentName": "Cross Referencing (Audio)",
+  "playerType": "DataEntry",
+  "modeType": "cross-referencing",
+  "instructions": "<span role=heading aria-level=3 >Cross-Referencing </span> <br/><br/>The following is a test of your ability to use information from a list. Using the reference list of names, addresses, and telephone numbers on the right side of the screen, enter the correct information about a person as requested by the computer. Like a telephone book, names are listed in alphabetical order according to people's last names. For example, if the directory lists a person's name as \"Smith, Adam\" then their first name is \"Adam\" and their last name is \"Smith.\" You might have to use the scroll bar on the right side of the list to view the entire list. <br/><br/> You will be asked questions about the directory and you should enter the requested information into the box provided on the screen. <br/><br/>In the questions, names are always given with the first name first. For example, if you see the question, \"What is the telephone number of John Smith,\" then John is the first name and Smith is the last name. <br/><br/>Enter names by first, then last name. Data entered will be scored for accuracy. <br/><br/>You will also need to respond to any emergency messages that appear in the bottom right corner of the screen by left clicking your mouse over the agency to be dispatched. Failing to respond to a decision-making message within 15 seconds after the message first appears will result in a lower score.<p class='aria-only'>Press Alt+s to pause the background audio while accessing Emergency box. Press Alt+r to resume the background audio.</p>",
+  "questions": [
+    {
+      "id": "1",
+      "questionText": "What is the phone number of Cathy Ingram/Ingraham who lives on Markston Street?",
+      "audioID": "DC431"
+    },
+    {
+      "id": "2",
+      "questionText": "What is the address of Carol Ceister/Siester?",
+      "audioID": "DC432"
+    },
+    {
+      "id": "3",
+      "questionText": "A message just came in and the only part that was recorded was the last four digits of the phone number -8124. What is the last name for whose phone number is this?",
+      "audioID": "DC433"
+    },
+    {
+      "id": "4",
+      "questionText": "What is the phone number of the person who resides at 8002 Caine Street?",
+      "audioID": "DC434"
+    },
+    {
+      "id": "5",
+      "questionText": "What is the address of D. Jacobs whose telephone number begins with the digits 621?",
+      "audioID": "DC435"
+    }
+  ],
+  "emergencyQuestions": [
+    {
+      "id": "1",
+      "quetext": "Girl threatens to shoot her stepmother."
+    },
+    {
+      "id": "2",
+      "quetext": "Electrical power to city hall is not functioning properly."
+    }
+  ],
+  "referenceData": [
+    {
+      "name": "Albertson, Shane",
+      "address": "2140 Parkford",
+      "phone": "597-4324"
+    },
+    {
+      "name": "Bailey, Sahem",
+      "address": "801 Wagon",
+      "phone": "457-6233"
+    },
+    {
+      "name": "Bailes, S.",
+      "address": "108 Wagoner",
+      "phone": "574-2633"
+    },
+    {
+      "name": "Belly, Suzie",
+      "address": "8101 Wexley",
+      "phone": "774-6263"
+    },
+    {
+      "name": "Ceister, C.",
+      "address": "3443 Oakwood",
+      "phone": "923-5216"
+    },
+    {
+      "name": "Clarkson, Shawna",
+      "address": "462 Elias",
+      "phone": "329-2615"
+    },
+    {
+      "name": "Clerk, Shane",
+      "address": "224 Anna",
+      "phone": "293-5612"
+    },
+    {
+      "name": "Elberston, Sean",
+      "address": "1214 Parkfield",
+      "phone": "579-4432"
+    },
+    {
+      "name": "Farlee, Mary",
+      "address": "8024 Kane",
+      "phone": "707-3741"
+    },
+    {
+      "name": "Farley, Marcie",
+      "address": "8002 Caine",
+      "phone": "737-4731"
+    },
+    {
+      "name": "Ho, J.",
+      "address": "3029 Mission",
+      "phone": "502-2419"
+    },
+    {
+      "name": "Hoag, Jane",
+      "address": "6029 Mansion",
+      "phone": "502-4912"
+    },
+    {
+      "name": "Hoage, Jean",
+      "address": "3009 Munson",
+      "phone": "250-9124"
+    },
+    {
+      "name": "Ingraham, Kathy",
+      "address": "1101 Marconi",
+      "phone": "639-2894"
+    },
+    {
+      "name": "Ingram, C.",
+      "address": "111 Markston",
+      "phone": "396-4982"
+    },
+    {
+      "name": "Ingrim, Katie",
+      "address": "1302 Merkley",
+      "phone": "639-8924"
+    },
+    {
+      "name": "Jacob, Dinah",
+      "address": "2039 Jansen",
+      "phone": "612-4949"
+    },
+    {
+      "name": "Jacbsen, Diane",
+      "address": "3902 Jensen",
+      "phone": "602-4900"
+    },
+    {
+      "name": "Jakobs, Diana",
+      "address": "2929 Jenta",
+      "phone": "621-9449"
+    },
+    {
+      "name": "Pharlie, M.",
+      "address": "2408 Cane",
+      "phone": "773-3714"
+    },
+    {
+      "name": "Quan, Tod",
+      "address": "7369 Kane",
+      "phone": "218-8124"
+    },
+    {
+      "name": "Quinn, Todd",
+      "address": "6374 Cain",
+      "phone": "281-2418"
+    },
+    {
+      "name": "Quint, Ted",
+      "address": "6367 Canter",
+      "phone": "218-1248"
+    },
+    {
+      "name": "Seister, Coral",
+      "address": "4334 Oakdale",
+      "phone": "622-2662"
+    },
+    {
+      "name": "Tulley, Michael",
+      "address": "5334 Oakdell",
+      "phone": "626-2626"
+    },
+    {
+      "name": "Tuscon, Gene",
+      "address": "5343 Oaken",
+      "phone": "662-6662"
+    },
+    {
+      "name": "Underhill, Mark",
+      "address": "7412 Dixon",
+      "phone": "771-2739"
+    },
+    {
+      "name": "Vernon, A.",
+      "address": "2417 Dickson",
+      "phone": "774-7329"
+    },
+    {
+      "name": "Washington, G.",
+      "address": "4171 Dawson",
+      "phone": "741-3279"
+    },
+    {
+      "name": "Zeister, Sally",
+      "address": "2412 Aimee",
+      "phone": "923-5116"
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": [
+        {
+          "id": "DC431",
+          "url": "/content/audio-library/cross-referencing/DC431.mp3"
+        },
+        {
+          "id": "DC432",
+          "url": "/content/audio-library/cross-referencing/DC432.mp3"
+        },
+        {
+          "id": "DC433",
+          "url": "/content/audio-library/cross-referencing/DC433.mp3"
+        },
+        {
+          "id": "DC434",
+          "url": "/content/audio-library/cross-referencing/DC434.mp3"
+        },
+        {
+          "id": "DC435",
+          "url": "/content/audio-library/cross-referencing/DC435.mp3"
+        }
+      ]
+    }
+  },
+  "captions" : {  
+    "DC431":"WEBVTT\n\n1\n00:00:00.210 --> 00:00:02.339\nWhat is the phone number of Cathy\nIngram\n\n2\n00:00:02.340 --> 00:00:03.735\nwho lives on Markstein street?\n",
+    "DC432":"WEBVTT\n\n1\n00:00:00.300 --> 00:00:02.486\nWhat is the address of Carol\n",
+    "DC433":"WEBVTT\n\n1\n00:00:00.210 --> 00:00:01.559\nA message just came in\n\n2\n00:00:01.560 --> 00:00:03.600\nand the only part that was recorded\nwas the last\n\n3\n00:00:03.601 --> 00:00:06.620\nfour digits of the phone number 8 1 2 4.\n\n5\n00:00:07.410 --> 00:00:09.329\nWhat is the last name for whose\nphone number\n\n6\n00:00:09.330 --> 00:00:09.750\nthis is?\n",
+    "DC435":"WEBVTT\n\n1\n00:00:00.180 --> 00:00:01.527\nWhat is the address of D.\n\n2\n00:00:01.560 --> 00:00:03.330\nJacobs whose telephone number begins\n\n3\n00:00:03.331 --> 00:00:04.970\nwith the digits 6 to 1?\n",
+    "DC434":"WEBVTT\n\n1\n00:00:00.210 --> 00:00:02.250\nWhat is the phone number of the\nperson\n\n2\n00:00:02.251 --> 00:00:03.575\nwho resides at 8002\n\n3\n00:00:05.240 --> 00:00:05.977\nCain street?\n"
+  }
+}

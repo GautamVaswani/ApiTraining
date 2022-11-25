@@ -1,0 +1,122 @@
+{
+  "assessmentName": "Data Entry (Audio)",
+  "playerType": "DataEntry",
+  "modeType": "data-entry-audio-mt",
+  "subType": "data-entry-audio",
+  "instructions": "<span role=heading aria-level=3 >Data Entry (Audio) </span> <br/><br/>    The following is a test of your ability to correctly enter data you hear through your headset into proper fields on the computer screen.<br/><br/>   During this section of test, when you hear information, such as names, addresses, and telephone numbers through your headset, you should enter that information into the proper boxes on the screen.<br/><br/>    You will be graded on your ability to correctly enter the data in the correct boxes. Do NOT use abbreviations in this section of the test.<br/><br/>    Be sure to enter data in the correct boxes. The order in which you are given data will frequently change. For example, sometimes you will be given the phone number before you are given the name or address.<br/><br/>    You will be informed when each set of data you hear is completed. You should then follow the on-screen instructions and enter the new data you hear. Continue this process until the time limit runs out.<br/><br/>    You will also need to respond to any emergency messages that appear in the bottom right corner of the screen by left clicking your mouse over the agency to be dispatched. Failing to respond to a decision-making message within 15 seconds after the message first appears will result in a lower score.<br/>    ",
+  "timeLimit": 5,
+  "disableEmergency": false,
+  "MTquestions": [
+    {
+      "id": 1,
+      "queText": "Water flowing on to highway from broken pipe.",
+      "startDelay": 5
+    },
+    {
+      "id": 2,
+      "queText": "Man threatens his girlfriend with a knife.",
+      "startDelay": 55
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "audioId": "De031",
+      "alt": "Data Entry 1"
+    },
+    {
+      "id": 2,
+      "audioId": "DE031 (2)",
+      "alt": "Data Entry 2"
+    },
+    {
+      "id": 3,
+      "audioId": "DE031 (3)",
+      "alt": "Data Entry 3"
+    },
+    {
+      "id": 4,
+      "audioId": "DE031 (4)",
+      "alt": "Data Entry 4"
+    },
+    {
+      "id": 5,
+      "audioId": "DE031 (5)",
+      "alt": "Data Entry 5"
+    },
+    {
+      "id": 6,
+      "audioId": "DE031 (6)",
+      "alt": "Data Entry 6"
+    },
+    {
+      "id": 7,
+      "audioId": "DE031 (7)",
+      "alt": "Data Entry 7"
+    },
+    {
+      "id": 8,
+      "audioId": "DE031 (8)",
+      "alt": "Data Entry 8"
+    },
+    {
+      "id": 9,
+      "audioId": "DE031 (9)",
+      "alt": "Data Entry 9"
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": [
+        {
+          "id": "De031",
+          "url": "/content/audio-library/data-entry-audio-mt/DE031.mp3"
+        },
+        {
+          "id": "DE031 (2)",
+          "url": "/content/audio-library/data-entry-audio-mt/DE031 (2).mp3"
+        },
+        {
+          "id": "DE031 (3)",
+          "url": "/content/audio-library/data-entry-audio-mt/DE031 (3).mp3"
+        },
+        {
+          "id": "DE031 (4)",
+          "url": "/content/audio-library/data-entry-audio-mt/DE031 (4).mp3"
+        },
+        {
+          "id": "DE031 (5)",
+          "url": "/content/audio-library/data-entry-audio-mt/DE031 (5).mp3"
+        },
+        {
+          "id": "DE031 (6)",
+          "url": "/content/audio-library/data-entry-audio-mt/DE031 (6).mp3"
+        },
+        {
+          "id": "DE031 (7)",
+          "url": "/content/audio-library/data-entry-audio-mt/DE031 (7).mp3"
+        },
+        {
+          "id": "DE031 (8)",
+          "url": "/content/audio-library/data-entry-audio-mt/DE031 (8).mp3"
+        },
+        {
+          "id": "DE031 (9)",
+          "url": "/content/audio-library/data-entry-audio-mt/DE031 (9).mp3"
+        }
+      ]
+    }
+  },
+  "captions" : {
+    "De031":"WEBVTT\n\n1\n00:00:00.360 --> 00:00:03.680\nLast name Lane L A N E.\n\n3\n00:00:04.470 --> 00:00:06.140\nFirst name Byron\n\n4\n00:00:06.660 --> 00:00:08.479\nB Y R O N.\n\n5\n00:00:09.180 --> 00:00:15.500\nPhone Number 3 0 1 6 2 1 8 5 0 1.\n\n8\n00:00:15.870 --> 00:00:18.500\nAddress 351\n\n9\n00:00:18.630 --> 00:00:25.460\nWinterhaven W I N T E R H A V E N.\n\n\n13\n00:00:26.130 --> 00:00:27.230\nCity Alantic\n\n14\n00:00:28.260 --> 00:00:31.407\nA L A N T I C.\n\n16\n00:00:32.270 --> 00:00:33.500\nThe VIN number\n\n17\n00:00:34.170 --> 00:00:44.330\n1 R C N 3 4 J L N 8 9 0 D V 5 6 8.\n\n22\n00:00:44.940 --> 00:00:49.520\nLicense plate 5 2 9 J J G.\n\n25\n00:00:49.860 --> 00:00:51.840\nFollow the On-Screen instructions to\nhear\n\n26\n00:00:51.841 --> 00:00:52.770\nthe next set of data.\n",
+    "DE031 (2)":"WEBVTT\n\n1\n00:00:00.210 --> 00:00:02.090\nLast name Perkins\n\n2\n00:00:02.190 --> 00:00:05.480\nP E R K I N S\n\n4\n00:00:06.360 --> 00:00:08.270\nfirst name Marsha\n\n5\n00:00:08.820 --> 00:00:11.790\nM A R S H A.\n\n7\n00:00:12.660 --> 00:00:16.901\nAddress 6 5 0 0 Glider\n\n9\n00:00:17.190 --> 00:00:19.925\nG L I D E R,\n\n11\n00:00:20.700 --> 00:00:22.850\ncity Ridgefield\n\n12\n00:00:23.250 --> 00:00:27.980\nR I D G E F I E L D.\n\n15\n00:00:28.770 --> 00:00:32.630\nZip Code 2 6 8 0 9.\n\n17\n00:00:33.330 --> 00:00:39.200\nDrivers license D 2 6 1 3 9 4 3.\n\n20\n00:00:39.290 --> 00:00:41.130\nFollow the onscreen instructions to\n\n21\n00:00:41.131 --> 00:00:42.510\nhear the next set of data.\n",
+    "DE031 (3)":"WEBVTT\n\n1\n00:00:00.210 --> 00:00:01.220\nLast name quinn.\n\n2\n00:00:02.130 --> 00:00:03.950\nQ U I N N.\n\n3\n00:00:04.800 --> 00:00:08.302\nFirst Name Jules J U L E S.\n\n5\n00:00:09.210 --> 00:00:15.290\nPhone Number 3 1 0 9 6 6 8 8 0 0.\n\n8\n00:00:16.079 --> 00:00:18.110\nCity Notin\n\n9\n00:00:18.180 --> 00:00:20.065\nN O T I N.\n\n10\n00:00:21.330 --> 00:00:30.700\nVIN number L B B C 6 8 9 2 C L D 6 4 8 2 2.\n\n15\n00:00:31.480 --> 00:00:35.560\nLicense plate 8 5 3 2 7 L.\n\n17\n00:00:35.610 --> 00:00:37.590\nFollow the On-Screen instructions to\nhear\n\n18\n00:00:37.591 --> 00:00:38.510\nthe next set of data.\n",
+    "DE031 (4)":"WEBVTT\n\n1\n00:00:00.180 --> 00:00:01.882\nLast name Martin\n\n2\n00:00:02.370 --> 00:00:05.190\nM A R T I N.\n\n4\n00:00:06.060 --> 00:00:07.880\nCity porch\n\n5\n00:00:08.100 --> 00:00:10.430\nP O R C H.\n\n6\n00:00:10.790 --> 00:00:12.990\nDrivers license P 3 9 0 6 2 8 5.\n\n9\n00:00:17.880 --> 00:00:19.850\nFirst name Charles\n\n10\n00:00:20.100 --> 00:00:23.450\nC H A R L E S.\n\n12\n00:00:24.060 --> 00:00:28.040\nZip Code 7 6 3 0 2.\n\n14\n00:00:29.130 --> 00:00:32.720\nAddress 6 0 2 Mason\n\n16\n00:00:33.060 --> 00:00:35.360\nM A S O N.\n\n17\n00:00:35.580 --> 00:00:37.500\nFollow the onscreen instructions to\n\n18\n00:00:37.501 --> 00:00:38.890\nhear the next set of data.\n",
+    "DE031 (5)":"WEBVTT\n\n1\n00:00:00.210 --> 00:00:02.000\nThe last name Garner\n\n2\n00:00:02.510 --> 00:00:04.110\nG A R N E R.\n\n3\n00:00:05.220 --> 00:00:06.290\nLicense plate\n\n4\n00:00:07.140 --> 00:00:10.265\n1 R P L 2 7 4.\n\n6\n00:00:11.250 --> 00:00:13.220\nCity Midland\n\n7\n00:00:13.510 --> 00:00:15.460\nM I D L A N D.\n\n8\n00:00:16.710 --> 00:00:27.530\nVIN number J F P D 0 9 6 0 6 3 J K L B D 4 5.\n\n13\n00:00:29.700 --> 00:00:35.870\nPhone Number 3 2 1 6 4 5 8 9 4 3.\n\n16\n00:00:37.080 --> 00:00:39.320\nFirst name Lacey\n\n17\n00:00:39.660 --> 00:00:41.680\nL A C E Y.\n\n18\n00:00:41.820 --> 00:00:43.800\nFollow the On-Screen instructions to\nhear\n\n19\n00:00:43.801 --> 00:00:44.710\nthe next set of data.\n",
+    "DE031 (6)":"WEBVTT\n\n1\n00:00:00.150 --> 00:00:04.220\nAddress 1 9 2 4 Darren\n\n3\n00:00:04.500 --> 00:00:07.270\nD A R R E N.\n\n5\n00:00:08.490 --> 00:00:10.580\nFirst name James\n\n6\n00:00:10.890 --> 00:00:13.340\nJ A M E S.\n\n7\n00:00:14.130 --> 00:00:15.562\nCity home\n\n8\n00:00:16.140 --> 00:00:17.870\nH O M E.\n\n9\n00:00:19.200 --> 00:00:20.930\nLast name Engles\n\n10\n00:00:21.600 --> 00:00:24.469\nE N G L E S.\n\n12\n00:00:24.470 --> 00:00:26.370\nFollow the On-Screen instructions\n\n13\n00:00:26.371 --> 00:00:27.870\nto hear the next set of data.\n",
+    "DE031 (7)":"WEBVTT\n\n1\n00:00:00.120 --> 00:00:01.647\nLast name Butler\n\n2\n00:00:02.340 --> 00:00:04.617\nB U T L E R.\n\n3\n00:00:04.950 --> 00:00:08.360\nAddress 7 2 4 redding\n\n5\n00:00:09.310 --> 00:00:11.314\nR E D D I N G.\n\n6\n00:00:12.420 --> 00:00:17.930\nPhone number 9 1 6 5 2 5 6 0 6 3.\n\n9\n00:00:18.640 --> 00:00:19.520\nZIP Code\n\n10\n00:00:20.460 --> 00:00:22.070\n9 5 8 2 9.\n\n11\n00:00:22.590 --> 00:00:24.350\nCity Roseville\n\n12\n00:00:24.780 --> 00:00:27.960\nR O S E V I L L E.\n\n14\n00:00:28.710 --> 00:00:30.770\nFirst name Raul\n\n15\n00:00:30.960 --> 00:00:32.320\nR A U L.\n\n16\n00:00:32.850 --> 00:00:36.810\nLicense plate P D F 2 8 6.\n\n18\n00:00:36.811 --> 00:00:38.790\nFollow the On-Screen instructions to\nhear\n\n19\n00:00:38.791 --> 00:00:39.730\nthe next set of data.\n",
+    "DE031 (8)":"WEBVTT\n\n1\n00:00:00.090 --> 00:00:01.823\nFirst name Kristy\n\n2\n00:00:02.190 --> 00:00:05.210\nK R I S T Y.\n\n4\n00:00:06.120 --> 00:00:08.180\nLast name Nelson\n\n5\n00:00:08.470 --> 00:00:11.030\nN E L S O N.\n\n7\n00:00:12.090 --> 00:00:22.940\nVIN number 1 T E B P 6 6 N V T E 6 3 2 6 7.\n\n13\n00:00:23.940 --> 00:00:27.185\nADDRESS 1 1 1 Chancey.\n\n15\n00:00:27.600 --> 00:00:31.070\nC H A N C E Y.\n\n17\n00:00:32.380 --> 00:00:33.800\nDrivers license\n\n18\n00:00:34.200 --> 00:00:38.870\nP 3 6 4 6 7 3 3.\n\n20\n00:00:39.750 --> 00:00:40.973\nCity Metropolis\n\n21\n00:00:42.270 --> 00:00:47.370\nM E T R O P O L I S.\n\n24\n00:00:47.560 --> 00:00:49.470\nFollow the On-Screen instructions to\n\n25\n00:00:49.471 --> 00:00:50.880\nhear the next set of data.\n",
+    "DE031 (9)":"WEBVTT\n\n1\n00:00:00.210 --> 00:00:03.260\nFirst name June J U N E.\n\n3\n00:00:04.140 --> 00:00:08.729\nLast name Roberts R O B E R T S.\n \n5\n00:00:08.730 --> 00:00:10.090\nCity Langward\n\n6\n00:00:10.770 --> 00:00:13.657\nL A N G W A R D.\n\n8\n00:00:13.800 --> 00:00:16.469\nAddress 1758\n\n9\n00:00:16.470 --> 00:00:18.860\nMarr M A R R.\n\n11\n00:00:19.350 --> 00:00:25.190\nPhone Number 2 3 8 9 6 4 8 1 2 4.\n\n14\n00:00:26.020 --> 00:00:29.929\nLicense plate 3 6 9 B A L.\n\n16\n00:00:29.930 --> 00:00:32.310\nFollow the On-Screen instructions\n\n17\n00:00:32.311 --> 00:00:33.570\nto hear the next set of data.\n"
+  }
+}

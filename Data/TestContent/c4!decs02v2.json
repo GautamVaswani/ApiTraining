@@ -1,0 +1,552 @@
+{
+  "assessmentName": "Data Entry/Chat",
+  "playerType": "DataEntry",
+  "modeType": "data-entry-call-summary-chat",
+  "templateType": "call-summary",
+  "lastModified": "16/10/2017",
+  "instructions": "<span role=heading aria-level=3 >DATA ENTRY/CHAT TEST </span><br /> <br /> You are about to start the \"Data Entry/Chat\" test.  For this test, you will need to listen to information that is provided to you through the computer. We recommend using a headset or a set of quality speakers.<br /> <br />During this test you should listen to each telephone call and enter the caller’s data into the proper fields on the screen as it is given.  You can use the mouse to go to any field in the data-entry table.  You can also use the \"Tab\" or \"Enter\" keys to move to the next field, and the \"Shift\"-\"Tab\" combination to go back to the previous field.  Please note that the data presented during this test may not be in the same order as the fields on the screen.  For example, sometimes you will be given the phone number before you are given the caller’s name or address.<br /> <br />You do not need to enter the hyphens ( - ) for telephone numbers. The hyphens have already been entered for you.<br /> <br />In addition, during each call you will be presented with a written \"chat\" message from a second person asking for help.  The message from the second person will appear in the chat window that is located on the bottom right corner of the screen.<br /> <br />Each time a new \"chat\" message is presented you will hear a distinctive sound and the words \"Chat Message\" will flash at the top of the screen.  You will have a maximum of 20 seconds to respond to the chat message by choosing \"Sales/Purchase\", \"Service/Repair\", \"Literature/Catalog\", or \"Account/Billing\" in response to the \"chat\" message.  Make your selection by determining which type of automated response should be given to the customer.  You have the following four options to choose from:<br />Sales/Purchase – Inquiries about shipping, pricing, purchasing a product, or placing an order.<br />Service/Repair – Inquiries about defects, non-working products, or poor functionality of a product.<br />Literature/Catalog – Inquiries about brochures, catalogs, flyers, and other requests for product information.<br />Account/Billing – Inquires about late charges, finance charges, monthly bills, or account status information.<br /> <br />Use the pull-down menu to choose your response and then click on the \"Send\" button once you have made your choice.<br /> <br />A \"Chat has ended\" acknowledgement will appear in the chat message box if you make your choice and click on the \"Send\" button within the 20-scond time limit. If you do not respond within 20 seconds, the \"Send\" button will be disabled, you will see \"Customer has ended chat\" and you will no longer be permitted to respond to that message.<br /> <br />Failing to respond to \"chat\" messages within 20 seconds each time one is presented will result in a lower score.<br /> <br />After you have finished the question, click the \"Next\" button that will enable at the top-right of the page to listen to the next call <br /> <br />Finally, during this test the computer will automatically enter data in ALL CAPITAL LETTERS.  There is no need for you to adjust the keyboard since this will be done automatically. <br /> <br />Please note, although you may hear state names during the call, do not enter the state names, or state abbreviations, during this test.<p class='aria-only'>Press Alt+s to pause the background audio. Press Alt+r to resume the background audio.</p><br /> <br />Good luck!",
+  "totalItems": 123,
+  "isMCQ": false,
+  "isChat": true,
+  "responseDropDown": [
+    {
+      "id": 1,
+      "responseText": "Thanks for your interest in our products. You may contact our sales Department by telephone at 1-800-22201515 or by email at oursalesdepartment@ourcompany.com",
+      "value": "Sales/Purchase"
+    },
+    {
+      "id": 2,
+      "responseText": "Thank you for being a customer! You may contact our Service Department by telephone by calling 1-800-222-1414 or by email at ourservicedpartment@ourcompany.com/service",
+      "value": "Service/Repair"
+    },
+    {
+      "id": 3,
+      "responseText": "Thank you for requesting product literature! You may contact our Marketing Department by telephone by calling 1-800-222-1313 or by email at ourmarketingdepartment@ourcompany.com",
+      "value": "Literature/Catalog"
+    },
+    {
+      "id": 4,
+      "responseText": "Thank you for being our customer! You may contact our Billing Department by telephone by calling 1-800-555-1212 or by email at ourbillingdepartment@ourcompany.com",
+      "value": "Account/Billing"
+    }
+  ],
+  "questions": [
+    {
+      "initAudioId": "question-audio-1",
+      "chatQuestion": {
+        "text": "Are you the right person I need to talk to? This is Lauren Newman and I'm from San Diego, CA. I am looking for a new product model. Do you have a recommendation?"
+      },
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer switched their billing to electronic three months ago"
+          },
+          {
+            "text": "The customer prefers to view their bill online"
+          },
+          {
+            "text": "The customer does not want to receive the paper bill anymore"
+          },
+          {
+            "text": "The customer wants confirmation that his billing has been switched"
+          }
+        ]
+      }
+    },
+    {
+      "initAudioId": "question-audio-2",
+      "chatQuestion": {
+        "text": "Hi, are you there? This is Monica Smith and I'm from Spokane, WA. I would like to request my account balance. Is this an issue you can address?"
+      },
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer needs to use the software at home and at work"
+          },
+          {
+            "text": "The customer currently has a single-user license of the software"
+          },
+          {
+            "text": "The customer needs a multi-user license of the software"
+          },
+          {
+            "text": "The customer needs to know the specifics of her license"
+          }
+        ]
+      }
+    },
+    {
+      "initAudioId": "question-audio-3",
+      "chatQuestion": {
+        "text": "I was on hold on the phone for over an hour.  I hope that this works. I'm Shannon Cato of Culpeper, WV. I'm sure that my boss will purchase a model 450 if you send a flyer. Can you make that happen?"
+      },
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer has a complaint about their mail service"
+          },
+          {
+            "text": "The customer received their bill after it was due"
+          },
+          {
+            "text": "The postal service is to blame for their late charges"
+          },
+          {
+            "text": "The postage date on the envelope was incorrect"
+          }
+        ]
+      }
+    },
+    {
+      "initAudioId": "question-audio-4",
+      "chatQuestion": {
+        "text": "Are you the right person I need to talk to? Scott Park from Midland, TX, here. I only got this unit three weeks ago, and it is making a really loud noise. Can you send me a replacement?"
+      },
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer currently lives in Michigan and has not purchased anything in Nevada"
+          },
+          {
+            "text": "The customer has a question about a purchase on his statement that was made in Nevada"
+          },
+          {
+            "text": "The customer has only made purchases in Michigan for the last month and none in Nevada"
+          },
+          {
+            "text": "The customer is wondering about the purchase that he made in Nevada last month"
+          }
+        ]
+      }
+    },
+    {
+      "initAudioId": "question-audio-5",
+      "chatQuestion": {
+        "text": "Hi. I'm Vincent Sprague from Staunton, VA. I'm prepared to order three of the model 874 if you can take my order. Can you?"
+      },
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer would like to register their product for the warranty"
+          },
+          {
+            "text": "The customer bought the Model 4 Ultra two and a half weeks ago"
+          },
+          {
+            "text": "The customer thinks registering the Model 4 Ultra is a good idea"
+          },
+          {
+            "text": "The customer needs more information"
+          }
+        ]
+      }
+    },
+    {
+      "initAudioId": "question-audio-6",
+      "chatQuestion": {
+        "text": "I'm going to need to speak with someone, but I don't know who. I'm Roxanne Taylor of Boulder, CO. I have a coupon that needs to be applied to my account. Is this an issue you can address?"
+      },
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer made a purchase on the website using their credit card"
+          },
+          {
+            "text": "The customer saw the full amount but received a discount"
+          },
+          {
+            "text": "The customer did not use their coupon to receive a discount"
+          },
+          {
+            "text": "The customer used a coupon but was charged the full amount"
+          }
+        ]
+      }
+    },
+    {
+      "initAudioId": "question-audio-7",
+      "chatQuestion": {
+        "text": "I want some help please. I'm Daniel Tomas from Charlotte, NC. I would like to order two of the model 985 for overnight shipment. Can you take my order?"
+      },
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer uses the website to download documentation"
+          },
+          {
+            "text": "The customer is having trouble downloading information from the website"
+          },
+          {
+            "text": "The customer is sure that their computer does not have a virus on it"
+          },
+          {
+            "text": "The customer believes there is a problem with the website"
+          }
+        ]
+      }
+    },
+    {
+      "initAudioId": "question-audio-8",
+      "chatQuestion": {
+        "text": "I hope can point me to the right person. My name is Ralph Bonner and I'm from Woodbury, GA. I'm really disappointed. This unit was purchased just yesterday and it's not working. Are you able to send a replacement unit?"
+      },
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer misplaced their mail and would like the late fee waived"
+          },
+          {
+            "text": "The customer just found his bill today but it was due yesterday"
+          },
+          {
+            "text": "The customer is willing to pay their bill over the phone"
+          },
+          {
+            "text": "The customer is a good customer who typically pays on time every month"
+          }
+        ]
+      }
+    },
+    {
+      "initAudioId": "question-audio-9",
+      "chatQuestion": {
+        "text": "I'm not sure what to do. This is Sharon Wise and I'm from Oriskany Falls, NY. I'm a dealer of yours and my client needs an overnight order fulfilled. Can you?"
+      },
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer has a finance charge on their bill for no known reason"
+          },
+          {
+            "text": "The customer paid their bill on time last month"
+          },
+          {
+            "text": "The customer used their card for a cash advance last month"
+          },
+          {
+            "text": "The customer was told that there was no fee for a cash advance"
+          }
+        ]
+      }
+    },
+    {
+      "initAudioId": "question-audio-10",
+      "chatQuestion": {
+        "text": "I don't know if you are the right person I need to talk to. My name is Bessie Petersen and I'm from Washington, DC. I'm not ready to order, but a flyer would be great. Are you able to send a model 400 flyer to me by mail?"
+      },
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer did not like the deluxe running shoes she bought"
+          },
+          {
+            "text": "The customer returned the deluxe running shoes using the proper label"
+          },
+          {
+            "text": "The customer returned the deluxe running shoes and has not been credited"
+          },
+          {
+            "text": "The customer did not return the deluxe running shoes properly"
+          }
+        ]
+      }
+    },
+    {
+      "initAudioId": "question-audio-11",
+      "chatQuestion": {
+        "text": "Hello? I'm Terry Rank and I'm from Westminster, MA. It's brand new and when I turned it on, sparks shot out of it. Are you able to send a replacement unit?"
+      },
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer would like to sign up for the Protection Plus program"
+          },
+          {
+            "text": "The customer has heard a lot about identify theft lately"
+          },
+          {
+            "text": "The customer is not concerned about having their identity stolen"
+          },
+          {
+            "text": "The customer wants to protect himself from identify theft"
+          }
+        ]
+      }
+    },
+    {
+      "initAudioId": "question-audio-12",
+      "chatQuestion": {
+        "text": "I have a question. I'm Susan Warren from Chicago, IL. I'm one of your resellers and I need an order to be shipped to a client. Can you take my order?"
+      },
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer would like to know if their bill has been paid"
+          },
+          {
+            "text": "The customer did not use the online paying service correctly"
+          },
+          {
+            "text": "The customer wants their late charges reimbursed"
+          },
+          {
+            "text": "The customer is not able to access the internet to pay their bill"
+          }
+        ]
+      }
+    },
+    {
+      "initAudioId": "question-audio-13",
+      "chatQuestion": {
+        "text": "Hi, I need some assistance. I'm Sarah Rubey of Truckee, CA. I'm really interested in some of your products. Do you have some information about the model 350?"
+      },
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer is very pleased with the company"
+          },
+          {
+            "text": "The customer does not like opening their mail"
+          },
+          {
+            "text": "The customer does not want to receive flyers"
+          },
+          {
+            "text": "The customer gets confused about their bill and other flyers"
+          }
+        ]
+      }
+    },
+    {
+      "initAudioId": "question-audio-14",
+      "chatQuestion": {
+        "text": "I have an issue and hope that you can provide support. I'm Johnathan Grooms from Fort Lauderdale, FL. I know what I want, I just want to buy one. Will you take my order?"
+      },
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer is referring the model 450A to other people"
+          },
+          {
+            "text": "The customer is providing positive feedback on the model 450A"
+          },
+          {
+            "text": "The automatic counter feature has made the customer's life easier"
+          },
+          {
+            "text": "The new and improved features really suit the customer's needs"
+          }
+        ]
+      }
+    },
+    {
+      "initAudioId": "question-audio-15",
+      "chatQuestion": {
+        "text": "I need your assistance. My name is Wayne Powell and I'm from Abilene, TX. I need to see if you can email a catalog to my office email address. Are you able to set that up for me?"
+      },
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer needs more information"
+          },
+          {
+            "text": "The customer has received approval from the budget manager"
+          },
+          {
+            "text": "The customer wants to purchase the software"
+          },
+          {
+            "text": "The customer has decided on which version his company needs"
+          }
+        ]
+      }
+    },
+    {
+      "initAudioId": "question-audio-16",
+      "chatQuestion": {
+        "text": "I have a question for you. My name is Dan Soza and I'm from Westbury, NY. I really only need to purchase another unit. Can you help me with that, or does someone else handle this kind of request."
+      },
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer would like to register their product for the warranty"
+          },
+          {
+            "text": "The customer bought the Model Q230 two and a half weeks ago"
+          },
+          {
+            "text": "The customer thinks registering the Model Q230 is a good idea"
+          },
+          {
+            "text": "The customer needs more information"
+          }
+        ]
+      }
+    },
+    {
+      "initAudioId": "question-audio-17",
+      "chatQuestion": {
+        "text": "Hello, is anyone there? This is Elizabeth Norman of Philadelphia, PA. I would like a catalog emailed to my home email address. Can you take care of that for me?"
+      },
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer made a purchase on the website using their credit card"
+          },
+          {
+            "text": "The customer saw the full amount but received a discount"
+          },
+          {
+            "text": "The customer did not use their coupon to receive a discount"
+          },
+          {
+            "text": "The customer used a coupon but was charged the full amount"
+          }
+        ]
+      }
+    },
+    {
+      "initAudioId": "question-audio-18",
+      "chatQuestion": {
+        "text": "I'm sure you can direct me to the correct person. I'm Nathan Ricketts from Mercerville, NJ. I have a gift certificate that needs to be applied to my account. Do you have access to my account information?"
+      },
+      "mcqQuestion": {
+        "questionText": "Which of the following statements best summarizes the issue in this call?",
+        "options": [
+          {
+            "text": "The customer needs more information"
+          },
+          {
+            "text": "The customer has received approval from the budget manager"
+          },
+          {
+            "text": "The customer wants to purchase the product"
+          },
+          {
+            "text": "The customer has decided on which version his company needs"
+          }
+        ]
+      }
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": [
+        {
+          "id": "question-audio-1",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item19.mp3"
+        },
+        {
+          "id": "question-audio-2",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item20.mp3"
+        },
+        {
+          "id": "question-audio-3",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item21.mp3"
+        },
+        {
+          "id": "question-audio-4",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item22.mp3"
+        },
+        {
+          "id": "question-audio-5",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item23.mp3"
+        },
+        {
+          "id": "question-audio-6",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item24.mp3"
+        },
+        {
+          "id": "question-audio-7",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item25.mp3"
+        },
+        {
+          "id": "question-audio-8",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item26.mp3"
+        },
+        {
+          "id": "question-audio-9",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item27.mp3"
+        },
+        {
+          "id": "question-audio-10",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item28.mp3"
+        },
+        {
+          "id": "question-audio-11",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item29.mp3"
+        },
+        {
+          "id": "question-audio-12",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item30.mp3"
+        },
+        {
+          "id": "question-audio-13",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item31.mp3"
+        },
+        {
+          "id": "question-audio-14",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item32.mp3"
+        },
+        {
+          "id": "question-audio-15",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item33.mp3"
+        },
+        {
+          "id": "question-audio-16",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item34.mp3"
+        },
+        {
+          "id": "question-audio-17",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item35.mp3"
+        },
+        {
+          "id": "question-audio-18",
+          "url": "/content/audio-library/data-entry-call-summary-chat/item17.mp3"
+        },
+        {
+          "id": "chat-audio",
+          "url": "/content/audio-library/data-entry-call-summary-chat/emergencyprompt.mp3"
+        }
+      ]
+    }
+  },
+  "captions" : {
+    "question-audio-18":"WEBVTT\n\n1\n00:00:01.380 --> 00:00:03.580\nHello. My name is Terry Gonyea\n\n2\n00:00:03.690 --> 00:00:06.350\nspelled t e r r y.\n\n4\n00:00:06.570 --> 00:00:10.060\nLast name is spelled G A G N E.\n\n6\n00:00:10.260 --> 00:00:16.819\nAnd my email address is TD.GONYEA@Mainmail.com\nspelled\n\n9\n00:00:16.920 --> 00:00:25.010\nT D dot G A G N E at M A I N M A I L dot com.\n\n12\n00:00:25.380 --> 00:00:26.910\nI'm not sure if I reached the right\nnumber\n\n13\n00:00:26.911 --> 00:00:27.470\nor not.\n\n14\n00:00:27.810 --> 00:00:30.029\nI recently viewed a trial version of\nyour product\n\n15\n00:00:30.030 --> 00:00:31.340\nand was very impressed.\n\n16\n00:00:31.710 --> 00:00:33.120\nI think it will fit right in\n\n17\n00:00:33.121 --> 00:00:34.550\nwith what I'm currently using.\n\n18\n00:00:34.860 --> 00:00:37.280\nThe funding has been approved by our\nbudget manager\n\n19\n00:00:37.320 --> 00:00:38.780\nso that is good to go.\n\n20\n00:00:39.120 --> 00:00:41.010\nI've also decided on the product\nversion that\n\n21\n00:00:41.011 --> 00:00:41.840\nI would like.\n\n22\n00:00:42.150 --> 00:00:43.700\nDo you need my address for the\norder?\n\n23\n00:00:44.430 --> 00:00:46.439\nIt's 2 0 7 0\n\n24\n00:00:46.440 --> 00:00:48.419\nwalnut spelled\n\n25\n00:00:48.420 --> 00:00:50.400\nW A L N U T\n\n26\n00:00:50.400 --> 00:00:52.670\nin Glen Allen Virginia.\n\n27\n00:00:52.800 --> 00:00:53.639\nGlen Allen.\n\n28\n00:00:53.640 --> 00:00:55.284\nTwo words spelled G L E N.\n\n29\n00:00:56.670 --> 00:00:59.430\nsecond word A L L E N.\n\n31\n00:01:00.240 --> 00:01:03.740\nZip Code 2 3 0 6 0.\n\n33\n00:01:04.120 --> 00:01:05.570\nAlso I have my reference number.\n\n34\n00:01:05.790 --> 00:01:08.900\nIt's T 4 5 U 0 2.",
+    "question-audio-1":"WEBVTT\n\n1\n00:00:01.500 --> 00:00:03.520\nHi my name is Lawrence Carr.\n\n2\n00:00:03.570 --> 00:00:07.550\nFirst name is spelled L A W R E N C E.\n\n4\n00:00:07.680 --> 00:00:08.810\nLast name is spelled\n\n5\n00:00:09.730 --> 00:00:12.820\nC A R R. And I live it 8 9 3 0.\n\n7\n00:00:12.840 --> 00:00:15.100\nJameson in Roanoke Virginia\n\n8\n00:00:15.300 --> 00:00:19.040\nJamison spelled J A M E S O N.\n \n10\n00:00:19.200 --> 00:00:22.625\nRoanoke spelled R O A N O K E.\n\n12\n00:00:23.400 --> 00:00:25.350\nswitch my billing statement over to\nthe electronic\n\n13\n00:00:25.351 --> 00:00:27.590\nversion on my computer three months\nago.\n\n14\n00:00:27.930 --> 00:00:32.130\nMy email address is LLcarr@greatmail.com\n\n16\n00:00:32.189 --> 00:00:32.989\nspelled\n\n17\n00:00:34.920 --> 00:00:41.180\nL L C A R R at G R E A T M A I L dot com\n\n20\n00:00:41.550 --> 00:00:43.380\nand I receive confirmation that I\nhad switched to\n\n21\n00:00:43.381 --> 00:00:44.420\nelectronic billing.\n\n22\n00:00:44.790 --> 00:00:46.800\nI thought the problem would be taken\ncare of when I complained\n\n23\n00:00:46.801 --> 00:00:47.660\na while back\n\n24\n00:00:47.730 --> 00:00:49.790\nbut I still get the paper bill every\nmonth.\n\n25\n00:00:50.100 --> 00:00:52.490\nI find it much easier to view my\nbill online\n\n26\n00:00:52.530 --> 00:00:54.350\nand I don't like to waste paper\neither.\n\n27\n00:00:54.660 --> 00:00:56.580\nIf you need to confirm this the\nphone number on\n\n28\n00:00:56.581 --> 00:01:01.640\nthe account is 5 4 0 3 7 8 9 2 7 4.\n\n31\n00:01:01.800 --> 00:01:03.712\nCan you make sure I don't receive\nany more paper bills?\n",
+    "question-audio-2":"WEBVTT\n\n1\n00:00:00.990 --> 00:00:02.850\nHello my name is elsie\n\n2\n00:00:02.851 --> 00:00:03.830\nBurgess.\n\n3\n00:00:04.050 --> 00:00:08.069\nThat's E L S I E\n\n5\n00:00:08.070 --> 00:00:12.110\nBurgess B U R G E S S\n\n7\n00:00:12.390 --> 00:00:14.489\nand I live in Norman thats\n\n8\n00:00:14.490 --> 00:00:18.110\nN O R M A N Oklahoma.\n\n10\n00:00:18.570 --> 00:00:20.880\nI use your software for processing\n\n11\n00:00:20.881 --> 00:00:23.280\norders and tracking customer\ninformation\n\n12\n00:00:23.281 --> 00:00:24.950\nfor my home business\n\n13\n00:00:25.380 --> 00:00:27.600\nand my current license is a single\n\n14\n00:00:27.601 --> 00:00:29.780\nuser or so I've been told\n\n15\n00:00:30.270 --> 00:00:32.008\nI can't remember what I was sold\n\n16\n00:00:32.009 --> 00:00:34.190\nand I can't remember what my license\nis.\n\n17\n00:00:34.770 --> 00:00:37.000\nI'm willing to bet it's a single\nuser\n\n18\n00:00:37.200 --> 00:00:39.100\nbut I'm really not sure is there\n\n19\n00:00:39.101 --> 00:00:40.580\nany way you can check for me\n\n20\n00:00:41.250 --> 00:00:43.130\nmy email address is\n\n21\n00:00:43.140 --> 00:00:45.920\nEBurgess@dodgeit.com.\n\n23\n00:00:46.280 --> 00:00:47.830\nThat's e as an elsie.\n\n24\n00:00:48.110 --> 00:00:52.220\nB as in Boy U R G E S S\n\n26\n00:00:52.590 --> 00:00:54.279\n@ d as in dog\n\n27\n00:00:54.280 --> 00:00:56.369\no d as in\n\n28\n00:00:56.370 --> 00:00:58.589\ndog G I T\n\n29\n00:00:58.590 --> 00:00:59.480\ndot com\n\n30\n00:00:59.970 --> 00:01:06.110\nand my phone number is 4 0 5 3 6 6 0 4 8 9\n",
+    "question-audio-3":"WEBVTT\n\n1\n00:00:01.410 --> 00:00:03.509\nHi my name is James Sanders.\n\n2\n00:00:03.510 --> 00:00:06.140\nThat's J A M E S.\n\n4\n00:00:06.390 --> 00:00:10.250\nSanders S A N D E R S\n\n6\n00:00:10.700 --> 00:00:11.480\nand I live in.\n\n7\n00:00:11.510 --> 00:00:13.190\n610 West stadium.\n\n8\n00:00:13.500 --> 00:00:17.570\nThat's two words W E S T\n\n10\n00:00:17.880 --> 00:00:18.800\nstadium\n\n11\n00:00:20.400 --> 00:00:22.230\nS T A D I U M in\n\n12\n00:00:22.231 --> 00:00:23.210\nAnn Arbor.\n\n13\n00:00:23.730 --> 00:00:25.130\nThat's two words to\n\n14\n00:00:26.230 --> 00:00:28.460\nA N N Arbor\n\n15\n00:00:29.700 --> 00:00:31.400\nA R B O R Michigan.\n\n16\n00:00:32.880 --> 00:00:34.800\nI received my bill less than a week\nago\n\n17\n00:00:34.801 --> 00:00:36.630\nand I noticed there were additional\ncharges\n\n18\n00:00:36.631 --> 00:00:38.699\non their postage date\n\n19\n00:00:38.700 --> 00:00:40.650\non the envelope with the 9th which\nis\n\n20\n00:00:40.651 --> 00:00:41.990\nthe day it was due.\n\n21\n00:00:42.690 --> 00:00:44.550\nI don't want to pay late charges if\nit's not\n\n22\n00:00:44.551 --> 00:00:45.380\nmy fault.\n\n23\n00:00:46.290 --> 00:00:53.570\nIf you need a my phone number is\n7 3 4 6 6 5 5 8 7 2\n\n27\n00:00:54.060 --> 00:01:00.080\nand I have a reference number Q 2 1 C 4 0.",
+    "question-audio-4":"WEBVTT\n\n1\n00:00:00.720 --> 00:00:02.840\nHello. My name is Stphen lowe.\n\n2\n00:00:03.170 --> 00:00:03.950\nThat's spelled\n\n3\n00:00:05.650 --> 00:00:06.217\nS T E P H E N.\n\n4\n00:00:06.540 --> 00:00:07.460\nLast name\n\n5\n00:00:08.400 --> 00:00:11.810\nL O W E. And my address is 28 84 Preston.\n\n7\n00:00:12.390 --> 00:00:16.589\nP R E S T O N in Chanute Kansas.\n\n9\n00:00:16.590 --> 00:00:18.953\nChanute spelled C H A N U T E.\n\n11\n00:00:20.460 --> 00:00:22.320\nI was just looking over my statement\nfrom this past\n\n12\n00:00:22.321 --> 00:00:23.900\nmonth and noticed something odd.\n\n13\n00:00:24.270 --> 00:00:25.320\nThere is a transaction\n\n14\n00:00:25.321 --> 00:00:27.620\nand seemed to have taken place in\nthe state of Nevada.\n\n15\n00:00:28.020 --> 00:00:29.160\nI currently live in Kansas\n\n16\n00:00:29.161 --> 00:00:31.050\nand have definitely not made any\npurchases in the state\n\n17\n00:00:31.051 --> 00:00:32.960\nof Nevada especially in the last\nmonth.\n\n18\n00:00:33.540 --> 00:00:35.270\nI don't think this transaction is\ncorrect.\n\n19\n00:00:35.520 --> 00:00:40.370\nMy phone number is\n6 2 0 5 8 3 0 2 8 7\n\n22\n00:00:40.670 --> 00:00:43.440\nand in case Need that for verifying\nanything else.\n",
+    "question-audio-5":"WEBVTT\n\n1\n00:00:00.810 --> 00:00:02.850\nHi this is Terra Harrell that's\n\n2\n00:00:02.851 --> 00:00:05.120\nspelled t e r r a\n\n3\n00:00:05.160 --> 00:00:08.479\nHarrell H A R R E L L\n\n5\n00:00:08.480 --> 00:00:10.413\nand I live it 2 8 7 Wetzel\n\n6\n00:00:11.010 --> 00:00:13.640\nw e t z e l\n\n8\n00:00:13.670 --> 00:00:14.690\nand Knoxville.\n\n9\n00:00:14.730 --> 00:00:19.310\nThat's spelled K N O X V I L L E Tennessee.\n\n12\n00:00:19.710 --> 00:00:22.190\nZIP code is 3 7 9 1 7.\n\n14\n00:00:22.500 --> 00:00:23.862\nMy email address is Terrah \n\n15\n00:00:24.730 --> 00:00:28.859\nThat's spelled t e r r a h at easy mail\n\n17\n00:00:28.860 --> 00:00:30.786\n.com that spelled E A S Y\n\n18\n00:00:32.820 --> 00:00:33.110\nM A I L.\n\n19\n00:00:33.750 --> 00:00:35.950\nI just love my model for ultra.\n\n20\n00:00:36.090 --> 00:00:37.890\nI thought it would be a good idea to\nregister it\n\n21\n00:00:37.891 --> 00:00:40.310\nwith you guys so I can make sure\nit's under warranty.\n\n22\n00:00:40.620 --> 00:00:42.830\nI bought it on January 16th of this\nyear.\n\n23\n00:00:43.200 --> 00:00:44.219\nIs all you will need\n\n24\n00:00:44.220 --> 00:00:45.740\nor is there more information?\n\n25\n00:00:45.900 --> 00:00:50.210\nMy reference number is A 3 4 D 8 9.\n",
+    "question-audio-6":"WEBVTT\n\n1\n00:00:01.500 --> 00:00:02.499\nGood afternoon.\n\n2\n00:00:02.500 --> 00:00:03.900\nI may to purchase on your Web site\n\n3\n00:00:03.901 --> 00:00:05.600\nwith my credit card awhile back.\n\n4\n00:00:05.790 --> 00:00:07.430\nMy name is Peggy Navarro.\n\n5\n00:00:07.440 --> 00:00:08.176\nThat's P E G G Y.\n\n6\n00:00:09.960 --> 00:00:12.946\nLast name is N A V A R R L.\n\n8\n00:00:13.290 --> 00:00:17.440\nAnd I have reference number R F J 6 5 8.\n\n10\n00:00:17.441 --> 00:00:19.410\nThe price shown was the full\n\n11\n00:00:19.411 --> 00:00:21.240\namount but I had a coupon code that\n\n12\n00:00:21.241 --> 00:00:23.549\nwas supposed to discount the price\nby 10 percent.\n\n13\n00:00:23.550 --> 00:00:25.289\nI looked at my credit card statement\ntoday\n\n14\n00:00:25.290 --> 00:00:27.150\nand noticed that the amount that was\ncharged to me\n\n15\n00:00:27.151 --> 00:00:28.340\nwas the full amount.\n\n16\n00:00:28.500 --> 00:00:29.939\nI don't understand why this happened\n\n17\n00:00:29.940 --> 00:00:31.790\nbut I know I shouldn't have to pay\nfor it.\n\n18\n00:00:31.950 --> 00:00:33.250\nCan you please look into this?\n\n19\n00:00:33.600 --> 00:00:35.098\nMy email address is Pnavarrl at\n\n20\n00:00:36.210 --> 00:00:37.820\nEasy mail dot com.\n\n21\n00:00:37.890 --> 00:00:41.990\nThat's P N A R R L at\n\n23\n00:00:42.030 --> 00:00:42.908\nE A S Y M A I L\n\n24\n00:00:44.670 --> 00:00:45.380\ndot com.\n",
+    "question-audio-7":"WEBVTT\n\n1\n00:00:01.230 --> 00:00:03.629\nHi my name is Beverly Sanders.\n\n2\n00:00:03.630 --> 00:00:07.770\nIt's B E V E R L Y.\n\n4\n00:00:08.130 --> 00:00:11.960\nSanders S A N D E R S\n\n6\n00:00:12.390 --> 00:00:14.450\nand my email address is\n\n7\n00:00:15.270 --> 00:00:16.739\nBev@totalmail.com.\n\n8\n00:00:16.740 --> 00:00:17.290\nThat's\n\n9\n00:00:18.570 --> 00:00:20.270\nB E V at\n\n10\n00:00:22.860 --> 00:00:26.450\nT O T A L M A I L dot com.\n\n12\n00:00:27.180 --> 00:00:29.070\nI'm currently trying to download\nyour supporting\n\n13\n00:00:29.071 --> 00:00:29.999\ndocumentation\n\n14\n00:00:30.000 --> 00:00:31.920\nand the downloading process keeps\nfreezing\n\n15\n00:00:31.921 --> 00:00:32.840\nmy computer.\n\n16\n00:00:33.660 --> 00:00:35.490\nI know my computer does not have\n\n17\n00:00:35.491 --> 00:00:37.440\na virus or anything else that\nprevent this\n\n18\n00:00:37.441 --> 00:00:38.810\ndocument from downloading.\n\n19\n00:00:39.150 --> 00:00:40.620\nThis seems like it might be\nsomething\n\n20\n00:00:40.621 --> 00:00:41.519\nwith a Web site\n\n21\n00:00:41.520 --> 00:00:43.350\nor another issue on your end.\n",
+    "question-audio-8":"WEBVTT\n\n1\n00:00:01.020 --> 00:00:03.350\nHi my name is George Duarte.\n\n2\n00:00:03.630 --> 00:00:08.137\nThat's George G E O R G E\nDuarte D U A R T E and\n\n5\n00:00:10.740 --> 00:00:13.010\nI have a reference number \n\n6\n00:00:13.011 --> 00:00:16.160\nT 2 5 G 1 5.\n\n8\n00:00:16.980 --> 00:00:19.109\nMy address is 287\n\n9\n00:00:19.110 --> 00:00:19.607\nkinney.\n\n10\n00:00:20.520 --> 00:00:24.090\nThat's k i n n e y.\n\n12\n00:00:24.660 --> 00:00:26.700\nIn Lakewood that's one\n\n13\n00:00:26.701 --> 00:00:30.906\nword L A K E W O O D.\n\n15\n00:00:31.380 --> 00:00:32.480\nIn Colorado\n\n16\n00:00:33.610 --> 00:00:35.340\nI was cleaning off my desk today\n\n17\n00:00:35.341 --> 00:00:37.510\nand just found my credit card bill.\n\n18\n00:00:38.050 --> 00:00:40.110\nI realized that the due date for the\nbill\n\n19\n00:00:40.111 --> 00:00:41.110\nwas yesterday\n\n20\n00:00:41.340 --> 00:00:42.740\nbut I just found it today.\n\n21\n00:00:43.800 --> 00:00:45.780\nI'm normally really good about\npaying my bill\n\n22\n00:00:45.781 --> 00:00:47.760\non time but I'm one day late this\n\n23\n00:00:47.761 --> 00:00:48.320\nmonth.\n\n24\n00:00:48.750 --> 00:00:49.650\nI can pay right now\n\n25\n00:00:49.651 --> 00:00:51.540\nor the phone and I'm wondering if\nyou can waive\n\n26\n00:00:51.541 --> 00:00:52.400\nthe late fee.\n\n27\n00:00:52.950 --> 00:00:53.880\nI'm a good customer\n\n28\n00:00:53.881 --> 00:00:55.730\nand have been so for several years.\n",
+    "question-audio-9":"WEBVTT\n\n1\n00:00:00.990 --> 00:00:01.760\nHello there.\n\n2\n00:00:02.130 --> 00:00:05.620\nI have Reference Number e 4 5 H 8 1.\n\n4\n00:00:06.420 --> 00:00:08.160\nI paid my bill late two months ago\n\n5\n00:00:08.161 --> 00:00:10.130\nand received a late charge for it\nlast month.\n\n6\n00:00:10.590 --> 00:00:12.950\nHowever I paid my bill on time last\nmonth\n\n7\n00:00:12.990 --> 00:00:14.690\nand I have another late charge this\nmonth.\n\n8\n00:00:15.480 --> 00:00:17.400\nI'm not quite sure why I would have\na late charge\n\n9\n00:00:17.401 --> 00:00:19.010\nsince I paid my bill on time.\n\n10\n00:00:19.380 --> 00:00:21.270\nThe only thing I could think of is\nthat I may have used my\n\n11\n00:00:21.271 --> 00:00:22.730\ncard to get a cash advance\n\n12\n00:00:22.860 --> 00:00:24.500\nbut I was told there was no charge\nfor that.\n\n13\n00:00:25.110 --> 00:00:26.660\nMy name is Joe Atwood.\n\n14\n00:00:26.780 --> 00:00:29.150\nThat's J O last name\n\n16\n00:00:29.200 --> 00:00:33.950\nA T W O O D and I live at 2 7 0 4\n\n17\n00:00:33.960 --> 00:00:35.271\nSycamore S Y C A M O R E\n\n18\n00:00:38.460 --> 00:00:39.769\nEugene Oregon.\n\n19\n00:00:39.770 --> 00:00:43.453\nEugene Spelled E U G E N E.",
+    "question-audio-10":"WEBVTT\n\n1\n00:00:01.350 --> 00:00:03.270\nI bought your deluxe running shoes a\nfew weeks\n\n2\n00:00:03.271 --> 00:00:05.570\nago and decided they didn't quite\nfit.\n\n3\n00:00:06.030 --> 00:00:08.310\nI used the prepaid return label that\nwas provided\n\n4\n00:00:08.311 --> 00:00:09.239\nwhen I bought them\n\n5\n00:00:09.240 --> 00:00:11.450\nand sent the box off in the mail two\nweeks ago.\n\n6\n00:00:11.910 --> 00:00:14.060\nMy name is Claire Higgins that's\n\n7\n00:00:15.840 --> 00:00:16.090\nC L A I R E.\n\n8\n00:00:17.010 --> 00:00:22.460\nHiggins H I G G I N S. And my address is\n\n10\n00:00:22.860 --> 00:00:25.820\n42 72. NASH It's\n\n12\n00:00:26.660 --> 00:00:28.499\nN A S H in Oak Brook.\n\n13\n00:00:28.500 --> 00:00:30.269\nThat's two words oak.\n\n14\n00:00:30.270 --> 00:00:30.784\nO A K.\n\n15\n00:00:31.410 --> 00:00:35.080\nBrooke B R O O K Illinois.\n\n17\n00:00:35.820 --> 00:00:37.650\nI keep checking my credit card\nstatement\n\n18\n00:00:37.651 --> 00:00:38.819\nto see if I've been refund it\n\n19\n00:00:38.820 --> 00:00:40.440\nand I haven't seen anything yet.\n\n20\n00:00:40.860 --> 00:00:45.650\nMy reference number is D 3 4 L 1 7.\n\n22\n00:00:46.200 --> 00:00:48.410\nI just want to be sure I get credit\nfor the return.\n\n23\n00:00:48.420 --> 00:00:50.340\nI would hate to have to keep calling\nabout this.\n",
+    "question-audio-11":"WEBVTT\n\n1\n00:00:01.770 --> 00:00:02.510\nGood morning.\n\n2\n00:00:02.730 --> 00:00:04.710\nI've heard a lot of people talking\nabout identity theft\n\n3\n00:00:04.711 --> 00:00:05.300\nlately.\n\n4\n00:00:05.700 --> 00:00:07.850\nI think I would like to protect\nmyself against it.\n\n5\n00:00:08.250 --> 00:00:10.380\nI understand that your company will\nonly protect against\n\n6\n00:00:10.381 --> 00:00:12.740\nit if you sign up for the protection\nplus program.\n\n7\n00:00:13.080 --> 00:00:15.509\nI'm not expecting to have my\nidentity stolen\n\n8\n00:00:15.510 --> 00:00:17.510\nbut I think it might be a good idea\nto sign up.\n\n9\n00:00:17.880 --> 00:00:19.270\nMy name is Clyde Leary.\n\n10\n00:00:19.500 --> 00:00:22.522\nFirst name is spelled C L Y D E.\n\n12\n00:00:23.040 --> 00:00:24.140\nLast name is spelled\n\n13\n00:00:25.290 --> 00:00:25.990\nL E A R Y.\n\n14\n00:00:26.130 --> 00:00:30.060\nAnd my email is CLEARY@easymail.com\n\n16\n00:00:30.061 --> 00:00:31.430\nspelled\n\n17\n00:00:33.150 --> 00:00:36.150\nC L E A R Y at E A S Y\n\n\n19\n00:00:36.990 --> 00:00:38.330\nM A I L dot com.\n\n20\n00:00:38.730 --> 00:00:41.390\nMy address is 2 1 0 Mulberry\n\n21\n00:00:41.400 --> 00:00:43.130\nin Little Rock Arkansas.\n\n22\n00:00:43.230 --> 00:00:46.820\nMulberry spelled m u l b e r r y.\n\n24\n00:00:47.430 --> 00:00:49.100\nLittle Rock. Two words.\n\n25\n00:00:49.110 --> 00:00:50.300\nFirst word spelled\n\n26\n00:00:52.080 --> 00:00:55.080\nL I T T L E. Second words spelled R O C K.",
+    "question-audio-12":"WEBVTT\n\n1\n00:00:00.810 --> 00:00:02.300\nHi this is Charles Holt.\n\n2\n00:00:02.340 --> 00:00:03.300\nCharles spelled\n\n3\n00:00:04.650 --> 00:00:07.250\nC H A R L E S Holt is H O L T\n\n5\n00:00:07.530 --> 00:00:09.089\nand I'm from Akron Ohio.\n\n6\n00:00:09.090 --> 00:00:11.300\nAkron spelled A K R O N.\n\n8\n00:00:12.270 --> 00:00:14.239\nMy email address is Charles\n\n9\n00:00:14.240 --> 00:00:16.059\ndot holt at Quick mail dot\n\n10\n00:00:16.060 --> 00:00:25.220\ncom that C H A R L E S DOT H O L T at Q U I C K A M A I L dot com.\n\n15\n00:00:26.080 --> 00:00:27.970\nI never use the internet payment\noption for\n\n16\n00:00:27.971 --> 00:00:29.909\nmy account before but I paid my bill\nonline\n\n17\n00:00:29.910 --> 00:00:30.860\nthree days ago.\n\n18\n00:00:31.140 --> 00:00:33.350\nIt does not show the payment as\nhaving been made.\n\n19\n00:00:33.520 --> 00:00:35.699\nToday is the last day before there\nwill be a late charge.\n\n20\n00:00:35.700 --> 00:00:37.560\nI don't know if the payment was\napplied to my account.\n",
+    "question-audio-13":"WEBVTT\n\n1\n00:00:00.720 --> 00:00:02.009\nHi. I'm hoping you can help me\n\n2\n00:00:02.010 --> 00:00:03.380\nwith the problem I'm having.\n\n3\n00:00:03.540 --> 00:00:05.370\nI always get some kind of\nadvertisement in\n\n4\n00:00:05.371 --> 00:00:06.659\nmy e-mail from your company\n\n5\n00:00:06.660 --> 00:00:08.660\nand I Keep mistaking it for my\nstatement.\n\n6\n00:00:08.910 --> 00:00:10.020\nI absolutely love banking\n\n7\n00:00:10.021 --> 00:00:11.850\nwith your company but I don't enjoy\nreading\n\n8\n00:00:11.851 --> 00:00:12.520\ne-mail.\n\n9\n00:00:12.660 --> 00:00:14.640\nI especially don't like e-mail when\nit is not\n\n10\n00:00:14.641 --> 00:00:16.140\nimportant like an advertisement\n\n11\n00:00:16.141 --> 00:00:16.910\nor something.\n\n12\n00:00:17.070 --> 00:00:18.455\nMy email address is J S M\n\n13\n00:00:19.440 --> 00:00:21.689\nthat is J as in John s as in Sam\n\n14\n00:00:21.690 --> 00:00:22.619\nM as in Mary.\n\n15\n00:00:22.620 --> 00:00:24.440\n4 5 7 6\n\n16\n00:00:24.780 --> 00:00:26.480\nat group mail dot com\n\n17\n00:00:26.600 --> 00:00:30.479\nthat's spelled G R O U P M A I L\n\n19\n00:00:30.480 --> 00:00:32.699\nand my name is Jennifer Belford\n\n20\n00:00:32.700 --> 00:00:37.160\nbut spelled J E N N I F E R Belford\n\n22\n00:00:37.350 --> 00:00:39.620\nB E L F O R D\n",
+    "question-audio-14":"WEBVTT\n\n1\n00:00:00.930 --> 00:00:01.580\nHi there.\n\n2\n00:00:01.830 --> 00:00:04.220\nI love it 33 78 Dogwood\n\n3\n00:00:04.590 --> 00:00:08.490\nspell d o g w o o d in Phoenix\n\n5\n00:00:08.491 --> 00:00:10.040\nArizona Phoenix spelled\n\n6\n00:00:11.830 --> 00:00:12.105\nP H O E N I X.\n\n7\n00:00:12.870 --> 00:00:14.300\nAnd my email address is Mpadilla\n\n8\n00:00:15.270 --> 00:00:17.440\nat Spambob dot com that's\n\n9\n00:00:17.490 --> 00:00:24.680\nmpadilla@SPAMBOB.com\n\n13\n00:00:24.990 --> 00:00:30.200\nand my phone number is 6 O 2 6 3 0 5 6 8 3.\n\n16\n00:00:30.570 --> 00:00:32.399\nI currently own your model 458\n\n17\n00:00:32.400 --> 00:00:33.920\nand I've been using it very\nfrequently.\n\n18\n00:00:34.770 --> 00:00:35.610\nI've found that the new\n\n19\n00:00:35.611 --> 00:00:37.620\nand improved technology really suits\nmy needs\n\n20\n00:00:37.621 --> 00:00:39.470\nand has come in handy many times.\n\n21\n00:00:39.690 --> 00:00:41.550\nSpecifically the automatic counter\nfeature has\n\n22\n00:00:41.551 --> 00:00:42.860\nbeen my life much easier.\n\n23\n00:00:43.220 --> 00:00:45.359\nI want your company to know that I\nthink the model 4 50\n\n24\n00:00:45.360 --> 00:00:46.140\nis the best around.\n",
+    "question-audio-15":"WEBVTT\n\n1\n00:00:01.860 --> 00:00:03.980\nHello. My name is Susan Dutcher\n\n2\n00:00:04.000 --> 00:00:05.480\nS U S A N\n\n3\n00:00:06.090 --> 00:00:08.799\nDutcher D U T C H E R\n\n5\n00:00:09.150 --> 00:00:10.490\nwith analysystems\n\n6\n00:00:10.740 --> 00:00:13.100\nand my email address is s\n\n7\n00:00:13.200 --> 00:00:15.330\nDutcher at Analysystems\n\n8\n00:00:15.331 --> 00:00:21.045\ndot com.That's S D U T C H E R\n\n10\n00:00:22.610 --> 00:00:23.300\nat\n\n11\n00:00:25.020 --> 00:00:31.310\nA N A L Y S Y S T E M S dot com.\n\n14\n00:00:31.920 --> 00:00:33.810\nI recently viewed a trial version of\nyour\n\n15\n00:00:33.811 --> 00:00:35.900\nsoftware and was very impressed.\n\n16\n00:00:36.150 --> 00:00:37.410\nI think it will fit right in\n\n17\n00:00:37.411 --> 00:00:38.720\nwith my current programs.\n\n18\n00:00:39.090 --> 00:00:41.370\nThe funding has been approved by our\nbudget manager\n\n19\n00:00:41.371 --> 00:00:42.920\nso that should be offset.\n\n20\n00:00:43.470 --> 00:00:45.450\nI've also decided I would like your\nversion\n\n21\n00:00:45.451 --> 00:00:46.229\n2.0\n\n22\n00:00:46.230 --> 00:00:47.960\nwith the security plus option.\n\n23\n00:00:48.630 --> 00:00:50.677\nDo you need my business address for\nthe order?\n\n24\n00:00:50.990 --> 00:00:52.889\nIt's 32 75\n\n25\n00:00:52.890 --> 00:00:54.770\npark P A R K\n\n26\n00:00:55.110 --> 00:01:01.107\nin Harrisburg H A R R I S B U R G Pennsylvania.\n\n29\n00:01:01.810 --> 00:01:04.670\nZip Code 1 7 1 0 1.\n\n31\n00:01:05.099 --> 00:01:06.830\nI also have my reference number.\n\n32\n00:01:07.020 --> 00:01:09.920\nIt's S 1 0 U 3 2.\n",
+    "question-audio-16":"WEBVTT\n\n1\n00:00:01.230 --> 00:00:02.960\nHi this is Lewis Burton.\n\n2\n00:00:03.430 --> 00:00:04.559\nThat's Lewis L E W I S\n\n3\n00:00:05.630 --> 00:00:09.480\nBurton B U R T O N. I live at\n\n5\n00:00:09.481 --> 00:00:11.180\n4 0 9 Hillcrest.\n\n6\n00:00:11.550 --> 00:00:15.980\nThat's one word h i l l c r e s t\n\n8\n00:00:16.140 --> 00:00:18.620\nin Tacoma. Tacoma's\n\n9\n00:00:20.030 --> 00:00:20.327\nT A C O M A Washington.\n\n10\n00:00:22.080 --> 00:00:23.167\nZip code 98402.\n\n11\n00:00:25.260 --> 00:00:34.769\nMy email address is l m b 2 1 8 9 0 at Easy mail dot com.\n\n15\n00:00:34.770 --> 00:00:39.110\nThat's E A S Y M A I L dot com.\n\n17\n00:00:40.290 --> 00:00:41.880\nI really liked the new technology\n\n18\n00:00:41.881 --> 00:00:44.099\nin the model Q 2 30.\n\n19\n00:00:44.100 --> 00:00:46.050\nThought it might be a good idea to\nregister\n\n20\n00:00:46.051 --> 00:00:47.940\nit with you guys so I can make sure\n\n21\n00:00:47.941 --> 00:00:49.040\nit's under warranty.\n\n22\n00:00:49.710 --> 00:00:51.590\nI bought it on July 27\n\n23\n00:00:51.750 --> 00:00:52.740\nthis year.\n\n24\n00:00:53.280 --> 00:00:55.250\nIs that all the information you need\nfor me.\n\n25\n00:00:55.950 --> 00:01:01.250\nAll my reference number is an 8 4 P 2 9.\n\n28\n00:01:01.800 --> 00:01:02.850\nIf you need that as well.\n",
+    "question-audio-17":"WEBVTT\n\n1\n00:00:00.960 --> 00:00:01.670\nGood morning.\n\n2\n00:00:02.050 --> 00:00:03.180\nMade a purchase on your Web site\n\n3\n00:00:03.181 --> 00:00:04.760\nwith my credit card a while back.\n\n4\n00:00:05.340 --> 00:00:06.240\nMy name is Marion Burrows.\n\n5\n00:00:06.870 --> 00:00:10.810\nMarion spelled M A R I O N Burrows's\n\n7\n00:00:10.811 --> 00:00:13.370\nB U R R O W S\n\n9\n00:00:13.520 --> 00:00:17.150\nand I have reference number X Q J 6 2 8\n\n11\n00:00:17.960 --> 00:00:19.289\nthe price shown was the full amount\n\n12\n00:00:19.290 --> 00:00:21.120\nbut I had a coupon code that was\nsupposed to discount\n\n13\n00:00:21.121 --> 00:00:22.490\nthe price by 10 percent.\n\n14\n00:00:23.070 --> 00:00:24.480\nI looked at my credit card statement\ntoday\n\n15\n00:00:24.481 --> 00:00:26.400\nand noticed that the amount charged\nwas\n\n16\n00:00:26.401 --> 00:00:27.500\nnot discounted.\n\n17\n00:00:27.920 --> 00:00:29.429\nAn owner saying this could have\nhappened\n\n18\n00:00:29.430 --> 00:00:30.890\nbut I know I shouldn't have to pay\nfor it.\n\n19\n00:00:31.470 --> 00:00:32.589\nCan you please look into this?\n\n20\n00:00:32.729 --> 00:00:35.390\nMy email address is BorrowsMar.\n\n22\n00:00:35.580 --> 00:00:36.910\nat Total mail dot com.\n\n23\n00:00:37.230 --> 00:00:45.360\nThat's spelled B O R R O W S M A R at T O T A L M A I L dot com."
+  }
+}

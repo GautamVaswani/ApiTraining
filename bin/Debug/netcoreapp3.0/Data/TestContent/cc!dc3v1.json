@@ -1,0 +1,211 @@
+{
+  "assessmentName": "Cross Referencing",
+  "playerType": "DataEntry",
+  "modeType": "cross-referencing",
+  "instructions": "<span role=heading aria-level=3 >Cross-Referencing </span><br/><br/>The following is a test of your ability to use information from a list. Using the reference list of names, addresses, and telephone numbers on the right side of the screen, enter the correct information about a person as requested by the computer. Like a telephone book, names are listed in alphabetical order according to people's last names. For example, if the directory lists a person's name as \"Smith, Adam\" then their first name is \"Adam\" and their last name is \"Smith.\" You might have to use the scroll bar on the right side of the list to view the entire list. <br/><br/> You will be asked questions about the directory and you should enter the requested information into the box provided on the screen. <br/><br/>In the questions, names are always given with the first name first. For example, if you see the question, \"What is the telephone number of John Smith,\" then John is the first name and Smith is the last name. <br/><br/>Enter names by first, then last name. Data entered will be scored for accuracy. <br/><br/>You will also need to respond to any emergency messages that appear in the bottom right corner of the screen by left clicking your mouse over the agency to be dispatched. Failing to respond to a decision-making message within 15 seconds after the message first appears will result in a lower score.",
+  "questions": [
+    {
+      "id": "1",
+      "questionText": "What is Adam Gary's phone number?"
+    },
+    {
+      "id": "2",
+      "questionText": "What is the phone number of the person listed at 8568 Siena?"
+    },
+    {
+      "id": "3",
+      "questionText": "What is the full address of the person whose phone number is 998-9998?"
+    },
+    {
+      "id": "4",
+      "questionText": "What is the first name of the person who lives at 5010 Hackburry?"
+    },
+    {
+      "id": "5",
+      "questionText": "What is the phone number of the person who lives on Southbill?"
+    },
+    {
+      "id": "6",
+      "questionText": "What is the last name of the person who lives at the house with the number 2324?"
+    },
+    {
+      "id": "7",
+      "questionText": "What is Andy Foutz's telephone number?"
+    },
+    {
+      "id": "8",
+      "questionText": "What is the full address of Michele Ainslie?"
+    },
+    {
+      "id": "9",
+      "questionText": "What is the phone number of Christie Peek?"
+    },
+    {
+      "id": "10",
+      "questionText": "What is the last name of the person whose phone number is 323-4744?"
+    }
+  ],
+  "emergencyQuestions": [
+    {
+      "id": "1",
+      "quetext": "Man extremely sick from spoiled food."
+    },
+    {
+      "id": "2",
+      "quetext": "Window washer trapped on ledge of building."
+    }
+  ],
+  "referenceData": [
+    {
+      "name": "Adams, G.",
+      "address": "5101 Hackberry",
+      "phone": "332-4440"
+    },
+    {
+      "name": "Aguon, John",
+      "address": "1051 Hackleberry",
+      "phone": "322-0044"
+    },
+    {
+      "name": "Ahn, Chang",
+      "address": "5521 Hatsmith",
+      "phone": "323-1404"
+    },
+    {
+      "name": "Ainslie, Michele",
+      "address": "2549 Summer",
+      "phone": "225-9874"
+    },
+    {
+      "name": "Ainsley, Michele",
+      "address": "4952 Sumner",
+      "phone": "525-9978"
+    },
+    {
+      "name": "Barel, Lin",
+      "address": "7854 Wonner",
+      "phone": "721-9898"
+    },
+    {
+      "name": "Barrell, Linda",
+      "address": "784 Winner",
+      "phone": "217-8978"
+    },
+    {
+      "name": "Brandi, Rapier",
+      "address": "1111 Chiniak",
+      "phone": "524-9852"
+    },
+    {
+      "name": "Brandy, R.",
+      "address": "1211 Cinema",
+      "phone": "534-8925"
+    },
+    {
+      "name": "Capon, A.",
+      "address": "728 Portsmouth",
+      "phone": "898-8989"
+    },
+    {
+      "name": "Capone, Alexander",
+      "address": "628 Portsmith",
+      "phone": "998-8899"
+    },
+    {
+      "name": "Foust, N.",
+      "address": "258 Pinesmith",
+      "phone": "998-9998"
+    },
+    {
+      "name": "Fouts, Andrew",
+      "address": "9985 Campfire",
+      "phone": "441-5234"
+    },
+    {
+      "name": "Foutz, Andrew Jr.",
+      "address": "8959 Camping",
+      "phone": "414-5623"
+    },
+    {
+      "name": "Gary, A.",
+      "address": "5321 Blueberry",
+      "phone": "332-4444"
+    },
+    {
+      "name": "Geary, Allen",
+      "address": "2531 Bluebend",
+      "phone": "323-4744"
+    },
+    {
+      "name": "George, Adam",
+      "address": "5010 Hackburry",
+      "phone": "332-7444"
+    },
+    {
+      "name": "Houston, John",
+      "address": "8555 Sierraview",
+      "phone": "542-8974"
+    },
+    {
+      "name": "Houts, Andy",
+      "address": "5558 Sierra",
+      "phone": "245-7984"
+    },
+    {
+      "name": "Huston, J. E.",
+      "address": "8568 Siena",
+      "phone": "224-5798"
+    },
+    {
+      "name": "Hustin, J.",
+      "address": "5236 Bausell",
+      "phone": "897-1248"
+    },
+    {
+      "name": "Kupon, Jay",
+      "address": "285 Pikesmouth",
+      "phone": "789-1247"
+    },
+    {
+      "name": "Kupone, J.",
+      "address": "3563 Bondel",
+      "phone": "987-4572"
+    },
+    {
+      "name": "Ohm, Ching",
+      "address": "4124 Bloomberg",
+      "phone": "778-9965"
+    },
+    {
+      "name": "Peak, C.",
+      "address": "9962 South Hill",
+      "phone": "778-9910"
+    },
+    {
+      "name": "Peek, C.",
+      "address": "9932 Southbill",
+      "phone": "788-9921"
+    },
+    {
+      "name": "Thomas, Winston",
+      "address": "5312 Bloombend",
+      "phone": "898-4515"
+    },
+    {
+      "name": "Thompson, W.",
+      "address": "2324 Nottingham",
+      "phone": "649-8574"
+    },
+    {
+      "name": "Winston, Thomas",
+      "address": "2334 Nottingham",
+      "phone": "630-8211"
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

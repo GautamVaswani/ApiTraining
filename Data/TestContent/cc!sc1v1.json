@@ -1,0 +1,194 @@
+{
+  "assessmentName": "Sentence Clarity",
+  "playerType": "MCQ",
+  "lastModified": "06/09/2017",
+  "instruction": "",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "<p>Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "The boy saw a very skinny man driving a yellow car."
+        },
+        {
+          "text": "The boy saw a man who was driving a yellow car. He was very skinny."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "<p>Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "There is nothing no one can do about the weather."
+        },
+        {
+          "text": "There is nothing anyone can do about the weather."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "<p>Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "As Mark waited at the station, a woman took his package. He yelled and she fled."
+        },
+        {
+          "text": "As Mark waited at the station, a woman takes his package. He yelled and she fled."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionText": "<p>Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "The student left the school with scarcely a protest."
+        },
+        {
+          "text": "The student left the school without scarcely a protest."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionText": "<p>Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "The man saw a boy who was breaking the window. He was very tall."
+        },
+        {
+          "text": "The man saw a very tall boy breaking the window."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionText": "<p>Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "For years, police have cited bad driving as the main cause for accidents."
+        },
+        {
+          "text": "Police have cited bad driving for years as the main cause for accidents."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionText": "<p>Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "Biting and scratching, the cat attacked the boy as the woman screamed helplessly."
+        },
+        {
+          "text": "Biting and scratching, the woman screamed helplessly as the cat attacked the boy."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionText": "<p>Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "For decades, teachers have mentioned improper nutrition as the reason for students' poor grades."
+        },
+        {
+          "text": "Teachers have mentioned improper nutrition for decades as the reason for students' poor grades."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionText": "<p>Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "Throw your friend a piece of candy from the train."
+        },
+        {
+          "text": "Throw your friend from the train a piece of candy."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionText": "<p>Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "Driving near the train tracks, the train whistle blared. John closed the car's window."
+        },
+        {
+          "text": "As John drove near the train tracks, he heard the train whistle blare. He closed the car's window."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "questionText": "<p>Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "Arson, because of the growing unemployment rate, is increasing rapidly."
+        },
+        {
+          "text": "Arson is increasing rapidly because of the growing unemployment rate."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "questionText": "<p>Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "The boys failed to do anything constructive all day."
+        },
+        {
+          "text": "The boys failed to do nothing constructive all day."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "questionText": "<p>Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "Growling and barking, the dog tore up the coat while the man watched helplessly."
+        },
+        {
+          "text": "Growling and barking, the man watched helplessly as the dog tore up the coat."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "questionText": "<p>Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "Laughter came from the spectators as they watched the show."
+        },
+        {
+          "text": "Watching the show, laughter came from the spectators."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "questionText": "<p>Choose the passage below that is most clear. </p>",
+      "options": [
+        {
+          "text": "He only went to the store to buy a newspaper and to the diner to eat lunch"
+        },
+        {
+          "text": "He went to the store and the diner to only buy a newspaper and eat lunch."
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

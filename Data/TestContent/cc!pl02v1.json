@@ -1,0 +1,473 @@
+﻿{
+  "assessmentName": "Position Locating Rural (Audio)",
+  "playerType": "POSLOC",
+  "instruction": "<span role=heading aria-level=3> Position Locating (Audio) </span><br><br>You are about to begin the \"Position Locating\" test.  At the beginning, you will see a map comprising the majority of the screen.  This map will be used to answer the simulated calls that will be read aloud to you.  If you wish to replay the simulated call, simply click the “Replay” button on the right side of the screen.  The simulated calls will describe certain items that appear on the map.  Using the information provided, you are to determine the most-likely location of the caller on the map.  <br><br>The map is divided into a grid by columns and rows.  Use the two drop down boxes to select the appropriate answer.  In the first drop down box, select a letter relating to a column on the map.  In the second drop down box you will select a number relating the a row on the map.  The intersection of the column and row is what you consider to be the most-likely location of the caller.<br><br>Once you have selected a column and a row from the drop down boxes, you can proceed to the next question using the \"Next\" button.  If you wish to review previous questions use the \"Back\" button.  You can also skip an unanswered question by clicking the \"Next\" button.  You may return to unanswered questions later in the test.<br>                                                                                                                                                                                           <br>If a time limit has been set for this test by the test administrator, you will see the timer counting down in the bottom right-hand corner of the screen.  This timer shows how much time you have remaining to complete the test.  If no time limit has been set, there will be no visible timer.<br><br>Across the top of the screen you will see a toolbar.  This toolbar lists the total number of questions and the number of unanswered questions remaining.  It also contains a drop down list of all unanswered questions.  You can use this list to quickly navigate to any unanswered question.  This toolbar also contains the \"Done\" button.<br><br>When you have finished the test, you can click the \"Done\" button in the top toolbar or you can simply click the \"Next\" button below the drop down boxes one final time.  <br><br>",
+  "url": "/content/image-library/position-locating/Rural Map.png",
+  "column": [
+    {
+      "text": "A",
+      "length": 119
+    },
+    {
+      "text": "B",
+      "length": 139
+    },
+    {
+      "text": "C",
+      "length": 192
+    },
+    {
+      "text": "D",
+      "length": 147
+    },
+    {
+      "text": "E",
+      "length": 131
+    },
+    {
+      "text": "F",
+      "length": 131
+    }
+  ],
+  "row": [
+    {
+      "text": "1",
+      "length": 134
+    },
+    {
+      "text": "2",
+      "length": 162
+    },
+    {
+      "text": "3",
+      "length": 174
+    },
+    {
+      "text": "4",
+      "length": 169
+    }
+  ],
+  "imageCoordinates": [
+    {
+      "id": "A1",
+      "areaCords": "24,20,140,154",
+      "cords": {
+        "0": "24",
+        "1": "20",
+        "2": "140",
+        "3": "154"
+      }
+    },
+    {
+      "id": "B1",
+      "areaCords": "139,20,280,154",
+      "cords": {
+        "0": "139",
+        "1": "20",
+        "2": "280",
+        "3": "154"
+      }
+    },
+    {
+      "id": "C1",
+      "areaCords": "278,20,470,154",
+      "cords": {
+        "0": "278",
+        "1": "20",
+        "2": "470",
+        "3": "154"
+      }
+    },
+    {
+      "id": "D1",
+      "areaCords": "467,21,616,154",
+      "cords": {
+        "0": "467",
+        "1": "21",
+        "2": "616",
+        "3": "154"
+      }
+    },
+    {
+      "id": "E1",
+      "areaCords": "614,21,745,154",
+      "cords": {
+        "0": "614",
+        "1": "21",
+        "2": "745",
+        "3": "154"
+      }
+    },
+    {
+      "id": "F1",
+      "areaCords": "743,19,875,154",
+      "cords": {
+        "0": "743",
+        "1": "19",
+        "2": "875",
+        "3": "154"
+      }
+    },
+    {
+      "id": "A2",
+      "areaCords": "24,152,140,315",
+      "cords": {
+        "0": "25",
+        "1": "152",
+        "2": "140",
+        "3": "315"
+      }
+    },
+    {
+      "id": "B2",
+      "areaCords": "138,152,279,315",
+      "cords": {
+        "0": "138",
+        "1": "152",
+        "2": "279",
+        "3": "315"
+      }
+    },
+    {
+      "id": "C2",
+      "areaCords": "277,152,469,315",
+      "cords": {
+        "0": "277",
+        "1": "152",
+        "2": "469",
+        "3": "315"
+      }
+    },
+    {
+      "id": "D2",
+      "areaCords": "467,152,616,315",
+      "cords": {
+        "0": "467",
+        "1": "152",
+        "2": "616",
+        "3": "315"
+      }
+    },
+    {
+      "id": "E2",
+      "areaCords": "615,152,745,315",
+      "cords": {
+        "0": "615",
+        "1": "152",
+        "2": "745",
+        "3": "315"
+      }
+    },
+    {
+      "id": "F2",
+      "areaCords": "743,152,874,315",
+      "cords": {
+        "0": "743",
+        "1": "152",
+        "2": "874",
+        "3": "315"
+      }
+    },
+    {
+      "id": "A3",
+      "areaCords": "24,313,141,486",
+      "cords": {
+        "0": "24",
+        "1": "313",
+        "2": "141",
+        "3": "486"
+      }
+    },
+    {
+      "id": "B3",
+      "areaCords": "140,313,280,486",
+      "cords": {
+        "0": "140",
+        "1": "313",
+        "2": "280",
+        "3": "486"
+      }
+    },
+    {
+      "id": "C3",
+      "areaCords": "278,313,469,486",
+      "cords": {
+        "0": "278",
+        "1": "313",
+        "2": "469",
+        "3": "486"
+      }
+    },
+    {
+      "id": "D3",
+      "areaCords": "467,313,616,486",
+      "cords": {
+        "0": "467",
+        "1": "313",
+        "2": "616",
+        "3": "486"
+      }
+    },
+    {
+      "id": "E3",
+      "areaCords": "615,313,745,486",
+      "cords": {
+        "0": "615",
+        "1": "313",
+        "2": "745",
+        "3": "486"
+      }
+    },
+    {
+      "id": "F3",
+      "areaCords": "743,313,874,486",
+      "cords": {
+        "0": "743",
+        "1": "313",
+        "2": "874",
+        "3": "486"
+      }
+    },
+    {
+      "id": "A4",
+      "areaCords": "24,484,141,655",
+      "cords": {
+        "0": "24",
+        "1": "484",
+        "2": "141",
+        "3": "655"
+      }
+    },
+    {
+      "id": "B4",
+      "areaCords": "140,484,280,655",
+      "cords": {
+        "0": "140",
+        "1": "484",
+        "2": "280",
+        "3": "655"
+      }
+    },
+    {
+      "id": "C4",
+      "areaCords": "276,484,469,655",
+      "cords": {
+        "0": "276",
+        "1": "484",
+        "2": "469",
+        "3": "655"
+      }
+    },
+    {
+      "id": "D4",
+      "areaCords": "468,484,616,655",
+      "cords": {
+        "0": "468",
+        "1": "484",
+        "2": "616",
+        "3": "655"
+      }
+    },
+    {
+      "id": "E4",
+      "areaCords": "616,484,745,655",
+      "cords": {
+        "0": "616",
+        "1": "484",
+        "2": "745",
+        "3": "655"
+      }
+    },
+    {
+      "id": "F4",
+      "areaCords": "742,484,874,655",
+      "cords": {
+        "0": "742",
+        "1": "484",
+        "2": "874",
+        "3": "655"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "questionText": "There is a person lying on the ground unconscious. I’m in the middle of the street and directly in front of me I can see some construction work. Also I can see a radio tower beyond the construction work. ",
+      "audioID": "Rural V1 01",
+      "imageID": "Rural Map"
+    },
+    {
+      "id": "2",
+      "questionText": "I want to report a robbery that has just occurred. I can see a water tower in front of me, as well as a train station past the water tower.  ",
+      "audioID": "Rural V1 02",
+      "imageID": "Rural Map"
+    },
+    {
+      "id": "3",
+      "questionText": "I want to report a fight breaking out nearby. I can see a radio tower directly in front of me and a park past the radio tower.  ",
+      "audioID": "Rural V1 03",
+      "imageID": "Rural Map"
+    },
+    {
+      "id": "4",
+      "questionText": "A fire has started nearby but I’m not familiar with this area. Directly in front of me is a school, and behind me is a park.  ",
+      "audioID": "Rural V1 04",
+      "imageID": "Rural Map"
+    },
+    {
+      "id": "5",
+      "questionText": "I want to report a mattress in the middle of the road. I am in the middle of the street and I can see park in front of me, a hospital to the right, and a construction site to the left.  ",
+      "audioID": "Rural V1 05",
+      "imageID": "Rural Map"
+    },
+    {
+      "id": "6",
+      "questionText": "I see a child wandering the streets alone. I am in the middle of the street and to my left and right are construction sites. ",
+      "audioID": "Rural V1 06",
+      "imageID": "Rural Map"
+    },
+    {
+      "id": "7",
+      "questionText": "I want to report a street light power outage. I am next to a police station and can see the fire station across from some railroad tracks.  ",
+      "audioID": "Rural V1 07",
+      "imageID": "Rural Map"
+    },
+    {
+      "id": "8",
+      "questionText": "My bicycle was stolen and I am not familiar with this area. I’m facing a water tower that is the middle of a roundabout.  ",
+      "audioID": "Rural V1 08",
+      "imageID": "Rural Map"
+    },
+    {
+      "id": "9",
+      "questionText": "I was with my mom but we got separated. I’m in a single story building. Looking out the window I can see some train tracks and train station past the tracks.  ",
+      "audioID": "Rural V1 09",
+      "imageID": "Rural Map"
+    },
+    {
+      "id": "10",
+      "questionText": "I was looking out of a window and I saw a car hit a tree. I’m on the top floor of a 3-story building. I can see a construction site on the same block as this building.  ",
+      "audioID": "Rural V1 10",
+      "imageID": "Rural Map"
+    },
+    {
+      "id": "11",
+      "questionText": "My mom passed out and won’t wake up. We are on the top floor of a 3-story building and I can see some railroad tracks and a single story building past the tracks.  ",
+      "audioID": "Rural V1 11",
+      "imageID": "Rural Map"
+    },
+    {
+      "id": "12",
+      "questionText": "My mom slipped and fell on the floor hard. We are on the roof of a 3-story building. I can see a construction site to the west.  ",
+      "audioID": "Rural V1 12",
+      "imageID": "Rural Map"
+    },
+    {
+      "id": "13",
+      "questionText": "I’m at the park with my dad and he fell in the pond and can’t get out. The pond is to the west and there is a construction site directly behind me.  ",
+      "audioID": "Rural V1 13",
+      "imageID": "Rural Map"
+    },
+    {
+      "id": "14",
+      "questionText": "I saw a black car hit a light post. I am in the middle of the intersection between 3rd St. and Hospital Drive.  ",
+      "audioID": "Rural V1 14",
+      "imageID": "Rural Map"
+    },
+    {
+      "id": "15",
+      "questionText": "I was just hit by a passing motorcycle. I am at a park which is to the east of the train station.  ",
+      "audioID": "Rural V1 15",
+      "imageID": "Rural Map"
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [
+        {
+          "id": "Rural Map",
+          "url": "/content/image-library/position-locating/Rural Map.png"
+        }
+      ],
+      "audio": [
+        {
+          "id": "Rural V1 01",
+          "url": "/content/audio-library/position-locating/rural v1 01 2016.mp3"
+        },
+        {
+          "id": "Rural V1 02",
+          "url": "/content/audio-library/position-locating/rural v1 02 2016.mp3"
+        },
+        {
+          "id": "Rural V1 03",
+          "url": "/content/audio-library/position-locating/rural v1 03 2016.mp3"
+        },
+        {
+          "id": "Rural V1 04",
+          "url": "/content/audio-library/position-locating/rural v1 04 2016.mp3"
+        },
+        {
+          "id": "Rural V1 05",
+          "url": "/content/audio-library/position-locating/rural v1 05 2016.mp3"
+        },
+        {
+          "id": "Rural V1 06",
+          "url": "/content/audio-library/position-locating/rural v1 06 2016.mp3"
+        },
+        {
+          "id": "Rural V1 07",
+          "url": "/content/audio-library/position-locating/rural v1 07 2016.mp3"
+        },
+        {
+          "id": "Rural V1 08",
+          "url": "/content/audio-library/position-locating/rural v1 08 2016.mp3"
+        },
+        {
+          "id": "Rural V1 09",
+          "url": "/content/audio-library/position-locating/rural v1 09 2016.mp3"
+        },
+        {
+          "id": "Rural V1 10",
+          "url": "/content/audio-library/position-locating/Rural V1 10 2016.mp3"
+        },
+        {
+          "id": "Rural V1 11",
+          "url": "/content/audio-library/position-locating/Rural V1 11 2016.mp3"
+        },
+        {
+          "id": "Rural V1 12",
+          "url": "/content/audio-library/position-locating/Rural V1 12 2016.mp3"
+        },
+        {
+          "id": "Rural V1 13",
+          "url": "/content/audio-library/position-locating/Rural V1 13 2016.mp3"
+        },
+        {
+          "id": "Rural V1 14",
+          "url": "/content/audio-library/position-locating/Rural V1 14 2016.mp3"
+        },
+        {
+          "id": "Rural V1 15",
+          "url": "/content/audio-library/position-locating/Rural V1 15 2016.mp3"
+        }
+      ]
+    }
+  },
+  "captions" : {
+    "Rural V1 01":"WEBVTT\n\n1\n00:00:00.480 --> 00:00:02.929\nThere is a person lying on the\nground unconscious.\n\n2\n00:00:03.090 --> 00:00:04.379\nI'm in the middle of the street\n\n3\n00:00:04.380 --> 00:00:05.579\nand directly in front of me.\n\n4\n00:00:05.580 --> 00:00:07.130\nI can see some construction work.\n\n5\n00:00:07.560 --> 00:00:09.599\nAlso I can see a radio tower beyond\n\n6\n00:00:09.600 --> 00:00:10.470\nthe construction work.\n",
+    "Rural V1 02":"WEBVTT\n\n1\n00:00:00.540 --> 00:00:02.870\nI want to report a robbery that has\njust occurred.\n\n2\n00:00:03.120 --> 00:00:05.069\nI can see a water tower in front of\nme\n\n3\n00:00:05.070 --> 00:00:07.190\nas well as a train station past the\nwater tower.\n",
+    "Rural V1 03":"WEBVTT\n\n1\n00:00:00.660 --> 00:00:03.010\nI want to report a fight breaking\nout nearby.\n\n2\n00:00:03.360 --> 00:00:05.549\nI can see a radio tower directly in\nfront of me\n\n3\n00:00:05.550 --> 00:00:07.170\nin a park past the radio tower.\n",
+    "Rural V1 04":"WEBVTT\n\n1\n00:00:00.710 --> 00:00:01.989\nA fire started nearby\n\n2\n00:00:01.990 --> 00:00:03.620\nbut I'm not familiar with this area.\n\n3\n00:00:03.990 --> 00:00:05.609\nDirectly in front of me as a school.\n\n4\n00:00:05.610 --> 00:00:06.930\nAnd behind me is a park.\n",
+    "Rural V1 05":"WEBVTT\n\n1\n00:00:00.720 --> 00:00:03.050\nI want to report a mattress in the\nmiddle of the road.\n\n2\n00:00:03.370 --> 00:00:04.709\nI'm in the middle of the street\n\n3\n00:00:04.710 --> 00:00:06.350\nand I can see a park in front of me.\n\n4\n00:00:06.540 --> 00:00:08.028\nHospital to the right\n\n5\n00:00:08.029 --> 00:00:09.690\nand a construction site to my left.\n",
+    "Rural V1 06":"WEBVTT\n\n1\n00:00:00.690 --> 00:00:02.750\nI see a child wandering the streets\nalone.\n\n2\n00:00:03.050 --> 00:00:04.289\nI'm in the middle of the street\n\n3\n00:00:04.290 --> 00:00:06.510\nand to my left or right are\nconstruction sites.\n",
+    "Rural V1 07" :"WEBVTT\n\n1\n00:00:00.690 --> 00:00:03.110\nI want to report a street light\npower outage.\n\n2\n00:00:03.330 --> 00:00:04.919\nI am next to a police station\n\n3\n00:00:04.920 --> 00:00:07.530\nand can see the fire station across\nfrom some railroad tracks\n",
+    "Rural V1 08" :"WEBVTT\n\n1\n00:00:00.660 --> 00:00:01.739\nMy bicycle was stolen\n\n2\n00:00:01.740 --> 00:00:03.410\nand I'm not familiar with this area.\n\n3\n00:00:03.630 --> 00:00:05.609\nI'm facing a watertower that is in\nthe middle\n\n4\n00:00:05.610 --> 00:00:06.450\nof around about.\n",
+    "Rural V1 09" :"WEBVTT\n\n1\n00:00:00.630 --> 00:00:01.559\nI was with my mom\n\n2\n00:00:01.560 --> 00:00:03.449\nbut we got separated. I am in a\n\n3\n00:00:03.450 --> 00:00:04.442\nsingle story building.\n\n4\n00:00:04.950 --> 00:00:06.059\nLooking out the window,\n\n5\n00:00:06.060 --> 00:00:07.679\nI can see some train tracks\n\n6\n00:00:07.680 --> 00:00:09.690\nand a train station past the tracks.\n",
+    "Rural V1 10" :"WEBVTT\n\n1\n00:00:00.690 --> 00:00:02.279\nI was looking out of a window\n\n2\n00:00:02.280 --> 00:00:04.190\nand I saw a car hit a tree.\n\n3\n00:00:04.420 --> 00:00:06.230\nI'm on the top floor of a three\n\n4\n00:00:06.360 --> 00:00:06.662\nstory building.\n\n5\n00:00:07.260 --> 00:00:09.299\nI can see a construction site on the\nsame\n\n6\n00:00:09.300 --> 00:00:10.530\nblock as this building.\n",
+    "Rural V1 11" : "WEBVTT\n\n1\n00:00:00.600 --> 00:00:01.619\nMy mom passed out\n\n2\n00:00:01.620 --> 00:00:02.720\nand won't wake up.\n\n3\n00:00:02.760 --> 00:00:04.604\nWe are on top of a three\nstory building.\n\n4\n00:00:04.770 --> 00:00:06.719\nAnd I can see some railroad tracks\n\n5\n00:00:06.720 --> 00:00:09.090\nand a single story building past\nthe tracks.\n",
+    "Rural V1 12" :"WEBVTT\n\n1\n00:00:00.600 --> 00:00:02.900\nMy mom slipped and fell on the floor\nhard.\n\n2\n00:00:03.030 --> 00:00:04.940\nWe are on the roof of a three\nstory building.\n\n3\n00:00:05.400 --> 00:00:07.820\nI can see a construction site to the west\n",
+    "Rural V1 14" :"WEBVTT\n\n1\n00:00:00.660 --> 00:00:02.690\nI saw black car hit a light post.\n\n2\n00:00:02.810 --> 00:00:04.859\nI'm in the middle of the\nintersection between 3rd\n\n3\n00:00:04.860 --> 00:00:06.390\nStreet and hospital Drive.\n",
+    "Rural V1 13" :"WEBVTT\n\n1\n00:00:00.510 --> 00:00:01.929\nI'm at the park with my dad\n\n2\n00:00:01.930 --> 00:00:03.029\nand he fell in the pond\n\n3\n00:00:03.030 --> 00:00:04.010\nand can't get out.\n\n4\n00:00:04.050 --> 00:00:05.339\nThe pond is to the west\n\n5\n00:00:05.340 --> 00:00:07.289\nand there's a construction site\ndirectly\n\n6\n00:00:07.290 --> 00:00:07.870\nbehind me.\n",
+    "Rural V1 15":"WEBVTT\n\n1\n00:00:00.630 --> 00:00:02.690\nI was just hit by a passing\nmotorcycle.\n\n2\n00:00:02.850 --> 00:00:04.709\nI'm at a park which is to the east\nof\n\n3\n00:00:04.710 --> 00:00:05.520\nthe train station.\n"
+  }
+}

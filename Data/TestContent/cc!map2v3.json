@@ -1,0 +1,289 @@
+{
+  "assessmentName": "Suburban-Rural Map Reading",
+  "playerType": "MCQ",
+  "lastModified": "06/09/2017",
+  "instruction": "<p role=heading aria-level=3>Suburban-Rural Map Reading</p><p>This section of the test contains multiple-choice questions, which you must answer by using your computer mouse to select the correct response. Upon answering a question, you can go to the next question by clicking the Next button on the Menu bar.</p><p>During this section of the test, if you choose you may skip an item and then later return to that item.</p><p>When you are finished, select Submit from the Menu bar. Your Test Administrator may have set a time limit for this test section. If there is a time limit, you will be told how much time you have. If a time limit has been set for this section of the test, you will notice a countdown timer on the Header of the screen, showing the amount of time remaining to complete this section of the test.</p><p>We recommend that you go to the practice version of this section of the test to learn more about how you should respond to items during this section of the test.</p>",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Suburban Map v3 - All items.png' alt='Suburban map v3'><p>What direction is the High School from the Hospital?</p>",
+      "options": [
+        {
+          "text": "North and West"
+        },
+        {
+          "text": "South and West"
+        },
+        {
+          "text": "North and East"
+        },
+        {
+          "text": "South and East"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Suburban Map v3 - All items.png' alt='Suburban map v3'><p>What street does NOT cross the railroad?</p>",
+      "options": [
+        {
+          "text": "Chambers"
+        },
+        {
+          "text": "Fowler"
+        },
+        {
+          "text": "Vineyard"
+        },
+        {
+          "text": "Gardner"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Suburban Map v3 - All items.png' alt='Suburban map v3'><p>While obeying all traffic signs, what is the route with the shortest distance from the Shop to the Vineyard street entrance of the Library?</p>",
+      "options": [
+        {
+          "text": "Travel West on State Route 206, turn right on Fowler, turn right on Vineyard."
+        },
+        {
+          "text": "Travel North on Orchard, turn left on Fremont, turn right on Fowler, turn right on Vineyard."
+        },
+        {
+          "text": "Travel West on State Route 206, turn right on Sutter, turn left on Vineyard."
+        },
+        {
+          "text": "Travel North on Orchard, turn left on Fremont, turn right on Sutter, turn left on Vineyard."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Suburban Map v3 - All items.png' alt='Suburban map v3'><p>A person is driving East on Abbot. After they make a left turn on Gardner, what direction are they traveling?</p>",
+      "options": [
+        {
+          "text": "North"
+        },
+        {
+          "text": "East"
+        },
+        {
+          "text": "South"
+        },
+        {
+          "text": "West"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Suburban Map v3 - All items.png' alt='Suburban map v3'><p>What street is the South entrance of the Hospital on?</p>",
+      "options": [
+        {
+          "text": "Tully"
+        },
+        {
+          "text": "Fowler"
+        },
+        {
+          "text": "Freemont"
+        },
+        {
+          "text": "Gardner"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Suburban Map v3 - All items.png' alt='Suburban map v3'><p>While obeying all traffic signs, a person makes a right turn onto Chambers street from the Supply Store. They then turn left onto Bell and then right onto Clay. What direction are they now traveling?</p>",
+      "options": [
+        {
+          "text": "North"
+        },
+        {
+          "text": "East"
+        },
+        {
+          "text": "South"
+        },
+        {
+          "text": "West"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Suburban Map v3 - All items.png' alt='Suburban map v3'><p>You are driving a vehicle that cannot drive across railroad crossings. What would be the fastest route you can take to get from the intersection of Bell and Orchard to the Hospital, while obeying all traffic signs and not driving over a railroad crossing?</p>",
+      "options": [
+        {
+          "text": "Travel North on Orchard, turn left on Chambers, turn left on Fowler."
+        },
+        {
+          "text": "Travel East on Bell, turn right on Clay, turn right on Valley, turn left on Cider, turn right on Freemont."
+        },
+        {
+          "text": "Travel South on Orchard, turn right on Freemont."
+        },
+        {
+          "text": "Travel West on Bell, turn left on Vineyard, turn left on Fowler."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Suburban Map v3 - All items.png' alt='Suburban map v3'><p>A service truck is required at the Northwest corner of the Library. At what intersection is that location?</p>",
+      "options": [
+        {
+          "text": "Vineyard and Fowler"
+        },
+        {
+          "text": "Vineyard and Sutter"
+        },
+        {
+          "text": "Freemont and Fowler"
+        },
+        {
+          "text": "The Northwest corner of the Library is not located at an intersection."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Suburban Map v3 - All items.png' alt='Suburban map v3'><p>What direction can a car legally travel on State Route 206?</p>",
+      "options": [
+        {
+          "text": "North or South"
+        },
+        {
+          "text": "East or West"
+        },
+        {
+          "text": "North or East"
+        },
+        {
+          "text": "South or West"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Suburban Map v3 - All items.png' alt='Suburban map v3'><p>Starting at the Garage, if a person is traveling South on Fowler and they obey all of the traffic signs, how many street intersections will that person cross before they come to the end of the street?</p>",
+      "options": [
+        {
+          "text": "4"
+        },
+        {
+          "text": "5"
+        },
+        {
+          "text": "6"
+        },
+        {
+          "text": "7"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Suburban Map v3 - All items.png' alt='Suburban map v3'><p>What direction should an ambulance head if they are at the corner of Cider and Valley and they must get to the Shop by the shortest route possible, while obeying all traffic signs?</p>",
+      "options": [
+        {
+          "text": "North"
+        },
+        {
+          "text": "East"
+        },
+        {
+          "text": "South"
+        },
+        {
+          "text": "West"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Suburban Map v3 - All items.png' alt='Suburban map v3'><p>There is an accident at the intersection of Chambers and Gardner. You have two ambulances currently available, one located at that corner of Chambers and Bell and the other located at the corner of Abbot and Fowler. Which ambulance would you send to minimize the distance that the ambulance has to travel to the accident while obeying all traffic signs?</p>",
+      "options": [
+        {
+          "text": "The ambulance on the Southeast corner of the map."
+        },
+        {
+          "text": "The ambulance on the Northwest corner of the map."
+        },
+        {
+          "text": "It depends on the current level of traffic."
+        },
+        {
+          "text": "It will take an equal amount of distance for either ambulance to reach the accident."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Suburban Map v3 - All items.png' alt='Suburban map v3'><p>A person is driving from the intersection of Sutter and Freemont. They drive East on Freemont, turn right on Orchard, then turn left on State Route 206 and travel one block before stopping. Where are they located?</p>",
+      "options": [
+        {
+          "text": "The corner of Orchard and State Route 206."
+        },
+        {
+          "text": "The corner of Cider and State Route 206."
+        },
+        {
+          "text": "The corner of Sutter and State Route 206."
+        },
+        {
+          "text": "The location would be located off of the map."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Suburban Map v3 - All items.png' alt='Suburban map v3'><p>While obeying all traffic signs, what is the route with the shortest distance from the Chambers street exit of the Supply Store to the Rail Yard?</p>",
+      "options": [
+        {
+          "text": "Travel East on Chambers, turn right on Orchard."
+        },
+        {
+          "text": "Travel West on Chambers, turn right on Orchard"
+        },
+        {
+          "text": "Travel East on Chambers, turn right on Orchard, turn left on Bell, turn right on Clay."
+        },
+        {
+          "text": "Travel East on Chambers, turn right on Bell, turn left on Orchard."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Suburban Map v3 - All items.png' alt='Suburban map v3'><p>A truck leaves the Library by heading East on Vineyard, then turns left on Abbot and finally turns right on Gardner to it’s destination. How many railroad crossings did the truck cross?</p>",
+      "options": [
+        {
+          "text": "None"
+        },
+        {
+          "text": "1"
+        },
+        {
+          "text": "2"
+        },
+        {
+          "text": "4"
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [
+        {
+          "id": "Suburban Map v3 - All items",
+          "url": "/content/image-library/mcq/criticall/map-reading/Suburban Map v3 - All items.png"
+        }
+      ],
+      "audio": []
+    }
+  }
+}

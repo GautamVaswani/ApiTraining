@@ -1,0 +1,289 @@
+{
+  "assessmentName": "Map Reading",
+  "playerType": "MCQ",
+  "lastModified": "06/09/2017",
+  "instruction": "<p role=heading aria-level=3>Map Reading</p><p>This section of the test contains multiple-choice questions, which you must answer by using your computer mouse to select the correct response. Upon answering a question, you can go to the next question by clicking the Next button on the Menu bar.</p><p>During this section of the test, if you choose you may skip an item and then later return to that item.</p><p>When you are finished, select Submit from the Menu bar. Your Test Administrator may have set a time limit for this test section. If there is a time limit, you will be told how much time you have. If a time limit has been set for this section of the test, you will notice a countdown timer on the Header of the screen, showing the amount of time remaining to complete this section of the test.</p><p>We recommend that you go to the practice version of this section of the test to learn more about how you should respond to items during this section of the test.</p>",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v3 - All items.png' alt='Urban map v3'><p>A police officer is driving halfway down the block on the west side of the shopping center and must reach the intersection of Butcher and Great Hill. Obeying all traffic signs, what is the most direct route the police officer can take?</p>",
+      "options": [
+        {
+          "text": "Go south on Phoenix to Butcher. Turn left onto Butcher. Travel three blocks east to Great Hill."
+        },
+        {
+          "text": "Travel north on Phoenix to Bushnell. Turn right onto Bushnell. Travel east on Bushnell to Great Hill. Turn right onto Great Hill. Travel two blocks south on Great Hill to Butcher."
+        },
+        {
+          "text": "Travel north on Phoenix to Bushnell. Turn right onto Bushnell. Travel east on Bushnell to Maple. Turn right onto Maple. Travel south on Maple two blocks to Butcher. Turn right onto Butcher. Travel one block to Great Hill."
+        },
+        {
+          "text": "Travel north on Phoenix to Bushnell. Turn right onto Bushnell. Travel east to Bridge. Turn right onto Bridge. Travel south on Bridge two blocks to Butcher, turn left onto Butcher. Travel one block to Great Hill."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v3 - All items.png' alt='Urban map v3'><p>An ambulance is located at the north entrance of the restaurant on Butcher and must reach the entrance to the police station on Maple.The most direct route the ambulance can take while obeying all traffic signs is:</p>",
+      "options": [
+        {
+          "text": "Travel west on Butcher to Phoenix. Turn right onto Phoenix. Travel north on Phoenix to Bushnell. Turn right onto Bushnell. Travel east on Bushnell to Bridge. Go right onto Bridge. Travel south on Bridge to Armsmear. Turn left onto Armsmear. Travel east on Armsmear to Maple. Turn left onto Maple."
+        },
+        {
+          "text": "Travel east on Butcher to Maple. Turn left onto Maple. Travel north on Maple."
+        },
+        {
+          "text": "Travel east on Butcher to Great Hill. Turn left onto Great Hill. Travel north on Great Hill to Bushnell. Turn right onto Bushnell. Travel east to Maple."
+        },
+        {
+          "text": "Travel west on Butcher to Phoenix. Turn right onto Phoenix. Travel north on Phoenix to Bushnell. Turn right onto Bushnell. Travel east on Bushnell to Maple. Turn right onto Maple."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v3 - All items.png' alt='Urban map v3'><p>A police officer must travel from the East side of the Police Station to the block on Armsmear halfway between Bridge and Great Hill. The most direct route the police officer can take while obeying all traffic signs is:</p>",
+      "options": [
+        {
+          "text": "Travel north on Maple to Bushnell. Turn left onto Bushnell. Travel west to Bridge. Turn left onto Bridge. Travel one block south on Bridge to Armsmear. Turn right onto Armsmear."
+        },
+        {
+          "text": "Travel south on Maple to Butcher. Turn right onto Butcher. Travel west on Butcher to Bridge. Turn right onto Bridge. Travel one block north on Bridge to Armsmear. Turn right onto Armsmear."
+        },
+        {
+          "text": "Travel south on Maple to Butcher. Turn right onto Butcher. Travel west on Butcher to Great Hill. Travel north on Great Hill one block to Armsmear. Turn left onto Armsmear."
+        },
+        {
+          "text": "Travel north on Maple to Bushnell. Turn left onto Bushnell. Travel west on Bushnell to Great Hill. Turn left onto Great Hill. Travel south on Great Hill to Armsmear. Turn left onto Armsmear."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v3 - All items.png' alt='Urban map v3'><p>A vehicle is located on the south entrance of the Parking Garage on Armsmear and must travel to the corner of Maple and Butcher. What is the most direct route the vehicle can take while obeying all traffic signs?</p>",
+      "options": [
+        {
+          "text": "Travel west on Armsmear to Bridge. Turn right onto Bridge. Travel one block south on Bridge to Butcher. Turn left onto Butcher. Travel two blocks to Maple."
+        },
+        {
+          "text": "Travel east on Armsmear to Great Hill. Turn right onto Great Hill. Travel south on Great Hill for one block to Butcher. Turn left onto Butcher. Travel east on Butcher two blocks to Maple."
+        },
+        {
+          "text": "Travel east on Armsmear to Maple. Turn right onto Maple. Travel south on Maple to Butcher."
+        },
+        {
+          "text": "Travel east on Armsmear to Bridge. Turn left onto Bridge. Travel north on Bridge to Bushnell. Turn right onto Bushnell. Travel east on Bushnell to Maple. Turn right onto Maple. Travel south on Maple to Butcher."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v3 - All items.png' alt='Urban map v3'><p>A police vehicle is located on Butcher at the Pedestrian Walkway near the shopping center. While obeying all traffic signs, the most direct route the police vehicle can take from that location to the Butcher Street entrance of the Restaurant is:</p>",
+      "options": [
+        {
+          "text": "Travel west on Butcher to Phoenix. Turn right onto Phoenix. Travel south on Phoenix to Bushnell. Turn right onto Bushnell. Travel east on Bushnell to Bridge. Turn right onto Bridge. Travel north on Bridge to Butcher. Turn right onto Butcher to the entrance of the Restaurant"
+        },
+        {
+          "text": "Travel west on Butcher to Phoenix. Turn right onto Phoenix. Travel north on Phoenix to Bushnell. Turn right onto Bushnell. Travel east on Bushnell to Bridge. Turn right onto Bridge. Travel south on Bridge to Butcher. Turn right onto Butcher to the entrance of the Restaurant"
+        },
+        {
+          "text": "Travel east on Butcher to the entrance of the Restaurant."
+        },
+        {
+          "text": "Travel west on Butcher to Phoenix. Turn right onto Phoenix. Take Phoenix north to Bushnell. Turn right onto Bushnell. Travel east on Bushnell to Maple. Turn right onto Maple. Travel south on Maple to Butcher. Turn right onto Butcher to the entrance of the Restaurant."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v3 - All items.png' alt='Urban map v3'><p>A woman drives from the corner of Lincoln and Great Hill and travels east one block. The woman then travels south for three blocks. At what intersection does the woman end this trip?</p>",
+      "options": [
+        {
+          "text": "Bushnell and Bridge"
+        },
+        {
+          "text": "Armsmear and Bridge"
+        },
+        {
+          "text": "Butcher and Maple"
+        },
+        {
+          "text": "Butcher and Bridge"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v3 - All items.png' alt='Urban map v3'><p>An ambulance leaves the Parking Garage and travels east on Bushnell to Maple. It turns south at that intersection and travels south for two blocks. It then turns right and travels two blocks west. At which intersection does this ambulance complete this trip?</p>",
+      "options": [
+        {
+          "text": "Butcher and Bridge"
+        },
+        {
+          "text": "Pedestrian Walkway and Butcher"
+        },
+        {
+          "text": "Bridge and Armsmear"
+        },
+        {
+          "text": "Great Hill and Butcher"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v3 - All items.png' alt='Urban map v3'><p>A vehicle starts at the intersection of Great Hill and Butcher. The vehicle travels north for two blocks. The vehicle then turns east for one block and comes to a stop. What building is to the right of the vehicle where it came to a stop?</p>",
+      "options": [
+        {
+          "text": "Parking Garage"
+        },
+        {
+          "text": "Police Station"
+        },
+        {
+          "text": "Shopping Center"
+        },
+        {
+          "text": "Restaurant"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v3 - All items.png' alt='Urban map v3'><p>A firefighter is standing in the middle of the intersection at Bridge and Bushnell. What direction is the Restaurant from that location?</p>",
+      "options": [
+        {
+          "text": "North and East"
+        },
+        {
+          "text": "North and West"
+        },
+        {
+          "text": "South and East"
+        },
+        {
+          "text": "South and West"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v3 - All items.png' alt='Urban map v3'><p>A man who lives at the intersection of Armsmear and Maple drives from his house to drop off some paperwork. He travels south from his house for one block and then turns right. He travels two and a half blocks west and stops. What building is on the left side of his vehicle where he stopped?</p>",
+      "options": [
+        {
+          "text": "Shopping Center"
+        },
+        {
+          "text": "Parking Garage"
+        },
+        {
+          "text": "Police Station"
+        },
+        {
+          "text": "Restaurant"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v3 - All items.png' alt='Urban map v3'><p>A woman is standing inside the Parking Garage. What direction is the Police Station from that location?</p>",
+      "options": [
+        {
+          "text": "North"
+        },
+        {
+          "text": "East"
+        },
+        {
+          "text": "South"
+        },
+        {
+          "text": "West"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v3 - All items.png' alt='Urban map v3'><p>A woman starts her trip at the intersection of Maple and Bushnell. She drives south on Maple and then turns right on to Butcher. She then drives west on Butcher until she stops at the intersection of Bridge and Butcher. How many blocks did this woman drive during this trip?</p>",
+      "options": [
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "5"
+        },
+        {
+          "text": "6"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v3 - All items.png' alt='Urban map v3'><p>A vehicle that was driving south on Bridge turned left on to Bushnell. What direction on Bushnell is the vehicle now traveling?</p>",
+      "options": [
+        {
+          "text": "North"
+        },
+        {
+          "text": "East"
+        },
+        {
+          "text": "South"
+        },
+        {
+          "text": "West"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v3 - All items.png' alt='Urban map v3'><p>A security officer calls and requests a police officer to come to the Southwest entrance of the Shopping Center. What is the closest intersection to the Southwest entrance of the Shopping Center?</p>",
+      "options": [
+        {
+          "text": "Butcher and the Pedestrian Walkway"
+        },
+        {
+          "text": "Butcher and Phoenix"
+        },
+        {
+          "text": "Bushnell and the Pedestrian Walkway"
+        },
+        {
+          "text": "Bushnell and Phoenix"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v3 - All items.png' alt='Urban map v3'><p>A police car is at the intersection of Bushnell and Great Hill and must travel quickly to the Restaurant on Butcher. The shortest distance the police car can drive from the intersection of Great Hill and Armsmear to the Restaurant while obeying all traffic signs is:</p>",
+      "options": [
+        {
+          "text": "South on Great Hill. Then east on Butcher to the Restaurant."
+        },
+        {
+          "text": "East on Bushnell. Then south on Maple. Then west on Butcher to the Restaurant."
+        },
+        {
+          "text": "West on Bushnell. Then south on Bridge. Then west on Butcher to the Restaurant."
+        },
+        {
+          "text": "West on Bushnell. Then south on Phoenix. Then east on Butcher to the Restaurant."
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [
+        {
+          "id": "Map Reading v3 - All items",
+          "url": "/content/image-library/mcq/criticall/map-reading/Map Reading v3 - All items.png"
+        }
+      ],
+      "audio": []
+    }
+  }
+}

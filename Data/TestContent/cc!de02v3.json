@@ -1,0 +1,155 @@
+{
+  "assessmentName": "Data Entry",
+  "playerType": "DataEntry",
+  "modeType": "data-entry-audio-mt",
+  "subType": "data-entry",
+  "instructions": "<span role='heading' aria-level='4'>Data Entry</span><br/><br/>    The following is a test of your ability to correctly enter data you see into the proper fields on the computer monitor.<br/><br/>    During this test, you will see names, addresses, telephone numbers, and other data on the right side of the screen. You should enter all the data exactly as it appears into the proper boxes on the left side of the screen. Once you have entered all of the data that appears in the box on the right, follow the on-screen instructions to see and enter the next set of data, and so on. Continue entering data until the time limit runs out.<br/><br/>    You may skip to the next set of data prior to your entering all of the data shown in the box on the right if you wish. However, you cannot return to the skipped data and failing to enter all of the data from the box on the right will result in a lower score.<br/><br/>    You will be graded on the speed and accuracy of the data you enter into the correct boxes. Do NOT use abbreviations in this section of the test.<br/><br/>    You will also need to respond to any emergency messages that appear in the bottom right corner of the screen by left-clicking your mouse over the agency to be dispatched. Failing to respond to a decision-making message within 15 seconds after the message first appears will result in a lower score.<br/>    ",
+  "timeLimit": 5,
+  "disableEmergency": false,
+  "MTquestions": [
+    {
+      "id": 1,
+      "queText": "Small girl pulled from swimming pool is not breathing.",
+      "startDelay": 5
+    },
+    {
+      "id": 2,
+      "queText": "Children dropping rocks from bridge on to cars.",
+      "startDelay": 55
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "inputs": [
+        "ANDREWS",
+        "RICH",
+        "324-623-8012",
+        "1224 KENNET",
+        "MELTON",
+        "34689",
+        "914RN1261LYJLKA5",
+        "4PCGMEK",
+        "P2160453"
+      ]
+    },
+    {
+      "id": 2,
+      "inputs": [
+        "BLOCK",
+        "DONALD",
+        "408-269-3128",
+        "2141 TILSON",
+        "BENSON",
+        "36410",
+        "RRABP26NR362489G",
+        "4LMN231",
+        "R6943105"
+      ]
+    },
+    {
+      "id": 3,
+      "inputs": [
+        "COTTER",
+        "GRAHAM",
+        "232-239-6024",
+        "6666 MAPLEROP",
+        "GREAT LAKES",
+        "60610",
+        "1EKVA329R2023PRT",
+        "1TVU218",
+        "A3692489"
+      ]
+    },
+    {
+      "id": 4,
+      "inputs": [
+        "DALTON",
+        "PETRA",
+        "641-733-9217",
+        "6340 ARDEN",
+        "LAKE PLUMAS",
+        "63049",
+        "LT6394DRKMJ324LJ",
+        "TXR389",
+        "N6393926"
+      ]
+    },
+    {
+      "id": 5,
+      "inputs": [
+        "HANSEN",
+        "DRUELLEN",
+        "763-289-1633",
+        "615 TERRY",
+        "IVY TOWN",
+        "30247",
+        "LT643BGJTB3497DW",
+        "8PLT623",
+        "A2639484"
+      ]
+    },
+    {
+      "id": 6,
+      "inputs": [
+        "SAWYER",
+        "DIXON",
+        "846-324-8102",
+        "423 PARKINS",
+        "BALSA",
+        "32469",
+        "1CTLP86531DLM8RA",
+        "27773P",
+        "D6394817"
+      ]
+    },
+    {
+      "id": 7,
+      "inputs": [
+        "VALLE",
+        "JASON",
+        "864-481-0650",
+        "2737 SLOCOM",
+        "FESTER",
+        "32633",
+        "PT613CAD6161DC319",
+        "E429623",
+        "G3632164"
+      ]
+    },
+    {
+      "id": 8,
+      "inputs": [
+        "WINTON",
+        "BONNIE",
+        "202-457-9203",
+        "310 WILDER",
+        "JOLIET",
+        "95362",
+        "ABPJ32141LM61824",
+        "825CLT",
+        "B2612889"
+      ]
+    },
+    {
+      "id": 9,
+      "inputs": [
+        "TYLER",
+        "BETH",
+        "604-854-2739",
+        "2605 PERRY",
+        "NEWTON",
+        "46739",
+        "RPBT3219643TLRPC",
+        "1BO6439",
+        "R6213847"
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

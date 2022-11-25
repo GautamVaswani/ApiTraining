@@ -1,0 +1,283 @@
+{
+  "assessmentName": "Reading Comprehension",
+  "playerType": "MCQ",
+  "lastModified": "06/09/2017",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "<P>Dispatchers should give information on the radio at approximately the same speed that a person typically writes by hand (about 30 to 50 words per minute). Radio broadcasts should never exceed 45 seconds without a break; a 30-second maximum is preferred. The break should be long enough to allow for possible incoming emergency radio traffic. In other words, long messages should be broken down into separate sections to allow for potential incoming radio traffic. The dispatcher can then continue with the broadcast after each break.</P><P> According to this passage:</P>",
+      "options": [
+        {
+          "text": "Long radio broadcasts should be broken into segments of 45 seconds or less in length."
+        },
+        {
+          "text": "Radio broadcasts should never be longer than 30 seconds in length."
+        },
+        {
+          "text": "Dispatchers should be able to type information on a keyboard at about 30 to 50 words per minute."
+        },
+        {
+          "text": "A dispatcher should take a break during long emergency messages only if there is incoming emergency radio traffic."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "<P>Dispatchers typically should not indicate a preferred direction of travel for officers responding to an emergency. However, sometimes the person telephoning in the emergency call will suggest a particular approach. If this occurs, the dispatcher should inform the responding units of the suggested route and inform them that the person who called in the emergency suggested this route.</P><P> According to this passage:</P>",
+      "options": [
+        {
+          "text": "Dispatchers should never provide preferred directions of travel to an emergency."
+        },
+        {
+          "text": "Dispatchers should inform responding units when the caller who reported the emergency suggested a route."
+        },
+        {
+          "text": "Dispatchers should provide a suggested route to an emergency call only when asked by responding units."
+        },
+        {
+          "text": "Dispatchers should obtain a preferred direction of travel directions from callers who report an emergency."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "<P>Telecommunicators will often have to direct the responders to the location through the use of cross streets, landmarks, or by other means. The telecommunicator must be able to read many different types of maps in order to fulfill this function. Road maps show primarily the location of roadways. Some, such as state maps, cover a large area and only show major arteries. It is important to know which type is being used to eliminate the possibility of error in directing resources to the proper turn.</P><P> According to this passage:</P>",
+      "options": [
+        {
+          "text": "The most important challenge to a telecommunicator is to use the correct type of map."
+        },
+        {
+          "text": "Telecommunicators primarily use road maps and state maps when directing responders to locations."
+        },
+        {
+          "text": "Telecommunicators must have the ability to read and differentiate between many types of maps."
+        },
+        {
+          "text": "The only way telecommunicators know how to direct responders to locations is through the use of maps."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionText": "<P>In the event of an emergency medical call, once the basic information necessary to dispatch assistance is collected (such as the caller’s name, address, and nature of the call), the dispatcher should begin to provide Pre-Arrival Instructions (PAI) to the caller if appropriate. PAIs are instructions given by the dispatcher to assist the caller prior to the arrival of emergency services personnel. Some deaths are preventable if the caller properly acts on the information provided by the dispatcher.</P><P> According to this passage:</P>",
+      "options": [
+        {
+          "text": "Dispatchers can potentially save lives if appropriate Pre-Arrival Instructions are given to a caller."
+        },
+        {
+          "text": "A dispatcher is responsible for how well a caller performs Pre-Arrival Instructions."
+        },
+        {
+          "text": "Dispatchers should always give Pre-Arrival Instructions to callers when death is possible."
+        },
+        {
+          "text": "Emergency medical personnel will attempt to arrive at a medical emergency as soon as possible."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionText": "<P>Sexual harassment is any unwanted verbal or physical advances, sexually explicit derogatory statements, or sexually discriminatory remarks made by a person in the workplace that are offensive to the recipient, cause the recipient discomfort or humiliation, or interfere with the recipient’s job performance. Sexual harassment is considered a form of employee misconduct and sanctions will be enforced against individuals engaging in sexual harassment and against supervisory or managerial personnel who knowingly allow such behavior to take place.</P><P> According to this passage:</P>",
+      "options": [
+        {
+          "text": "A woman cannot sexually harass another woman."
+        },
+        {
+          "text": "Supervisors who knowingly permit sexual harassment to occur in the workplace will be sanctioned."
+        },
+        {
+          "text": "A recipient must show they were physically affected for someone to be sanctioned for sexual harassment."
+        },
+        {
+          "text": "An employee who tells a sexually explicit joke to his wife at their home is committing employee misconduct."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionText": "<P>Direct lines differ from the normal phone lines in that they do not have access to the public switch network. The switched network is characterized by having access to dial tone. In other words, when the phone is taken off the hook or a button is depressed, the caller hears a dial tone. Direct lines, on the other hand, do not have a dial tone. The line is directly connected between point A and point B.</P><P> According to this passage:</P>",
+      "options": [
+        {
+          "text": "The public switch network CANNOT be accessed to make direct line calls."
+        },
+        {
+          "text": "When a direct line is taken off the hook, the caller hears a dial tone."
+        },
+        {
+          "text": "A direct line has a dial tone that can be heard by the caller."
+        },
+        {
+          "text": "If someone wants to call from one point to another, they MUST use a direct line."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionText": "<P>Dispatchers should not make assumptions about statements a telephone caller makes. For example, if a caller says that she just heard fireworks, the dispatcher should ask why she thinks the sound she heard was made by fireworks and did not come from some other source.</P><P> According to this passage:</P>",
+      "options": [
+        {
+          "text": "People do not typically tell the truth when they call to make a report."
+        },
+        {
+          "text": "Dispatchers should ask questions to clarify a caller’s statements when appropriate."
+        },
+        {
+          "text": "Dispatchers should assume that callers frequently confuse the sound of gunshots with fireworks."
+        },
+        {
+          "text": "People who call to report the sound of fireworks are frequently wrong."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionText": "<P>If you are handling a telephone call from a person about a non-emergency situation, and the 9-1-1 emergency line rings, you should place the non-emergency call on hold and answer the emergency line by asking “What is your emergency?” If the person who called on the 9-1-1 emergency line is not reporting an emergency, you should put that person on hold and go back to complete the call from the previous caller.</P><P> According to this passage:</P>",
+      "options": [
+        {
+          "text": "Each telephone call should be completed prior to your taking another call."
+        },
+        {
+          "text": "The most recent non-emergency call should be handled before returning to the other non-emergency caller who is on hold."
+        },
+        {
+          "text": "Non-emergency calls should be completed in the order they are received."
+        },
+        {
+          "text": "Emergency calls should be taken only after other calls are completed."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionText": "<P>Telecommunication centers are the nerve centers of emergency response. Effective telecommunication centers are like the eye of a hurricane. Even when there is chaos all around, the telecommunications center should remain a calm place where people work together to solve the problems at hand. Proper planning in facility design, type of equipment used, and operating methods help create such a telecommunications center. </P><P>According to this passage:</P>",
+      "options": [
+        {
+          "text": "Calmness in a communication center is important."
+        },
+        {
+          "text": "Telecommunications centers should be designed to withstand stormy weather."
+        },
+        {
+          "text": "People should talk quietly in a telecommunications center so everyone remains calm."
+        },
+        {
+          "text": "Proper planning can help prepare for when the operating methods fail."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionText": "<P>Once a fire unit is dispatched to an emergency, a request from a civilian to cancel the emergency response will not alter the response. However, the dispatcher should notify the responding fire unit of the cancellation request. If the police department requests that an emergency response by a fire unit be canceled, the responding fire unit should be notified and the decision to cancel the call will be made by the responding fire unit.</P><P> According to this passage:</P>",
+      "options": [
+        {
+          "text": "ONLY the responding fire unit has the discretion to cancel an emergency response."
+        },
+        {
+          "text": "The final decision to cancel an emergency response by a fire unit can be made by the police department."
+        },
+        {
+          "text": "Dispatchers can cancel the emergency response of fire units if they are convinced there is no emergency."
+        },
+        {
+          "text": "All emergency responses by fire units will be completed, no matter who requests the response be cancelled."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "questionText": "<P>In telephone calls for emergency service, time is of the essence. Given the generally accepted time period of one minute to initiate a radio dispatch, telecommunicators must determine their actions very quickly. Time lost in the dispatch function cannot be \"made up\" by the people in the field who respond to the emergency call. Errors in the telecommications process complicate the status of resources, delay further responses, and may be impossible to correct.</P><P> According to this passage: </P>",
+      "options": [
+        {
+          "text": "Telecommunicators must work both quickly and accurately when responding to telephone calls for emergency service."
+        },
+        {
+          "text": "All emergency calls should be completed within one minute so that the telecommunicator will be available for the next call for emergency service."
+        },
+        {
+          "text": "The people in the field who respond to emergency calls are frequently required to make up for the slowness of a telecommunicator."
+        },
+        {
+          "text": "Most telecommunicators CANNOT keep up with the volume of emergency calls they receive."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "questionText": "<P>Ambulances should not transport persons who are under the influence of alcohol if that person is not suffering from a medical emergency or an apparent injury. Instead, persons who are intoxicated and cannot care for themselves are to be turned over to the police for transport. However, some injured persons under the influence of alcohol may refuse transportation by ambulance personnel. A patient who is under the influence of alcohol cannot make an informed refusal of treatment or transport.</P><P> According to this passage:</P>",
+      "options": [
+        {
+          "text": "Ambulance personnel should transport a seriously injured person who is under the influence of alcohol and refuses ambulance transport."
+        },
+        {
+          "text": "The police should transport a seriously injured person who is under the influence of alcohol and refuses ambulance transport."
+        },
+        {
+          "text": "Ambulance personnel have the primary responsibility to make certain that the police transport injured persons who are under the influence of alcohol."
+        },
+        {
+          "text": "The police have the primary responsibility to make certain that an ambulance transports injured persons who are under the influence of alcohol."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "questionText": "<P>Mental illness is often difficult for even trained professionals to diagnose. Dispatchers should not make judgments about the mental or emotional health of a person, but instead should recognize behaviors in persons that are potentially dangerous or destructive. The more information a dispatcher can obtain about an individual who may be acting in a potentially dangerous or destructive way, the better equipped that dispatcher will be to determine an appropriate response. </P><P>According to this passage:</P>",
+      "options": [
+        {
+          "text": "Mentally ill individuals are usually potentially dangerous or destructive."
+        },
+        {
+          "text": "The sooner a dispatcher decides someone is mentally ill, the quicker an appropriate response can be determined."
+        },
+        {
+          "text": "Dispatchers should focus on a person’s behaviors and not the person’s mental or emotional health."
+        },
+        {
+          "text": "Mental illness is a problem that dispatchers frequently encounter on the job"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "questionText": "<P>In any job, it is necessary to complete reports, memos, or letters. There are times that the telecommunicator will be required to prepare a written description of an event or problem. The telecommunicator must be able to create a readable report that can be shared with the media, the courts, or the general public.</P><P> According to this passage:</P>",
+      "options": [
+        {
+          "text": "Telecommunicators prepare press releases for the media."
+        },
+        {
+          "text": "Telecommunicators complete letters that are mailed to the courts."
+        },
+        {
+          "text": "Telecommunicators frequently write memos that describe events."
+        },
+        {
+          "text": "Telecommunicators need the ability to create a well-written report."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "questionText": "<P>Every dispatcher is entitled to a 45-minute meal break sometime during his or her shift. At the beginning of your shift, you will be informed by the supervisor what time your break will start. However, if a dispatcher is involved in an emergency situation and cannot reasonably take a break at the assigned time, other available dispatchers should be asked to volunteer to take that meal break period. If another dispatcher volunteers to take the earlier break, the dispatcher whose meal break was postponed would assume the meal break period of the dispatcher who covered for him or her. </P><P>According to this passage:</P>",
+      "options": [
+        {
+          "text": "Frequently dispatchers will not get their 45-minute meal break during a shift."
+        },
+        {
+          "text": "Dispatchers may choose what time they wish to take their meal break during a shift."
+        },
+        {
+          "text": "Dispatchers who cannot take a meal break at their assigned time due to an emergency will take the break later in the shift."
+        },
+        {
+          "text": "If a busy dispatcher cannot take a break during a shift due to an emergency, another dispatcher will be ordered to take their break early."
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

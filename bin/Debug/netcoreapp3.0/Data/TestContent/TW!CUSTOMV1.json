@@ -1,0 +1,195 @@
+{
+  "assessmentName": "Custom Test Name",
+  "lastModified": "06/09/2017",
+  "playerType": "TestWriter",
+  "scoreKey": "test-writer",
+  "questions": [
+    {
+      "id": 1,
+      "section": 1,
+      "playerType": "Agreement",
+      "questionText": "<p role=heading aria-level=3 >Alpha Filing Instructions</p><p>Welcome to the \"Alpha Filing\" test. To navigate from field to field, use the Tab key and Shift-Tab key combination to move backwards and forwards between entry fields. You may also use the mouse to move to any field as desired.</p><p>This test is administered in two parts. When you have completed Part 1, click on Next button to move to Part 2. When finished with Part 2, select Submit to end testing. Your Test Administrator may have set a time limit for the test.  If there is a time limit, you will be told how much time you have.  You will also notice a countdown timer on the status bar showing the time remaining.</p><p>Alpha Filing Part 1</p><p>In this scenario, you work in an office that uses an alphabetic filing system. You will be asked to look at ten record names. Your task is to assign each record the name that it should be filed under.</p><p>The column on the left contains the original record names. To assign each record a file name, highlight the record and type the file name on the folder tab. When complete with Part 1, click on Next to move to Part 2.</p><p>In this scenario, you will be using the Association of Records Managers and Administrators, Inc. (ARMA) standard for alphabetic filing. Please comply with these standards by removing all punctuation within record names and by removing spaces after abbreviations when typing each record.</p><p>Example: Record Name   File Name </p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Roger-Holmes Construction &nbsp;&nbsp;RogerHolmes Construction</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Janice Smith&nbsp;&nbsp;Smith Janice</p><p>In some cases, your Test Administrator may ask you to use special filing rules that are different from the ARMA filing rules. If so, it is important to follow the filing rules set by your Test Administrator, otherwise your answers will be marked as incorrect.</p><p>To view these instructions again, click the Instructions button on the top of the screen.</p><p>Alpha Filing Part 2</p><p>In this scenario, you are presented with ten folders that have already been assigned a file name. Your task is to file each folder in one of the eight file drawers in the middle of the screen.</p><p>To file a folder, click on the appropriate file drawer to open it. The contents of the drawer will appear on the right side of the screen. Using your mouse, grab the folder to be filed and drag it over to the right side of the screen. Drop the folder in the space where the folder should be located in the drawer.</p><p>When finished with Part 2, click Submit to end the test.</p><p>To change your answers in Part 1, click on the Previous button.</p><p>To view these instructions again, click the Instructions button on the top of the screen.</p>",
+      "options": [
+        {
+          "text": "Yes"
+        },
+        {
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": 1,
+      "playerType": "Instruction",
+      "questionText": "<p role=heading aria-level=3 >Alpha Filing Instructions</p><p>Welcome to the \"Alpha Filing\" test. To navigate from field to field, use the Tab key and Shift-Tab key combination to move backwards and forwards between entry fields. You may also use the mouse to move to any field as desired.</p><p>This test is administered in two parts. When you have completed Part 1, click on Next button to move to Part 2. When finished with Part 2, select Submit to end testing. Your Test Administrator may have set a time limit for the test.  If there is a time limit, you will be told how much time you have.  You will also notice a countdown timer on the status bar showing the time remaining.</p><p>Alpha Filing Part 1</p><p>In this scenario, you work in an office that uses an alphabetic filing system. You will be asked to look at ten record names. Your task is to assign each record the name that it should be filed under.</p><p>The column on the left contains the original record names. To assign each record a file name, highlight the record and type the file name on the folder tab. When complete with Part 1, click on Next to move to Part 2.</p><p>In this scenario, you will be using the Association of Records Managers and Administrators, Inc. (ARMA) standard for alphabetic filing. Please comply with these standards by removing all punctuation within record names and by removing spaces after abbreviations when typing each record.</p><p>Example: Record Name   File Name </p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Roger-Holmes Construction &nbsp;&nbsp;RogerHolmes Construction</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Janice Smith&nbsp;&nbsp;Smith Janice</p><p>In some cases, your Test Administrator may ask you to use special filing rules that are different from the ARMA filing rules. If so, it is important to follow the filing rules set by your Test Administrator, otherwise your answers will be marked as incorrect.</p><p>To view these instructions again, click the Instructions button on the top of the screen.</p><p>Alpha Filing Part 2</p><p>In this scenario, you are presented with ten folders that have already been assigned a file name. Your task is to file each folder in one of the eight file drawers in the middle of the screen.</p><p>To file a folder, click on the appropriate file drawer to open it. The contents of the drawer will appear on the right side of the screen. Using your mouse, grab the folder to be filed and drag it over to the right side of the screen. Drop the folder in the space where the folder should be located in the drawer.</p><p>When finished with Part 2, click Submit to end the test.</p><p>To change your answers in Part 1, click on the Previous button.</p><p>To view these instructions again, click the Instructions button on the top of the screen.</p>"
+    },
+    {
+      "id": 3,
+      "section": 1,
+      "playerType": "MCQ",
+      "questionText": "11 + 13 =",
+      "options": [
+        {
+          "text": "24"
+        },
+        {
+          "text": "28"
+        },
+        {
+          "text": "14"
+        },
+        {
+          "text": "18"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": 2,
+      "playerType": "TF",
+      "questionText": "The sun is hot.",
+      "options": [
+        {
+          "text": "True"
+        },
+        {
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": 2,
+      "playerType": "Likert",
+      "questionText": "How much do you agree with this question?",
+      "options": [
+        {
+          "text": "Completely Agree"
+        },
+        {
+          "text": "Mostly Agree"
+        },
+        {
+          "text": "Somewhat Agree"
+        },
+        {
+          "text": "Neutral"
+        },
+        {
+          "text": "Somewhat Disagree"
+        },
+        {
+          "text": "Mostly Disagree"
+        },
+        {
+          "text": "Completely Disagree"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": 2,
+      "playerType": "DragDrop",
+      "questionText": "Match the following images with the description.",
+      "positions": "4",
+      "options": [
+        {
+          "text": "<img src='/content/image-library/clientname/mediafolder/Book.png' alt='Book'>"
+        },
+        {
+          "text": "<img src='/content/image-library/clientname/mediafolder/Pen.png' alt='Pen'>"
+        },
+        {
+          "text": "<img src='/content/image-library/clientname/mediafolder/Ruler.png' alt='Ruler'>"
+        },
+        {
+          "text": "<img src='/content/image-library/clientname/mediafolder/Scissor.png' alt='Scissor'>"
+        },
+        {
+          "Pos1": "Scissor"
+        },
+        {
+          "Pos2": "Pen"
+        },
+        {
+          "Pos3": "Book"
+        },
+        {
+          "Pos4": "Ruler"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": 2,
+      "playerType": "Ranking",
+      "questionText": "Match the following images with the description.",
+      "positions": "4",
+      "options": [
+        {
+          "text": "<img src='/content/image-library/clientname/mediafolder/Book.png' alt='Book'>"
+        },
+        {
+          "text": "<img src='/content/image-library/clientname/mediafolder/Pen.png' alt='Pen'>"
+        },
+        {
+          "text": "<img src='/content/image-library/clientname/mediafolder/Ruler.png' alt='Ruler'>"
+        },
+        {
+          "text": "<img src='/content/image-library/clientname/mediafolder/Scissor.png' alt='Scissor'>"
+        },
+        {
+          "Pos1": "Scissor"
+        },
+        {
+          "Pos2": "Pen"
+        },
+        {
+          "Pos3": "Book"
+        },
+        {
+          "Pos4": "Ruler"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": 2,
+      "playerType": "FIB",
+      "questionText": "<span>A group of citizens wants to know if </span><span class='blank-field'></span><span> rights have been violated.</span>",
+      "audioID": "their"
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [
+        {
+          "id": "Book",
+          "url": "/content/image-library/clientname/mediafolder/Book.png"
+        },
+        {
+          "id": "Pen",
+          "url": "/content/image-library/clientname/mediafolder/Pen.png"
+        },
+        {
+          "id": "Ruler",
+          "url": "/content/image-library/clientname/mediafolder/Ruler.png"
+        },
+        {
+          "id": "Scissor",
+          "url": "/content/image-library/clientname/mediafolder/Scissor.png"
+        }
+      ],
+      "audio": [
+        {
+          "id": "their",
+          "url": "/content/audio-library/fib/opac/spelling/their.mp3"
+        }
+      ]
+    }
+  },
+  "captions": {
+    "their": "WEBVTT\r\n\r\n1\r\n00:00:00.150 --> 00:00:01.130\r\nThe word is their.\r\n\r\n2\r\n00:00:01.650 --> 00:00:03.509\r\nA group of citizens wants to know if\r\n\r\n3\r\n00:00:03.510 --> 00:00:05.160\r\ntheir rights have been violated.\r\n "
+  }
+}

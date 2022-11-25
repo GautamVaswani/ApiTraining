@@ -1,0 +1,644 @@
+{
+  "assessmentName": "Reading Comprehension",
+  "playerType": "MCQ",
+  "lastModified": "06/09/2017",
+  "instruction": "<p role=heading aria-level=3>Reading Comprehension</p><p>This section of the test contains multiple-choice questions, which you must answer by using your computer mouse to select the correct response. Upon answering a question, you can go to the next question by clicking the Next button on the Menu bar.</p><p>During this section of the test, if you choose you may skip an item and then later return to that item.</p><p>When you are finished, select Submit from the Menu bar. Your Test Administrator may have set a time limit for this test section. If there is a time limit, you will be told how much time you have. If a time limit has been set for this section of the test, you will notice a countdown timer on the Header of the screen, showing the amount of time remaining to complete this section of the test.</p>",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "<p>The Gas Company moved a pile of sand right next to where we needed it. RDS Equipment Rental let us use their power roto-rooter to unplug the old drain pipe. Frank Cook Backflow Service donated time to help hook up the copper piping to the drinking fountain. Frizee Paints donated paint for the interior painting effort. Promenade Mall donated the concrete pavers for the \"mister\" pad. Temecula Valley Pipe donated pipe for the new drainage system. Hank's Hardware and Bowes gave substantial discounts on other pipe supplies. Double D Pipeline allowed us to use their laser, and hauled the tractor to and from the center. </p> <p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "Frank Cook Backflow Service helped hook up the piping to the drinking fountain."
+        },
+        {
+          "text": "The Gas Company moved a pile of bricks where they were needed."
+        },
+        {
+          "text": "Temecula Valley Pipe gave a discount on pipe supplies."
+        },
+        {
+          "text": "Double D Pipeline allowed the use of their power roto-rooter."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "<p>The reimbursement payment rate for employee privately-owned aircraft is 50 cents per statute mile. Mileage is computed on the shortest air route from origin to destination, using airways whenever possible. Enter air miles and mileage on the travel expense claim. For expenses other than mileage, substantiate the expense with a voucher. Landing and parking fees are paid except at the site where the aircraft is normally stored. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "An employee should submit a voucher to cover parking costs at all sites."
+        },
+        {
+          "text": "An employee using a privately owned aircraft should use the phrase air miles to indicate their mileage on their travel expense claim."
+        },
+        {
+          "text": "An employee will only be reimbursed for 50 cents per mile resulting from air travel, and not for other expenses like parking fees."
+        },
+        {
+          "text": "Mileage will be reimbursed for privately-owned aircraft, but not fuel costs."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "<p>Employees may use their privately-owned automobiles on official State business if approved by the agency. If the use is not less costly, the supervisor may authorize the use. In this instance, the payment will be for the less costly alternative. No agency will require an employee to use their privately-owned vehicle unless this is a formal condition for employment. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "If using a privately-owned vehicle is a formal condition for employment, an agency may require an employee to drive their vehicle on State business."
+        },
+        {
+          "text": "Privately-owned automobiles may only be used to conduct State business if they are less expensive than the alternative."
+        },
+        {
+          "text": "Agencies may require that employees use a privately-owned vehicle for State business so long as there is supervisory approval."
+        },
+        {
+          "text": "The payment for using a privately-owned vehicle will always be no greater than the cost to operate the vehicle."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionText": "<p>The waste prevention and recycling program, known as Project Recycle, is administered by the Integrated Waste Management Board. Project Recycle's primary objective is to reduce the amount of waste materials generated at facilities and increase the amount of materials recycled. Each facility, with the assistance and approval of the Board, is required to set up recycling programs for all recyclable materials where feasible. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "Every facility must have a recycling program for all recyclable materials."
+        },
+        {
+          "text": "Recyclable materials should not be disposed of under any circumstances."
+        },
+        {
+          "text": "The Integrated Waste Management Board established Project Recycle to increase revenue from recyclable waste."
+        },
+        {
+          "text": "Waste reduction is a primary goal of the Project Recycle program."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionText": "<p>Direct Deposit is a safe and convenient check handling system which automatically deposits an employee’s payroll check into their personal savings or checking account. To set up a Direct Deposit employees should: (1) obtain a Direct Deposit authorization form, (2) complete their portion of the form, (3) attach a voided check or take the authorization form to their financial institution and obtain from them the necessary authorization information, and finally, (4) return the completed Direct Deposit authorization form to their payroll clerk. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "Employees who wish to terminate the Direct Deposit option must file with their payroll clerk."
+        },
+        {
+          "text": "Direct Deposit allows employees to automatically deposit their paycheck into their personal savings account."
+        },
+        {
+          "text": "Employees must have a voided check in order to register for Direct Deposit with their payroll clerk."
+        },
+        {
+          "text": "Employees can cancel their request for Direct Deposit at any time."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionText": "<p>In some instances, the cost of business-related meal expenses may be allowed. It must be clearly shown that it was impractical to conduct the State's business during working hours and that the meal took place in conditions beyond the employee's control. The employee provides justification for the meal expenses on the travel expense claim. The statement must include the purpose or goal of each business-related meal and the unusual conditions that justify payment. The employee may claim expenses not to exceed the breakfast, lunch, or dinner per diem rates. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "Business-related meal expenses are allowed so long as the State's business was conducted during the meal."
+        },
+        {
+          "text": "Travel expense claims cannot be used to justify business-related meal expenses unless the expense exceeds the per diem rate."
+        },
+        {
+          "text": "A statement justifying an employee's decision to pay for a meal using State funds is required to complete the travel expense claim."
+        },
+        {
+          "text": "Typically, business related meals are paid by the State rather than the employee if advance notice is provided."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionText": "<p>Each preparing agency must submit an Early Notice of Plan Preparation for each plan it will prepare. The Early Notice should be sent by February 1 of the calendar year in which the plan is to be prepared. If an agency learns that it must prepare a plan after February 1st, it must submit the Early Notice within 30 days. For an example of the format and content of the Early Notice, see the Appendix at the end of this Chapter. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "Agencies should prepare an Early Notice after February 1st of the calendar year in which their plan is to be prepared."
+        },
+        {
+          "text": "Early Notices can only be submitted before February 1st."
+        },
+        {
+          "text": "Early Notice content should be exactly the same as what is found in the appendix."
+        },
+        {
+          "text": "Early Notices for plans made after February 1st must be submitted within 30 days."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionText": "<p>Anyone who signs a purchase document should have knowledge of the procurement laws, policies, and procedures pertaining to the goods or services being procured. If an individual with signature authority does not possess sufficient procurement knowledge or expertise, the individual should have the purchase document reviewed by someone who possesses such knowledge and expertise prior to signing. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "Someone who does not have knowledge of procurement laws or policies may not sign a purchase document."
+        },
+        {
+          "text": "If someone does not know the laws or policies about procurements, they should have someone knowledgeable review the document."
+        },
+        {
+          "text": "Only individuals who have knowledge of procurement laws or policies may sign a purchase document."
+        },
+        {
+          "text": "Someone knowledgeable about the laws or policies pertaining to a good or service should provide that good or service."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionText": "<p>In the event of a serious accident, significant incident, or a call to emergency services, contact full-time outdoor staff from the Emergency Numbers List as soon as possible. If leaving a message, make sure you give as much pertinent information as possible. Full-time staff will be responsible for contacting the affected individual's family, guardians, or emergency contact. Continue to monitor remaining uninjured participants, and return them to the Preserve Visitor Center immediately if possible. Staff should refer any media to the program manager. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "Full-time staff should be contacted within 24 hours of a significant incident or a call to emergency services."
+        },
+        {
+          "text": "Emergency contacts should be immediately informed of any accidents that occur."
+        },
+        {
+          "text": "When possible, uninjured participants should be returned to the visitor center."
+        },
+        {
+          "text": "In the event of an emergency, staff should immediately begin searching for a full-time staff member or manager, leaving uninjured participants at a safe location."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionText": "<p>If you are an employee who normally lives in a mobile home and have been authorized by the company to move, you may ask the company to pay for the moving of your mobile home. You may also ask the company to pay for certain costs of preparing the mobile home for movement over the highways, and for set-up at the destination. The additional reimbursed cost is limited to $2,000; not including maintenance, repairs, and parts. The cost of any permits, tolls, taxes, or charges fixed by the State or local authorities is also not included in the limit. The company will not reimburse maintenance, repair, and parts costs. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "Costs related to permits, tolls, or taxes will not be reimbursed by the company and are not included in the $2,000 limit."
+        },
+        {
+          "text": "Employees living in mobile homes are allowed to request that the agency repair their mobile home before moving it."
+        },
+        {
+          "text": "Costs pertaining to preparing a mobile home for movement over highways will not be reimbursed."
+        },
+        {
+          "text": "An employee may be reimbursed for up to $2,000 for the repair and maintenance of their mobile home after a move."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "questionText": "<p>Sexual harassment is any unwanted verbal or physical advances, sexually explicit derogatory statements, or sexually discriminatory remarks made by a person in the workplace. They can be considered offensive by the recipient, cause the recipient discomfort or humiliation, or interfere with the recipient’s job performance. Sexual harassment is considered a form of employee misconduct. Sanctions will be enforced against individuals engaging in sexual harassment and against supervisory or managerial personnel who knowingly allow such behavior to take place. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "Sexual harassment does not apply to supervisory or managerial personnel."
+        },
+        {
+          "text": "Sexual harassment is defined as wanted verbal or physical advances."
+        },
+        {
+          "text": "Sexual harassment is considered offensive by the individual engaging in such actions."
+        },
+        {
+          "text": "Sexual harassment is considered a form of employee misconduct."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "questionText": "<p>The Campus Security Office will dispatch a security officer and an ambulance when indicated for medical problems that occur on campus. If possible, the Student Health Center will be notified of the impending patient’s name prior to arrival. Due to the legalities of patient confidentiality, patients' names will NOT be broadcast over the radio or other means that may be monitored by outside individuals. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "Patient names will not be broadcast over the radio or other monitored communications."
+        },
+        {
+          "text": "The Student Health Center will dispatch an ambulance when medical problems occur on campus."
+        },
+        {
+          "text": "A security officer may or may be dispatched depending on the nature of the medical problem."
+        },
+        {
+          "text": "The Student Health Center will be notified of the patient's race and gender upon arrival."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "questionText": "<p>When an agency disposes of state-owned surplus personal property by means other than the sale of the property (i.e., salvaged, scrapped, discarded, recycled, or hauled to landfill), the agency's responsible employee and unit supervisor shall certify in writing that the disposition has been accomplished. When the agency disposes of the property at a public landfill, the agency's representative obtains the signature of the disposal site operator or attendant, indicating that the property listed was disposed of at the site. If the landfill is unattended, the agency's responsible employee and the unit supervisor shall sign and certify that the disposition described was accomplished. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "An attempt to sell state-owned surplus personal property must be made before it can be disposed of at a landfill."
+        },
+        {
+          "text": "The agency's responsible employee and unit supervisor shall certify in writing that the state-owned surplus has been sold."
+        },
+        {
+          "text": "State-owned surplus that has been salvaged, discarded, or recycled must be certified in writing that the disposition has been completed."
+        },
+        {
+          "text": "When an agency disposes of property at a public landfill, a signature is always required from the operator or attendant."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "questionText": "<p>There are often disputes about who is responsible for concealed damage or loss of shipments. However, this type of claim is just as valid as any other type. If part of the shipment is missing, you must prove that the missing goods were actually shipped and then were not delivered. If goods were damaged, you must establish that the goods were properly packed in their containers, yet were damaged when they were delivered. Without this proof, carriers may refuse settlement. If you discover shortage or damage after delivery, report it promptly to the carrier and request an inspection. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "The carrier of the shipment is responsible for establishing whether or not goods were packed properly."
+        },
+        {
+          "text": "If damage is discovered after delivery, it must be reported promptly to the carrier and undergo inspection."
+        },
+        {
+          "text": "If part of the shipment is missing, the carrier must cover the cost of replacement in all cases."
+        },
+        {
+          "text": "The carrier is responsible for determining whether goods were actually shipped and not delivered."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "questionText": "<p>In case of an illness or injury that would prevent you from reporting to work at the scheduled time, you are required to speak directly to your supervisor. If your supervisor is unavailable, you are required to speak directly to the next-level manager, director, or to the person designated by your supervisor. Failure to provide notification of absence for three (3) consecutive workdays may result in removal from the payroll as having resigned without notice. Employees who resign under such circumstances are not eligible for rehire. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "Employees should contact their next-level manager if they cannot contact their supervisor when an illness or injury would prevent them from working."
+        },
+        {
+          "text": "Employees should first attempt to contact the company director in the event that they cannot report to work due to illness or injury."
+        },
+        {
+          "text": "Employees who fail to provide notification of absence for more than three days will not longer be eligible for employee benefits."
+        },
+        {
+          "text": "Employees are allowed three consecutive workdays off in the event of an illness or injury without the need to notify their supervisor."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "questionText": "<p>In our view, management and employee organizations generally should pay their own costs to participate in arbitration proceedings. In addition, costs to administer agency shop provisions should be borne by the employers and employees involved. Alternatively, reimbursing these costs as a mandate leads to unintended consequences and provides no incentive for local governments to control costs. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "Costs to participate in arbitration proceedings should be paid by management and employee organizations and not reimbursed."
+        },
+        {
+          "text": "Costs to participate in arbitration proceedings and administer agency shop provisions should be paid by the local government."
+        },
+        {
+          "text": "Providing incentives for local governments to administer shop provisions will not control costs for management and employee organizations."
+        },
+        {
+          "text": "Providing incentives for employers and employees involved in arbitration proceedings will not control costs for local governments."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "questionText": "<p>Limited care and treatment of employee injuries and illness is permitted. State medical staff, equipment, materials, and hospital services may be used when the illness or injury arises out of or occurs during the course of State employment. They also must be within the scope of the State's liability as defined by Workers' Compensation and Safety Laws. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "Employees are granted limited care for an injury that occurs during the course of State employment beyond the scope defined by Workers' Compensation laws."
+        },
+        {
+          "text": "Employees injured during the course of State employment are entitled to the full access of care provided by the State."
+        },
+        {
+          "text": "Limited care and treatment of employee injuries is allowed as long as it is within the scope of the State's liability."
+        },
+        {
+          "text": "State medical staff and equipment may be used to treat illness or injury that occurs outside of State employment."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "questionText": "<p>Agencies that require information on firms within the United States may obtain this data from the Procurement Division, which has contracted for credit rating services. Use of the service for purposes other than as a check on firms to whom credit may be extended is not authorized. The service consists of two parts: (1) a reference book listing the general credit rating of virtually every firm in the United States; and (2) a special detailed, confidential business information report on specific firms. Reports on individual consumers may not be ordered. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "The Procurement Division is authorized to provide credit rating data for individual consumers."
+        },
+        {
+          "text": "The Procurement Division is authorized to collect credit rating data from firms outside the United States."
+        },
+        {
+          "text": "The Procurement Division provides credit ratings services to individual consumers."
+        },
+        {
+          "text": "The Procurement Division provides a general credit for all firms within the United States."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "questionText": "<p>If an employee has not notified the agency that he/she wishes to be treated by a personal physician, the department has the right to direct the employee's medical treatment for the first 30 days after the incident. If during this period the employee desires to change physicians, the employee should contact the agency to see if a change can be accomplished. If the injured worker continues treatment after 30 days, he/she can choose whatever physician or facility they desire within certain reason able limitations. The employee must notify the agency of the name and address of the physician or facility selected. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "The employee must notify the agency of the name and address of the physician within 30 days of treatment."
+        },
+        {
+          "text": "The employee can change their desired physician during the 30 days of treatment in any circumstance."
+        },
+        {
+          "text": "The department can continue to direct the employee's medical treatment if the employee does not change physicians."
+        },
+        {
+          "text": "If an employee chooses a personal physician, the department has the right to direct the medical treatment."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "questionText": "<p>Price Schedules are established to permit agencies to obtain volume pricing on noncompetitive items and to order directly from vendors. Unlike contracts, use of the Price Schedules is not mandatory. If an agency determines that another brand or type of item would meet their needs at a lower price, it may either make a delegated purchase or submit a purchase estimate to the Office of Procurement based upon the dollar amount involved. Before making a delegated purchase, the agency must notify the Office of Procurement's Research and Analysis Section, in writing, of their intention to do so. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "Price Schedules are non-mandatory agreements that allow agencies to buy noncompetitive items at lower pricing."
+        },
+        {
+          "text": "The Office of Procurement's Research and Analysis Section provides the necessary information on Price Schedules."
+        },
+        {
+          "text": "Price Schedules require the Office of Procurement to contact the vendor to obtain volume pricing on noncompetitive goods."
+        },
+        {
+          "text": "Agencies can purchase another brand or type of item that would meet their needs at an lower price at any time to help save costs."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "questionText": "<p>If you ship hazardous materials, you are responsible for properly preparing shipping papers, marking and labeling containers, and providing placards as required. Government regulations prescribe rigid controls for handling and transporting hazardous materials. Whenever hazardous materials are included in a shipment, you must properly describe the hazardous goods on the shipping papers. You must use the proper shipping name, hazard class, and identification number provided in the regulations. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "Placards and labeling are provided by most shipping companies and do not need to be included in packaging for hazardous materials."
+        },
+        {
+          "text": "Government regulations prescribing the controls for handling and transporting hazardous materials prohibit the use of non-standard packaging."
+        },
+        {
+          "text": "Hazardous materials in a shipment should be described in a note attached to the exterior of the package or pallet."
+        },
+        {
+          "text": "Regulations should be consulted to determine the proper name, hazard class, and identification number of a hazardous material in a package."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "questionText": "<p>Although most offices must remain open from 8:00 a.m. to 5:00 p.m., Monday through Friday, many employees work other than the conventional 8 to 5 schedule. You may request a variable/innovative work schedule or be required to work such a schedule when it is approved by the head of your agency and selected by a majority of the employees in your work unit. Variable/innovative schedules may also be required in agencies where coverage is needed on Saturdays, Sundays and legal holidays. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "Most employees work 8:00 am. until 5 p.m. on weekdays."
+        },
+        {
+          "text": "Employees who work on weekends generally work from 8:00 a.m. until 5 p.m."
+        },
+        {
+          "text": "Employees may be required to work at times other than 8:00 a.m. until 5 p.m."
+        },
+        {
+          "text": "Employees will be assigned to work 8:00 a.m. until 5 p.m. when coverage is needed on weekends."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "questionText": "<p>Members of the State’s Accounting Division (SAD) will have access to all of the City’s records that are necessary for the SAD to fulfill its responsibilities for the event in which they are involved. However, this does not include access to records or documents created or maintained by the City’s Office of Internal Affairs. Likewise, and when necessary, the records maintained by the SAD will be available to supervising City employees. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "Supervising City employees will have access to all of SAD’s records or documents, including those created by the City’s Office of Internal Affairs."
+        },
+        {
+          "text": "The City’s Office of Internal Affairs will have access to all of SAD’s records or documents, including those created by the SAD Office of Internal Affairs."
+        },
+        {
+          "text": "SAD will have access to all of the City’s records or documents, except for those created by City’s Office of Internal Affairs."
+        },
+        {
+          "text": "Both supervising City employees and SAD will have access to all of each other’s records without restriction."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "questionText": "<p>Employees will often have to direct drivers to various locations through the use of cross streets, landmarks, or by other means. The employee must be able to read many different types of maps in order to fulfill this function. Road maps primarily show the location of roadways. Some maps, such as state maps, cover a large area and only show major arteries. It is important to know which type is being used to eliminate the possibility of error in directing resources to the proper turn. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "The most important challenge to an employee is to use the correct type of map."
+        },
+        {
+          "text": "Employees primarily use road maps and state maps when directing responders to locations."
+        },
+        {
+          "text": "Employees must have the ability to read and differentiate between many types of maps."
+        },
+        {
+          "text": "The only way employees know how to direct responders to locations is through the use of maps."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "questionText": "<p>When necessary, or in the best interest of the city, an aircraft may be rented. This requires approval from the head of the agency. Obtain advance approval by the Mayor's Office in any of these situations: the aircraft is multi-engined; the aircraft has a single engine with power exceeding 250 horsepower; the aircraft is of a special type: helicopter, seaplane, etc.; or the aircraft is rented with a pilot. Use a memo to the Mayor’s office as an approval request. Clearly explain the nature, cost, and necessity for the rental of the aircraft. If one of the official travelers is the pilot, they must meet the requirements of Section 0897. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "A single engine aircraft with less than 250 horsepower requires advance approval from the Mayor's Office."
+        },
+        {
+          "text": "A memo to the Mayor's office should include details regarding the construction and insurance coverage of the aircraft."
+        },
+        {
+          "text": "Aircraft rentals of any kind must be approved by the head of an agency and, in some cases, by the Mayor's Office."
+        },
+        {
+          "text": "High horsepower aircraft engines are not appropriate for conducting city business unless the Mayor's Office provides a pilot."
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "questionText": "<p>Many grants are made that involve state employees, facilities, and operating costs of state agencies and institutions that the Legislature has not specifically authorized for the performance of research and for which no appropriation of state funds have been made for this purpose. Often such grants are accepted and administered by \"auxiliary\" organizations and corporations formed by state employees of the agency or institution involved. The research is performed at the state institution or agency using state facilities and often by or under the direction of state employees. It is probable that many of these grants are awarded in recognition of the state facility and state employment of the personnel involved. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "Research performed at state facilities must use grant funds that are not specifically intended for the performance of research."
+        },
+        {
+          "text": "State funds must be appropriated to support research to be conducted at state facilities by state employees."
+        },
+        {
+          "text": "The Legislature does not always need to authorize specific research performed at state facilities."
+        },
+        {
+          "text": "Auxiliary organizations consist of corporations but not state employees who have received grants to conduct research."
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "questionText": "<p>Most disabled employees qualify for Industrial Disability Leave. Industrial Disability Leave may be paid in lieu of Temporary Disability. In many cases the disabled employee will be able to choose between Industrial Disability Leave or Temporary Disability. Those disabled employees who qualify for and choose Temporary Disability are allowed to use any accrued sick leave, vacation time, or excess time credits to make up the difference between the Temporary Disability payments and normal salary. The maximum weekly Temporary Disability payment is $266 for injuries occurring on or after January 1, 1990. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "Industrial Disability Leave is available to employees who become disabled as a result of a heavy or light industrial accident."
+        },
+        {
+          "text": "Supplementation of temporary disability leave with credits from other sources is only allowed in certain limited circumstances."
+        },
+        {
+          "text": "Industrial Disability Leave generally compensates an employee for the entirety of their salary while Temporary Disability pays a maximum of $266 per week."
+        },
+        {
+          "text": "Temporary Disability may be paid instead of Industrial Disability Leave and may be supplemented with other types of leave."
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "questionText": "<p>When an emergency involving public health, welfare, or safety requires the immediate purchase of supplies or equipment without the taking of bids, the requisitioning agency will attach to its requisition a statement regarding the emergency. The statement will be signed by an officer of the agency. Acceptable statements will show that the emergency condition is one which would not have been avoided by reasonable care and diligence or that there is an immediate threat of substantial damage or injury to persons committed to the agency's care, to employees of the agency, to members of the general public, or to property for which the agency is responsible. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "Bids for good for services must be taken, even in an emergency, unless an agency grants an exemption."
+        },
+        {
+          "text": "Officers of an agency must designate a situation an \"emergency\" before bids for goods or services can be taken."
+        },
+        {
+          "text": "If there is a chance of injury or damage to employees or the general public, goods or services can be purchased without bids."
+        },
+        {
+          "text": "Foreseeable damage to property in the agencies care is a justification for an emergency purchase without the use of bids."
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "questionText": "<p>Employees should always provide the delivery drivers with the name of the streets of the nearest intersection to where a delivery is being sent. Employees should not provide travel directions to the delivery drivers unless there is an impediment to the normal route or if asked by the responding driver. Thus, an employee must be able to read maps and direct units to the location of a delivery when required. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "Employees should give directions to delivery drivers if the route that the driver typically travels to that location is blocked."
+        },
+        {
+          "text": "The names of the cross streets of the nearest intersection to where a delivery driver is being sent should be provided only when asked."
+        },
+        {
+          "text": "Employees should look at a map during every call and be ready in case a delivery driver asks for directions."
+        },
+        {
+          "text": "Employees should always indicate to delivery drivers the most direct route for a delivery."
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "questionText": "<p>City office personnel should not make assumptions about statements a telephone caller makes. For example, if a caller says that she just heard fireworks, the office personnel should ask why she thinks the sound she heard was made by fireworks and did not come from some other source. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "People do not typically tell the truth when they call to make a report."
+        },
+        {
+          "text": "When office personnel make assumptions they can potentially cause harm."
+        },
+        {
+          "text": "Office personnel should assume that callers frequently confuse the sound of gunshots with fireworks."
+        },
+        {
+          "text": "People who call to report the sound of fireworks are frequently wrong."
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "questionText": "<p>Each night our systems administration staff installs vital updates to our IT infrastructure. Unfortunately, many of these updates cannot be applied unless your computer is off and you are not logged in. If your computer remains logged in overnight, you may be required to restart your computer during the day and apply any necessary updates, as these updates often contain mission critical security fixes or functionality upgrades. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "Powering down the computer at night will automatically apply any updates before the computer fully powers down."
+        },
+        {
+          "text": "Vital updates installed to the IT infrastructure can be queued in the system for later installation."
+        },
+        {
+          "text": "Mission critical security fixes or functionality upgrades are applied to all computers that are currently on and running."
+        },
+        {
+          "text": "The systems administration staff will restart all computers the next morning to ensure that all vital updates have been installed."
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "questionText": "<p>The 2005-2006 two-year session of the Legislature is complete, and several of the environmental bills signed into law by the Governor in 2006 have the potential to affect the Transportation Department’s work. Attached to this memo is a summary of the newly chaptered bills, with web addresses where additional information can be found. The summary includes environmental bills that are expected to impact the Department, as well as a list of environmental bills that will not directly affect the Department but are included for informational purposes. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "The Legislature only signs into law the environmental bills at the end of its two-year session."
+        },
+        {
+          "text": "The environmental bills that do not impact the Department must be requested from the Governor."
+        },
+        {
+          "text": "Additional details of the environmental bills signed into law by the Governor can be found on a web address."
+        },
+        {
+          "text": "A memo of the newly chaptered bills includes the details for the specific impacts of the environmental bills on the Department."
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "questionText": "<p>An agency must have full public access during the required open hours. Department directors and other managers must assign staff to respond to citizen needs during the legal open hours. Even with staggered work hours, flex-time and other similar arrangements, it is not necessary to budget more positions in order to meet the need for full public access. Skeleton staffing at information centers and coordination of telephone lines for answering service should permit adequate response. During the legal open hours, the public should not be told that the office is closed, that they must call again, nor that they must return on another day. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "Skeleton staffing is a more efficient staffing method then flex-time for information centers and telephone answering services."
+        },
+        {
+          "text": "Staffing arrangements can be employed in order to ensure full public access without increasing staff."
+        },
+        {
+          "text": "During open legal hours, the department directors and other managers are responsible for responding to citizen needs."
+        },
+        {
+          "text": "When the public calls when the office is closed, they are directed to leave a voice message and staff will return their call the next business day."
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "questionText": "<p>Employees on travel status for less than 24 hours may claim lodging expenses, and if applicable, breakfast or dinner. No lunch or incidental allowance is paid when employees are on travel status for less than 24 hours. Expenses must be incurred at least 50 miles from headquarters. This distance from the headquarters is the normal commute distance determined by the most direct route. Sometimes one route of travel may be a greater distance but is the more reasonable commute. For example, taking a freeway route instead of congested surface streets is more reasonable. The freeway miles may be greater but because it is more efficient, the freeway miles are used to determine the distance. </p><p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "Employees will be able to claim breakfast expenses if they incur expenses less than 50 miles from headquarters and are on travel status for less than 24 hours."
+        },
+        {
+          "text": "Employees will be able to claim dinner expenses if they incur expenses less than 50 miles from headquarters and are on travel status for less than 24 hours."
+        },
+        {
+          "text": "Employees will not be able to claim lunch expenses if they incur expenses more than 50 miles from headquarters and are on travel status for less than 24 hours."
+        },
+        {
+          "text": "Employees will not be able to claim lodging expenses if they incur expenses more than 50 miles from headquarters and are on travel status for less than 24 hours."
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "questionText": "<p>Temporary disability is a benefit payable if a job-related injury or illness results in an inability to work for more than three consecutive days. In cases where hospitalization is required, temporary disability is paid for the first three days if the employee is disabled as a result of a criminal act of violence or the loss of time exceeds 14 days. The waiting period starts the first day following the date of injury. No charge is made for absence on the day of injury.</p> <p>According to this passage:</p>",
+      "options": [
+        {
+          "text": "Temporary disability is immediately enacted when the injury is reported to the organization."
+        },
+        {
+          "text": "Temporary disability is paid for the three days if the loss of time due to hospitalization exceeds three days."
+        },
+        {
+          "text": "Temporary disability is granted only for cases in which the injury is job-related or illness requires hospitalization."
+        },
+        {
+          "text": "Temporary disability provides source of income for employees who sustain a job-related injury or illness."
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

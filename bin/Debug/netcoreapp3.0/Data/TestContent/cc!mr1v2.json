@@ -1,0 +1,254 @@
+{
+  "assessmentName": "Memory Recall",
+  "playerType": "DataRecollection",
+  "modeType": "memory-recall",
+  "instructions": "<span role=heading aria-level=3 >Memory Recall</span><br/><br/>The following is a test of your ability to remember written information. In this section, you will be shown three pairs of words for fifteen seconds on the right side of the screen, such as:<br/><br/>PENNY<br/>GUM<br/><br/>NICKEL <br/>CANDY<br/><br/>DIME<br/>SUCKER<br/><br/>After viewing the paired words for 15 seconds the paired words will clear from the screen.  The yellow box at the bottom left of your screen will then display a five second countdown clock during which time you should continue to remember which words are paired together.  At the end of the countdown you will be asked to match one word from the list you just viewed with the word with which it was previously paired. For example, in this case you might be asked, \"The word paired with NICKEL is…\" and the response you should choose is CANDY. <br/><br/>Because this is a test of your memory, you may not write down any information during this section of the test or take any notes. You must recall this information only from memory. Writing down anything during this portion of the test will result in immediate failure for the entire test.",
+  "questions": [
+    {
+      "id": "1",
+      "recallData": [
+        [
+          "GREEN",
+          "DODGE"
+        ],
+        [
+          "YELLOW",
+          "FORD"
+        ],
+        [
+          "RED",
+          "TOYOTA"
+        ]
+      ],
+      "questionText": "The word paired with GREEN is",
+      "options": [
+        "FORD",
+        "DODGE",
+        "TOYOTA",
+        "CHEVY"
+      ]
+    },
+    {
+      "id": "2",
+      "recallData": [
+        [
+          "MAPLE",
+          "TABLE"
+        ],
+        [
+          "OAK",
+          "CHEST"
+        ],
+        [
+          "CHERRY",
+          "HEADBOARD"
+        ]
+      ],
+      "questionText": "The word paired with CHEST is",
+      "options": [
+        "TABLE",
+        "HEADBOARD",
+        "OAK",
+        "DRESSER"
+      ]
+    },
+    {
+      "id": "3",
+      "recallData": [
+        [
+          "YELLOW",
+          "DAISY"
+        ],
+        [
+          "WHITE",
+          "CARNATION"
+        ],
+        [
+          "RED",
+          "MUM"
+        ]
+      ],
+      "questionText": "The word paired with DAISY is",
+      "options": [
+        "YELLOW",
+        "RED",
+        "PINK",
+        "TULIP"
+      ]
+    },
+    {
+      "id": "4",
+      "recallData": [
+        [
+          "SATIN",
+          "SHIRT"
+        ],
+        [
+          "COTTON",
+          "PANTS"
+        ],
+        [
+          "SUEDE",
+          "VEST"
+        ]
+      ],
+      "questionText": "The word paired with SUEDE is",
+      "options": [
+        "SHIRT",
+        "SATIN",
+        "PANTS",
+        "VEST"
+      ]
+    },
+    {
+      "id": "5",
+      "recallData": [
+        [
+          "WARM",
+          "SODA"
+        ],
+        [
+          "ICED",
+          "WATER"
+        ],
+        [
+          "HOT",
+          "MILK"
+        ]
+      ],
+      "questionText": "The word paried with ICED is",
+      "options": [
+        "MILK",
+        "SODA",
+        "WATER",
+        "TEA"
+      ]
+    },
+    {
+      "id": "6",
+      "recallData": [
+        [
+          "SIX",
+          "BOXES"
+        ],
+        [
+          "TWELVE",
+          "BAGS"
+        ],
+        [
+          "THREE",
+          "BASKETS"
+        ]
+      ],
+      "questionText": "The word paired with TWELVE is",
+      "options": [
+        "BAGS",
+        "BOXES",
+        "BASKETS",
+        "SUITS"
+      ]
+    },
+    {
+      "id": "7",
+      "recallData": [
+        [
+          "ITALIAN",
+          "WOMAN"
+        ],
+        [
+          "HAWAIIAN",
+          "MAN"
+        ],
+        [
+          "HISPANIC",
+          "GIRL"
+        ]
+      ],
+      "questionText": "The word paired with WOMAN is",
+      "options": [
+        "MAN",
+        "ITALIAN",
+        "HISPANIC",
+        "GIRL"
+      ]
+    },
+    {
+      "id": "8",
+      "recallData": [
+        [
+          "LEMON",
+          "CUSTARD"
+        ],
+        [
+          "VANILLA",
+          "PUDDING"
+        ],
+        [
+          "CHOCOLATE",
+          "TAPIOCA"
+        ]
+      ],
+      "questionText": "The word paired with PUDDING is",
+      "options": [
+        "CUSTARD",
+        "CHOCOLATE",
+        "STRAWBERRY",
+        "VANILLA"
+      ]
+    },
+    {
+      "id": "9",
+      "recallData": [
+        [
+          "VANILLA",
+          "FROSTY"
+        ],
+        [
+          "COFFEE",
+          "MILKSHAKE"
+        ],
+        [
+          "STRAWBERRY",
+          "CONE"
+        ]
+      ],
+      "questionText": "The word paired with CONE is",
+      "options": [
+        "ICECREAM",
+        "STRAWBERRY",
+        "VANILLA",
+        "COFFEE"
+      ]
+    },
+    {
+      "id": "10",
+      "recallData": [
+        [
+          "ADVANCED",
+          "GOLF"
+        ],
+        [
+          "BEGINNING",
+          "VOLLEYBALL"
+        ],
+        [
+          "INTERMEDIATE",
+          "SWIMMING"
+        ]
+      ],
+      "questionText": "The word paired with SWIMMING is",
+      "options": [
+        "BEGINNING",
+        "ADVANCED",
+        "INTERMEDIATE",
+        "WATER"
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

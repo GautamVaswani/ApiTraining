@@ -1,0 +1,289 @@
+{
+  "assessmentName": "Map Reading",
+  "playerType": "MCQ",
+  "lastModified": "06/09/2017",
+  "instruction": "<p role=heading aria-level=3>Map Reading</p><p>This section of the test contains multiple-choice questions, which you must answer by using your computer mouse to select the correct response. Upon answering a question, you can go to the next question by clicking the Next button on the Menu bar.</p><p>During this section of the test, if you choose you may skip an item and then later return to that item.</p> <p>When you are finished, select Submit from the Menu bar. Your Test Administrator may have set a time limit for this test section. If there is a time limit, you will be told how much time you have. If a time limit has been set for this section of the test, you will notice a countdown timer on the Header of the screen, showing the amount of time remaining to complete this section of the test.</p><p>We recommend that you go to the practice version of this section of the test to learn more about how you should respond to items during this section of the test.</p>",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v1 - All items.png' alt='Urban map v1'><p>You are at the south entrance of the Hospital on Third Street. While obeying all of the traffic direction signs, what is the most direct route to the Second Street entrance of the Senior Center?</p>",
+      "options": [
+        {
+          "text": "Travel east on Third to Columbus. Turn north onto Columbus. Travel one block to Second. Turn right onto Second. Travel east on Second to the Senior Center."
+        },
+        {
+          "text": "Travel west on Third to Columbus. Turn north onto Columbus. Travel one block to Second. Turn right onto Second. Travel west on Second to the Senior Center."
+        },
+        {
+          "text": "Travel east on Third to Gateway. Turn south onto Gateway. Travel one block to Second. Turn right onto Second. Travel east on Second to the Senior Center."
+        },
+        {
+          "text": "Travel east on Third to Gateway. Turn north onto Gateway. Travel one block to Second. Go right onto Second. Travel east on Second to the Senior Center."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v1 - All items.png' alt='Urban map v1'><p>You must supply directions to a lost motorist on the most direct route from the south entrance of the High School to the middle of the block on the west side of the Senior Center. What is the most direct route that the motorist can take while obeying all traffic signs?</p>",
+      "options": [
+        {
+          "text": "Travel east on First to Bromwell. Turn right onto Bromwell. Travel south on Bromwell. Turn left onto Third. Turn left onto the middle of the block on the west side of the Senior Center."
+        },
+        {
+          "text": "Travel east on First to Gateway. Turn left onto Gateway. Travel south on Gateway to the middle of the block on the west side of the Senior Center."
+        },
+        {
+          "text": "Travel west on First to Gateway. Turn right onto Gateway. Travel south on Gateway to the middle of the block on the west side of the Senior Center."
+        },
+        {
+          "text": "Travel west on First to Spencer. Turn left onto Spencer. Travel south on Spencer to Second. Turn left onto Second. Travel east on Second to Gateway. Turn right onto Gateway. Travel south on Gateway to the middle of the block on the west side of the Senior Center."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v1 - All items.png' alt='Urban map v1'><p>You must travel from the entrance on the east side of the apartment building to the Hospital entrance on Columbus between First and Second. While obeying all traffic signs, what is the most direct route to this hospital entrance?</p>",
+      "options": [
+        {
+          "text": "Travel south on Bromwell. Turn right onto Third. Travel west on Third. Turn right onto Columbus. Travel north on Columbus until you reach the designated entrance of the hospital."
+        },
+        {
+          "text": "Travel north on Bromwell. Turn left on Second. Travel west on Second. Turn right onto Columbus. Travel north on Columbus until you reach the designated entrance to the hospital."
+        },
+        {
+          "text": "Travel north on Bromwell. Turn left on First. Travel west on First. Turn left onto Columbus. Travel south on Columbus until you reach the designated entrance to the hospital."
+        },
+        {
+          "text": "Travel north on Bromwell. Turn right onto Second. Travel west on Second. Turn right onto Columbus. Travel north on Columbus until you reach the designated entrance to the hospital."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v1 - All items.png' alt='Urban map v1'><p>A woman must travel from the west entrance of the High School to the middle of the block on Third between Bromwell and Gateway. While obeying all traffic signs, what is the most direct route she can take?</p>",
+      "options": [
+        {
+          "text": "Travel north on Spencer for two blocks to Third. Turn left onto Third. Travel east on Third until reaching the destination."
+        },
+        {
+          "text": "Travel south on Spencer for two blocks to Third. Turn right onto Third. Travel east on Third until reaching the destination."
+        },
+        {
+          "text": "Travel south on Spencer for two blocks to Third. Turn left onto Third. Travel east on Third until reaching the destination."
+        },
+        {
+          "text": "Travel south on Spencer for two blocks to Third. Turn left onto Third. Travel west on Third until reaching the destination."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v1 - All items.png' alt='Urban map v1'><p>You must travel from the intersection of First and Gateway to the Second Street entrance to the Apartment building. What is the most direct route you can take while obeying all traffic signs?</p>",
+      "options": [
+        {
+          "text": "Travel west on First. Turn south on Bromwell. Travel south on Bromwell. Turn west onto Second. Travel west on Second until you reach your destination."
+        },
+        {
+          "text": "Travel west on First. Turn south onto Spencer. Travel on Spencer. Turn east onto Second. Travel west on Second until you reach your destination."
+        },
+        {
+          "text": "Travel north on Gateway. Turn east onto Second. Travel east on Second until you reach your destination."
+        },
+        {
+          "text": "Travel south on Gateway. Turn west onto Second. Travel west on Second until you reach your destination."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v1 - All items.png' alt='Urban map v1'><p>A woman drives from the corner of Essex and Columbus and travels east for one block. She then travels south for three blocks. At what intersection does she end this trip?</p>",
+      "options": [
+        {
+          "text": "First and Gateway"
+        },
+        {
+          "text": "Third and Spencer"
+        },
+        {
+          "text": "Bromwell and Second"
+        },
+        {
+          "text": "Bromwell and First"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v1 - All items.png' alt='Urban map v1'><p>A fire engine leaves the intersection of Bromwell and Second and travels north for one block. It turns west and travels west for two blocks. At what intersection does the fire engine complete this trip?</p>",
+      "options": [
+        {
+          "text": "Columbus and First"
+        },
+        {
+          "text": "Spencer and First"
+        },
+        {
+          "text": "Columbus and Third"
+        },
+        {
+          "text": "Spencer and Second"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v1 - All items.png' alt='Urban map v1'><p>A police officer is standing in the middle of the intersection of Gateway and Third. What direction is the High School from that location?</p>",
+      "options": [
+        {
+          "text": "North and East"
+        },
+        {
+          "text": "North and West"
+        },
+        {
+          "text": "South and East"
+        },
+        {
+          "text": "South and West"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v1 - All items.png' alt='Urban map v1'><p>A police officer starts at the intersection of Gateway and Second. He travels west on Second for three blocks and then turns to go north. He travels north for one block. Which of the following locations is closest to where the police officer ends this trip.</p>",
+      "options": [
+        {
+          "text": "Intersection of Columbus and Third"
+        },
+        {
+          "text": "Intersection of Spencer and Third"
+        },
+        {
+          "text": "Hospital"
+        },
+        {
+          "text": "High School"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v1 - All items.png' alt='Urban map v1'><p>A man who lives at the intersection of Third and Spencer drives from his house to drop off some paperwork. He travels east from his house for one block and then turns left. He travels two and a half blocks north and stops. What building is on the left side of the vehicle where he has stopped?</p>",
+      "options": [
+        {
+          "text": "Apartment Building"
+        },
+        {
+          "text": "High School"
+        },
+        {
+          "text": "Hospital"
+        },
+        {
+          "text": "Senior Center"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v1 - All items.png' alt='Urban map v1'><p>A woman is standing inside of the Apartment Building. What direction is the Senior Center from that location?</p>",
+      "options": [
+        {
+          "text": "North"
+        },
+        {
+          "text": "East"
+        },
+        {
+          "text": "South"
+        },
+        {
+          "text": "West"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v1 - All items.png' alt='Urban map v1'><p>A woman starts her trip at the intersection of Dragon Wei and Essex. She drives south on Dragon Wei and then turns right on to Second. She then drives west on Second until she stops at the intersection of Bromwell and Second. How many blocks did this woman drive during this trip?</p>",
+      "options": [
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "5"
+        },
+        {
+          "text": "6"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v1 - All items.png' alt='Urban map v1'><p>A vehicle that was driving south on Spencer turned left on to Second. What direction on Second is the vehicle now traveling?</p>",
+      "options": [
+        {
+          "text": "North"
+        },
+        {
+          "text": "East"
+        },
+        {
+          "text": "South"
+        },
+        {
+          "text": "West"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v1 - All items.png' alt='Urban map v1'><p>A woman telephones and requests for an ambulance to come to the Southeast entrance of the High School. What is the closest intersection to the Southeast entrance of the High School?</p>",
+      "options": [
+        {
+          "text": "Essex and Spencer"
+        },
+        {
+          "text": "Essex and Bromwell"
+        },
+        {
+          "text": "First and Spencer"
+        },
+        {
+          "text": "First and Bromwell"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "questionText": "<IMG SRC='/content/image-library/mcq/criticall/map-reading/Map Reading v1 - All items.png' alt='Urban map v1'><p>An ambulance is at the intersection of Essex and Bromwell and must travel quickly to the Apartment Building. The shortest distance the ambulance can drive from the intersection of Essex and Bromwell to the Apartment Building while obeying all traffic signs is:</p>",
+      "options": [
+        {
+          "text": "Travel south on Bromwell to the Apartment Building."
+        },
+        {
+          "text": "Travel east on Essex to Gateway. Then south on Gateway to Second. Then west on Second to the Apartment Building."
+        },
+        {
+          "text": "Travel west on Essex to Spencer. Then south on Spencer to the Apartment Building."
+        },
+        {
+          "text": "Travel south on Bromwell to First. Then west on First to Spencer. Then south on Spencer to the Apartment Building."
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [
+        {
+          "id": "Map Reading v1 - All items",
+          "url": "/content/image-library/mcq/criticall/map-reading/Map Reading v1 - All items.png"
+        }
+      ],
+      "audio": []
+    }
+  }
+}

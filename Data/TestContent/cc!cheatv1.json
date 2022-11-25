@@ -1,0 +1,30 @@
+{
+  "assessmentName": "CritiCall Candidate Agreement",
+  "playerType": "MCQ",
+  "lastModified": "06/09/2017",
+ "instruction": "<P role=heading aria-level=3>Remote Testing Requirements Agreement</P><P>Please read and respond to the question found on the next screen. Un-proctored remote testing is offered as a service and convenience, but there are certain responsibilities that come with this opportunity.  You must acknowledge and agree to the Remote Testing Requirements presented on the next screen in order to be considered for the next phase of this recruitment.</P>",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "Please read the following statement in its entirety: <p>You, as the job applicant, MUST agree to complete this examination without assistance from
+outside parties or materials not provided by the Organization.</p><p>In addition, because the examination process is competitive, all exam content
+must remain confidential. You must not discuss any of the content of the test with anyone except an approved representative of the Organization. The ability to take pre-employment exams off site is a privilege and is offered as a convenience to you. Please do not take advantage of this benefit.</p><p>The Organization reserves the right to require candidates to take parallel versions of these exams in a proctored setting in order to confirm their identities as the original test takers if they are
+advanced to the next phase of the recruitment.<p>If we find that you have violated any of these requirements, you may be disqualified from participating in this and any future examination.</p>
+",
+      "options": [
+        {
+          "text": "YES. Answering YES indicates your acknowledgement of, and agreement with, the terms stated above."
+        },
+        {
+          "text": "NO. Answering NO will result in disqualification for this recruitment."
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

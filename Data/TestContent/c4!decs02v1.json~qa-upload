@@ -1,0 +1,712 @@
+{
+    "assessmentName": "Data Entry/Call Summary",
+    "playerType": "DataEntry",
+    "modeType": "data-entry-call-summary-chat",
+    "templateType": "call-summary",
+    "lastModified": "16/10/2017",
+    "instructions": "<span role=heading aria-level=3 > DATA ENTRY/CALL SUMMARY TEST You are about to start the 'Data Entry/Call Summary' test.  For this test, you will need to listen to information that is provided to you through the computer. We recommend using a headset or a set of quality speakers. </span><br /> <br /> During this test you should listen to each telephone call and enter the caller’s data into the proper fields on the screen as it is given.  You can use the mouse to go to any field in the data-entry table.  You can also use the 'Tab' or 'Enter' keys to move to the next field, and the 'Shift'-'Tab' combination to go back to the previous field.  Please note that the data presented during this test may not be in the same order as the fields on the screen.  For example, sometimes you will be given the phone number before you are given the caller’s name or address. <br /> <br />You do not need to enter the hyphens ( - ) for telephone numbers.  The hyphens have already been entered for you. <br /> <br />After each call is completed, you will be presented with a question asking you to summarize the call you just heard.  For this task, you should choose the response that best represents the caller’s issue presented in the call. <br /> <br /> After you have finished the question, click the 'Submit Answer' button that will appear at the bottom of the page to listen to the next call.  <br /> <br /> Finally, during this test the computer will automatically enter data in ALL CAPITAL LETTERS.  There is no need for you to adjust your keyboard since this will be done automatically.  <br /> <br /> Please note, although you may hear state names during the call, do not enter the state names, or state abbreviations, during this test.  <br /> <br /> Good luck! ",
+    "testID": "C4!DECS02",
+    "timeLimit": 30,
+    "testVersion": 1,
+    "practiceTestId": "C4!DECS01P",
+    "totalItems": 109,
+    "isMCQ": true,
+    "isChat": true,
+    "questions": [
+        {
+            "initAudioId": "question-audio-1",
+            "firstName": "Cathy",
+            "lastName": "Sullivan",
+            "address": "2489 Sycamore",
+            "city": "Menasha",
+            "zip": "54952",
+            "phoneNo": "561-206-3876",
+            "emailId": "llcarr@greatmail.com",
+            "state": "Wisconsin",
+            "refNo": "",
+            "chatQuestion": {
+                "text": "Hi, I need some assistance. My name is Roy Hills and I'm from Los Angeles, CA. I believe I sent a check last month, but I'm not seeing it noted on my statement. Will you review my account and let me know?",
+                "ans": 4
+            },
+            "mcqQuestion": {
+                "questionText": "Which of the following statements best summarizes the issue in this call?",
+                "options": [
+                    {
+                        "text": "The customer switched their billing to electronic three months ago"
+                    },
+                    {
+                        "text": "The customer prefers to view their bill online"
+                    },
+                    {
+                        "text": "The customer does not want to receive the paper bill anymore"
+                    },
+                    {
+                        "text": "The customer wants confirmation that his billing has been switched"
+                    }
+                ],
+                "correctOption": 3,
+                "attemptedOption": ""
+            }
+        },
+        {
+            "initAudioId": "question-audio-2",
+            "firstName": "",
+            "lastName": "Ramosa",
+            "address": "458 Stevenson",
+            "city": "Des Moines",
+            "zip": "",
+            "phoneNo": "405-366-0489",
+            "emailId": "Eburgess@dogit.com",
+            "state": "Iowa",
+            "refNo": "",
+            "chatQuestion": {
+                "text": "Hi, I hope that you can help me. My name is Nancy Gauthier and I'm from Phoenix, AZ.   I purchased a model 1742 about six months ago, and it isn't working any longer. Can you help me by directing me to the right people to get it repaired?  I believe it is still under warranty.",
+                "ans": 2
+            },
+            "mcqQuestion": {
+                "questionText": "Which of the following statements best summarizes the issue in this call?",
+                "options": [
+                    {
+                        "text": "The customer needs to use the software at home and at work"
+                    },
+                    {
+                        "text": "The customer currently has a single-user license of the software"
+                    },
+                    {
+                        "text": "The customer did not use their coupon to receive a discount"
+                    },
+                    {
+                        "text": "The customer needs to know the specifics of her license"
+                    }
+                ],
+                "correctOption": 4,
+                "attemptedOption": ""
+            }
+        },
+        {
+            "initAudioId": "question-audio-3",
+            "firstName": "Jasmine",
+            "lastName": "Keller",
+            "address": "610 West Stadium",
+            "city": "Ann Arbor",
+            "zip": "",
+            "phoneNo": "850-793-2754",
+            "emailId": "jkeller@easymail.com",
+            "state": "Michigan",
+            "refNo": "U78B49",
+            "chatQuestion": {
+                "text": "Hello, I hope that you know what's going on. This is Melissa Yang from Golden Valley, MN. I am certain that I paid last month, but my payment is not reflected on my statement. Can you check that for me?",
+                "ans": 4
+            },
+            "mcqQuestion": {
+                "questionText": "Which of the following statements best summarizes the issue in this call?",
+                "options": [
+                    {
+                        "text": "The customer has a complaint about their mail service"
+                    },
+                    {
+                        "text": "The customer received their bill after it was due"
+                    },
+                    {
+                        "text": "The postal service is to blame for their late charges"
+                    },
+                    {
+                        "text": "The postage date on the envelope was incorrect"
+                    }
+                ],
+                "correctOption": 2,
+                "attemptedOption": ""
+            }
+        },
+        {
+            "initAudioId": "question-audio-4",
+            "firstName": "",
+            "lastName": "",
+            "address": "451 Northern",
+            "city": "Mountain View",
+            "zip": "",
+            "phoneNo": "415-378-0988",
+            "emailId": "sjohns@weddall.com",
+            "state": "California",
+            "refNo": "",
+            "chatQuestion": {
+                "text": "I hope that someone is here. My name is Elliot Marsh and I'm from New Bruswick, NJ. I really just want to purchase a new model.  I've got my credit card ready. Will you take my order?",
+                "ans": 1
+            },
+            "mcqQuestion": {
+                "questionText": "Which of the following statements best summarizes the issue in this call?",
+                "options": [
+                    {
+                        "text": "The customer currently lives in Michigan and has not purchased anything in Nevada"
+                    },
+                    {
+                        "text": "The customer has a question about a purchase on his statement that was made in Nevada"
+                    },
+                    {
+                        "text": "The customer has only made purchases in Michigan for the last month and none in Nevada"
+                    },
+                    {
+                        "text": "The customer is wondering about the purchase that he made in Nevada last month"
+                    }
+                ],
+                "correctOption": 2,
+                "attemptedOption": ""
+            }
+        },
+        {
+            "initAudioId": "question-audio-5",
+            "firstName": "James",
+            "lastName": "Pearson",
+            "address": "294 Woodland",
+            "city": "Atlanta",
+            "zip": "30303",
+            "phoneNo": "",
+            "emailId": "",
+            "state": "Georgia",
+            "refNo": "W25M59",
+            "chatQuestion": {
+                "text": "Hello, I need some assistance. I'm Barbara Pope of Bloomington, IL. I was given a model 154A for my birthday, plugged it in and it's not working. I don't know what to do now.",
+                "ans": 2
+            },
+            "mcqQuestion": {
+                "questionText": "Which of the following statements best summarizes the issue in this call?",
+                "options": [
+                    {
+                        "text": "The customer would like to register their product for the warranty"
+                    },
+                    {
+                        "text": "The customer bought the Model 4 Ultra two and a half weeks ago"
+                    },
+                    {
+                        "text": "The customer thinks registering the Model 4 Ultra is a good idea"
+                    },
+                    {
+                        "text": "The customer needs more information"
+                    }
+                ],
+                "correctOption": 1,
+                "attemptedOption": ""
+            }
+        },
+        {
+            "initAudioId": "question-audio-6",
+            "firstName": "Janelle",
+            "lastName": "Gastin",
+            "address": "218 Wellington",
+            "city": "Springfield",
+            "zip": "1109",
+            "phoneNo": "",
+            "emailId": "jg457@somaldd.com",
+            "state": "Massachusetts",
+            "refNo": "",
+            "chatQuestion": {
+                "text": "I'm sort of confused as to what to do. I'm Samuel Lewis of New York, NY. I'm not quite ready to order yet, but I would love to get a brochure. Can you make that happen?",
+                "ans": 3
+            },
+            "mcqQuestion": {
+                "questionText": "Which of the following statements best summarizes the issue in this call?",
+                "options": [
+                    {
+                        "text": "The customer made a purchase on the website using their credit card"
+                    },
+                    {
+                        "text": "The customer saw the full amount but received a discount"
+                    },
+                    {
+                        "text": "The customer did not use their coupon to receive a discount"
+                    },
+                    {
+                        "text": "The customer used a coupon but was charged the full amount"
+                    }
+                ],
+                "correctOption": 4,
+                "attemptedOption": ""
+            }
+        },
+        {
+            "initAudioId": "question-audio-7",
+            "firstName": "Bonnie",
+            "lastName": "Booth",
+            "address": "2482 Glenwood",
+            "city": "Cleveland",
+            "zip": "44111",
+            "phoneNo": "216-251-5357",
+            "emailId": "",
+            "state": "Ohio",
+            "refNo": "",
+            "chatQuestion": {
+                "text": "Hello. This is Ronald Clair from Davenport, IA. I was at your store and previewed the latest model and need to place an order. Can you help me with that, or does someone else handle this kind of request.",
+                "ans": 1
+            },
+            "mcqQuestion": {
+                "questionText": "Which of the following statements best summarizes the issue in this call?",
+                "options": [
+                    {
+                        "text": "The customer uses the website to download documentation"
+                    },
+                    {
+                        "text": "The customer is having trouble downloading information from the website"
+                    },
+                    {
+                        "text": "The customer is sure that their computer does not have a virus on it"
+                    },
+                    {
+                        "text": "The customer believes there is a problem with the website"
+                    }
+                ],
+                "correctOption": 2,
+                "attemptedOption": ""
+            }
+        },
+        {
+            "initAudioId": "question-audio-8",
+            "firstName": "",
+            "lastName": "",
+            "address": "172 Perry",
+            "city": "Miami",
+            "zip": "",
+            "phoneNo": "305-667-6686",
+            "emailId": "PeterA@spambob.com",
+            "state": "Florida",
+            "refNo": "",
+            "chatQuestion": {
+                "text": "I need to ask you a question. I'm Toni Barboza of Los Angeles, CA. I would like a catalog sent to my home. Can you take care of that for me?",
+                "ans": 3
+            },
+            "mcqQuestion": {
+                "questionText": "Which of the following statements best summarizes the issue in this call?",
+                "options": [
+                    {
+                        "text": "The customer misplaced their mail and would like the late fee waived"
+                    },
+                    {
+                        "text": "The customer just found his bill today but it was due yesterday"
+                    },
+                    {
+                        "text": "The customer is willing to pay their bill over the phone"
+                    },
+                    {
+                        "text": "The customer is a good customer who typically pays on time every month"
+                    }
+                ],
+                "correctOption": 1,
+                "attemptedOption": ""
+            }
+        },
+        {
+            "initAudioId": "question-audio-9",
+            "firstName": "Florence",
+            "lastName": "Cahill",
+            "address": "4062 Glenview",
+            "city": "Victoria",
+            "zip": "",
+            "phoneNo": "361-844-4462",
+            "emailId": "",
+            "state": "Texas",
+            "refNo": "",
+            "chatQuestion": {
+                "text": "I'm need help here. Luis Cranford is my name and I'm from Long Beach, CA. I'm hoping to get a catalog mailed to my office. Are you able to set that up for me?",
+                "ans": 3
+            },
+            "mcqQuestion": {
+                "questionText": "Which of the following statements best summarizes the issue in this call?",
+                "options": [
+                    {
+                        "text": "The customer has a finance charge on their bill for no known reason"
+                    },
+                    {
+                        "text": "The customer paid their bill on time last month"
+                    },
+                    {
+                        "text": "The customer used their card for a cash advance last month"
+                    },
+                    {
+                        "text": "The customer was told that there was no fee for a cash advance"
+                    }
+                ],
+                "correctOption": 1,
+                "attemptedOption": ""
+            }
+        },
+        {
+            "initAudioId": "question-audio-10",
+            "firstName": "Derek",
+            "lastName": "Pfeifer",
+            "address": "4672 Clarence",
+            "city": "Riverside",
+            "zip": "92507",
+            "phoneNo": "909-941-0379",
+            "emailId": "",
+            "state": "California",
+            "refNo": "K73F58",
+            "chatQuestion": {
+                "text": "I need some assistance. I'm Elizabeth Palmisano of Roseville, CA. I'm pretty sure this unit I purchased last year needs to be serviced. Can you pass along this message?",
+                "ans": 2
+            },
+            "mcqQuestion": {
+                "questionText": "Which of the following statements best summarizes the issue in this call?",
+                "options": [
+                    {
+                        "text": "The customer did not like the deluxe running shoes she bought"
+                    },
+                    {
+                        "text": "The customer returned the deluxe running shoes using the proper label"
+                    },
+                    {
+                        "text": "The customer returned the deluxe running shoes and has not been credited"
+                    },
+                    {
+                        "text": "The customer did not return the deluxe running shoes properly"
+                    }
+                ],
+                "correctOption": 3,
+                "attemptedOption": ""
+            }
+        },
+        {
+            "initAudioId": "question-audio-11",
+            "firstName": "Carolyn",
+            "lastName": "Smith",
+            "address": "2681 Jarviston",
+            "city": "New York",
+            "zip": "",
+            "phoneNo": "516-908-7020",
+            "emailId": "",
+            "state": "New York",
+            "refNo": "",
+            "chatQuestion": {
+                "text": "Is anybody there? My name is Natasha Mathews and I'm from Knoxville, TN. My neighbor is interested in purchasing one of your models. Are you able to send a model 400 flyer to me by mail?",
+                "ans": 3
+            },
+            "mcqQuestion": {
+                "questionText": "Which of the following statements best summarizes the issue in this call?",
+                "options": [
+                    {
+                        "text": "The customer would like to sign up for the Protection Plus program"
+                    },
+                    {
+                        "text": "The customer has heard a lot about identify theft lately"
+                    },
+                    {
+                        "text": "The customer is not concerned about having their identity stolen"
+                    },
+                    {
+                        "text": "The customer wants to protect himself from identify theft"
+                    }
+                ],
+                "correctOption": 1,
+                "attemptedOption": ""
+            }
+        },
+        {
+            "initAudioId": "question-audio-12",
+            "firstName": "Scott",
+            "lastName": "White",
+            "address": "",
+            "city": "",
+            "zip": "",
+            "phoneNo": "562-307-8541",
+            "emailId": "SEWhite@quickmail.com",
+            "state": "",
+            "refNo": "",
+            "chatQuestion": {
+                "text": "I'm new to using chat, so I hope I'm using it correctly. I'm Andrea Willits from Hope, AR. My model 800 is ready to be serviced. Are you able to set that up for me?",
+                "ans": 2
+            },
+            "mcqQuestion": {
+                "questionText": "Which of the following statements best summarizes the issue in this call?",
+                "options": [
+                    {
+                        "text": "The customer would like to know if their bill has been paid"
+                    },
+                    {
+                        "text": "The customer did not use the online paying service correctly"
+                    },
+                    {
+                        "text": "The customer wants their late charges reimbursed"
+                    },
+                    {
+                        "text": "The customer is not able to access the internet to pay their bill"
+                    }
+                ],
+                "correctOption": 1,
+                "attemptedOption": ""
+            }
+        },
+        {
+            "initAudioId": "question-audio-13",
+            "firstName": "Debra",
+            "lastName": "Swoope",
+            "address": "2160 Stiles",
+            "city": "Pittsburgh",
+            "zip": "15222",
+            "phoneNo": "",
+            "emailId": "",
+            "state": "Pennsylvania",
+            "refNo": "P43S07",
+            "chatQuestion": {
+                "text": "Hi there. I'm Andrew Thielk of Portland, ME. My model 530A is not working. Can you take care of this?",
+                "ans": 2
+            },
+            "mcqQuestion": {
+                "questionText": "Which of the following statements best summarizes the issue in this call?",
+                "options": [
+                    {
+                        "text": "The customer is very pleased with the company"
+                    },
+                    {
+                        "text": "The customer does not like opening their mail"
+                    },
+                    {
+                        "text": "The customer does not want to receive flyers"
+                    },
+                    {
+                        "text": "The customer gets confused about their bill and other flyers"
+                    }
+                ],
+                "correctOption": 3,
+                "attemptedOption": ""
+            }
+        },
+        {
+            "initAudioId": "question-audio-14",
+            "firstName": "Daniel",
+            "lastName": "Price",
+            "address": "736 Vine",
+            "city": "Libertyville",
+            "zip": "",
+            "phoneNo": "847-680-1669",
+            "emailId": "",
+            "state": "Illinois",
+            "refNo": "",
+            "chatQuestion": {
+                "text": "I need your help. I'm Teresa Ufer of San Clemente, CA. I'm trying to purchase some of your model 300. Can you help me?",
+                "ans": 1
+            },
+            "mcqQuestion": {
+                "questionText": "Which of the following statements best summarizes the issue in this call?",
+                "options": [
+                    {
+                        "text": "The customer is referring the model 450A to other people"
+                    },
+                    {
+                        "text": "The customer is providing positive feedback on the model 450A"
+                    },
+                    {
+                        "text": "The automatic counter feature has made the customer’s life easier"
+                    },
+                    {
+                        "text": "The new and improved features really suit the customer’s needs"
+                    }
+                ],
+                "correctOption": 2,
+                "attemptedOption": ""
+            }
+        },
+        {
+            "initAudioId": "question-audio-15",
+            "firstName": "Ruth",
+            "lastName": "Alexander",
+            "address": "",
+            "city": "Dayton",
+            "zip": "",
+            "phoneNo": "937-892-5314",
+            "emailId": "RAlexander@mailbob.com",
+            "state": "Ohio",
+            "refNo": "E78N62",
+            "chatQuestion": {
+                "text": "Hello? I'm Christian Eldridge of Camden, NJ. I think that my account may be past due. Do you have access to my account information?",
+                "ans": 4
+            },
+            "mcqQuestion": {
+                "questionText": "Which of the following statements best summarizes the issue in this call?",
+                "options": [
+                    {
+                        "text": "The customer needs more information"
+                    },
+                    {
+                        "text": "The customer has received approval from the budget manager"
+                    },
+                    {
+                        "text": "The customer wants to purchase the software"
+                    },
+                    {
+                        "text": "The customer has decided on which version his company needs"
+                    }
+                ],
+                "correctOption": 3,
+                "attemptedOption": ""
+            }
+        },
+        {
+            "initAudioId": "question-audio-16",
+            "firstName": "Christie",
+            "lastName": "Brandle",
+            "address": "2138 New Creek",
+            "city": "Anniston",
+            "zip": "36201",
+            "phoneNo": "256-846-1246",
+            "emailId": "",
+            "state": "Alabama",
+            "refNo": "",
+            "chatQuestion": {
+                "text": "Hi, are you there? My name is Elliot Divine and I'm from Princeton, NJ. I just bought this thing and it's not working. Do you know what's wrong?",
+                "ans": 2
+            },
+            "mcqQuestion": {
+                "questionText": "Which of the following statements best summarizes the issue in this call?",
+                "options": [
+                    {
+                        "text": "The customer would like to register their product for the warranty"
+                    },
+                    {
+                        "text": "The customer bought the Model Q230 two and a half weeks ago"
+                    },
+                    {
+                        "text": "The customer thinks registering the Model Q230 is a good idea"
+                    },
+                    {
+                        "text": "The customer needs more information"
+                    }
+                ],
+                "correctOption": 1,
+                "attemptedOption": ""
+            }
+        },
+        {
+            "initAudioId": "question-audio-17",
+            "firstName": "Amber",
+            "lastName": "Young",
+            "address": "",
+            "city": "",
+            "zip": "",
+            "phoneNo": "616-293-2634",
+            "emailId": "aayoung@dstmail.com",
+            "state": "",
+            "refNo": "S54L19",
+            "chatQuestion": {
+                "text": "Hey. This is Bobby Jones and I'm from San Antonio, TX. I opened the box, plugged it in and the circuit breaker tripped. Can you send me a replacement?",
+                "ans": 2
+            },
+            "mcqQuestion": {
+                "questionText": "Which of the following statements best summarizes the issue in this call?",
+                "options": [
+                    {
+                        "text": "The customer made a purchase on the website using their credit card"
+                    },
+                    {
+                        "text": "The customer saw the full amount but received a discount"
+                    },
+                    {
+                        "text": "The customer did not use their coupon to receive a discount"
+                    },
+                    {
+                        "text": "The customer used a coupon but was charged the full amount"
+                    }
+                ],
+                "correctOption": 4,
+                "attemptedOption": ""
+            }
+        },
+        {
+            "initAudioId": "question-audio-18",
+            "firstName": "Monika",
+            "lastName": "Tyler",
+            "address": "3795 Riverside",
+            "city": "Augusta",
+            "zip": "",
+            "phoneNo": "",
+            "emailId": "Mtyler@dodgit.com",
+            "state": "Georgia",
+            "refNo": "",
+            "chatQuestion": {
+                "text": "I hope you can point me to the right person. My name is Gerald Sutton and I'm from Vancouver, WA. It appears I was overcharged last month. What is going on?",
+                "ans": 4
+            },
+            "mcqQuestion": {
+                "questionText": "Which of the following statements best summarizes the issue in this call?",
+                "options": [
+                    {
+                        "text": "The customer needs more information"
+                    },
+                    {
+                        "text": "The customer has received approval from the budget manager"
+                    },
+                    {
+                        "text": "The customer wants to purchase the product"
+                    },
+                    {
+                        "text": "The customer has decided on which version his company needs"
+                    }
+                ],
+                "correctOption": 3,
+                "attemptedOption": ""
+            }
+        }
+    ],
+    "resources": {
+        "media": {
+            "images": [],
+            "audio": [
+                {
+                    "id": "question-audio-1",
+                    "url": "/content/audio-library/data-entry-call-summary-chat/item19.mp3"
+                },{
+                    "id": "question-audio-2",
+                    "url": "/content/audio-library/data-entry-call-summary-chat/item20.mp3"
+                },{
+                    "id": "question-audio-3",
+                    "url": "/content/audio-library/data-entry-call-summary-chat/item21.mp3"
+                },{
+                    "id": "question-audio-4",
+                    "url": "/content/audio-library/data-entry-call-summary-chat/item22.mp3"
+                },{
+                    "id": "question-audio-5",
+                    "url": "/content/audio-library/data-entry-call-summary-chat/item23.mp3"
+                },{
+                    "id": "question-audio-6",
+                    "url": "/content/audio-library/data-entry-call-summary-chat/item24.mp3"
+                },{
+                    "id": "question-audio-7",
+                    "url": "/content/audio-library/data-entry-call-summary-chat/item25.mp3"
+                },{
+                    "id": "question-audio-8",
+                    "url": "/content/audio-library/data-entry-call-summary-chat/item26.mp3"
+                },{
+                    "id": "question-audio-9",
+                    "url": "/content/audio-library/data-entry-call-summary-chat/item27.mp3"
+                },{
+                    "id": "question-audio-10",
+                    "url": "/content/audio-library/data-entry-call-summary-chat/item28.mp3"
+                },{
+                    "id": "question-audio-11",
+                    "url": "/content/audio-library/data-entry-call-summary-chat/item29.mp3"
+                },{
+                    "id": "question-audio-12",
+                    "url": "/content/audio-library/data-entry-call-summary-chat/item30.mp3"
+                },{
+                    "id": "question-audio-13",
+                    "url": "/content/audio-library/data-entry-call-summary-chat/item31.mp3"
+                },{
+                    "id": "question-audio-14",
+                    "url": "/content/audio-library/data-entry-call-summary-chat/item32.mp3"
+                },{
+                    "id": "question-audio-15",
+                    "url": "/content/audio-library/data-entry-call-summary-chat/item33.mp3"
+                },{
+                    "id": "question-audio-16",
+                    "url": "/content/audio-library/data-entry-call-summary-chat/item34.mp3"
+                },{
+                    "id": "question-audio-17",
+                    "url": "/content/audio-library/data-entry-call-summary-chat/item35.mp3"
+                },{
+                    "id": "question-audio-18",
+                    "url": "/content/audio-library/data-entry-call-summary-chat/item17.mp3"
+                },{
+                    "id": "chat-audio",
+                    "url": "/content/audio-library/data-entry-call-summary-chat/emergencyprompt.mp3"
+                }
+            ]
+        }
+    }
+}

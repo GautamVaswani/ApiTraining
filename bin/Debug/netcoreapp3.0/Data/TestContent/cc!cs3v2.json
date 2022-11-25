@@ -1,0 +1,336 @@
+﻿{
+  "assessmentName": "Call Summarization 2 MT",
+  "playerType": "DataEntry",
+  "modeType": "call-summarization",
+  "tplType": "CS3",
+  "instructions": "<span role=heading aria-level=3 >Call Summarization 2 MT</span></br>For this test, you will need to listen to information that is provided to you through the computer. We recommend using a headset or a set of quality speakers. You will then be asked a series of questions about each of the calls. </br></br>You should enter the information that the caller gives in the appropriate boxes on the computer screen. For example, you should enter the caller's first name, last name, street address, city, and/or telephone number in the boxes marked for that information. You should enter any vehicle identification number, License Plate, or Driver's License provided by the caller in the boxes marked for that information. </br></br>You may write notes about the calls in the box in the lower half of the screen labeled Notes to help you recall information about the call.</br></br>The information you record in any of the boxes on the screen will later be available to assist you in choosing the correct answer.</br></br>After each call is completed, follow the on-screen instructions to proceed to the questions about that call. </br></br>You will also need to respond to any emergency messages that appear in the bottom right corner of the screen by left clicking your mouse over the agency to be dispatched. Failing to respond to a decision-making message within 15 seconds after the message first appears will result in a lower score.</br></br>HOW TO RESPOND TO MULTIPLE-CHOICE QUESTION </br></br>With each question there will be four choices labeled A, B, C, and D. You can choose your response in one of three ways.</br></br>1. You can use your mouse to select your answers</br></br>2. You can use the up and down arrows to choose your response.</br></br>3. You can hold down the Alt key and then press either A, B, C, or D.</br><p class='aria-only'>Press Alt+s to pause the background audio while accessing Emergency box. Press Alt+r to resume the background audio.</p>",
+  "questions": [
+    {
+      "Notes": "",
+      "initAudioId": "CS321",
+      "mcqQuestions": [
+        {
+          "questionText": "According to the caller, while they were at the store one of the men bought",
+          "options": [
+            {
+              "text": "Pretzels."
+            },
+            {
+              "text": "Beer."
+            },
+            {
+              "text": "Whiskey."
+            },
+            {
+              "text": "Unknown items."
+            }
+          ]
+        },
+        {
+          "questionText": "The name of the bar where the men wanted the caller to meet them was the __________ bar.",
+          "options": [
+            {
+              "text": "Playland"
+            },
+            {
+              "text": "Playhouse"
+            },
+            {
+              "text": "Playstation"
+            },
+            {
+              "text": "Playtime"
+            }
+          ]
+        },
+        {
+          "questionText": "The caller described herself as ___________ of the liquor store.",
+          "options": [
+            {
+              "text": "an employee"
+            },
+            {
+              "text": "the manager"
+            },
+            {
+              "text": "the owner"
+            },
+            {
+              "text": "the wife of the owner"
+            }
+          ]
+        },
+        {
+          "questionText": "The vehicle that the men drove away in was described by the caller as being a",
+          "options": [
+            {
+              "text": "green car."
+            },
+            {
+              "text": "green truck."
+            },
+            {
+              "text": "red car."
+            },
+            {
+              "text": "red truck."
+            }
+          ]
+        },
+        {
+          "questionText": "One of the men left his ______________ behind at the store.",
+          "options": [
+            {
+              "text": "current credit card"
+            },
+            {
+              "text": "expired credit card"
+            },
+            {
+              "text": "current driver’s license"
+            },
+            {
+              "text": "expired driver’s license"
+            }
+          ]
+        }
+      ],
+      "emergencyQuestions": [
+        {
+          "delay": 15,
+          "questionText": "Several children are trapped inside an abandoned house."
+        },
+        {
+          "delay": 45,
+          "questionText": "Man falls from a ladder and breaks his arm."
+        }
+      ]
+    },
+    {
+      "Notes": "",
+      "initAudioId": "CS322",
+      "mcqQuestions": [
+        {
+          "questionText": "The residents of the house where the suspicious activity is taking place were last seen leaving the house on last",
+          "options": [
+            {
+              "text": "Monday."
+            },
+            {
+              "text": "Tuesday."
+            },
+            {
+              "text": "Wednesday."
+            },
+            {
+              "text": "Thursday."
+            }
+          ]
+        },
+        {
+          "questionText": "The caller described the suspicious person’s vehicle as being colored _____________ stripes painted on its sides.",
+          "options": [
+            {
+              "text": "green with orange"
+            },
+            {
+              "text": "yellow with orange"
+            },
+            {
+              "text": "orange with yellow"
+            },
+            {
+              "text": "orange with green"
+            }
+          ]
+        },
+        {
+          "questionText": "The age of the suspicious person was estimated by the caller to be _________ years old.",
+          "options": [
+            {
+              "text": "Fifteen (15)"
+            },
+            {
+              "text": "Eighteen (18)"
+            },
+            {
+              "text": "twenty (20)"
+            },
+            {
+              "text": "twenty-five (25)"
+            }
+          ]
+        },
+        {
+          "questionText": "The suspicious person is said to have _________________hair.",
+          "options": [
+            {
+              "text": "short blond"
+            },
+            {
+              "text": "long blond"
+            },
+            {
+              "text": "short brown"
+            },
+            {
+              "text": "long brown"
+            }
+          ]
+        },
+        {
+          "questionText": "The suspicious person was last seen by the caller in",
+          "options": [
+            {
+              "text": "the back yard of the house next door to 1461 Elder."
+            },
+            {
+              "text": "the back yard of the house across the street from1461 Elder."
+            },
+            {
+              "text": "the front yard of the house next door to 1461 Elder."
+            },
+            {
+              "text": "a vehicle in front of 1484 Mission."
+            }
+          ]
+        }
+      ],
+      "emergencyQuestions": [
+        {
+          "delay": 15,
+          "questionText": "Heavy rain causes storm sewers to overflow."
+        },
+        {
+          "delay": 45,
+          "questionText": "Woman calls to say the public grammar school is burning."
+        }
+      ]
+    },
+    {
+      "Notes": "",
+      "initAudioId": "CS323",
+      "mcqQuestions": [
+        {
+          "questionText": "According to the caller, the accident occurred __________ prior this calling this report in.",
+          "options": [
+            {
+              "text": "immediately"
+            },
+            {
+              "text": "ten (10) minutes"
+            },
+            {
+              "text": "fifteen (15) minutes"
+            },
+            {
+              "text": "twenty (20) minutes"
+            }
+          ]
+        },
+        {
+          "questionText": "According to the caller, the number and gender of the occupants of the vehicle was",
+          "options": [
+            {
+              "text": "three (3) women."
+            },
+            {
+              "text": "two (2) women and one (1) man."
+            },
+            {
+              "text": "two (2) men and one (1) woman."
+            },
+            {
+              "text": "Three (3) men."
+            }
+          ]
+        },
+        {
+          "questionText": "The vehicle involved in the accident was described as a",
+          "options": [
+            {
+              "text": "blue Pontiac."
+            },
+            {
+              "text": "blue Nissan."
+            },
+            {
+              "text": "green Pontiac."
+            },
+            {
+              "text": "green Nissan."
+            }
+          ]
+        },
+        {
+          "questionText": "The caller said she saw the vehicle that was involved in the accident",
+          "options": [
+            {
+              "text": "speeding."
+            },
+            {
+              "text": "failed to stop at a red light."
+            },
+            {
+              "text": "failed to stop at a stop sign."
+            },
+            {
+              "text": "failed to yield the right-of-way."
+            }
+          ]
+        },
+        {
+          "questionText": "According to the caller, she saw __________________ bleeding after the accident occurred",
+          "options": [
+            {
+              "text": "ONLY the driver"
+            },
+            {
+              "text": "ONLY the passenger in the front seat"
+            },
+            {
+              "text": "both the driver and passenger in the front seat"
+            },
+            {
+              "text": "both the driver and the passenger in the rear seat"
+            }
+          ]
+        }
+      ],
+      "emergencyQuestions": [
+        {
+          "delay": 15,
+          "questionText": "Child is choking on a balloon she was blowing up."
+        },
+        {
+          "delay": 45,
+          "questionText": "Woman gives poison to her neighbor’s barking pet dog."
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": [
+        {
+          "id": "CS321",
+          "url": "/content/audio-library/call-summarization/CS321.mp3"
+        },
+        {
+          "id": "CS322",
+          "url": "/content/audio-library/call-summarization/CS322.mp3"
+        },
+        {
+          "id": "CS323",
+          "url": "/content/audio-library/call-summarization/CS323.mp3"
+        }
+      ]
+    }
+  },
+  "captions" : {    
+    "CS321":"WEBVTT\n\n1\n00:00:00.700 --> 00:00:01.320\nHi.\n\n2\n00:00:01.540 --> 00:00:03.660\nMy name is Shannon Moreland.\n\n3\n00:00:03.940 --> 00:00:11.370\nS H A N N O N M O R E L A N D.\n\n7\n00:00:12.040 --> 00:00:13.900\nI am an employee at a convenience\n\n8\n00:00:13.901 --> 00:00:17.610\nstore at 7 3 4 4 Nigel\n\n10\n00:00:18.020 --> 00:00:19.486\nN I G E L\n\n11\n00:00:20.680 --> 00:00:22.890\nin the town of Northvale\n\n12\n00:00:23.140 --> 00:00:27.300\nN O R T H V A L E.\n\n14\n00:00:27.910 --> 00:00:29.520\nI am really frustrated.\n\n15\n00:00:29.920 --> 00:00:31.149\nI tried calling the owner\n\n16\n00:00:31.150 --> 00:00:33.240\nbut her husband said she wasn't\nhome.\n\n17\n00:00:33.850 --> 00:00:35.610\nThere were three guys here you know.\n\n18\n00:00:35.980 --> 00:00:37.760\nThey came in to buy beer.\n\n19\n00:00:38.320 --> 00:00:40.350\nBoy, were they high on something\n\n20\n00:00:40.840 --> 00:00:41.980\nthey paid for the beer\n\n21\n00:00:41.981 --> 00:00:43.320\nwith the travelers check.\n\n22\n00:00:43.780 --> 00:00:45.830\nThey got mad when I told them I\ncouldn't take\n\n23\n00:00:45.831 --> 00:00:47.740\nthe traveler's checks unless they\nhad a current\n\n24\n00:00:47.741 --> 00:00:48.800\ndriver's license.\n\n25\n00:00:49.090 --> 00:00:50.850\nAnd the guy with the travelers check\n\n26\n00:00:51.070 --> 00:00:52.930\nsaid he only had an expired driver's\n\n27\n00:00:52.931 --> 00:00:53.580\nlicense.\n\n28\n00:00:54.220 --> 00:00:56.259\nI was afraid so I took the travelers\n\n29\n00:00:56.260 --> 00:00:57.450\ncheck anyway.\n\n30\n00:00:57.810 --> 00:00:59.830\nBut I wrote down the guy's license\nplate\n\n31\n00:00:59.831 --> 00:01:01.690\nnumber that was on his ratty old\n\n32\n00:01:01.691 --> 00:01:02.760\nFord sedan.\n\n33\n00:01:03.220 --> 00:01:08.490\nIt is 8 J K U 8 5 7.\n\n36\n00:01:08.950 --> 00:01:10.840\nThey even asked me to meet them at\n\n37\n00:01:10.841 --> 00:01:12.730\nthe Playhouse bar after I got off\n\n38\n00:01:12.731 --> 00:01:13.840\nwork at 8pm.\n\n39\n00:01:14.740 --> 00:01:16.410\nLook they just left\n\n40\n00:01:17.020 --> 00:01:18.219\nas they were driving away.\n\n41\n00:01:18.220 --> 00:01:20.260\nThey almost ran headfirst into a red\n\n42\n00:01:20.261 --> 00:01:21.780\ntruck with their green car.\n\n43\n00:01:22.360 --> 00:01:24.450\nI'm afraid they're going to hurt\nsomebody.\n\n44\n00:01:25.150 --> 00:01:27.010\nOh yeah the stupid guy left\n\n45\n00:01:27.011 --> 00:01:28.680\nhis driver's license behind.\n\n46\n00:01:29.030 --> 00:01:35.190\nIt's number is S 8 4 2 3 7 8 2",
+    "CS322":"WEBVTT\n\n1\n00:00:00.690 --> 00:00:01.280\nHi.\n\n2\n00:00:01.470 --> 00:00:03.200\nThis is Sally Malone again.\n\n3\n00:00:03.480 --> 00:00:05.750\nS A L L Y\n\n4\n00:00:06.030 --> 00:00:08.430\nM A L O N E.\n\n6\n00:00:09.090 --> 00:00:11.240\nI know you guys will be glad to hear\nfrom me.\n\n7\n00:00:11.610 --> 00:00:13.590\nMy husband says I should write a\nstory\n\n8\n00:00:13.591 --> 00:00:15.350\nabout all of the stuff I see.\n\n9\n00:00:16.020 --> 00:00:17.995\nI live it 14 61\n\n10\n00:00:18.390 --> 00:00:22.350\nElder E L D E R in the village\n\n12\n00:00:22.351 --> 00:00:26.600\nof Linbrook L I N B R O O K.\n\n14\n00:00:27.420 --> 00:00:29.310\nMy neighbors in the house next door\nare\n\n15\n00:00:29.311 --> 00:00:30.380\non vacation.\n\n16\n00:00:30.870 --> 00:00:32.460\nI saw them leave last Wednesday\n\n17\n00:00:32.461 --> 00:00:33.530\nwith suitcases.\n\n18\n00:00:33.990 --> 00:00:35.450\nThere should be no one home.\n\n19\n00:00:35.880 --> 00:00:37.130\nThere's this vehicle.\n\n20\n00:00:37.320 --> 00:00:38.640\nI mean a suspicious kid\n\n21\n00:00:38.641 --> 00:00:40.500\nwith long frizzy brown hair hanging\n\n22\n00:00:40.501 --> 00:00:41.730\naround in the backyard.\n\n23\n00:00:42.300 --> 00:00:44.400\nI know it's not my neighbor's kid\nbecause\n\n24\n00:00:44.401 --> 00:00:46.190\ntheir kid was 15\n\n25\n00:00:46.320 --> 00:00:48.209\nwhen they moved in five years ago\n\n26\n00:00:48.210 --> 00:00:50.130\nand this kid looks at least 5\n\n27\n00:00:50.131 --> 00:00:52.160\nyears older than their kid does now\n\n28\n00:00:52.590 --> 00:00:54.710\nand their kids have short blonde\nhair.\n\n29\n00:00:54.840 --> 00:00:55.460\nOh yeah.\n\n30\n00:00:55.770 --> 00:00:57.149\nYardy has my phone number\n\n31\n00:00:57.150 --> 00:01:02.480\nbut here it is anyway 6 4 9 8 3 4 9.\n\n34\n00:01:03.390 --> 00:01:05.219\nI know the last time I called it\nturned out\n\n35\n00:01:05.220 --> 00:01:07.080\nto be something really big a\n\n36\n00:01:07.081 --> 00:01:08.480\nhomicide or something.\n\n37\n00:01:09.030 --> 00:01:10.880\nMaybe it's nothing this time\n\n38\n00:01:10.940 --> 00:01:12.710\nthat maybe it's something important.\n\n39\n00:01:13.230 --> 00:01:15.150\nIt's just that I know this kid\n\n40\n00:01:15.151 --> 00:01:16.970\ndoesn't belong in this neighborhood.\n\n41\n00:01:17.670 --> 00:01:19.740\nEspecially with that new orange\ntruck\n\n42\n00:01:19.741 --> 00:01:22.049\nwith green stripes painted on the\nsides.\n\n43\n00:01:22.050 --> 00:01:24.699\nI saw him parked in front of 14\n\n44\n00:01:24.700 --> 00:01:26.260\n84 mission.\n\n45\n00:01:27.030 --> 00:01:29.550\nI saw the guy drop his vehicle\nregistration\n\n46\n00:01:29.551 --> 00:01:30.140\nform\n\n47\n00:01:30.450 --> 00:01:32.340\nand I have his vehicle\nidentification\n\n48\n00:01:32.341 --> 00:01:44.460\nnumber I M K J P 5 8 4 3 D 6 9 8 3 8 G T.\n\n54\n00:01:45.330 --> 00:01:47.280\nMaybe you could check this guy out\nas soon\n\n55\n00:01:47.281 --> 00:01:47.990\nas possible.\n",
+    "CS323":"WEBVTT\n\n1\n00:00:00.540 --> 00:00:03.200\nMy name is Allison Winston\n\n2\n00:00:03.720 --> 00:00:10.685\nA L L I S O N W I N S T O N.\n\n6\n00:00:11.550 --> 00:00:13.410\nI'm calling from my house in the\ncity of\n\n7\n00:00:13.411 --> 00:00:17.660\nTiloson T I L O S O N\n\n9\n00:00:18.270 --> 00:00:22.902\nwhere I live at 5 9 2 4 1 Charter\n\n11\n00:00:23.400 --> 00:00:26.810\nC H A R T E R.\n\n13\n00:00:27.510 --> 00:00:29.870\nHave you had any reports of an\naccident?\n\n14\n00:00:30.510 --> 00:00:32.869\nHow can you guys didn't show up when\nit happened?\n\n15\n00:00:33.540 --> 00:00:35.729\nI was at the carwash on South Street\n\n16\n00:00:35.730 --> 00:00:37.470\nvacuuming out my Toyota.\n\n17\n00:00:37.920 --> 00:00:39.929\nYou know the one on South Street\n\n18\n00:00:39.930 --> 00:00:41.930\nand not the one on Huntington\nStreet.\n\n19\n00:00:42.510 --> 00:00:44.799\nAnyway I saw a green Nissan\n\n20\n00:00:44.800 --> 00:00:46.070\nrun a traffic light\n\n21\n00:00:46.140 --> 00:00:48.410\nand swerve right into a telephone\npole.\n\n22\n00:00:48.780 --> 00:00:50.730\nIt all happened about 15 minutes\n\n23\n00:00:50.731 --> 00:00:51.320\nago.\n\n24\n00:00:51.750 --> 00:00:53.780\nThe car's license plate number is\n\n25\n00:00:54.210 --> 00:00:57.930\nA M J 7 8 4 2.\n\n27\n00:00:58.560 --> 00:01:01.070\nThe driver of the car seemed to be\nOK,\n\n28\n00:01:01.260 --> 00:01:03.150\nbut I don't think she's all there if\nyou know\n\n29\n00:01:03.151 --> 00:01:04.010\nwhat I mean.\n\n30\n00:01:04.349 --> 00:01:05.610\nShe must be drugged out\n\n31\n00:01:05.611 --> 00:01:08.090\nor something because she keeps\ntalking to herself.\n\n32\n00:01:08.610 --> 00:01:10.470\nThe girl in the passenger seat must\nhave\n\n33\n00:01:10.471 --> 00:01:12.360\nbeen bounced around quite a bit\nsince she\n\n34\n00:01:12.361 --> 00:01:13.580\ndidn't seem to be cut.\n\n35\n00:01:15.870 --> 00:01:17.940\nThe girl in the passenger seat must\n\n36\n00:01:17.941 --> 00:01:20.009\nhave been bounced around quite a bit\n\n37\n00:01:20.010 --> 00:01:21.650\nsince she seemed to be cut.\n\n38\n00:01:22.500 --> 00:01:24.140\nThere is blood everywhere.\n\n39\n00:01:24.660 --> 00:01:25.890\nI felt sorry for her\n\n40\n00:01:25.891 --> 00:01:27.750\nbut she kept telling me she didn't\nwant\n\n41\n00:01:27.751 --> 00:01:28.540\nany help\n\n42\n00:01:29.070 --> 00:01:30.960\nand the guy in the backseat looked\nreally\n\n43\n00:01:30.961 --> 00:01:33.180\npale like he'd smacked his head on\nsomething\n\n44\n00:01:33.181 --> 00:01:34.850\nbecause it was all bruised up.\n\n45\n00:01:35.310 --> 00:01:37.170\nHe kept saying he didn't want the\ncops\n\n46\n00:01:37.171 --> 00:01:39.150\nto find out that he had run away\n\n47\n00:01:39.151 --> 00:01:39.980\nfrom home.\n\n48\n00:01:40.590 --> 00:01:42.480\nIf you need to call me back my\ntelephone\n\n49\n00:01:42.481 --> 00:01:47.060\nnumber is 9 2 7 1 4 0 7.\n\n51\n00:01:47.340 --> 00:01:48.150\nPlease hurry.\n"
+  }
+}

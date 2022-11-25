@@ -1,0 +1,180 @@
+{
+  "assessmentName": "Data Entry MT",
+  "playerType": "DataEntry",
+  "modeType": "data-entry-audio-mt",
+  "subType": "data-entry-mt",
+  "instructions": "<span role=heading aria-level=3 >Data Entry  MT</span><br/><br/>    The following is a test of your ability to correctly enter data you see into the proper fields on the computer monitor.<br/><br/>    During this test, you will see names, addresses, telephone numbers, and other data on the right side of the screen. You should enter all the data exactly as it appears into the proper boxes on the left side of the screen. Once you have entered all of the data that appears in the box on the right, follow the on-screen instructions to see and enter the next set of data, and so on. Continue entering data until the time limit runs out.<br/><br/>    You may skip to the next set of data prior to your entering all of the data shown in the box on the right if you wish. However, you cannot return to the skipped data and failing to enter all of the data from the box on the right will result in a lower score.<br/><br/>    You will be graded on the speed and accuracy of the data you enter into the correct boxes. Do NOT use abbreviations in this section of the test.<br/><br/>    You will also need to respond to any emergency messages that appear in the bottom right corner of the screen by left-clicking your mouse over the agency to be dispatched. Failing to respond to a decision-making message within 15 seconds after the message first appears will result in a lower score.<br/>    ",
+  "timeLimit": 5,
+  "MTquestions": [
+    {
+      "id": 1,
+      "queText": "Homeless man reports that the elementary school is burning down.",
+      "startDelay": 15
+    },
+    {
+      "id": 2,
+      "queText": "Backed up sewer line reported at 1210 Princeton Drive.",
+      "startDelay": 45
+    },
+    {
+      "id": 3,
+      "queText": "Small boy tells his mother that he ate some rat poison.",
+      "startDelay": 75
+    },
+    {
+      "id": 4,
+      "queText": "Angry man threatens to shoot his wife.",
+      "startDelay": 105
+    },
+    {
+      "id": 5,
+      "queText": "Police officer reports that electrical power is not working at City Hall.",
+      "startDelay": 135
+    },
+    {
+      "id": 6,
+      "queText": "Minister reports teenagers spray-painted graffiti on the side of the church.",
+      "startDelay": 165
+    },
+    {
+      "id": 7,
+      "queText": "Smoke is seen coming from under the hood of a car on Main Street.",
+      "startDelay": 195
+    },
+    {
+      "id": 8,
+      "queText": "Men digging a trench accidentally break an underground water line.",
+      "startDelay": 225
+    },
+    {
+      "id": 9,
+      "queText": "Elderly woman is trapped in the upstairs bathroom of her house.",
+      "startDelay": 255
+    },
+    {
+      "id": 10,
+      "queText": "High school teacher has a heart attack while jogging at the park.",
+      "startDelay": 285
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "inputs": [
+        "LEWIS",
+        "SARA",
+        "518-258-5645",
+        "2336 FRANKLIN ",
+        "MISSION",
+        "95864",
+        "F25D52367DG49E42",
+        "E528JD",
+        "K5919626"
+      ]
+    },
+    {
+      "id": 2,
+      "inputs": [
+        "TAN",
+        "MORGAN",
+        "825-546-2321",
+        "3895 STOCKWOOD",
+        "HARRIS",
+        "93003",
+        "G574U12W963G1954",
+        "946H3I",
+        "C843951"
+      ]
+    },
+    {
+      "id": 3,
+      "inputs": [
+        "HALEY",
+        "FRED",
+        "510-741-6482",
+        "7615 COOLEY",
+        "SILVERTON",
+        "62784",
+        "QW475K128T36JK14",
+        "Y2SD52",
+        "U8314509"
+      ]
+    },
+    {
+      "id": 4,
+      "inputs": [
+        "SIMON",
+        "RUSSELL",
+        "901-648-5375",
+        "9873 WILLOWICK",
+        "DULVER",
+        "37512",
+        "L47I5J4129645732",
+        "K5Y82F",
+        "T352674"
+      ]
+    },
+    {
+      "id": 5,
+      "inputs": [
+        "JOHNSON",
+        "ANITA",
+        "631-926-6481",
+        "5861 NATOMA",
+        "ELSAH",
+        "49127",
+        "95HJ1O47F25V3694",
+        "G25E3S",
+        "L934816"
+      ]
+    },
+    {
+      "id": 6,
+      "inputs": [
+        "WALLACE",
+        "KERRY",
+        "916-567-3999",
+        "3764 SIERRA",
+        "FAWNY",
+        "21123",
+        "P45F753219J24568",
+        "LK3E52",
+        "G759482"
+      ]
+    },
+    {
+      "id": 7,
+      "inputs": [
+        "SKYWALKER",
+        "LOIS",
+        "714-896-2323",
+        "8626 GLORY",
+        "WASARY",
+        "68391",
+        "D25G21U74F256379",
+        "34512H",
+        "H619534"
+      ]
+    },
+    {
+      "id": 8,
+      "inputs": [
+        "WALKER",
+        "JASON",
+        "805-643-9156",
+        "1936 CREEKSIDE",
+        "WALTON",
+        "82196",
+        "A25D6G2YT1472395",
+        "M27F56",
+        "M349581"
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": []
+    }
+  }
+}

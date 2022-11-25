@@ -1,0 +1,108 @@
+{
+  "assessmentName": "Memory Recall (Audio)",
+  "playerType": "DataRecollection",
+  "modeType": "memory-recall-audio",
+  "templateType": "memory-recall-3",
+  "instructions": "<span role=heading aria-level=3 >Memory Recall (Audio)</span> <br/><br/> The following is a test of your ability to remember combinations of letters and numbers, such as serial numbers, license plates, or medical identification numbers. You will hear a series of between five and nine numbers and letters followed by the word \"NOW\". For example, you may hear, \"6-L-4-2-E-1-NOW\". After you hear the word \"NOW\" you should use the keyboard to type in the series of numbers and letters exactly in the same order they were just given to you. Do not place any spaces between the numbers and letters in the sequence and do not type the word “NOW”. <br/><br/> You must wait until after you hear the word \"NOW\" before you begin to type in the numbers and letters. Information you attempt to type prior to hearing the word \"NOW\" will NOT be recorded. <br/><br/>  Because this is a test of your memory, you may not write down any information during this section of the test or take any notes. You must recall this information only from memory. Writing down anything during this portion of the test will result in immediate failure for the entire test. <br/><br/> After you enter your response, follow the on screen instructions to hear the next set of letters and numbers. ",
+  "questions": [
+    {
+      "id": "1",
+      "audioID": "MR231"
+    },
+    {
+      "id": "2",
+      "audioID": "MR232"
+    },
+    {
+      "id": "3",
+      "audioID": "MR233"
+    },
+    {
+      "id": "4",
+      "audioID": "MR234"
+    },
+    {
+      "id": "5",
+      "audioID": "MR235"
+    },
+    {
+      "id": "6",
+      "audioID": "MR236"
+    },
+    {
+      "id": "7",
+      "audioID": "MR237"
+    },
+    {
+      "id": "8",
+      "audioID": "MR238"
+    },
+    {
+      "id": "9",
+      "audioID": "MR239"
+    },
+    {
+      "id": "10",
+      "audioID": "MR2310"
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": [
+        {
+          "id": "MR231",
+          "url": "/content/audio-library/memory-recall/MR231.mp3"
+        },
+        {
+          "id": "MR232",
+          "url": "/content/audio-library/memory-recall/MR232.mp3"
+        },
+        {
+          "id": "MR233",
+          "url": "/content/audio-library/memory-recall/MR233.mp3"
+        },
+        {
+          "id": "MR234",
+          "url": "/content/audio-library/memory-recall/MR234.mp3"
+        },
+        {
+          "id": "MR235",
+          "url": "/content/audio-library/memory-recall/MR235.mp3"
+        },
+        {
+          "id": "MR236",
+          "url": "/content/audio-library/memory-recall/MR236.mp3"
+        },
+        {
+          "id": "MR237",
+          "url": "/content/audio-library/memory-recall/MR237.mp3"
+        },
+        {
+          "id": "MR238",
+          "url": "/content/audio-library/memory-recall/MR238.mp3"
+        },
+        {
+          "id": "MR239",
+          "url": "/content/audio-library/memory-recall/MR239.mp3"
+        },
+        {
+          "id": "MR2310",
+          "url": "/content/audio-library/memory-recall/MR2310.mp3"
+        }
+      ]
+    }
+  },
+  "captions": {
+    "MR231":"WEBVTT\n\n1\n00:00:00.610 --> 00:00:04.470\nW J 3 J C now.",
+    "MR232":"WEBVTT\n\n1\n00:00:00.240 --> 00:00:05.760\nE W 8 2 7 J now.",
+    "MR233":"WEBVTT\n\n1\n00:00:00.140 --> 00:00:04.710\nE 4 8 K F 5 now.",
+    "MR234":"WEBVTT\n\n1\n00:00:00.270 --> 00:00:07.140\nD J 8 3 7 W now.",
+    "MR235":"WEBVTT\n\n1\n00:00:00.290 --> 00:00:05.070\nJ 5 7 9 K P now.",
+    "MR236":"WEBVTT\n\n1\n00:00:00.120 --> 00:00:07.500\n4 9 5 Z L 7 2 now.",
+    "MR237":"WEBVTT\n\n1\n00:00:00.660 --> 00:00:05.820\n4 F W 2 8 L 7 now.",
+    "MR238":"WEBVTT\n\n1\n00:00:00.720 --> 00:00:08.400\n8 G J 2 8 S L 6 now.",
+    "MR239":"WEBVTT\n\n1\n00:00:00.270 --> 00:00:06.590\n8 3 4 W J J U 3 now.",
+    "MR2310":"WEBVTT\n\n1\n00:00:00.810 --> 00:00:04.490\nJ Z 1 9 2 now."
+  }
+}

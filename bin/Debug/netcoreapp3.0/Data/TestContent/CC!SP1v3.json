@@ -1,0 +1,238 @@
+{
+    "assessmentName": "Spelling",
+    "playerType": "FIB",
+    "instruction": "<P role=heading aria-level=3>Spelling</P> <P>This section of the test contains fill-in-the-blank questions, which you must answer by typing a missing word in the box provided. Use your mouse to click on [Play Audio] to hear the missing word spoken in the sentence. Upon answering a question, you can go on to the next question by clicking the Next button on the toolbar.</P> <P>During this section of the test, if you choose you may skip an item and then later return to that item.</P><P> </P><P>After you have answered all questions, click Submit on the Header section. Your Test Administrator may have set a time limit for this test section. If there is a time limit, you will be told how much time you have. If a time limit has been set for this section of the test, you will notice a countdown timer on the Header of the screen, showing the amount of time remaining to complete this section of the test.</P> <P>We recommend that you go to the practice version of this section of the test to learn more about how you should respond to items during this section of the test.</P>",
+    "questions": [{
+            "id": "1",
+            "questionText": "<span>I heard a truck stop very quickly after its </span><span class='blank-field'></span><span> were applied.</span>",
+            "audioID": "brakes"
+        },
+        {
+            "id": "2",
+            "questionText": "<span>A smart officer </span><span class='blank-field'></span><span> when to back down during an argument.</span>",
+            "audioID": "knows"
+        },
+        {
+            "id": "3",
+            "questionText": "<span>Please let me know </span><span class='blank-field'></span><span> I should stay or leave.</span>",
+            "audioID": "whether"
+        },
+        {
+            "id": "4",
+            "questionText": "<span>It would be a </span><span class='blank-field'></span><span> to throw away good food.</span>",
+            "audioID": "waste"
+        },
+        {
+            "id": "5",
+            "questionText": "<span>Some birds </span><span class='blank-field'></span><span> food from other animals.</span>",
+            "audioID": "steal"
+        },
+        {
+            "id": "6",
+            "questionText": "<span>Tom was </span><span class='blank-field'></span><span> last night because his television set was broken.</span>",
+            "audioID": "bored"
+        },
+        {
+            "id": "7",
+            "questionText": "<span>The brakes on the car were </span><span class='blank-field'></span><span> down so they would not work properly.</span>",
+            "audioID": "worn"
+        },
+        {
+            "id": "8",
+            "questionText": "<span>Please tell me </span><span class='blank-field'></span><span> I might find the fire station.</span>",
+            "audioID": "where"
+        },
+        {
+            "id": "9",
+            "questionText": "<span>A </span><span class='blank-field'></span><span> of hay fell from the back of the truck.</span>",
+            "audioID": "bale"
+        },
+        {
+            "id": "10",
+            "questionText": "<span>The Fire Marshal says there are </span><span class='blank-field'></span><span> many people in the theater.</span>",
+            "audioID": "too"
+        },
+        {
+            "id": "11",
+            "questionText": "<span>The group hiked up to the </span><span class='blank-field'></span><span> of the mountain.</span>",
+            "audioID": "peak"
+        },
+        {
+            "id": "12",
+            "questionText": "<span>He was able to fit the </span><span class='blank-field'></span><span> package under his coat.</span>",
+            "audioID": "whole"
+        },
+        {
+            "id": "13",
+            "questionText": "<span>First graders should be able to </span><span class='blank-field'></span><span> their names without help.</span>",
+            "audioID": "write"
+        },
+        {
+            "id": "14",
+            "questionText": "<span>The man drove home following the same </span><span class='blank-field'></span><span> every day.</span>",
+            "audioID": "route"
+        },
+        {
+            "id": "15",
+            "questionText": "<span>People should write down the </span><span class='blank-field'></span><span> number of any major appliances that they own.</span>",
+            "audioID": "serial"
+        },
+        {
+            "id": "16",
+            "questionText": "<span>The girl was wearing a dress made of a very </span><span class='blank-field'></span><span> fabric.</span>",
+            "audioID": "coarse"
+        },
+        {
+            "id": "17",
+            "questionText": "<span>A group of citizens wants to know if </span><span class='blank-field'></span><span> rights have been violated.</span>",
+            "audioID": "their"
+        },
+        {
+            "id": "18",
+            "questionText": "<span>The volunteers need </span><span class='blank-field'></span><span> to the barn to search for the missing body.</span>",
+            "audioID": "access"
+        },
+        {
+            "id": "19",
+            "questionText": "<span>The doctors indicate that the </span><span class='blank-field'></span><span> of cancer has increased in the past 25 years.</span>",
+            "audioID": "incidence"
+        },
+        {
+            "id": "20",
+            "questionText": "<span>John Jones and an unknown </span><span class='blank-field'></span><span> succeeded in playing a practical joke.</span>",
+            "audioID": "accomplice"
+        },
+        {
+            "id": "21",
+            "questionText": "<span>The teenager was arrested for carrying </span><span class='blank-field'></span><span> drugs.</span>",
+            "audioID": "illicit"
+        },
+        {
+            "id": "22",
+            "questionText": "<span>The boy spilled milk from the </span><span class='blank-field'></span><span> that was on the kitchen table.</span>",
+            "audioID": "pitcher"
+        },
+        {
+            "id": "23",
+            "questionText": "<span>The supervisor requests your </span><span class='blank-field'></span><span> at the meeting so you can give a talk. </span>",
+            "audioID": "presence"
+        },
+        {
+            "id": "24",
+            "questionText": "<span>The man was calling from the </span><span class = 'blank-field'> </span><span> of an accident.</span > ",
+            "audioID": "scene"
+        },
+        {
+            "id": "25",
+            "questionText": "<span>The woman said she does  not own the car, but that it is </span><span class='blank-field'></span><span>.</span>",
+            "audioID": "leased"
+        }
+    ],
+    "resources": {
+        "media": {
+            "images": [],
+            "audio": [{
+                    "id": "brakes",
+                    "url": "/content/audio-library/fib/opac/spelling/brakes.mp3"
+                },
+                {
+                    "id": "knows",
+                    "url": "/content/audio-library/fib/opac/spelling/knows.mp3"
+                },
+                {
+                    "id": "whether",
+                    "url": "/content/audio-library/fib/opac/spelling/whether.mp3"
+                },
+                {
+                    "id": "waste",
+                    "url": "/content/audio-library/fib/opac/spelling/waste.mp3"
+                },
+                {
+                    "id": "steal",
+                    "url": "/content/audio-library/fib/opac/spelling/steal.mp3"
+                },
+                {
+                    "id": "bored",
+                    "url": "/content/audio-library/fib/opac/spelling/bored.mp3"
+                },
+                {
+                    "id": "worn",
+                    "url": "/content/audio-library/fib/opac/spelling/worn.mp3"
+                },
+                {
+                    "id": "where",
+                    "url": "/content/audio-library/fib/opac/spelling/where.mp3"
+                },
+                {
+                    "id": "bale",
+                    "url": "/content/audio-library/fib/opac/spelling/bale.mp3"
+                },
+                {
+                    "id": "too",
+                    "url": "/content/audio-library/fib/opac/spelling/too.mp3"
+                },
+                {
+                    "id": "peak",
+                    "url": "/content/audio-library/fib/opac/spelling/peak.mp3"
+                },
+                {
+                    "id": "whole",
+                    "url": "/content/audio-library/fib/opac/spelling/whole.mp3"
+                },
+                {
+                    "id": "write",
+                    "url": "/content/audio-library/fib/opac/spelling/write.mp3"
+                },
+                {
+                    "id": "route",
+                    "url": "/content/audio-library/fib/opac/spelling/route.mp3"
+                },
+                {
+                    "id": "serial",
+                    "url": "/content/audio-library/fib/opac/spelling/serial.mp3"
+                },
+                {
+                    "id": "coarse",
+                    "url": "/content/audio-library/fib/opac/spelling/coarse.mp3"
+                },
+                {
+                    "id": "their",
+                    "url": "/content/audio-library/fib/opac/spelling/their.mp3"
+                },
+                {
+                    "id": "access",
+                    "url": "/content/audio-library/fib/opac/spelling/access.mp3"
+                },
+                {
+                    "id": "incidence",
+                    "url": "/content/audio-library/fib/opac/spelling/incidence.mp3"
+                },
+                {
+                    "id": "accomplice",
+                    "url": "/content/audio-library/fib/opac/spelling/accomplice.mp3"
+                },
+                {
+                    "id": "illicit",
+                    "url": "/content/audio-library/fib/opac/spelling/illicit.mp3"
+                },
+                {
+                    "id": "pitcher",
+                    "url": "/content/audio-library/fib/opac/spelling/pitcher.mp3"
+                },
+                {
+                    "id": "presence",
+                    "url": "/content/audio-library/fib/opac/spelling/presence.mp3"
+                },
+                {
+                    "id": "scene",
+                    "url": "/content/audio-library/fib/opac/spelling/scene.mp3"
+                },
+                {
+                    "id": "leased",
+                    "url": "/content/audio-library/fib/opac/spelling/leased.mp3"
+                }
+            ]
+        }
+    },
+    "modeType": "fib-single"
+}

@@ -1,0 +1,373 @@
+{
+    "assessmentName": "Basic Math",
+    "playerType": "FIB",
+    "id": "FIB",
+    "modeType": "fib-multi",
+    "templateType": "basic-math",
+    "instructions": " <span role=heading aria-level=3 > For this test, enter the correct response for each question in the appropriate field. Use the mouse and click to move to the next and previous fields. Use the scroll bar to scroll the form up and down if necessary.</span><br><br>When you are done, select Submit from the Header section. Your Test Administrator may have set a time limit for the test. If there is a time limit, you will be told how much time you have. You will also notice a countdown timer on the Header of the screen showing the time remaining.",
+    "questions": [{
+            "id": 1
+        },
+        {
+            "id": 2
+        },
+        {
+            "id": 3
+        },
+        {
+            "id": 4
+        },
+        {
+            "id": 5
+        },
+        {
+            "id": 6
+        },
+        {
+            "id": 7
+        },
+        {
+            "id": 8
+        },
+        {
+            "id": 9
+        },
+        {
+            "id": 10
+        },
+        {
+            "id": 11
+        },
+        {
+            "id": 12
+        },
+        {
+            "id": 13
+        },
+        {
+            "id": 14
+        },
+        {
+            "id": 15
+        },
+        {
+            "id": 16
+        },
+        {
+            "id": 17
+        },
+        {
+            "id": 18
+        },
+        {
+            "id": 19
+        },
+        {
+            "id": 20
+        },
+        {
+            "id": 21
+        },
+        {
+            "id": 22
+        },
+        {
+            "id": 23
+        },
+        {
+            "id": 24
+        },
+        {
+            "id": 25
+        },
+        {
+            "id": 26
+        },
+        {
+            "id": 27
+        },
+        {
+            "id": 28
+        },
+        {
+            "id": 29
+        },
+        {
+            "id": 30
+        },
+        {
+            "id": 31
+        },
+        {
+            "id": 32
+        }
+    ],
+    "questionData": {
+        "questionText": "Calculate answers to the following basic Math problems",
+        "preText": "$",
+        "equalSign": "=",
+        "questionTypes": [{
+                "type": "add",
+                "text": "Addition:",
+                "operator": "+",
+                "questions": [{
+                        "id": 1,
+                        "operands": [
+                            "$4,735.46",
+                            "$453.74",
+                            "$56.46"
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "operands": [
+                            "$5,943.79",
+                            "$719.09",
+                            "$64.91"
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "operands": [
+                            "$6,397.28",
+                            "$862.49",
+                            "$15.28"
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "operands": [
+                            "$8,671.97",
+                            "$664.62",
+                            "$19.24"
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "operands": [
+                            "$3,293.76",
+                            "$167.63",
+                            "$98.32"
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "operands": [
+                            "$2,491.25",
+                            "$259.79",
+                            "$10.35"
+                        ]
+                    },
+                    {
+                        "id": 7,
+                        "operands": [
+                            "$6,268.46",
+                            "$482.63",
+                            "$34.97"
+                        ]
+                    },
+                    {
+                        "id": 8,
+                        "operands": [
+                            "$9,517.29",
+                            "$492.51",
+                            "$4.36"
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "sub",
+                "text": "Subtraction:",
+                "operator": "-",
+                "questions": [{
+                        "id": 9,
+                        "operands": [
+                            "$6,249.35",
+                            "$3,187.63"
+                        ]
+                    },
+                    {
+                        "id": 10,
+                        "operands": [
+                            "$3,672.49",
+                            "$2,624.37"
+                        ]
+                    },
+                    {
+                        "id": 11,
+                        "operands": [
+                            "$9,067.63",
+                            "$4,963.40"
+                        ]
+                    },
+                    {
+                        "id": 12,
+                        "operands": [
+                            "$2,914.53",
+                            "$1,547.60"
+                        ]
+                    },
+                    {
+                        "id": 13,
+                        "operands": [
+                            "$6,278.29",
+                            "$4,969.45"
+                        ]
+                    },
+                    {
+                        "id": 14,
+                        "operands": [
+                            "$1,162.76",
+                            "$987.62"
+                        ]
+                    },
+                    {
+                        "id": 15,
+                        "operands": [
+                            "$3,827.48",
+                            "$3,561.73 "
+                        ]
+                    },
+                    {
+                        "id": 16,
+                        "operands": [
+                            "$4,587.62",
+                            "$3,279.34"
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "mul",
+                "text": "Multiplication:",
+                "operator": "x",
+                "questions": [{
+                        "id": 17,
+                        "operands": [
+                            "$648.34",
+                            "47"
+                        ]
+                    },
+                    {
+                        "id": 18,
+                        "operands": [
+                            "$493.83",
+                            "19"
+                        ]
+                    },
+                    {
+                        "id": 19,
+                        "operands": [
+                            "$328.97 ",
+                            "35"
+                        ]
+                    },
+                    {
+                        "id": 20,
+                        "operands": [
+                            "$931.76 ",
+                            "24"
+                        ]
+                    },
+                    {
+                        "id": 21,
+                        "operands": [
+                            "$297.15",
+                            "93"
+                        ]
+                    },
+                    {
+                        "id": 22,
+                        "operands": [
+                            "$892.38",
+                            "58"
+                        ]
+                    },
+                    {
+                        "id": 23,
+                        "operands": [
+                            "$198.42",
+                            "84"
+                        ]
+                    },
+                    {
+                        "id": 24,
+                        "operands": [
+                            "$763.55",
+                            "27"
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "div",
+                "text": "Division:",
+                "operator": "/",
+                "questions": [{
+                        "id": 25,
+                        "operands": [
+                            "$658.4",
+                            "32.92"
+                        ]
+                    },
+                    {
+                        "id": 26,
+                        "operands": [
+                            "$584.6",
+                            "15.8"
+                        ]
+                    },
+                    {
+                        "id": 27,
+                        "operands": [
+                            "$925.2",
+                            "23.13"
+                        ]
+                    },
+                    {
+                        "id": 28,
+                        "operands": [
+                            "$416 ",
+                            "6.5"
+                        ]
+                    },
+                    {
+                        "id": 29,
+                        "operands": [
+                            "$324.5",
+                            "11"
+                        ]
+                    },
+                    {
+                        "id": 30,
+                        "operands": [
+                            "$872.8",
+                            "64"
+                        ]
+                    },
+                    {
+                        "id": 31,
+                        "operands": [
+                            "$128.2",
+                            "16"
+                        ]
+                    },
+                    {
+                        "id": 32,
+                        "operands": [
+                            "$586.4",
+                            "25"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "resources": {
+        "media": {
+            "images": [],
+            "audio": []
+        }
+    }
+}

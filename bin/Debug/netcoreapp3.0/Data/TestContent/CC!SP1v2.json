@@ -1,0 +1,238 @@
+{
+    "assessmentName": "Spelling",
+    "playerType": "FIB",
+    "instruction": "<P role=heading aria-level=3>Spelling</P> <P>This section of the test contains fill-in-the-blank questions, which you must answer by typing a missing word in the box provided. Use your mouse to click on [Play Audio] to hear the missing word spoken in the sentence. Upon answering a question, you can go on to the next question by clicking the Next button on the toolbar.</P> <P>During this section of the test, if you choose you may skip an item and then later return to that item.</P><P> </P><P>After you have answered all questions, click Submit on the Header section. Your Test Administrator may have set a time limit for this test section. If there is a time limit, you will be told how much time you have. If a time limit has been set for this section of the test, you will notice a countdown timer on the Header of the screen, showing the amount of time remaining to complete this section of the test.</P> <P>We recommend that you go to the practice version of this section of the test to learn more about how you should respond to items during this section of the test.</P>",
+    "questions": [{
+            "id": "1",
+            "questionText": "<span>The </span><span class='blank-field'></span><span> service announced it is going to rain today.</span>",
+            "audioID": "weather"
+        },
+        {
+            "id": "2",
+            "questionText": "<span>The man wants to know if you are going to be </span><span class='blank-field'></span><span> tomorrow.</span>",
+            "audioID": "there"
+        },
+        {
+            "id": "3",
+            "questionText": "<span>The girl received many wonderful </span><span class='blank-field'></span><span> on her birthday.</span>",
+            "audioID": "presents"
+        },
+        {
+            "id": "4",
+            "questionText": "<span>The police department has reported several </span><span class='blank-field'></span><span> involving vandalism in the city park.</span>",
+            "audioID": "incidents"
+        },
+        {
+            "id": "5",
+            "questionText": "<span>There is a </span><span class='blank-field'></span><span> way and a wrong way to do things.</span>",
+            "audioID": "right"
+        },
+        {
+            "id": "6",
+            "questionText": "<span>The man cut a </span><span class='blank-field'></span><span> in his roof to put in a skylight.</span>",
+            "audioID": "hole"
+        },
+        {
+            "id": "7",
+            "questionText": "<span>The child ate a bowl of </span><span class='blank-field'></span><span> for breakfast.</span>",
+            "audioID": "cereal"
+        },
+        {
+            "id": "8",
+            "questionText": "<span>The man tied a piece of rope around his </span><span class='blank-field'></span><span> to keep his pants from falling down.</span>",
+            "audioID": "waist"
+        },
+        {
+            "id": "9",
+            "questionText": "<span>Fred does the </span><span class='blank-field'></span><span> amount of work possible so he does not strain himself.</span>",
+            "audioID": "least"
+        },
+        {
+            "id": "10",
+            "questionText": "<span>The woman was hit in the leg with a wooden </span><span class='blank-field'></span><span>.</span>",
+            "audioID": "board"
+        },
+        {
+            "id": "11",
+            "questionText": "<span>The door to the bank is made of solid </span><span class='blank-field'></span><span>.</span>",
+            "audioID": "steel"
+        },
+        {
+            "id": "12",
+            "questionText": "<span>Some people say that children should be </span><span class='blank-field'></span><span> and not heard.</span>",
+            "audioID": "seen"
+        },
+        {
+            "id": "13",
+            "questionText": "<span>The burglars took the valuable </span><span class='blank-field'></span><span> of a horse that was hanging on the living room wall.</span>",
+            "audioID": "picture"
+        },
+        {
+            "id": "14",
+            "questionText": "<span>The ambulance driver is going to </span><span class='blank-field'></span><span> her uniform to work today.</span>",
+            "audioID": "wear"
+        },
+        {
+            "id": "15",
+            "questionText": "<span>At the time of the accident the car was traveling in </span><span class='blank-field'></span><span> of 70 miles per hour.</span>",
+            "audioID": "excess"
+        },
+        {
+            "id": "16",
+            "questionText": "<span>Let us know if he </span><span class='blank-field'></span><span> any of the expensive glass statues.</span>",
+            "audioID": "breaks"
+        },
+        {
+            "id": "17",
+            "questionText": "<span>Parents should </span><span class='blank-field'></span><span> children to stay away from a hot stove.</span>",
+            "audioID": "warn"
+        },
+        {
+            "id": "18",
+            "questionText": "<span>We hope you will be able to </span><span class='blank-field'></span><span> all of your assignments.</span>",
+            "audioID": "accomplish"
+        },
+        {
+            "id": "19",
+            "questionText": "<span>There were only </span><span class='blank-field'></span><span> people left in the building after it closed for the night.</span>",
+            "audioID": "two"
+        },
+        {
+            "id": "20",
+            "questionText": "<span>The actors were trying to </span><span class='blank-field'></span><span> an emotional response from the audience.</span>",
+            "audioID": "elicit"
+        },
+        {
+            "id": "21",
+            "questionText": "<span>Some people say that money is the </span><span class='blank-field'></span><span> of all evil.</span>",
+            "audioID": "root"
+        },
+        {
+            "id": "22",
+            "questionText": "<span>The man was arrested and his </span><span class='blank-field'></span><span> was set in the amount of four thousand dollars.</span>",
+            "audioID": "bail"
+        },
+        {
+            "id": "23",
+            "questionText": "<span>The girl accidently hit the boy in the face and broke his </span><span class='blank-field'></span><span>.</span>",
+            "audioID": "nose"
+        },
+        {
+            "id": "24",
+            "questionText": "<span>The children attempted to </span><span class='blank-field'></span><span> behind the curtain to see how the magic trick was done.</span>",
+            "audioID": "peek"
+        },
+        {
+            "id": "25",
+            "questionText": "<span>The man had an enjoyable day while playing on the golf </span><span class='blank-field'></span><span>.</span>",
+            "audioID": "course"
+        }
+    ],
+    "resources": {
+        "media": {
+            "images": [],
+            "audio": [{
+                    "id": "weather",
+                    "url": "/content/audio-library/fib/opac/spelling/weather.mp3"
+                },
+                {
+                    "id": "there",
+                    "url": "/content/audio-library/fib/opac/spelling/there.mp3"
+                },
+                {
+                    "id": "presents",
+                    "url": "/content/audio-library/fib/opac/spelling/presents.mp3"
+                },
+                {
+                    "id": "incidents",
+                    "url": "/content/audio-library/fib/opac/spelling/incidents.mp3"
+                },
+                {
+                    "id": "right",
+                    "url": "/content/audio-library/fib/opac/spelling/right.mp3"
+                },
+                {
+                    "id": "hole",
+                    "url": "/content/audio-library/fib/opac/spelling/hole.mp3"
+                },
+                {
+                    "id": "cereal",
+                    "url": "/content/audio-library/fib/opac/spelling/cereal.mp3"
+                },
+                {
+                    "id": "waist",
+                    "url": "/content/audio-library/fib/opac/spelling/waist.mp3"
+                },
+                {
+                    "id": "least",
+                    "url": "/content/audio-library/fib/opac/spelling/least.mp3"
+                },
+                {
+                    "id": "board",
+                    "url": "/content/audio-library/fib/opac/spelling/board.mp3"
+                },
+                {
+                    "id": "steel",
+                    "url": "/content/audio-library/fib/opac/spelling/steel.mp3"
+                },
+                {
+                    "id": "seen",
+                    "url": "/content/audio-library/fib/opac/spelling/seen.mp3"
+                },
+                {
+                    "id": "picture",
+                    "url": "/content/audio-library/fib/opac/spelling/picture.mp3"
+                },
+                {
+                    "id": "wear",
+                    "url": "/content/audio-library/fib/opac/spelling/wear.mp3"
+                },
+                {
+                    "id": "excess",
+                    "url": "/content/audio-library/fib/opac/spelling/excess.mp3"
+                },
+                {
+                    "id": "breaks",
+                    "url": "/content/audio-library/fib/opac/spelling/breaks.mp3"
+                },
+                {
+                    "id": "warn",
+                    "url": "/content/audio-library/fib/opac/spelling/warn.mp3"
+                },
+                {
+                    "id": "accomplish",
+                    "url": "/content/audio-library/fib/opac/spelling/accomplish.mp3"
+                },
+                {
+                    "id": "two",
+                    "url": "/content/audio-library/fib/opac/spelling/two.mp3"
+                },
+                {
+                    "id": "elicit",
+                    "url": "/content/audio-library/fib/opac/spelling/elicit.mp3"
+                },
+                {
+                    "id": "root",
+                    "url": "/content/audio-library/fib/opac/spelling/root.mp3"
+                },
+                {
+                    "id": "bail",
+                    "url": "/content/audio-library/fib/opac/spelling/bail.mp3"
+                },
+                {
+                    "id": "nose",
+                    "url": "/content/audio-library/fib/opac/spelling/nose.mp3"
+                },
+                {
+                    "id": "peek",
+                    "url": "/content/audio-library/fib/opac/spelling/peek.mp3"
+                },
+                {
+                    "id": "course",
+                    "url": "/content/audio-library/fib/opac/spelling/course.mp3"
+                }
+            ]
+        }
+    },
+    "modeType": "fib-single"
+}

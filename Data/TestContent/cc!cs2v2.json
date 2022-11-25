@@ -1,0 +1,167 @@
+{
+  "assessmentName": "Call Summarization 1",
+  "playerType": "DataEntry",
+  "modeType": "call-summarization",
+  "tplType": "CS1",
+  "instructions": "<p role=heading aria-level=3 >Call Summarization 1</p><p>For this test, you will need to listen to information that is provided to you through the computer. We recommend using a headset or a set of quality speakers. You will then be asked a series of questions about each of the calls.</p><p>You should enter the information that the caller gives in the appropriate boxes on the computer screen. For example, you should enter the caller's first name, last name, street address, city, and/or telephone number in the boxes marked for that information. You should enter any vehicle identification number, License Plate, or Driver's License provided by the caller in the boxes marked for that information.</p><p>You may write notes about the calls in the box in the lower half of the screen labeled Notes to help you recall information about the call.</p><p>The information you record in any of the boxes on the screen will later be available to assist you in choosing the correct answer.</p><p>After each call is completed, follow the on-screen instructions to proceed to the questions about that call.</p><p>HOW TO RESPOND TO MULTIPLE-CHOICE QUESTION</p><p>With each question there will be four choices labeled A, B, C, and D. You can choose your response in one of three ways.</p><ol><li>You can use your mouse to select your answers</li><li>You can use the up and down arrows to choose your response.</li><li>You can hold down the Alt key and then press either A, B, C, or D.</li></ol>",
+  "disableEmergency": true,
+  "questions": [
+    {
+      "initAudioId": "CS221",
+      "mcqQuestions": [
+        {
+          "questionText": "Which of the following best summarizes the last record?",
+          "options": [
+            {
+              "text": "Samuel misses his sister."
+            },
+            {
+              "text": "Samuel should quit focusing on death."
+            },
+            {
+              "text": "Samuel visits his wife's grave."
+            },
+            {
+              "text": "Samuel is about to commit suicide."
+            }
+          ]
+        }
+      ],
+      "emergencyQuestions": [
+        {
+          "delay": 5,
+          "questionText": "Electrical power lines knocked down by storm."
+        }
+      ]
+    },
+    {
+      "initAudioId": "CS222",
+      "mcqQuestions": [
+        {
+          "questionText": "Which of the following best summarizes the last record?",
+          "options": [
+            {
+              "text": "Jim, Chip, Janine and the person telling this story all work closely together."
+            },
+            {
+              "text": "The person telling the story was showing off about how difficult his situation is."
+            },
+            {
+              "text": "Jim and the person telling the story are discussing office politics"
+            },
+            {
+              "text": "Janine and Chip are demanding bosses."
+            }
+          ]
+        }
+      ],
+      "emergencyQuestions": [
+        {
+          "delay": 5,
+          "questionText": "Man falls from top of house and breaks his back."
+        }
+      ]
+    },
+    {
+      "initAudioId": "CS223",
+      "mcqQuestions": [
+        {
+          "questionText": "Which of the following best summarizes the last record?",
+          "options": [
+            {
+              "text": "Jerry is saving Julie from her computer trouble."
+            },
+            {
+              "text": "Julie is frustrated with her computer, so she phoned Jerry for help."
+            },
+            {
+              "text": "Julie was seated at her computer and became angry because it was malfunctioning, so she telephoned Jerry, who works at the help desk, for help."
+            },
+            {
+              "text": "Julie should have traded in her computer a long time ago."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "initAudioId": "CS224",
+      "mcqQuestions": [
+        {
+          "questionText": "Which of the following best summarizes the last record?",
+          "options": [
+            {
+              "text": "Kellie likes people who smile at her more than those who don't."
+            },
+            {
+              "text": "Kellie is positive because she likes people and the appreciation they give her."
+            },
+            {
+              "text": "People naturally like Kellie because Kellie likes people."
+            },
+            {
+              "text": "Kellie enjoys interacting with people more than making the coffee and preparing the office."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "initAudioId": "CS225",
+      "mcqQuestions": [
+        {
+          "questionText": "Which of the following best summarizes the last record?",
+          "options": [
+            {
+              "text": "Annie is lucky."
+            },
+            {
+              "text": "Tim guessed about how much Annie paid and wanted to impress her that she got a good deal."
+            },
+            {
+              "text": "Because Annie guessed the high value of the pocket watch she offered more than $50."
+            },
+            {
+              "text": "Annie paid a small amount of money for a pocket watch that Tim valued much higher."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "media": {
+      "images": [],
+      "audio": [
+        {
+          "id": "CS221",
+          "url": "/content/audio-library/call-summarization/CS221.mp3"
+        },
+        {
+          "id": "CS222",
+          "url": "/content/audio-library/call-summarization/CS222.mp3"
+        },
+        {
+          "id": "CS223",
+          "url": "/content/audio-library/call-summarization/CS223.mp3"
+        },
+        {
+          "id": "CS224",
+          "url": "/content/audio-library/call-summarization/CS224.mp3"
+        },
+        {
+          "id": "CS225",
+          "url": "/content/audio-library/call-summarization/CS225.mp3"
+        }
+      ]
+    }
+  },
+  "captions" : {    
+    
+    "CS221":"WEBVTT\n\n1\n00:00:00.150 --> 00:00:02.210\nThis is a story about Samuel\nPerkin's\n\n2\n00:00:02.220 --> 00:00:04.160\nwho is a retired freight train\noperator.\n\n3\n00:00:04.590 --> 00:00:06.980\nHe lives four houses down from the\ntown's cemetery.\n\n4\n00:00:07.140 --> 00:00:09.080\nEvery morning he gets up at 5 a.m.,\n\n5\n00:00:09.300 --> 00:00:11.190\ndresses and takes a slow stroll to\nthe\n\n6\n00:00:11.191 --> 00:00:11.870\ncemetery.\n\n7\n00:00:12.870 --> 00:00:14.820\nOnce there he heads directly to\nvisit\n\n8\n00:00:14.821 --> 00:00:16.190\nthe grave of Ed Perkins.\n\n9\n00:00:16.710 --> 00:00:18.660\nTypically he brings a small red\nfolding\n\n10\n00:00:18.661 --> 00:00:19.670\nchair to sit upon.\n\n11\n00:00:19.950 --> 00:00:21.169\nTears fill his eyes\n\n12\n00:00:21.170 --> 00:00:22.860\nand he says things like soon I will\nbe\n\n13\n00:00:22.861 --> 00:00:24.900\nwith you again my love my marriage\nvow\n\n14\n00:00:24.901 --> 00:00:25.760\nwas everlasting.\n",
+    "CS222":"WEBVTT\n\n1\n00:00:00.120 --> 00:00:02.159\nYesterday I was complaining about\n\n2\n00:00:02.160 --> 00:00:04.259\noffice politics to my office mate\n\n3\n00:00:04.260 --> 00:00:06.510\nJim who wholeheartedly agreed\n\n4\n00:00:06.511 --> 00:00:08.340\nthat office politics could be a big\n\n5\n00:00:08.341 --> 00:00:09.140\nproblem.\n\n6\n00:00:09.630 --> 00:00:11.460\nI told Jim that I had told one of my\n\n7\n00:00:11.461 --> 00:00:13.650\nbosses Chipps that I was almost\n\n8\n00:00:13.651 --> 00:00:15.480\ndone with one project so I could get\n\n9\n00:00:15.481 --> 00:00:17.490\nmore time to work on the Johnson\nproject\n\n10\n00:00:17.491 --> 00:00:19.330\nfrom my other boss Jeneen.\n\n11\n00:00:20.100 --> 00:00:21.990\nI then had to tell Janene that I\n\n12\n00:00:21.991 --> 00:00:24.000\nwould help her paint her deck to put\n\n13\n00:00:24.001 --> 00:00:25.980\nher in a good mood so she would give\n\n14\n00:00:25.981 --> 00:00:27.700\nme time to work on Chipps project.\n",
+    "CS223":"WEBVTT\n\n1\n00:00:00.210 --> 00:00:02.250\nMy friend Julie was unsuccessfully\nattempting\n\n2\n00:00:02.251 --> 00:00:04.379\nto get her computer to form the\ncorrect\n\n3\n00:00:04.380 --> 00:00:06.080\nmathematical calculation\n\n4\n00:00:06.330 --> 00:00:08.009\nas Julie's anger intensified.\n\n5\n00:00:08.010 --> 00:00:09.980\nShe called the computer a piece of\njunk.\n\n6\n00:00:10.380 --> 00:00:12.480\nShe began to criticize herself for\nnot trading\n\n7\n00:00:12.481 --> 00:00:14.060\nher computer in a long time ago.\n\n8\n00:00:14.430 --> 00:00:16.230\nThen Julie angrily dialed the phone\n\n9\n00:00:16.231 --> 00:00:17.840\nand asked to speak to Jerry.\n\n10\n00:00:18.240 --> 00:00:20.210\nJerry You're my only hope she said.\n\n11\n00:00:20.550 --> 00:00:22.049\nJerry promised to quickly come\n\n12\n00:00:22.050 --> 00:00:23.670\nand try to fix Julie's computer.\n",
+    "CS224":"WEBVTT\n\n1\n00:00:00.120 --> 00:00:01.980\nKelly is a receptionist that\neveryone\n\n2\n00:00:01.981 --> 00:00:02.780\nlikes.\n\n3\n00:00:02.790 --> 00:00:04.650\nShe arrives at work early to make\nthe\n\n4\n00:00:04.651 --> 00:00:06.440\ncoffee and prepare the office.\n\n5\n00:00:06.750 --> 00:00:08.999\nHer primary responsibilities include\n\n6\n00:00:09.000 --> 00:00:10.619\nanswering the incoming calls\n\n7\n00:00:10.620 --> 00:00:12.050\nand greeting clients.\n\n8\n00:00:12.450 --> 00:00:14.460\nPeople often ask each other about\nhow\n\n9\n00:00:14.461 --> 00:00:16.320\nshe could remain so positive when\nshe\n\n10\n00:00:16.321 --> 00:00:18.150\nwas doing the same thing at work day\n\n11\n00:00:18.151 --> 00:00:19.040\nafter day.\n\n12\n00:00:19.500 --> 00:00:21.389\nWhen people asked Kelly about her\n\n13\n00:00:21.390 --> 00:00:23.520\nupbeat attitude she would always\n\n14\n00:00:23.521 --> 00:00:25.250\ntell them that she loved people.\n\n15\n00:00:25.560 --> 00:00:27.389\nShe said she thoroughly enjoyed\n\n16\n00:00:27.390 --> 00:00:29.039\ninteracting with them in person\n\n17\n00:00:29.040 --> 00:00:30.290\nor over the phone.\n\n18\n00:00:30.750 --> 00:00:32.580\nShe explained that it was the smiles\n\n19\n00:00:32.581 --> 00:00:34.559\nand sense of appreciation she\nreceived\n\n20\n00:00:34.560 --> 00:00:35.800\nthat made her so happy.\n",
+    "CS225":"WEBVTT\n\n1\n00:00:00.330 --> 00:00:02.630\nMy sisters friend Annie owns a\nsecondhand store.\n\n2\n00:00:02.760 --> 00:00:04.590\nOne day a man in tornned clothing\nappeared\n\n3\n00:00:04.591 --> 00:00:06.480\nand asked her how much she would pay\nto\n\n4\n00:00:06.481 --> 00:00:08.330\nbuy his grandfather's pocket watch.\n\n5\n00:00:08.700 --> 00:00:09.750\nAnd he looked at the watch\n\n6\n00:00:09.751 --> 00:00:11.180\nand offered him fifty dollars.\n\n7\n00:00:11.490 --> 00:00:13.820\nThe man looked at the floor took a\ndeep breath\n\n8\n00:00:13.950 --> 00:00:15.050\nand asked for one hundred.\n\n9\n00:00:15.690 --> 00:00:16.730\nAnd he refused\n\n10\n00:00:16.980 --> 00:00:18.900\nbut did increaser offered a sixty.\n\n11\n00:00:19.230 --> 00:00:20.609\nAgain the man took a deep breath\n\n12\n00:00:20.610 --> 00:00:22.859\nbut this time he accepted the offer\n\n13\n00:00:22.860 --> 00:00:24.950\nand pocketed the 60 dollars in cash.\n\n14\n00:00:25.290 --> 00:00:26.120\nA week later\n\n15\n00:00:26.270 --> 00:00:28.110\nand a jeweller friend Tim showed up\n\n16\n00:00:28.111 --> 00:00:30.230\nto visit and browse their display\ncases.\n\n17\n00:00:30.840 --> 00:00:32.549\nHe stopped to examine the pocket\nwatch\n\n18\n00:00:32.550 --> 00:00:34.370\nand asked Annie if she knew the\nvalue.\n\n19\n00:00:34.620 --> 00:00:35.810\nShe said she didn't.\n\n20\n00:00:35.820 --> 00:00:37.890\nTim told her that the pocket watch\nwas worth seven\n\n21\n00:00:37.891 --> 00:00:38.710\nthousand dollars.\n"
+  }
+}
